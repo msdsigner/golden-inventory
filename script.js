@@ -346,93 +346,148 @@ document.addEventListener('DOMContentLoaded', () => {
         return Object.values(selectionCart);
     }
 
+    // ✉️ Selection Inquiry (Email)
     emailCart.addEventListener('click', () => {
         const items = getSelectionArray();
         if(items.length === 0) return alert("Selection is empty.");
         
-        let body = "Hello Golden Opportunity Catalog,%0D%0A%0D%0AI am interested in the following items from the Live Inventory:%0D%0A%0D%0A";
+        let body = "Hello Golden Opportunity Catalog Team,\n\nI am interested in the following items from the Live Inventory:\n\n";
         items.forEach(i => {
             let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
-            body += `- ${i.quantity}x ${i.product.name} (Ref: ${i.product.id}) (Image: ${i.product.id}.png) @ $${i.product.price} each = $${total}%0D%0A`;
+            body += `- ${i.quantity}x ${i.product.name} (Ref: ${i.product.id}) @ $${i.product.price} each = Total: $${total}\n`;
         });
+        body += "\nPlease let me know if these items are available.\n\nThank you.";
         
-        window.location.href = `mailto:info@goldenopportunity.com?subject=Catalog Information Request&body=${body}`;
+        const subject = encodeURIComponent("Catalog Information Request");
+        const mailBody = encodeURIComponent(body);
+        
+        // This will trigger the user's default mail client (Outlook, Mail, or Browser handler)
+        window.location.href = `mailto:info@goldenopportunity.com?subject=${subject}&body=${mailBody}`;
     });
 
-    excelCart.addEventListener('click', () => {
+    // 📊 Save as Excel (.xlsx) using ExcelJS
+    excelCart.addEventListener('click', async () => {
         const items = getSelectionArray();
         if(items.length === 0) return alert("Selection is empty.");
+
+        excelCart.textContent = "Generating...";
         
-        let csvContent = "data:text/csv;charset=utf-8,Reference ID,Name,Local Image Name,Category,Unit Price,Quantity Selected,Total Price\n";
+        const workbook = new ExcelJS.Workbook();
+        const worksheet = workbook.addWorksheet('Selection');
+
+        // Define Columns
+        worksheet.columns = [
+            { header: 'Reference ID', key: 'id', width: 15 },
+            { header: 'Product Name', key: 'name', width: 40 },
+            { header: 'Category', key: 'category', width: 20 },
+            { header: 'Unit Price', key: 'price', width: 12 },
+            { header: 'Quantity', key: 'qty', width: 10 },
+            { header: 'Total Price', key: 'total', width: 15 }
+        ];
+
+        // Add Data Rows
         items.forEach(i => {
-            let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
-            // Escape names that might have commas
-            let escapedName = `"${i.product.name.replace(/"/g, '""')}"`;
-            let imgName = `${i.product.id}.png`;
-            csvContent += `${i.product.id},${escapedName},${imgName},${i.product.category},${i.product.price},${i.quantity},${total}\n`;
+            let total = parseFloat(i.product.price) * i.quantity;
+            worksheet.addRow({
+                id: i.product.id,
+                name: i.product.name,
+                category: i.product.category,
+                price: parseFloat(i.product.price),
+                qty: i.quantity,
+                total: total
+            });
         });
+
+        // Cell Styling
+        worksheet.getRow(1).font = { bold: true };
+        worksheet.getColumn('price').numFmt = '$#,##0.00';
+        worksheet.getColumn('total').numFmt = '$#,##0.00';
+
+        // NOTE: Embedding images in Excel from browser JS is extremely memory intensive 
+        // and requires fetching every image. To keep the tool fast, I have added 
+        // the Reference ID which corresponds to the image files.
+
+        const buffer = await workbook.xlsx.writeBuffer();
+        const blob = new Blob([buffer], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+        saveAs(blob, `Golden_Opportunity_Catalog_${new Date().getTime()}.xlsx`);
         
-        const encodedUri = encodeURI(csvContent);
-        const link = document.createElement("a");
-        link.setAttribute("href", encodedUri);
-        link.setAttribute("download", `Golden_Opportunity_Selection_${new Date().getTime()}.csv`);
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
+        excelCart.textContent = "📊 Save as Excel";
     });
 
+    // 📄 Save as PDF using HTML2PDF
     pdfCart.addEventListener('click', () => {
         const items = getSelectionArray();
         if(items.length === 0) return alert("Selection is empty.");
         
-        // Build a temporary HTML table for the PDF
+        // Build a high-quality temporary HTML table for the PDF
         const wrap = document.createElement('div');
-        wrap.style.padding = "20px";
-        wrap.style.backgroundColor = "white"; // ensure white background for PDF
+        wrap.style.padding = "40px";
+        wrap.style.backgroundColor = "white";
+        wrap.style.fontFamily = "'Inter', sans-serif";
+        
         wrap.innerHTML = `
-            <h2>Golden Opportunity Catalog - Selected Items</h2>
-            <p>Date: ${new Date().toLocaleDateString()}</p>
-            <hr><br>
+            <div style="display:flex; justify-content:space-between; align-items:center; border-bottom: 2px solid #EEE; padding-bottom: 20px; margin-bottom: 20px;">
+                <h2 style="margin:0; color:#1e3c72;">Golden Opportunity Catalog</h2>
+                <span style="color:#666;">Date: ${new Date().toLocaleDateString()}</span>
+            </div>
+            <h3 style="color:#333;">Selected Product Request</h3>
             <table style="width:100%; text-align:left; border-collapse:collapse; font-size:12px;">
-                <tr style="border-bottom:2px solid #000;">
-                    <th style="padding-bottom:5px;">Image</th>
-                    <th style="padding-bottom:5px;">Ref ID</th>
-                    <th style="padding-bottom:5px;">Name</th>
-                    <th style="padding-bottom:5px;">Qty</th>
-                    <th style="padding-bottom:5px;">Unit Price</th>
-                    <th style="padding-bottom:5px;">Total</th>
-                </tr>
-                ${items.map(i => {
-                    let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
-                    // Generate full image path relative to origin for html2canvas
-                    let imgSrc = i.product.image;
-                    if(imgSrc.startsWith('images/')) {
-                        imgSrc = window.location.origin + '/' + imgSrc; 
-                        // Note: html2canvas handles absolute URLs much better
-                    }
-                    
-                    return `
-                    <tr style="border-bottom:1px solid #ccc;">
-                        <td style="padding:10px 0;"><img src="${imgSrc}" style="width:60px; height:60px; object-fit:contain;" crossorigin="anonymous"></td>
-                        <td style="padding:10px 0;">${i.product.id}</td>
-                        <td style="padding:10px 0; max-width: 150px;">${i.product.name}</td>
-                        <td style="padding:10px 0; font-weight:bold;">${i.quantity}</td>
-                        <td style="padding:10px 0;">$${i.product.price}</td>
-                        <td style="padding:10px 0; font-weight:bold;">$${total}</td>
-                    </tr>`;
-                }).join('')}
+                <thead>
+                    <tr style="background-color: #f8f9fa;">
+                        <th style="padding:12px; border:1px solid #EEE;">Preview</th>
+                        <th style="padding:12px; border:1px solid #EEE;">Ref ID</th>
+                        <th style="padding:12px; border:1px solid #EEE;">Product Name</th>
+                        <th style="padding:12px; border:1px solid #EEE;">Qty</th>
+                        <th style="padding:12px; border:1px solid #EEE;">Unit Price</th>
+                        <th style="padding:12px; border:1px solid #EEE;">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    ${items.map(i => {
+                        let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
+                        // Ensure image URL is absolute for PDF generator
+                        let imgSrc = i.product.image;
+                        if(!imgSrc.startsWith('http')) {
+                            imgSrc = window.location.origin + window.location.pathname.replace('index.html', '') + imgSrc;
+                        }
+                        
+                        return `
+                        <tr>
+                            <td style="padding:10px; border:1px solid #EEE; text-align:center;">
+                                <img src="${imgSrc}" style="width:50px; height:50px; object-fit:contain;" crossorigin="anonymous">
+                            </td>
+                            <td style="padding:10px; border:1px solid #EEE;">${i.product.id}</td>
+                            <td style="padding:10px; border:1px solid #EEE; max-width: 200px;">${i.product.name}</td>
+                            <td style="padding:10px; border:1px solid #EEE; font-weight:bold;">${i.quantity}</td>
+                            <td style="padding:10px; border:1px solid #EEE;">$${parseFloat(i.product.price).toFixed(2)}</td>
+                            <td style="padding:10px; border:1px solid #EEE; font-weight:bold;">$${total}</td>
+                        </tr>`;
+                    }).join('')}
+                </tbody>
             </table>
+            <div style="margin-top:30px; border-top: 1px solid #EEE; padding-top: 20px; text-align:right;">
+                <p style="font-size:14px; color:#666;">Generated via Golden Opportunity Online Catalog</p>
+            </div>
         `;
         
-        // Hide UI while generating
         pdfCart.textContent = "Generating...";
-        html2pdf().from(wrap).set({
+        
+        // Configure PDF options
+        const opt = {
             margin: 10,
-            filename: `Golden_Opportunity_Quote_${new Date().getTime()}.pdf`,
+            filename: `Catalog_Quote_${new Date().getTime()}.pdf`,
             image: { type: 'jpeg', quality: 0.98 },
-            html2canvas: { scale: 2, useCORS: true, allowTaint: true },
+            html2canvas: { 
+                scale: 2, 
+                useCORS: true, 
+                allowTaint: false,
+                letterRendering: true
+            },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-        }).save().then(() => {
+        };
+
+        // Run html2pdf
+        html2pdf().from(wrap).set(opt).save().then(() => {
             pdfCart.textContent = "📄 Save as PDF";
         });
     });
