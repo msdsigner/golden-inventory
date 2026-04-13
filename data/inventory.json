@@ -1,8 +1,8 @@
 {
     "last_updated": "April 14, 2026",
     "downloads": {
-        "pdf": "",
-        "excel": ""
+        "pdf": "data/Inventory_Latest.pdf",
+        "excel": "data/Inventory_Latest.xlsx"
     },
     "items": [
         {
