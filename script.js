@@ -480,14 +480,13 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add Grand Total Row to Excel
         const grandTotal = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
         const totalRow = worksheet.addRow({
-            category: 'GRAND TOTAL:',
             total: grandTotal
         });
-        totalRow.font = { bold: true };
-        totalRow.height = 30;
-        totalRow.eachCell((cell) => {
+        totalRow.height = 35;
+        
+        // Style all cells in totalRow first
+        totalRow.eachCell({ includeEmpty: true }, (cell) => {
             cell.border = borderStyle;
-            cell.alignment = { vertical: 'middle', horizontal: 'center' };
             cell.fill = {
                 type: 'pattern',
                 pattern: 'solid',
@@ -495,9 +494,18 @@ document.addEventListener('DOMContentLoaded', () => {
             };
         });
 
-        // Specific styling for the actual Total Value cell
+        // Merge Columns A through F for the label
+        worksheet.mergeCells(`A${totalRow.number}:F${totalRow.number}`);
+        const summaryLabelCell = worksheet.getCell(`A${totalRow.number}`);
+        summaryLabelCell.value = 'SELECTION GRAND TOTAL:';
+        summaryLabelCell.font = { bold: true, size: 12 };
+        summaryLabelCell.alignment = { horizontal: 'right', vertical: 'middle' };
+
+        // Style the Value Cell (G)
         const totalValueCell = worksheet.getCell(`G${totalRow.number}`);
-        totalValueCell.font = { bold: true, color: { argb: 'FF1E3C72' } };
+        totalValueCell.font = { bold: true, size: 12, color: { argb: 'FF1E3C72' } };
+        totalValueCell.alignment = { horizontal: 'center', vertical: 'middle' };
+        totalValueCell.numFmt = '$#,##0.00';
         totalValueCell.fill = {
             type: 'pattern',
             pattern: 'solid',
@@ -604,8 +612,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const pdfSum = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
         const totalTr = document.createElement('tr');
         totalTr.innerHTML = `
-            <td colspan="6" style="${cellStyle} text-align:right; font-weight:bold; font-size:12px; background:#f1f5f9;">GRAND TOTAL:</td>
-            <td style="${cellStyle} font-weight:bold; font-size:12px; color:#1e3c72; text-align:center; background:#e2e8f0;">$${pdfSum.toFixed(2)}</td>
+            <td colspan="6" style="${cellStyle} text-align:right; font-weight:bold; font-size:14px; background:#f1f5f9; text-transform:uppercase;">Selection Grand Total:</td>
+            <td style="${cellStyle} font-weight:bold; font-size:14px; color:#1e3c72; text-align:center; background:#e2e8f0; border: 2px solid #1e3c72;">$${pdfSum.toFixed(2)}</td>
         `;
         tbody.appendChild(totalTr);
 
