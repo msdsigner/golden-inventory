@@ -365,12 +365,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ✉️ Selection Inquiry (Email Choice)
     const generateEmailBody = () => {
+        const baseUrl = window.location.origin + window.location.pathname.replace('index.html', '');
         let body = "Hello Golden Opportunity Catalog Team,\n\nI am interested in the following items from the Live Inventory:\n\n";
+        
         getSelectionArray().forEach(i => {
             let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
-            body += `- ${i.quantity}x ${i.product.name} (Ref: ${i.product.id}) @ $${i.product.price} each = Total: $${total}\n`;
+            let imgSrc = i.product.image;
+            if(!imgSrc.startsWith('http')) {
+                imgSrc = baseUrl + imgSrc;
+            }
+            
+            body += `- ${i.quantity}x ${i.product.name} (Ref: ${i.product.id})\n`;
+            body += `  Price: $${i.product.price} | Total: $${total}\n`;
+            body += `  Inquiry URL: ${imgSrc}\n\n`;
         });
-        body += "\nPlease let me know if these items are available.\n\nThank you.";
+        
+        body += "Please let me know if these items are available.\n\nThank you.";
         return body;
     };
 
