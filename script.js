@@ -386,6 +386,74 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const emailCartDefault = document.getElementById('emailCartDefault');
     const emailCartGmail = document.getElementById('emailCartGmail');
+    const copyCartBtn = document.getElementById('copyCart');
+
+    // 📋 Copy Rich Table to Clipboard
+    copyCartBtn?.addEventListener('click', async () => {
+        const items = getSelectionArray();
+        if(items.length === 0) return alert("Selection is empty.");
+        
+        const originalText = copyCartBtn.textContent;
+        copyCartBtn.textContent = "⌛ Generating...";
+
+        const baseUrl = window.location.origin + window.location.pathname.replace('index.html', '');
+        
+        let html = `
+            <table style="border-collapse:collapse; width:100%; font-family: sans-serif; border: 1px solid #ddd;">
+                <thead>
+                    <tr style="background:#1e3c72; color:white;">
+                        <th style="padding:10px; border:1px solid #ddd;">Preview</th>
+                        <th style="padding:10px; border:1px solid #ddd;">Ref ID</th>
+                        <th style="padding:10px; border:1px solid #ddd;">Product Name</th>
+                        <th style="padding:10px; border:1px solid #ddd;">Qty</th>
+                        <th style="padding:10px; border:1px solid #ddd;">Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+        `;
+
+        let grandSum = 0;
+        items.forEach(i => {
+            let total = parseFloat(i.product.price) * i.quantity;
+            grandSum += total;
+            let imgSrc = i.product.image;
+            if(!imgSrc.startsWith('http')) imgSrc = baseUrl + imgSrc;
+            
+            html += `
+                <tr>
+                    <td style="padding:10px; border:1px solid #ddd; text-align:center;">
+                        <img src="${imgSrc}" width="60" style="max-width:60px;">
+                    </td>
+                    <td style="padding:10px; border:1px solid #ddd;">${i.product.id}</td>
+                    <td style="padding:10px; border:1px solid #ddd;">${i.product.name}</td>
+                    <td style="padding:10px; border:1px solid #ddd; text-align:center;">${i.quantity}</td>
+                    <td style="padding:10px; border:1px solid #ddd; text-align:center;">$${total.toFixed(2)}</td>
+                </tr>
+            `;
+        });
+
+        html += `
+                <tr style="background:#f1f5f9; font-weight:bold;">
+                    <td colspan="4" style="padding:10px; border:1px solid #ddd; text-align:right;">GRAND TOTAL:</td>
+                    <td style="padding:10px; border:1px solid #ddd; text-align:center; color:#1e3c72;">$${grandSum.toFixed(2)}</td>
+                </tr>
+            </tbody>
+            </table>
+            <p style="font-size:12px; color:#666; margin-top:10px;">Generated from Golden Opportunity Catalog</p>
+        `;
+
+        try {
+            const blob = new Blob([html], { type: 'text/html' });
+            const data = [new ClipboardItem({ 'text/html': blob, 'text/plain': new Blob([html.replace(/<[^>]*>/g, '')], { type: 'text/plain' }) })];
+            await navigator.clipboard.write(data);
+            copyCartBtn.textContent = "✅ Table Copied!";
+            setTimeout(() => copyCartBtn.textContent = originalText, 2500);
+        } catch (err) {
+            console.error(err);
+            alert("Clipboard Error. Try again in Chrome/Edge.");
+            copyCartBtn.textContent = originalText;
+        }
+    });
 
     emailCartDefault?.addEventListener('click', () => {
         const body = generateEmailBody();
