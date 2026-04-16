@@ -289,9 +289,18 @@ document.addEventListener('DOMContentLoaded', () => {
     cartOverlay.addEventListener('click', toggleCart);
 
     function addToSelection(item, btnElement) {
+        if (item.available <= 0) {
+            alert(`Sorry, "${item.name}" is out of stock.`);
+            return;
+        }
+
         if (!selectionCart[item.id]) {
             selectionCart[item.id] = { product: item, quantity: 1 };
         } else {
+            if (selectionCart[item.id].quantity >= item.available) {
+                alert(`You cannot add more than the available quantity (${item.available}) for "${item.name}".`);
+                return;
+            }
             selectionCart[item.id].quantity += 1;
         }
         updateCartUI();
