@@ -713,17 +713,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
         pdfCart.textContent = "Rendering...";
         
-        wrap.style.width = '700px'; 
+        wrap.style.width = '1200px'; 
         
         const opt = {
-            margin: [1, 1, 1, 1], // Super narrow 1mm margins
+            margin: 10, // 10mm margins for perfect centering
             filename: `Catalog_Quote_${new Date().getTime()}.pdf`,
             image: { type: 'jpeg', quality: 0.98 },
             html2canvas: { 
                 scale: 2, 
                 useCORS: true, 
                 allowTaint: false, 
-                windowWidth: 700,
+                windowWidth: 1200,
                 x: 0,
                 y: 0,
                 scrollX: 0,
