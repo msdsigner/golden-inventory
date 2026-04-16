@@ -719,16 +719,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
         pdfCart.textContent = "Rendering...";
         
+        wrap.style.position = 'absolute';
+        wrap.style.left = '-9999px';
+        wrap.style.top = '0';
+        wrap.style.width = '800px'; 
+        document.body.appendChild(wrap);
+
         const opt = {
-            margin: 10,
+            margin: [5, 5, 5, 5], // Narrow margins
             filename: `Catalog_Quote_${new Date().getTime()}.pdf`,
             image: { type: 'jpeg', quality: 0.98 },
-            html2canvas: { scale: 2, useCORS: true, allowTaint: false },
+            html2canvas: { scale: 2, useCORS: true, allowTaint: false, windowWidth: 800 },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
         };
 
         html2pdf().from(wrap).set(opt).save().then(() => {
             pdfCart.textContent = "📄 Save as PDF";
+            if (document.body.contains(wrap)) {
+                document.body.removeChild(wrap);
+            }
         });
     });
 
