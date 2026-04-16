@@ -698,10 +698,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         pdfCart.textContent = "Rendering...";
         
-        wrap.style.position = 'absolute';
-        wrap.style.left = '-9999px';
+        wrap.style.position = 'fixed';
+        wrap.style.left = '0';
         wrap.style.top = '0';
         wrap.style.width = '800px'; 
+        wrap.style.zIndex = '-9999';
+        wrap.style.opacity = '0';
+        wrap.style.pointerEvents = 'none';
         document.body.appendChild(wrap);
 
         const opt = {
