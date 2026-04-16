@@ -714,13 +714,21 @@ document.addEventListener('DOMContentLoaded', () => {
         pdfCart.textContent = "Rendering...";
         
         wrap.style.width = '800px'; 
-        // DO NOT append to DOM - let html2pdf handle the cloned node directly in memory to avoid screen culling issues.
         
         const opt = {
-            margin: [5, 5, 5, 5], // Narrow margins
+            margin: [5, 5, 5, 5], 
             filename: `Catalog_Quote_${new Date().getTime()}.pdf`,
             image: { type: 'jpeg', quality: 0.98 },
-            html2canvas: { scale: 2, useCORS: true, allowTaint: false, windowWidth: 800 },
+            html2canvas: { 
+                scale: 2, 
+                useCORS: true, 
+                allowTaint: false, 
+                windowWidth: 800,
+                x: 0,
+                y: 0,
+                scrollX: 0,
+                scrollY: 0
+            },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
         };
 
