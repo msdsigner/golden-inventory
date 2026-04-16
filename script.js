@@ -702,7 +702,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     3: { cellWidth: 28 },
                     4: { cellWidth: 15, fontStyle: 'bold' },
                     5: { cellWidth: 20 },
-                    6: { cellWidth: 20, fontStyle: 'bold' }
+                    6: { cellWidth: 25, fontStyle: 'bold' }
                 },
                 didDrawCell: (data) => {
                     // Inject Images over placeholders
@@ -732,11 +732,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     ["SELECTION GRAND TOTAL:", "$" + pdfSum.toFixed(2)]
                 ],
                 theme: 'grid',
-                styles: { fontSize: 11, fontStyle: 'bold', halign: 'right', cellPadding: 5 },
+                styles: { fontSize: 9, fontStyle: 'bold', halign: 'right', cellPadding: 5 },
                 margin: { left: 14, right: 14 },
                 columnStyles: {
                     0: { fillColor: [241, 245, 249] },
-                    1: { cellWidth: 20, halign: 'center', textColor: [30, 60, 114], fillColor: [226, 232, 240] }
+                    1: { cellWidth: 25, halign: 'center', textColor: [30, 60, 114], fillColor: [226, 232, 240] }
                 }
             });
             
