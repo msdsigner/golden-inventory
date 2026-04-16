@@ -698,13 +698,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         pdfCart.textContent = "Rendering...";
         
-        wrap.style.position = 'fixed';
+        wrap.style.position = 'absolute';
         wrap.style.left = '0';
         wrap.style.top = '0';
         wrap.style.width = '800px'; 
         wrap.style.zIndex = '-9999';
-        wrap.style.opacity = '0';
-        wrap.style.pointerEvents = 'none';
+        // Removed opacity: 0 since it breaks html2canvas
         document.body.appendChild(wrap);
 
         const opt = {
