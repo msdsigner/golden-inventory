@@ -725,14 +725,15 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // Grand Total Footer Section
             const pdfSum = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
+            const formattedTotal = pdfSum.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
             
             doc.autoTable({
                 startY: doc.lastAutoTable.finalY + 0, // Immediately below
                 body: [
-                    ["SELECTION GRAND TOTAL:", "$" + pdfSum.toFixed(2)]
+                    ["SELECTION GRAND TOTAL:", "$" + formattedTotal]
                 ],
                 theme: 'grid',
-                styles: { fontSize: 9, fontStyle: 'bold', halign: 'right', cellPadding: 5 },
+                styles: { fontSize: 9, fontStyle: 'bold', halign: 'right', cellPadding: 3 },
                 margin: { left: 14, right: 14 },
                 columnStyles: {
                     0: { fillColor: [241, 245, 249] },
