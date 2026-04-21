@@ -1,8 +1,8 @@
 {
     "last_updated": "April 22, 2026",
     "downloads": {
-        "pdf": "data/Inventory_Latest.pdf",
-        "excel": "data/Inventory_Latest.xlsx"
+        "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
+        "excel": "https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn"
     },
     "items": [
         {
@@ -244,6 +244,26 @@
             "price": "50.00",
             "available": 4,
             "image": "images/BCC20W.png"
+        },
+        {
+            "id": "BD60026",
+            "name": "Black & Decker 8 Bottle Wine Cellar",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Beverage Centers",
+            "price": "50.00",
+            "available": 1,
+            "image": "images/BD60026.png"
+        },
+        {
+            "id": "BD60316",
+            "name": "Black & Decker 6 Bottle Wine Cellar",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Beverage Centers",
+            "price": "50.00",
+            "available": 1,
+            "image": "images/BD60316.png"
         },
         {
             "id": "CK-CB14GRN",
@@ -1806,16 +1826,6 @@
             "image": "images/WPF4-1008-WHT.png"
         },
         {
-            "id": "RVDR5034N1",
-            "name": "Revlon 1875-Watt Hair Dryer",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "18.00",
-            "available": 47,
-            "image": "images/RVDR5034N1.png"
-        },
-        {
             "id": "50HPBT500G",
             "name": "Fisher MIXX PRO Wireless Headphones, Gold",
             "category": "Headphones & Earphones",
@@ -2836,6 +2846,36 @@
             "image": "images/1949.png"
         },
         {
+            "id": "AR-136",
+            "name": "BRENTWOOD Arepa Maker-6 Slice",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "33.00",
+            "available": 3,
+            "image": "images/AR-136.png"
+        },
+        {
+            "id": "BC-2958CR",
+            "name": "Betty Crocker Pizza Maker - Red",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "33.60",
+            "available": 2,
+            "image": "images/BC-2958CR.png"
+        },
+        {
+            "id": "BDG-2200",
+            "name": "BRENTWOOD 10.9\" Non-Stick Griddle Pan",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "25.00",
+            "available": 4,
+            "image": "images/BDG-2200.png"
+        },
+        {
             "id": "BDK400B",
             "name": "Black & Decker Large Turkey Roasting Pan with Rack",
             "category": "Heating & Cooking",
@@ -2866,6 +2906,36 @@
             "image": "images/BPS-309C.png"
         },
         {
+            "id": "CE23839",
+            "name": "Continental Sandwich Maker 2 Slice Non Stick-Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "17.00",
+            "available": 7,
+            "image": "images/CE23839.png"
+        },
+        {
+            "id": "CHPM12R",
+            "name": "Commercial Chef 12 Inch Pizza + Meat Food Maker",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "29.00",
+            "available": 1,
+            "image": "images/CHPM12R.png"
+        },
+        {
+            "id": "CP43279",
+            "name": "Continental 5.0 Liter Deep Fryer & Multi Cooker",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "49.00",
+            "available": 6,
+            "image": "images/CP43279.png"
+        },
+        {
             "id": "DMO01001",
             "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
             "category": "Heating & Cooking",
@@ -2886,6 +2956,26 @@
             "image": "images/DMO01003.png"
         },
         {
+            "id": "ED-302",
+            "name": "Cookinex Arepa Maker w/ Non-Stick Coating",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "20.00",
+            "available": 64,
+            "image": "images/ED-302.png"
+        },
+        {
+            "id": "ED-302-BUR",
+            "name": "Cookinex Arepa Maker w/ Non-Stick Coating, Burgund",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "20.00",
+            "available": 4,
+            "image": "images/ED-302-BUR.png"
+        },
+        {
             "id": "ED-587BK",
             "name": "Hercules Electric Double Burner, Black",
             "category": "Heating & Cooking",
@@ -2904,6 +2994,26 @@
             "price": "20.00",
             "available": 30,
             "image": "images/ED-587W.png"
+        },
+        {
+            "id": "EM131A5C-BS",
+            "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "140.00",
+            "available": 2,
+            "image": "images/EM131A5C-BS.png"
+        },
+        {
+            "id": "IM-297R",
+            "name": "Better Chef Waffle Maker, Red",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "14.00",
+            "available": 33,
+            "image": "images/IM-297R.png"
         },
         {
             "id": "IM-306DB",
@@ -3086,186 +3196,6 @@
             "image": "images/SM-STV-2686.png"
         },
         {
-            "id": "TS-15",
-            "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "32.00",
-            "available": 25,
-            "image": "images/TS-15.png"
-        },
-        {
-            "id": "TS-180S",
-            "name": "BRENTWOOD 8 CUP - 1.5 L Rice Cooker with Steamer, White",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "32.00",
-            "available": 22,
-            "image": "images/TS-180S.png"
-        },
-        {
-            "id": "TS-337",
-            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 43,
-            "image": "images/TS-337.png"
-        },
-        {
-            "id": "TS-361BK",
-            "name": "BRENTWOOD Electric Double Burner, Blk",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 39,
-            "image": "images/TS-361BK.png"
-        },
-        {
-            "id": "TS-361W",
-            "name": "BRENTWOOD Electric Double Burner, Wht",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 73,
-            "image": "images/TS-361W.png"
-        },
-        {
-            "id": "TS-380S",
-            "name": "BRENTWOOD 10 CUP - 1.8 L RICE COOKER W STEAMER WHI",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "38.00",
-            "available": 24,
-            "image": "images/TS-380S.png"
-        },
-        {
-            "id": "TS-480S",
-            "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "43.00",
-            "available": 1,
-            "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 1,
-            "image": "images/TS-700S.png"
-        },
-        {
-            "id": "AR-136",
-            "name": "BRENTWOOD Arepa Maker-6 Slice",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "33.00",
-            "available": 3,
-            "image": "images/AR-136.png"
-        },
-        {
-            "id": "BC-2958CR",
-            "name": "Betty Crocker Pizza Maker - Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "33.60",
-            "available": 2,
-            "image": "images/BC-2958CR.png"
-        },
-        {
-            "id": "BDG-2200",
-            "name": "BRENTWOOD 10.9\" Non-Stick Griddle Pan",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "25.00",
-            "available": 4,
-            "image": "images/BDG-2200.png"
-        },
-        {
-            "id": "CE23839",
-            "name": "Continental Sandwich Maker 2 Slice Non Stick-Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "17.00",
-            "available": 7,
-            "image": "images/CE23839.png"
-        },
-        {
-            "id": "CHPM12R",
-            "name": "Commercial Chef 12 Inch Pizza + Meat Food Maker",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "29.00",
-            "available": 1,
-            "image": "images/CHPM12R.png"
-        },
-        {
-            "id": "CP43279",
-            "name": "Continental 5.0 Liter Deep Fryer & Multi Cooker",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "49.00",
-            "available": 6,
-            "image": "images/CP43279.png"
-        },
-        {
-            "id": "ED-302",
-            "name": "Cookinex Arepa Maker w/ Non-Stick Coating",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "20.00",
-            "available": 64,
-            "image": "images/ED-302.png"
-        },
-        {
-            "id": "ED-302-BUR",
-            "name": "Cookinex Arepa Maker w/ Non-Stick Coating, Burgund",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "20.00",
-            "available": 4,
-            "image": "images/ED-302-BUR.png"
-        },
-        {
-            "id": "EM131A5C-BS",
-            "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "140.00",
-            "available": 2,
-            "image": "images/EM131A5C-BS.png"
-        },
-        {
-            "id": "IM-297R",
-            "name": "Better Chef Waffle Maker, Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "14.00",
-            "available": 33,
-            "image": "images/IM-297R.png"
-        },
-        {
             "id": "TS-124R",
             "name": "Brentwood 12\" Non-Stick Pizza Maker and Grill with Timer, Red",
             "category": "Heating & Cooking",
@@ -3284,6 +3214,26 @@
             "price": "42.00",
             "available": 4,
             "image": "images/TS-127.png"
+        },
+        {
+            "id": "TS-15",
+            "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "32.00",
+            "available": 25,
+            "image": "images/TS-15.png"
+        },
+        {
+            "id": "TS-180S",
+            "name": "BRENTWOOD 8 CUP - 1.5 L Rice Cooker with Steamer, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "32.00",
+            "available": 22,
+            "image": "images/TS-180S.png"
         },
         {
             "id": "TS-231S",
@@ -3346,6 +3296,36 @@
             "image": "images/TS-246.png"
         },
         {
+            "id": "TS-337",
+            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "25.00",
+            "available": 43,
+            "image": "images/TS-337.png"
+        },
+        {
+            "id": "TS-361BK",
+            "name": "BRENTWOOD Electric Double Burner, Blk",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "25.00",
+            "available": 39,
+            "image": "images/TS-361BK.png"
+        },
+        {
+            "id": "TS-361W",
+            "name": "BRENTWOOD Electric Double Burner, Wht",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "25.00",
+            "available": 73,
+            "image": "images/TS-361W.png"
+        },
+        {
             "id": "TS-372",
             "name": "BRENTWOOD 1440W Double Electric Hotplate Chromed",
             "category": "Heating & Cooking",
@@ -3356,6 +3336,26 @@
             "image": "images/TS-372.png"
         },
         {
+            "id": "TS-380S",
+            "name": "BRENTWOOD 10 CUP - 1.8 L RICE COOKER W STEAMER WHI",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "38.00",
+            "available": 24,
+            "image": "images/TS-380S.png"
+        },
+        {
+            "id": "TS-480S",
+            "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "43.00",
+            "available": 1,
+            "image": "images/TS-480S.png"
+        },
+        {
             "id": "TS-643BK",
             "name": "BRENTWOOD 1200W Electric Smokeless Indoor Grill with Ceramic Non-Stick Surface, Black",
             "category": "Heating & Cooking",
@@ -3364,6 +3364,16 @@
             "price": "40.00",
             "available": 17,
             "image": "images/TS-643BK.png"
+        },
+        {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "25.00",
+            "available": 1,
+            "image": "images/TS-700S.png"
         },
         {
             "id": "TS-810",
@@ -4046,16 +4056,6 @@
             "image": "images/SM-720-5000.png"
         },
         {
-            "id": "BCD6W",
-            "name": "Black & Decker Compact Countertop Dishwasher",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Other Appliances",
-            "price": "100.00",
-            "available": 1,
-            "image": "images/BCD6W.png"
-        },
-        {
             "id": "M-310",
             "name": "QFX Wireless Dynamic Pro Mic",
             "category": "Microphones",
@@ -4234,6 +4234,16 @@
             "price": "24.00",
             "available": 2,
             "image": "images/NAM-984-BLK.png"
+        },
+        {
+            "id": "BCD6W",
+            "name": "Black & Decker Compact Countertop Dishwasher",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Other Appliances",
+            "price": "100.00",
+            "available": 1,
+            "image": "images/BCD6W.png"
         },
         {
             "id": "3043",
@@ -4514,6 +4524,16 @@
             "price": "9.00",
             "available": 476,
             "image": "images/NV-09586.png"
+        },
+        {
+            "id": "RVDR5034N1",
+            "name": "Revlon 1875-Watt Hair Dryer",
+            "category": "Personal Care",
+            "parent_category": "Health and Personal Care",
+            "sub_category": "Personal Care",
+            "price": "18.00",
+            "available": 47,
+            "image": "images/RVDR5034N1.png"
         },
         {
             "id": "VRD928982395",
@@ -6734,26 +6754,6 @@
             "price": "289.00",
             "available": 3,
             "image": "images/LW1017ERSM1.png"
-        },
-        {
-            "id": "BD60026",
-            "name": "Black & Decker 8 Bottle Wine Cellar",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Beverage Centers",
-            "price": "50.00",
-            "available": 1,
-            "image": "images/BD60026.png"
-        },
-        {
-            "id": "BD60316",
-            "name": "Black & Decker 6 Bottle Wine Cellar",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Beverage Centers",
-            "price": "50.00",
-            "available": 1,
-            "image": "images/BD60316.png"
         }
     ]
 }
