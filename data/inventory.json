@@ -823,7 +823,7 @@
             "sub_category": "Boombox",
             "price": "18.00",
             "available": 111,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250BX390K.png"
         },
         {
             "id": "250BX496K",
@@ -833,7 +833,7 @@
             "sub_category": "Boombox",
             "price": "11.00",
             "available": 199,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250BX496K.png"
         },
         {
             "id": "FBX390K",
@@ -1733,7 +1733,7 @@
             "sub_category": "Fans",
             "price": "8.00",
             "available": 376,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250F400W.png"
         },
         {
             "id": "BCF5211",
@@ -2003,7 +2003,7 @@
             "sub_category": "Headphones & Earphones",
             "price": "10.00",
             "available": 294,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250HPBT546R.png"
         },
         {
             "id": "50HPBT500G",
@@ -2223,7 +2223,7 @@
             "sub_category": "Headphones & Earphones",
             "price": "14.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FBHP660K.png"
         },
         {
             "id": "FEP910K",
@@ -2433,7 +2433,7 @@
             "sub_category": "Headphones & Earphones",
             "price": "7.50",
             "available": 160,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPBT195K.png"
         },
         {
             "id": "HPM540K",
@@ -4913,7 +4913,7 @@
             "sub_category": "Power Bank",
             "price": "12.00",
             "available": 114,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FWPB515K.png"
         },
         {
             "id": "FWPB515W",
@@ -4923,7 +4923,7 @@
             "sub_category": "Power Bank",
             "price": "12.00",
             "available": 120,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FWPB515W.png"
         },
         {
             "id": "VPUR1011-WHT-ST",
@@ -4983,7 +4983,7 @@
             "sub_category": "Speakers",
             "price": "9.00",
             "available": 189,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250BT344R.png"
         },
         {
             "id": "250BX210K",
@@ -4993,7 +4993,7 @@
             "sub_category": "Speakers",
             "price": "8.00",
             "available": 189,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/250BX210K.png"
         },
         {
             "id": "ABX-126R",
@@ -5523,7 +5523,7 @@
             "sub_category": "Speakers",
             "price": "26.00",
             "available": 56,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FBX643K.png"
         },
         {
             "id": "FBX647K",
@@ -5533,7 +5533,7 @@
             "sub_category": "Speakers",
             "price": "26.00",
             "available": 60,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FBX647K.png"
         },
         {
             "id": "FSL-200SIL",
@@ -6943,7 +6943,7 @@
             "sub_category": "Uncategorized",
             "price": "12.50",
             "available": 506,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/303DGNX.png"
         },
         {
             "id": "BDSV53-BLK",
@@ -7033,7 +7033,7 @@
             "sub_category": "Window AC",
             "price": "300.00",
             "available": 1,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAW08AV1QWT-C.png"
         },
         {
             "id": "MAW08V1QWT",
