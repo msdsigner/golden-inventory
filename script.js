@@ -30,6 +30,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const sortSelect = document.getElementById('sortSelect');
     
+    // Modal Elements
+    const imageModal = document.getElementById('imageModal');
+    const modalImg = document.getElementById('modalImg');
+    const modalCaption = document.getElementById('modalCaption');
+    const closeModal = document.getElementById('closeModal');
+    
     // Sort logic
     let currentSort = 'default';
 
@@ -267,10 +273,37 @@ document.addEventListener('DOMContentLoaded', () => {
                 grid.appendChild(card);
                 
                 // Add event listener to the Select button
-                card.querySelector('.add-btn').addEventListener('click', (e) => addToSelection(item, e.target));
+                card.querySelector('.add-btn').addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    addToSelection(item, e.target);
+                });
+
+                // Add event listener to the image for lightbox
+                card.querySelector('.card-img-wrap').addEventListener('click', () => {
+                    openLightbox(item.image, item.name);
+                });
             });
         }
     }
+
+    function openLightbox(src, title) {
+        imageModal.style.display = "block";
+        modalImg.src = src;
+        modalCaption.textContent = title;
+        document.body.style.overflow = 'hidden'; // Prevent scroll
+    }
+
+    closeModal.onclick = () => {
+        imageModal.style.display = "none";
+        document.body.style.overflow = 'auto';
+    };
+
+    window.onclick = (event) => {
+        if (event.target == imageModal) {
+            imageModal.style.display = "none";
+            document.body.style.overflow = 'auto';
+        }
+    };
 
     searchInput.addEventListener('input', (e) => {
         currentSearch = e.target.value;
