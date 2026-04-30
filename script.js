@@ -60,6 +60,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error('Network response error');
             const data = await response.json();
             
+            window.publishPricing = data.publish_pricing !== false;
+            
             inventory = data.items;
             originalInventoryOrder = [...data.items];
             
@@ -68,6 +70,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if(data.downloads.excel) { dlExcelBtn.href = data.downloads.excel; } else { dlExcelBtn.style.display = 'none'; }
             if(data.downloads.pdf) { dlPdfBtn.href = data.downloads.pdf; } else { dlPdfBtn.style.display = 'none'; }
             
+            if (!window.publishPricing) {
+                // Hide sort options related to price and qty
+                Array.from(sortSelect.options).forEach(opt => {
+                    if (opt.value.includes('price') || opt.value.includes('qty')) {
+                        opt.style.display = 'none';
+                    }
+                });
+            }
+
             inventory.forEach(item => {
                 let p = item.parent_category || "Other";
                 let s = item.sub_category || item.category || "Uncategorized";
@@ -246,7 +257,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const isSelected = !!selectionCart[item.id];
                 
                 let badgeHTML = '';
-                if (item.available <= 0) badgeHTML = `<div class="badge out-stock">OUT OF STOCK</div>`;
+                if (!window.publishPricing) badgeHTML = '';
+                else if (item.available <= 0) badgeHTML = `<div class="badge out-stock">OUT OF STOCK</div>`;
                 else if (item.available <= 5) badgeHTML = `<div class="badge low-stock">Only ${item.available} Left</div>`;
                 else badgeHTML = `<div class="badge">In Stock (${item.available})</div>`;
 
@@ -260,11 +272,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h2 class="card-title">${item.name}</h2>
                         
                         <div class="card-footer">
-                            <div class="card-price">$${item.price}</div>
+                            ${window.publishPricing ? `<div class="card-price">$${item.price}</div>` : ''}
                             <span class="card-ref">${item.id}</span>
                         </div>
-                        <div class="card-stock-status" style="margin-top: 8px; font-size: 0.8rem; font-weight: 600; color: ${item.available > 0 ? '#10b981' : '#ef4444'}">
-                            ${item.available > 0 ? `Available: ${item.available}` : 'Out of Stock'}
+                        <div class="card-stock-status" style="margin-top: 8px; font-size: 0.8rem; font-weight: 600; color: ${!window.publishPricing ? 'transparent' : (item.available > 0 ? '#10b981' : '#ef4444')}">
+                            ${!window.publishPricing ? '&nbsp;' : (item.available > 0 ? `Available: ${item.available}` : 'Out of Stock')}
                         </div>
                         <button class="add-btn ${isSelected ? 'selected' : ''}" data-id="${item.id}" style="margin-top:10px; width:100%; ${isSelected ? 'background:#10b981; color:white; border-color:#10b981;' : ''}">
                             ${isSelected ? '✓ Selected' : 'Add to Selection'}
@@ -324,7 +336,7 @@ document.addEventListener('DOMContentLoaded', () => {
     cartOverlay.addEventListener('click', toggleCart);
 
     function addToSelection(item, btnElement) {
-        if (item.available <= 0) {
+        if (window.publishPricing && item.available <= 0) {
             alert(`Sorry, "${item.name}" is out of stock.`);
             return;
         }
@@ -332,7 +344,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!selectionCart[item.id]) {
             selectionCart[item.id] = { product: item, quantity: 1 };
         } else {
-            if (selectionCart[item.id].quantity >= item.available) {
+            if (window.publishPricing && selectionCart[item.id].quantity >= item.available) {
                 alert(`You cannot add more than the available quantity (${item.available}) for "${item.name}".`);
                 return;
             }
@@ -377,7 +389,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         keys.forEach(id => {
             const entry = selectionCart[id];
-            const itemTotal = parseFloat(entry.product.price) * entry.quantity;
+            const itemTotal = window.publishPricing ? parseFloat(entry.product.price) * entry.quantity : 0;
             grandTotal += itemTotal;
 
             const div = document.createElement('div');
@@ -386,11 +398,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 <img src="${entry.product.image}" alt="${entry.product.name}" style="width:50px; height:50px; object-fit:contain; border-radius:4px;">
                 <div class="cart-item-details" style="flex:1; margin-left:15px;">
                     <div class="cart-item-name" style="font-weight:600; font-size:0.85rem; color:#333; line-height:1.2;">${entry.product.name}</div>
+                    ${window.publishPricing ? `
                     <div class="cart-item-price" style="font-size:0.8rem; color:#666; margin-top:4px; display:flex; align-items:center; gap:5px;">
                         $${entry.product.price} × 
                         <input type="number" class="qty-edit" value="${entry.quantity}" min="1" max="${entry.product.available}" style="width:45px; padding:2px; border:1px solid #ccc; border-radius:4px; font-size:0.8rem; text-align:center;">
                         = $${itemTotal.toFixed(2)}
                     </div>
+                    ` : `
+                    <div class="cart-item-price" style="font-size:0.8rem; color:#666; margin-top:4px;">
+                        Qty: <input type="number" class="qty-edit" value="${entry.quantity}" min="1" style="width:45px; padding:2px; border:1px solid #ccc; border-radius:4px; font-size:0.8rem; text-align:center;">
+                    </div>
+                    `}
                 </div>
                 <button class="remove-btn" style="background:none; border:none; color:#ea4335; font-size:1.4rem; padding:0 10px; cursor:pointer;" title="Remove Item">&times;</button>
             `;
@@ -399,7 +417,7 @@ document.addEventListener('DOMContentLoaded', () => {
             div.querySelector('.qty-edit').addEventListener('change', (e) => {
                 let newQty = parseInt(e.target.value);
                 if (isNaN(newQty) || newQty < 1) newQty = 1;
-                if (newQty > entry.product.available) {
+                if (window.publishPricing && newQty > entry.product.available) {
                     alert(`Only ${entry.product.available} available in stock.`);
                     newQty = entry.product.available;
                 }
@@ -415,7 +433,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         if(cartGrandTotalEl) {
-            cartGrandTotalEl.textContent = `Grand Total: $${grandTotal.toFixed(2)}`;
+            if (window.publishPricing) {
+                cartGrandTotalEl.style.display = 'block';
+                cartGrandTotalEl.textContent = `Grand Total: $${grandTotal.toFixed(2)}`;
+            } else {
+                cartGrandTotalEl.style.display = 'none';
+            }
         }
     }
 
@@ -455,7 +478,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <th style="padding:10px; border:1px solid #ddd;">Ref ID</th>
                         <th style="padding:10px; border:1px solid #ddd;">Product Name</th>
                         <th style="padding:10px; border:1px solid #ddd;">Qty</th>
-                        <th style="padding:10px; border:1px solid #ddd;">Total</th>
+                        ${window.publishPricing ? '<th style="padding:10px; border:1px solid #ddd;">Total</th>' : ''}
                     </tr>
                 </thead>
                 <tbody>
@@ -463,7 +486,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let grandSum = 0;
         items.forEach(i => {
-            let total = parseFloat(i.product.price) * i.quantity;
+            let total = window.publishPricing ? parseFloat(i.product.price) * i.quantity : 0;
             grandSum += total;
             let imgSrc = i.product.image;
             if(!imgSrc.startsWith('http')) imgSrc = baseUrl + imgSrc;
@@ -476,16 +499,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     <td style="padding:10px; border:1px solid #ddd;">${i.product.id}</td>
                     <td style="padding:10px; border:1px solid #ddd;">${i.product.name}</td>
                     <td style="padding:10px; border:1px solid #ddd; text-align:center;">${i.quantity}</td>
-                    <td style="padding:10px; border:1px solid #ddd; text-align:center;">$${total.toFixed(2)}</td>
+                    ${window.publishPricing ? `<td style="padding:10px; border:1px solid #ddd; text-align:center;">$${total.toFixed(2)}</td>` : ''}
                 </tr>
             `;
         });
 
+        if (window.publishPricing) {
+            html += `
+                    <tr style="background:#f1f5f9; font-weight:bold;">
+                        <td colspan="4" style="padding:10px; border:1px solid #ddd; text-align:right;">GRAND TOTAL:</td>
+                        <td style="padding:10px; border:1px solid #ddd; text-align:center; color:#1e3c72;">$${grandSum.toFixed(2)}</td>
+                    </tr>
+            `;
+        }
+
         html += `
-                <tr style="background:#f1f5f9; font-weight:bold;">
-                    <td colspan="4" style="padding:10px; border:1px solid #ddd; text-align:right;">GRAND TOTAL:</td>
-                    <td style="padding:10px; border:1px solid #ddd; text-align:center; color:#1e3c72;">$${grandSum.toFixed(2)}</td>
-                </tr>
             </tbody>
             </table>
             <p style="font-size:12px; color:#666; margin-top:10px;">Generated from Golden Opportunity Catalog</p>
@@ -527,15 +555,20 @@ document.addEventListener('DOMContentLoaded', () => {
         worksheet.getRow(1).height = 30;
         worksheet.getRow(1).font = { bold: true };
 
-        worksheet.columns = [
+        const exportCols = [
             { header: 'Preview', key: 'img', width: 22 }, 
             { header: 'Reference ID', key: 'id', width: 15 },
             { header: 'Product Name', key: 'name', width: 40, style: { alignment: { wrapText: true, vertical: 'middle' } } },
             { header: 'Category', key: 'category', width: 20, style: { alignment: { wrapText: true, vertical: 'middle' } } },
-            { header: 'Unit Price', key: 'price', width: 12 },
-            { header: 'Quantity', key: 'qty', width: 10 },
-            { header: 'Total Price', key: 'total', width: 15 }
+            { header: 'Quantity', key: 'qty', width: 10 }
         ];
+
+        if (window.publishPricing) {
+            exportCols.push({ header: 'Unit Price', key: 'price', width: 12 });
+            exportCols.push({ header: 'Total Price', key: 'total', width: 15 });
+        }
+
+        worksheet.columns = exportCols;
 
         // Style for Borders
         const borderStyle = {
@@ -551,14 +584,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const rowNo = idx + 2;
             excelCart.textContent = `Processing ${idx+1}/${items.length}...`;
 
-            const row = worksheet.addRow({
+            const rowData = {
                 id: i.product.id,
                 name: i.product.name,
                 category: i.product.category,
-                price: parseFloat(i.product.price),
-                qty: i.quantity,
-                total: parseFloat(i.product.price) * i.quantity
-            });
+                qty: i.quantity
+            };
+            if (window.publishPricing) {
+                rowData.price = parseFloat(i.product.price);
+                rowData.total = parseFloat(i.product.price) * i.quantity;
+            }
+            const row = worksheet.addRow(rowData);
             row.height = 110; 
             
             // Apply alignment and border to each cell explicitly
@@ -595,43 +631,46 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        worksheet.getColumn('price').numFmt = '$#,##0.00';
-        worksheet.getColumn('total').numFmt = '$#,##0.00';
+        if (window.publishPricing) {
+            worksheet.getColumn('price').numFmt = '$#,##0.00';
+            worksheet.getColumn('total').numFmt = '$#,##0.00';
 
-        // Add Grand Total Row to Excel
-        const grandTotal = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
-        const totalRow = worksheet.addRow({
-            total: grandTotal
-        });
-        totalRow.height = 35;
-        
-        // Style all cells in totalRow first
-        totalRow.eachCell({ includeEmpty: true }, (cell) => {
-            cell.border = borderStyle;
-            cell.fill = {
+            // Add Grand Total Row to Excel
+            const grandTotal = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
+            const totalRow = worksheet.addRow({
+                total: grandTotal
+            });
+            totalRow.height = 35;
+            
+            // Style all cells in totalRow first
+            totalRow.eachCell({ includeEmpty: true }, (cell) => {
+                cell.border = borderStyle;
+                cell.fill = {
+                    type: 'pattern',
+                    pattern: 'solid',
+                    fgColor: { argb: 'FFF1F5F9' }
+                };
+            });
+
+            // Merge Columns A through E (or F) for the label depending on visible columns
+            // Preview(1), Ref(2), Name(3), Category(4), Qty(5), Unit Price(6), Total(7)
+            worksheet.mergeCells(`A${totalRow.number}:F${totalRow.number}`);
+            const summaryLabelCell = worksheet.getCell(`A${totalRow.number}`);
+            summaryLabelCell.value = 'SELECTION GRAND TOTAL:';
+            summaryLabelCell.font = { bold: true, size: 12 };
+            summaryLabelCell.alignment = { horizontal: 'right', vertical: 'middle' };
+
+            // Style the Value Cell (G)
+            const totalValueCell = worksheet.getCell(`G${totalRow.number}`);
+            totalValueCell.font = { bold: true, size: 12, color: { argb: 'FF1E3C72' } };
+            totalValueCell.alignment = { horizontal: 'center', vertical: 'middle' };
+            totalValueCell.numFmt = '$#,##0.00';
+            totalValueCell.fill = {
                 type: 'pattern',
                 pattern: 'solid',
-                fgColor: { argb: 'FFF1F5F9' }
+                fgColor: { argb: 'FFE2E8F0' }
             };
-        });
-
-        // Merge Columns A through F for the label
-        worksheet.mergeCells(`A${totalRow.number}:F${totalRow.number}`);
-        const summaryLabelCell = worksheet.getCell(`A${totalRow.number}`);
-        summaryLabelCell.value = 'SELECTION GRAND TOTAL:';
-        summaryLabelCell.font = { bold: true, size: 12 };
-        summaryLabelCell.alignment = { horizontal: 'right', vertical: 'middle' };
-
-        // Style the Value Cell (G)
-        const totalValueCell = worksheet.getCell(`G${totalRow.number}`);
-        totalValueCell.font = { bold: true, size: 12, color: { argb: 'FF1E3C72' } };
-        totalValueCell.alignment = { horizontal: 'center', vertical: 'middle' };
-        totalValueCell.numFmt = '$#,##0.00';
-        totalValueCell.fill = {
-            type: 'pattern',
-            pattern: 'solid',
-            fgColor: { argb: 'FFE2E8F0' }
-        };
+        }
 
         // Header Styling
         const headerRow = worksheet.getRow(1);
@@ -684,17 +723,21 @@ document.addEventListener('DOMContentLoaded', () => {
             const imageMap = {}; 
             
             const imagePromises = items.map(async (i, index) => {
-                let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
-                
-                tableData[index] = [
+                let rowValues = [
                     "", // Empty placeholder for Image
                     i.product.id,
                     i.product.name,
                     i.product.category,
-                    i.quantity.toString(),
-                    "$" + parseFloat(i.product.price).toFixed(2),
-                    "$" + total
+                    i.quantity.toString()
                 ];
+                
+                if (window.publishPricing) {
+                    let total = (parseFloat(i.product.price) * i.quantity).toFixed(2);
+                    rowValues.push("$" + parseFloat(i.product.price).toFixed(2));
+                    rowValues.push("$" + total);
+                }
+                
+                tableData[index] = rowValues;
                 
                 let imgSrc = i.product.image;
                 if(!imgSrc.startsWith('http')) {
@@ -722,23 +765,31 @@ document.addEventListener('DOMContentLoaded', () => {
             
             pdfCart.textContent = "Rendering PDF...";
 
+            const pdfHead = window.publishPricing ? 
+                [['Preview', 'Ref ID', 'Product Name', 'Category', 'Qty', 'Unit Price', 'Total']] : 
+                [['Preview', 'Ref ID', 'Product Name', 'Category', 'Qty']];
+                
+            const pdfCols = {
+                0: { cellWidth: 25, minCellHeight: 25 },
+                1: { cellWidth: 20 },
+                2: { cellWidth: 'auto', halign: 'left' },
+                3: { cellWidth: 28 },
+                4: { cellWidth: 15, fontStyle: 'bold' }
+            };
+            if (window.publishPricing) {
+                pdfCols[5] = { cellWidth: 20 };
+                pdfCols[6] = { cellWidth: 25, fontStyle: 'bold' };
+            }
+
             // Draw Dynamic Vector Table
             doc.autoTable({
                 startY: 35,
-                head: [['Preview', 'Ref ID', 'Product Name', 'Category', 'Qty', 'Unit Price', 'Total']],
+                head: pdfHead,
                 body: tableData,
                 theme: 'grid',
                 headStyles: { fillColor: [30, 60, 114], textColor: 255 },
                 styles: { cellPadding: 3, valign: 'middle', halign: 'center', fontSize: 9 },
-                columnStyles: {
-                    0: { cellWidth: 25, minCellHeight: 25 },
-                    1: { cellWidth: 20 },
-                    2: { cellWidth: 'auto', halign: 'left' },
-                    3: { cellWidth: 28 },
-                    4: { cellWidth: 15, fontStyle: 'bold' },
-                    5: { cellWidth: 20 },
-                    6: { cellWidth: 25, fontStyle: 'bold' }
-                },
+                columnStyles: pdfCols,
                 didDrawCell: (data) => {
                     // Inject Images over placeholders
                     if (data.section === 'body' && data.column.index === 0) {
@@ -759,22 +810,24 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             
             // Grand Total Footer Section
-            const pdfSum = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
-            const formattedTotal = pdfSum.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-            
-            doc.autoTable({
-                startY: doc.lastAutoTable.finalY + 0, // Immediately below
-                body: [
-                    ["SELECTION GRAND TOTAL:", "$" + formattedTotal]
-                ],
-                theme: 'grid',
-                styles: { fontSize: 9, fontStyle: 'bold', halign: 'right', cellPadding: 3 },
-                margin: { left: 14, right: 14 },
-                columnStyles: {
-                    0: { fillColor: [241, 245, 249] },
-                    1: { cellWidth: 25, halign: 'center', textColor: [30, 60, 114], fillColor: [226, 232, 240] }
-                }
-            });
+            if (window.publishPricing) {
+                const pdfSum = items.reduce((acc, i) => acc + (parseFloat(i.product.price) * i.quantity), 0);
+                const formattedTotal = pdfSum.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+                
+                doc.autoTable({
+                    startY: doc.lastAutoTable.finalY + 0, // Immediately below
+                    body: [
+                        ["SELECTION GRAND TOTAL:", "$" + formattedTotal]
+                    ],
+                    theme: 'grid',
+                    styles: { fontSize: 9, fontStyle: 'bold', halign: 'right', cellPadding: 3 },
+                    margin: { left: 14, right: 14 },
+                    columnStyles: {
+                        0: { fillColor: [241, 245, 249] },
+                        1: { cellWidth: 25, halign: 'center', textColor: [30, 60, 114], fillColor: [226, 232, 240] }
+                    }
+                });
+            }
             
             doc.save(`Catalog_Quote_${new Date().getTime()}.pdf`);
             pdfCart.textContent = "📄 Save as PDF";
