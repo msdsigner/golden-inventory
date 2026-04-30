@@ -459,14 +459,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const copyCartBtn = document.getElementById('copyCart');
+    const copyCartOutlookBtn = document.getElementById('copyCartOutlook');
 
     // 📋 Copy Rich Table to Clipboard
-    copyCartBtn?.addEventListener('click', async () => {
+    async function handleCopyToClipboard(button, service) {
         const items = getSelectionArray();
         if(items.length === 0) return alert("Selection is empty.");
         
-        const originalText = copyCartBtn.textContent;
-        copyCartBtn.textContent = "⌛ Generating...";
+        const originalText = button.textContent;
+        button.textContent = "⌛ Generating...";
 
         const baseUrl = window.location.origin + window.location.pathname.replace('index.html', '');
         
@@ -523,22 +524,35 @@ document.addEventListener('DOMContentLoaded', () => {
             const blob = new Blob([html], { type: 'text/html' });
             const data = [new ClipboardItem({ 'text/html': blob, 'text/plain': new Blob([html.replace(/<[^>]*>/g, '')], { type: 'text/plain' }) })];
             await navigator.clipboard.write(data);
-            copyCartBtn.textContent = "✅ Copied! Opening Gmail...";
             
-            // Open Gmail compose window
+            const serviceName = service === 'gmail' ? 'Gmail' : 'Outlook';
+            button.textContent = `✅ Copied! Opening ${serviceName}...`;
+            
+            // Open compose window
             setTimeout(() => {
                 const subject = encodeURIComponent("Catalog Information Request");
                 const defaultBody = encodeURIComponent("Hello Golden Opportunity Team,\n\nI have copied my selection. Here it is (Please Paste / Ctrl+V below this line):\n\n====================\n\n\n");
-                window.open(`https://mail.google.com/mail/?view=cm&fs=1&to=info@goldenopportunity.com&su=${subject}&body=${defaultBody}`);
-                copyCartBtn.textContent = originalText;
+                
+                let composeUrl = "";
+                if (service === 'gmail') {
+                    composeUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=info@goldenopportunity.com&su=${subject}&body=${defaultBody}`;
+                } else if (service === 'outlook') {
+                    composeUrl = `https://outlook.office.com/mail/deeplink/compose?to=info@goldenopportunity.com&subject=${subject}&body=${defaultBody}`;
+                }
+                
+                window.open(composeUrl);
+                button.textContent = originalText;
             }, 800);
 
         } catch (err) {
             console.error(err);
             alert("Clipboard Error. Try again in Chrome/Edge.");
-            copyCartBtn.textContent = originalText;
+            button.textContent = originalText;
         }
-    });
+    }
+
+    copyCartBtn?.addEventListener('click', () => handleCopyToClipboard(copyCartBtn, 'gmail'));
+    copyCartOutlookBtn?.addEventListener('click', () => handleCopyToClipboard(copyCartOutlookBtn, 'outlook'));
 
     // 📊 Save as Excel (.xlsx) using ExcelJS with FIX for image stretching & 140px size
     excelCart.addEventListener('click', async () => {
