@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 01, 2026",
+    "last_updated": "May 05, 2026",
     "publish_pricing": false,
     "downloads": {
         "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
@@ -95,6 +95,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-2400SI.png"
+        },
+        {
+            "id": "AF-400DBK",
+            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-400DBK.png"
         },
         {
             "id": "AFWB7QWG13",
@@ -207,6 +217,46 @@
             "image": "images/WTO1-1001-BLK.png"
         },
         {
+            "id": "WTO1-1020-BLK",
+            "name": "AIWA 2 Slice Toaster Cool TCH, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "WTO1-1022-BLK",
+            "name": "AIWA 2 Slice Toaster, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "WTO1-1022-RED",
+            "name": "AIWA 2 Slice Toaster, Red",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "WTO1-1022-WHT",
+            "name": "AIWA 2 Slice Toaster, White",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "CR1860D",
             "name": "Borne Digital AM/FM Clock Radio w/ AUX-in",
             "category": "Alarm Clocks",
@@ -265,6 +315,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RCD5.png"
+        },
+        {
+            "id": "ANT-100",
+            "name": "AudioBox Digital TV & HD Antenna",
+            "category": "Audio",
+            "parent_category": "Audio",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT-100.png"
+        },
+        {
+            "id": "ANT-400",
+            "name": "AudioBox Amplified Indoor Antenna",
+            "category": "Audio",
+            "parent_category": "Audio",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT-400.png"
         },
         {
             "id": "BCC20W",
@@ -497,6 +567,26 @@
             "image": "images/ED-770.png"
         },
         {
+            "id": "FP-549BK",
+            "name": "BRENTWOOD 2-Speed Food Processor, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549BK.png"
+        },
+        {
+            "id": "FP-549W",
+            "name": "BRENTWOOD 2-Speed Food Processor, White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549W.png"
+        },
+        {
             "id": "FP-581",
             "name": "BRENTWOOD Food Processor",
             "category": "Blenders & Mixers",
@@ -505,6 +595,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FP-581.png"
+        },
+        {
+            "id": "FP-585BK",
+            "name": "BRENTWOOD 8-Cup Food Processor",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-585BK.png"
         },
         {
             "id": "GA-103S",
@@ -535,6 +635,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HB-33R.png"
+        },
+        {
+            "id": "HB-38BK",
+            "name": "BRENTWOOD 2-Speed Hand Blender & Food Processor with Balloon Whisk, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HB-38BK.png"
         },
         {
             "id": "HB-38W",
@@ -677,6 +787,16 @@
             "image": "images/JB-920W.png"
         },
         {
+            "id": "JBS-1000BK",
+            "name": "BRENTWOOD Select Professional Smart Blender w/ 1000w Ice Crushing Power, Large 8.5-Cup Plastic Jar, SS Blades, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JBS-1000BK.png"
+        },
+        {
             "id": "JBS-500BK",
             "name": "BRENTWOOD Select 10-Spd Countertop Blender w/ Pulse Button, 5.3-Cup Glass Jar, SS Blades, Black",
             "category": "Blenders & Mixers",
@@ -705,16 +825,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MC-109R.png"
-        },
-        {
-            "id": "MC-109W",
-            "name": "BRENTWOOD Mini Food Chopper - White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MC-109W.png"
         },
         {
             "id": "MG-400BK",
@@ -805,6 +915,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-1162BL.png"
+        },
+        {
+            "id": "WBL1-1010-BLK",
+            "name": "AIWA 5-Speed Hand Mixer, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WBL1-1010-BLK.png"
+        },
+        {
+            "id": "WBL1-1010-WHT",
+            "name": "AIWA 5-Speed Hand Mixer, White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WBL1-1010-WHT.png"
         },
         {
             "id": "XJ14409",
@@ -1537,16 +1667,6 @@
             "image": "images/TS-119BK.png"
         },
         {
-            "id": "TS-119S",
-            "name": "BRENTWOOD Moka Pot Espresso 6-servings",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-119S.png"
-        },
-        {
             "id": "TS-219BK",
             "name": "BRENTWOOD 10-Cup Digital Coffee Maker, Black",
             "category": "Coffee & Tea",
@@ -1575,6 +1695,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCF1-1003-BWS.png"
+        },
+        {
+            "id": "WCF1-1007-BLK",
+            "name": "AIWA Compact Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCF1-1007-BLK.png"
         },
         {
             "id": "WTK1-1001-BLK",
@@ -1787,6 +1917,36 @@
             "image": "images/BHD406W.png"
         },
         {
+            "id": "F-16SPW",
+            "name": "BRENTWOOD 16\u201d Oscillating Stand Fan, 3 Quiet Speeds, 5 Blades, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-16SPW.png"
+        },
+        {
+            "id": "F-1831B",
+            "name": "BRENTWOOD Kool Zone 18\" Industrial 3-in-1 Fan, Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-1831B.png"
+        },
+        {
+            "id": "F-20SW",
+            "name": "BRENTWOOD 3-Speed 20\u201d Box Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-20SW.png"
+        },
+        {
             "id": "FB-01",
             "name": "QFX Portable Rechargeable 3\u2011Speed Adjustable Neck Fan",
             "category": "Fans",
@@ -1817,6 +1977,16 @@
             "image": "images/FB-05-WHT.png"
         },
         {
+            "id": "FB-06-WHT",
+            "name": "QFX Portable Rechargeable Clip-On Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-06-WHT.png"
+        },
+        {
             "id": "FB-82-WHT",
             "name": "QFX Portable Rechargeable 8\u201d Desktop Fan, White",
             "category": "Fans",
@@ -1835,6 +2005,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FB-84-WHT.png"
+        },
+        {
+            "id": "FLA-21",
+            "name": "Airbro Socket Fan Light",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "FS45-9L",
@@ -1997,16 +2177,6 @@
             "image": "images/WSH3-1002-WHT.png"
         },
         {
-            "id": "250HPBT546R",
-            "name": "Fisher Boom Max Pro Sound Wireless Headphones",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/250HPBT546R.png"
-        },
-        {
             "id": "50HPBT500G",
             "name": "Fisher MIXX PRO Wireless Headphones, Gold",
             "category": "Headphones & Earphones",
@@ -2035,16 +2205,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/50TWS597G.png"
-        },
-        {
-            "id": "50TWS597W",
-            "name": "Crush Air True Wireless Earphones, White",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/50TWS597W.png"
         },
         {
             "id": "BLW-HC101",
@@ -3127,6 +3287,16 @@
             "image": "images/CP43279.png"
         },
         {
+            "id": "DF-730S",
+            "name": "BRENTWOOD 1500w 3L / 12-Cup Electric SS Deep Fryer with Removable Basket",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DF-730S.png"
+        },
+        {
             "id": "DMO01001",
             "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
             "category": "Heating & Cooking",
@@ -3227,6 +3397,16 @@
             "image": "images/IM-400.png"
         },
         {
+            "id": "IM-409S",
+            "name": "Better Chef 10/20-Cup Rice Cooker with Steamer",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "KF-6810",
             "name": "Kung Fu 8.45 Qt / 8.0L Slow Cooker, SS",
             "category": "Heating & Cooking",
@@ -3255,16 +3435,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SC-135W.png"
-        },
-        {
-            "id": "SC-140S",
-            "name": "BRENTWOOD 4.5 Qt Slow Cooker White Body",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SC-140S.png"
         },
         {
             "id": "SK-46",
@@ -3547,6 +3717,16 @@
             "image": "images/TS-480S.png"
         },
         {
+            "id": "TS-611SS",
+            "name": "BRENTWOOD PANINI MAKER - SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-611SS.png"
+        },
+        {
             "id": "TS-643BK",
             "name": "BRENTWOOD 1200W Electric Smokeless Indoor Grill with Ceramic Non-Stick Surface, Black",
             "category": "Heating & Cooking",
@@ -3627,6 +3807,26 @@
             "image": "images/PSS1003M-BK.png"
         },
         {
+            "id": "SNB-1100S",
+            "name": "Dolphin All-inOne 2.2 CH Soundbar",
+            "category": "Home Audio",
+            "parent_category": "Audio",
+            "sub_category": "Home Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SNB-1100S.png"
+        },
+        {
+            "id": "SP-2080RBT",
+            "name": "Dolphin Dual 8\u201d High Power Party Speaker with  Wireless Microphone",
+            "category": "Home Audio",
+            "parent_category": "Audio",
+            "sub_category": "Home Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SP-2080RBT.png"
+        },
+        {
             "id": "BT-70",
             "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
             "category": "Home Radio",
@@ -3705,26 +3905,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPX-621.png"
-        },
-        {
-            "id": "PR1230SW",
-            "name": "Borne Portable AM/FM/SW",
-            "category": "Home Radio",
-            "parent_category": "Audio",
-            "sub_category": "Home Radio",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PR1230SW.png"
-        },
-        {
-            "id": "R-15BLK",
-            "name": "QFX Portable Rechargeable BT FM Radio + Digital Music Player and LED Light, Black",
-            "category": "Home Radio",
-            "parent_category": "Audio",
-            "sub_category": "Home Radio",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-15BLK.png"
         },
         {
             "id": "R-24",
@@ -3907,6 +4087,16 @@
             "image": "images/76134.png"
         },
         {
+            "id": "IM-36CR",
+            "name": "Impress Cord Reel Iron - NS/SPR/BST",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-36CR.png"
+        },
+        {
             "id": "MPI-42BK",
             "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
             "category": "Irons",
@@ -3965,16 +4155,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59R",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59R.png"
         },
         {
             "id": "MPI-59W",
@@ -4247,16 +4427,6 @@
             "image": "images/SM-720-5000.png"
         },
         {
-            "id": "M-310",
-            "name": "QFX Wireless Dynamic Pro Mic",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/M-310.png"
-        },
-        {
             "id": "M-336",
             "name": "QFX Microphone",
             "category": "Microphones",
@@ -4347,6 +4517,26 @@
             "image": "images/MC101-SLV.png"
         },
         {
+            "id": "MCX-804",
+            "name": "Dolphin 4 in 1 Rechargeable Multi-Purpose Wireless Microphone System",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MCX-852",
+            "name": "Dolphin Rechargeable Multi-Purpose Wireless Microphone System",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "MCX10",
             "name": "Dolphin PRO Wireless Microphone 40 channel UHF",
             "category": "Microphones",
@@ -4355,6 +4545,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MCX10.png"
+        },
+        {
+            "id": "MCX11B",
+            "name": "Dolphin UHF Wireless Microphone, Black",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "MCX11BL",
@@ -4385,6 +4585,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MCX20.png"
+        },
+        {
+            "id": "MCX21",
+            "name": "Dolphin Wireless Microphone System with 2X Mics",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MCX21.png"
         },
         {
             "id": "MCX30",
@@ -4475,16 +4685,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBH1-4006-SIG.png"
-        },
-        {
-            "id": "CBH1-4007-SIG",
-            "name": "Barbasol Rechargeable Cordless Hair Clipper with SS Blades",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4007-SIG.png"
         },
         {
             "id": "CBR1-1002-BLY",
@@ -4627,26 +4827,6 @@
             "image": "images/CXH1-5003-BLK.png"
         },
         {
-            "id": "CXH1-5003-Black",
-            "name": "Xtreme Hollywood Travel Size Barrel, Leopard Print",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXH1-5003-Black.png"
-        },
-        {
-            "id": "CXT1-3500-HYP",
-            "name": "Xtreme Cutting Edge Bump-Free & Hypoallergenic Battery Powered T-Blade Trimmer for Smooth, Irritation-Free Skin",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXT1-3500-HYP.png"
-        },
-        {
             "id": "CXT1-6002-HYP",
             "name": "Xtreme Cutting Edge Rechargeable Hypoallergenic T-Blade Zero Gapped Trimmer",
             "category": "Personal Care",
@@ -4735,6 +4915,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VRD928982395.png"
+        },
+        {
+            "id": "ADP-101",
+            "name": "Audiobox Universal AC/DC Power Adapter",
+            "category": "Phone Charger",
+            "parent_category": "Communications",
+            "sub_category": "Phone Charger",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ADP-101.png"
         },
         {
             "id": "HPAMP750",
@@ -4927,6 +5117,26 @@
             "image": "images/FWPB515W.png"
         },
         {
+            "id": "PTB-1010",
+            "name": "Techbro 10,000mAh Solar Powerbank",
+            "category": "Power Bank",
+            "parent_category": "Electronics",
+            "sub_category": "Power Bank",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "PTB-1520",
+            "name": "Techbro 20,000 mAh Solar Powerbank",
+            "category": "Power Bank",
+            "parent_category": "Electronics",
+            "sub_category": "Power Bank",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "VPUR1011-WHT-ST",
             "name": "Pure Mobile 6000 MaH Dual USB Power Bank",
             "category": "Power Bank",
@@ -4965,6 +5175,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCRK17V.png"
+        },
+        {
+            "id": "RM3306W",
+            "name": "AVANTI 3.3 CU FT REFRIGERATOR - White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RM3306W.png"
         },
         {
             "id": "RM3316B",
@@ -5095,16 +5315,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-16-BLK.png"
-        },
-        {
-            "id": "BT-17-BLK",
-            "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Black",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-17-BLK.png"
         },
         {
             "id": "BT-17-BLU",
@@ -5477,6 +5687,16 @@
             "image": "images/E-B8.png"
         },
         {
+            "id": "FBHP546R",
+            "name": "Fisher Boom Max PRO Wireless HP - RED",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FBHP546R.png"
+        },
+        {
             "id": "FBT500K",
             "name": "Fisher KANNON Wireless Speaker",
             "category": "Speakers",
@@ -5827,16 +6047,6 @@
             "image": "images/PBX-1213.png"
         },
         {
-            "id": "PBX-1220",
-            "name": "QFX BT Rechargeable Dual 12\" Speaker + Mic",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-1220.png"
-        },
-        {
             "id": "PBX-1501",
             "name": "QFX 15\" Rechargeable BT Speaker with LED Party Lights",
             "category": "Speakers",
@@ -5865,16 +6075,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-2010.png"
-        },
-        {
-            "id": "PBX-2015",
-            "name": "QFX Dual 15\u201d Rechargeable BT Speaker with Multi-Color Party Lights",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-2015.png"
         },
         {
             "id": "PBX-2122",
@@ -6227,6 +6427,16 @@
             "image": "images/SP-2250RBT.png"
         },
         {
+            "id": "SP-2600RBT",
+            "name": "Dolphin Dual 6.5\" Party Speaker w/Shoulder Strap",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SP-2600RBT.png"
+        },
+        {
             "id": "SP-3210RBT",
             "name": "Dolphin Dual 10\" Speaker w/ Wireless Mic",
             "category": "Speakers",
@@ -6245,16 +6455,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SP-885RBT.png"
-        },
-        {
-            "id": "SPF-1212R",
-            "name": "Dolphin Dual 12\" Party Speaker",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SPF-1212R.png"
         },
         {
             "id": "SPX-2115R",
@@ -6487,14 +6687,24 @@
             "image": "images/WSC01-BLU.png"
         },
         {
-            "id": "XL-312",
-            "name": "Dolphin Triple 12\" Event Speaker",
+            "id": "XL-2120",
+            "name": "Dolphin Dual 12\" Rechargeable Karaoke Speaker with Android Tablet",
             "category": "Speakers",
             "parent_category": "Audio",
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/XL-312.png"
+            "image": "images/XL-2120.png"
+        },
+        {
+            "id": "XL-4120",
+            "name": "Dolphin Quad 12\" Event Speaker w/ Android Tab",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/XL-4120.png"
         },
         {
             "id": "ANT-22",
@@ -7007,14 +7217,24 @@
             "image": "images/VC-459-WHT.png"
         },
         {
-            "id": "AWCS08WWF",
-            "name": "GE 8,000 BTU Electronic Window Air Conditioner",
+            "id": "AW0823CW1W",
+            "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 8000-BTU)",
             "category": "Window AC",
             "parent_category": "Air & Climate Control",
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/AWCS08WWF.png"
+            "image": "images/AW0823CW1W.png"
+        },
+        {
+            "id": "DL12AWCW",
+            "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 12000-BTU)",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DL12AWCW.png"
         },
         {
             "id": "LW1017ERSM1",
