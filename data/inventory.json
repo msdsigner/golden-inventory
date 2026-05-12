@@ -224,7 +224,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WTO1-1020-BLK.png"
         },
         {
             "id": "WTO1-1022-BLK",
@@ -234,7 +234,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WTO1-1022-BLK.png"
         },
         {
             "id": "WTO1-1022-RED",
@@ -244,7 +244,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WTO1-1022-RED.png"
         },
         {
             "id": "WTO1-1022-WHT",
@@ -254,7 +254,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WTO1-1022-WHT.png"
         },
         {
             "id": "CR1860D",
@@ -344,7 +344,7 @@
             "sub_category": "Audio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WAC5-1002-BLK.png"
         },
         {
             "id": "BCC20W",
@@ -1954,7 +1954,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FLA-21.png"
         },
         {
             "id": "FS45-9L",
@@ -2754,7 +2754,7 @@
             "sub_category": "Headphones & Earphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTA010.png"
         },
         {
             "id": "HPXBTA100",
@@ -3404,7 +3404,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/IM-409S.png"
         },
         {
             "id": "KF-6810",
@@ -3834,7 +3834,7 @@
             "sub_category": "Home Audio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WA65-GRY.png"
         },
         {
             "id": "BT-70",
@@ -4524,7 +4524,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MCX-804.png"
         },
         {
             "id": "MCX-852",
@@ -4534,7 +4534,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MCX-852.png"
         },
         {
             "id": "MCX10",
@@ -4554,7 +4554,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MCX11B.png"
         },
         {
             "id": "MCX11BL",
@@ -5104,7 +5104,7 @@
             "sub_category": "Power Bank",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PTB-1010.png"
         },
         {
             "id": "PTB-1520",
@@ -5114,7 +5114,7 @@
             "sub_category": "Power Bank",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PTB-1520.png"
         },
         {
             "id": "VPUR1011-WHT-ST",
@@ -6474,7 +6474,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WH61-BLU.png"
         },
         {
             "id": "WH61-CMO",
@@ -6514,7 +6514,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WP64-GRY.png"
         },
         {
             "id": "WPB2-BLK",
@@ -7224,7 +7224,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAW12AV1QWT.png"
         },
         {
             "id": "MAW12U1QWT",
@@ -7234,7 +7234,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAW12U1QWT.png"
         },
         {
             "id": "MAW12V1QWT",
