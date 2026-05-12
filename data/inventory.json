@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 05, 2026",
+    "last_updated": "May 13, 2026",
     "publish_pricing": false,
     "downloads": {
         "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
@@ -337,6 +337,16 @@
             "image": "images/ANT-400.png"
         },
         {
+            "id": "WAC5-1002-BLK",
+            "name": "AIWA RGB Clock with USB Output",
+            "category": "Audio",
+            "parent_category": "Audio",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "BCC20W",
             "name": "Black & Decker Mobile Cooler Cart",
             "category": "Major Appliances",
@@ -607,16 +617,6 @@
             "image": "images/FP-585BK.png"
         },
         {
-            "id": "GA-103S",
-            "name": "Brentwood Powerful Battery-Operated Electric Milk Frother and Drink Mixer with SS Whisk, SS",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/GA-103S.png"
-        },
-        {
             "id": "HB-32BK",
             "name": "BRENTWOOD 2 SPD HAND MIXER 200W",
             "category": "Blenders & Mixers",
@@ -737,16 +737,6 @@
             "image": "images/JB-199.png"
         },
         {
-            "id": "JB-220B",
-            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-220B.png"
-        },
-        {
             "id": "JB-220R",
             "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Red",
             "category": "Blenders & Mixers",
@@ -755,26 +745,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-220R.png"
-        },
-        {
-            "id": "JB-220W",
-            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-220W.png"
-        },
-        {
-            "id": "JB-920R",
-            "name": "BRENTWOOD 12 Speed Blender Glass Jar - Red",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-920R.png"
         },
         {
             "id": "JB-920W",
@@ -815,16 +785,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JC-1000.png"
-        },
-        {
-            "id": "MC-109R",
-            "name": "BRENTWOOD Mini Food Chopper - Red",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MC-109R.png"
         },
         {
             "id": "MG-400BK",
@@ -965,6 +925,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/250BX496K.png"
+        },
+        {
+            "id": "EPB-3002",
+            "name": "Emerson BT Boombox cass-AM/FM-CD-MP3",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EPB-3002.png"
         },
         {
             "id": "FBX390K",
@@ -1768,7 +1738,7 @@
         },
         {
             "id": "DH7020KP",
-            "name": "Hisense Energy Star 70-Pint 2-Speed Dehumidifier",
+            "name": "Hisense Energy Star 70-Pint 2-Speed Dehumidifier with Build in Pump - E-star",
             "category": "Dehumidifier",
             "parent_category": "Air & Climate Control",
             "sub_category": "Dehumidifier",
@@ -1785,16 +1755,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HAP9435B.png"
-        },
-        {
-            "id": "HT5021KP",
-            "name": "Hisense 50-Pint Dehumidifier w/ Built-in Pump, 3 Speeds, 3 Modes (Auto, Continuous, Manual), White, for Up to 4,500 Sq Ft",
-            "category": "Dehumidifier",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Dehumidifier",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HT5021KP.png"
         },
         {
             "id": "MAD22S1WWT",
@@ -1977,16 +1937,6 @@
             "image": "images/FB-05-WHT.png"
         },
         {
-            "id": "FB-06-WHT",
-            "name": "QFX Portable Rechargeable Clip-On Fan, White",
-            "category": "Fans",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Fans",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-06-WHT.png"
-        },
-        {
             "id": "FB-82-WHT",
             "name": "QFX Portable Rechargeable 8\u201d Desktop Fan, White",
             "category": "Fans",
@@ -1995,16 +1945,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FB-82-WHT.png"
-        },
-        {
-            "id": "FB-84-WHT",
-            "name": "QFX Portable 8\" Rechargeable Adjustable Height Desktop or Stand Fan, White",
-            "category": "Fans",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Fans",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-84-WHT.png"
         },
         {
             "id": "FLA-21",
@@ -2207,6 +2147,16 @@
             "image": "images/50TWS597G.png"
         },
         {
+            "id": "50TWS597W",
+            "name": "Crush Air True Wireless Earphones, White",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/50TWS597W.png"
+        },
+        {
             "id": "BLW-HC101",
             "name": "Sentry Overhead and Buds 2PK Wired, Blk/Gry",
             "category": "Headphones & Earphones",
@@ -2385,26 +2335,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FBHP660K.png"
-        },
-        {
-            "id": "FEP910K",
-            "name": "Fisher 8-PIN Wired Silicone Earbuds & Case, Blk",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FEP910K.png"
-        },
-        {
-            "id": "FEP910W",
-            "name": "Fisher 8-PIN Wired Silicone Earbuds & Case, Wht",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FEP910W.png"
         },
         {
             "id": "FGHP245B",
@@ -2687,6 +2617,16 @@
             "image": "images/HPXBT105.png"
         },
         {
+            "id": "HPXBT180",
+            "name": "Sentry BT Headphone - Blk",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT180.png"
+        },
+        {
             "id": "HPXBT301/BLWBT301",
             "name": "Sentry Bluetooth Black Diamond Black/Gold",
             "category": "Headphones & Earphones",
@@ -2725,6 +2665,46 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBT911.png"
+        },
+        {
+            "id": "HPXBT957B",
+            "name": "Sentry Mini In-Ear Tru Wireless w/case - Blk",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT957B.png"
+        },
+        {
+            "id": "HPXBT957W",
+            "name": "Sentry Mini In-Ear Tru Wireless w/case - Wht",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT957W.png"
+        },
+        {
+            "id": "HPXBT960B",
+            "name": "Sentry Mini True Wireless Earbuds with Charging Case, Black",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT960B.png"
+        },
+        {
+            "id": "HPXBT960W",
+            "name": "Sentry Mini True Wireless Earbuds with Charging Case, White",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT960W.png"
         },
         {
             "id": "HPXBT969CR",
@@ -2767,6 +2747,16 @@
             "image": "images/HPXBT999WH.png"
         },
         {
+            "id": "HPXBTA010",
+            "name": "Sentry Active Noise Cancelling Headphone",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "HPXBTA100",
             "name": "Sentry Noise Active Canceling Wireless Earbuds, Bk",
             "category": "Headphones & Earphones",
@@ -2775,6 +2765,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBTA100.png"
+        },
+        {
+            "id": "HPXBTA1000BK",
+            "name": "Sentry BT Pro Sq Headset, Black",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBTA1000BK.png"
         },
         {
             "id": "HPXBTA1000WH",
@@ -3737,16 +3737,6 @@
             "image": "images/TS-643BK.png"
         },
         {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-700S.png"
-        },
-        {
             "id": "TS-810",
             "name": "BRENTWOOD Electric Griddle w/ Ceramic Non-Stick, Adjustable Temperature, & Cool Touch Handles",
             "category": "Heating & Cooking",
@@ -3827,6 +3817,26 @@
             "image": "images/SP-2080RBT.png"
         },
         {
+            "id": "WA65-BLU",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, One Microphone, Blue",
+            "category": "Home Audio",
+            "parent_category": "Audio",
+            "sub_category": "Home Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WA65-BLU.png"
+        },
+        {
+            "id": "WA65-GRY",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Gray",
+            "category": "Home Audio",
+            "parent_category": "Audio",
+            "sub_category": "Home Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "BT-70",
             "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
             "category": "Home Radio",
@@ -3905,6 +3915,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPX-621.png"
+        },
+        {
+            "id": "NPB-426/BLK",
+            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
+            "category": "Home Radio",
+            "parent_category": "Audio",
+            "sub_category": "Home Radio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NPB-426-BLK.png"
         },
         {
             "id": "R-24",
@@ -4145,16 +4165,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-52.png"
-        },
-        {
-            "id": "MPI-59BK",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59BK.png"
         },
         {
             "id": "MPI-59W",
@@ -4415,16 +4425,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-3000.png"
-        },
-        {
-            "id": "SM-720-5000",
-            "name": "Emerald LED 50ft Strip Lights",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-5000.png"
         },
         {
             "id": "M-336",
@@ -5007,26 +5007,6 @@
             "image": "images/ARC-131GD.png"
         },
         {
-            "id": "CBPAC1080",
-            "name": "COBY 15000 BTU Portable AC",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBPAC1080.png"
-        },
-        {
-            "id": "CBPAC1080H",
-            "name": "COBY 15000 BTU Portable AC H/C",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBPAC1080H.png"
-        },
-        {
             "id": "HAP0824TWD",
             "name": "Hisense 350 Sq. Ft. Inverter Dual-Hose 8000 BTU Portable Air Conditioner",
             "category": "Portable AC",
@@ -5267,16 +5247,6 @@
             "image": "images/ABX-215R.png"
         },
         {
-            "id": "ABX-30R",
-            "name": "Audiobox 4\" Portable PA Speaker",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ABX-30R.png"
-        },
-        {
             "id": "ABX-82S",
             "name": "Audiobox 8\" PA Speaker",
             "category": "Speakers",
@@ -5315,26 +5285,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-16-BLK.png"
-        },
-        {
-            "id": "BT-17-BLU",
-            "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Aqua Blue",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-17-BLU.png"
-        },
-        {
-            "id": "BT-17-FTB",
-            "name": "QFX SS 16.oz Insulated Mug + BT Speaker With Multi-Color LED Lights, Soccer",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-17-FTB.png"
         },
         {
             "id": "BT-1934-BLK",
@@ -5837,16 +5787,6 @@
             "image": "images/LMS-1234.png"
         },
         {
-            "id": "LMS-210",
-            "name": "QFX BT RECHARGEABLE PARTY SPEAKER + LIQUID MOTION",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LMS-210.png"
-        },
-        {
             "id": "LX-220",
             "name": "Dolphin Super Bass Portable Speaker",
             "category": "Speakers",
@@ -5927,16 +5867,6 @@
             "image": "images/MPX-24.png"
         },
         {
-            "id": "MPX-802",
-            "name": "QFX 8\" BT Rechargeable Speaker w/ LED",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPX-802.png"
-        },
-        {
             "id": "NAS-3082",
             "name": "NAXA VIBE 3 Bluetooth Speaker and MP3 Player",
             "category": "Speakers",
@@ -5975,26 +5905,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/P54-BLK.png"
-        },
-        {
-            "id": "PB150-BLK",
-            "name": "HOPESTAR 60W Party 150 Wireless BT Speaker, Black",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PB150-BLK.png"
-        },
-        {
-            "id": "PB150-GRN",
-            "name": "HOPESTAR 60W Party 150 Wireless BT Speaker, Green",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PB150-GRN.png"
         },
         {
             "id": "PBX-100",
@@ -6095,16 +6005,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-220W.png"
-        },
-        {
-            "id": "PBX-264",
-            "name": "QFX 2x6.5\" PARTY SPEAKER",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-264.png"
         },
         {
             "id": "PBX-288",
@@ -6537,14 +6437,24 @@
             "image": "images/TMS-801-RED.png"
         },
         {
-            "id": "WH58-BLU",
-            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Blue",
+            "id": "WA65-BLK",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
             "category": "Speakers",
             "parent_category": "Audio",
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/WH58-BLU.png"
+            "image": "images/WA65-BLK.png"
+        },
+        {
+            "id": "WH58-BLK",
+            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WH58-BLK.png"
         },
         {
             "id": "WH61-BLK",
@@ -6557,6 +6467,16 @@
             "image": "images/WH61-BLK.png"
         },
         {
+            "id": "WH61-BLU",
+            "name": "WORRYFREE Portable BT Speaker With Handle - Blue",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "WH61-CMO",
             "name": "WORRYFREE Portable BT Speaker With Handle - Camo",
             "category": "Speakers",
@@ -6565,6 +6485,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WH61-CMO.png"
+        },
+        {
+            "id": "WP64-BLK",
+            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WP64-BLK.png"
+        },
+        {
+            "id": "WP64-BLU",
+            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Blue",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WP64-BLU.png"
+        },
+        {
+            "id": "WP64-GRY",
+            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WPB2-BLK",
@@ -6577,16 +6527,6 @@
             "image": "images/WPB2-BLK.png"
         },
         {
-            "id": "WPB2-BLU",
-            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Dark Blue w/(TR1/HS-02)",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPB2-BLU.png"
-        },
-        {
             "id": "WPB220M-BLK",
             "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Black",
             "category": "Speakers",
@@ -6597,16 +6537,6 @@
             "image": "images/WPB220M-BLK.png"
         },
         {
-            "id": "WPB220M-OWT",
-            "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Off White",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPB220M-OWT.png"
-        },
-        {
             "id": "WPBMINI-BLK",
             "name": "WORRYFREE Party Box Mini 10W Wireless BT Speaker, Black",
             "category": "Speakers",
@@ -6615,16 +6545,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WPBMINI-BLK.png"
-        },
-        {
-            "id": "WPBMINI-BLU",
-            "name": "WORRYFREE Party Box Mini 10W Wireless BT Speaker, Blue",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPBMINI-BLU.png"
         },
         {
             "id": "WS10-BLU",
@@ -7237,6 +7157,36 @@
             "image": "images/DL12AWCW.png"
         },
         {
+            "id": "EWR05E",
+            "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR05E.png"
+        },
+        {
+            "id": "EWR06E",
+            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR06E.png"
+        },
+        {
+            "id": "EWR08E",
+            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR08E.png"
+        },
+        {
             "id": "LW1017ERSM1",
             "name": "LG 10,000 BTU Smart Window / Wall Air Conditioner",
             "category": "Window AC",
@@ -7265,6 +7215,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MAW08V1QWT.png"
+        },
+        {
+            "id": "MAW12AV1QWT",
+            "name": "Midea 12,000 BTU DOE U-Shaped Smart Window Air Conditioner, for spaces up to 550 sq. ft.",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MAW12U1QWT",
+            "name": "Midea 12,000 BTU DOE U-Shaped Smart Window Air Conditioner 550 sq. ft - White",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MAW12V1QWT",
+            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, 35% Energy Savings, Quiet, Up to 550 Sq. ft.",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAW12V1QWT.png"
         }
     ]
 }
