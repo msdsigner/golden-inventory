@@ -1914,7 +1914,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FB-83-BLK.png"
         },
         {
             "id": "FB-83-WHT",
@@ -1924,7 +1924,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FB-83-WHT.png"
         },
         {
             "id": "FB-84-WHT",
@@ -3804,7 +3804,7 @@
             "sub_category": "Home Radio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-1010-BLK.png"
         },
         {
             "id": "BT-1010-BLU",
@@ -3814,7 +3814,7 @@
             "sub_category": "Home Radio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-1010-BLU.png"
         },
         {
             "id": "BT-1010-RED",
@@ -3824,7 +3824,7 @@
             "sub_category": "Home Radio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-1010-RED.png"
         },
         {
             "id": "BT-70",
@@ -5344,7 +5344,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-2024-BLK.png"
         },
         {
             "id": "BT-2024-SIL",
@@ -5354,7 +5354,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-2024-SIL.png"
         },
         {
             "id": "BT-2026",
@@ -5854,7 +5854,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MPX-1502SM.png"
         },
         {
             "id": "MPX-1504",
@@ -6024,7 +6024,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PBX-151.png"
         },
         {
             "id": "PBX-157SM",
@@ -6494,7 +6494,7 @@
             "sub_category": "Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TMS-1560.png"
         },
         {
             "id": "TMS-801-BLU",
@@ -7334,7 +7334,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAW08S1VWT-A.png"
         },
         {
             "id": "MAW08V1QWT",
@@ -7384,7 +7384,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAW12V1YWT-S.png"
         }
     ]
 }
