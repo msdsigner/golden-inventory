@@ -1,5 +1,5 @@
 {
-    "last_updated": "May 27, 2026",
+    "last_updated": "June 03, 2026",
     "publish_pricing": false,
     "downloads": {
         "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
@@ -107,6 +107,16 @@
             "image": "images/AF-400DBK.png"
         },
         {
+            "id": "AF-800DBK",
+            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "AFWB7QWG13",
             "name": "West Bend 7 Qt Electric Air Fryer Oven",
             "category": "Air Fryer & Toaster",
@@ -147,6 +157,16 @@
             "image": "images/KE-OV-B101BK.png"
         },
         {
+            "id": "TS-247BK",
+            "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "TS-260B",
             "name": "BRENTWOOD 2-Slice Toaster, Black",
             "category": "Air Fryer & Toaster",
@@ -167,6 +187,16 @@
             "image": "images/TS-260W.png"
         },
         {
+            "id": "TS-265",
+            "name": "BRENTWOOD 4-Slice Toaster, White",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-265.png"
+        },
+        {
             "id": "TS-280S",
             "name": "BRENTWOOD 2 Slice Toaster - Black/Stainless Steel",
             "category": "Air Fryer & Toaster",
@@ -175,6 +205,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-280S.png"
+        },
+        {
+            "id": "TS-284",
+            "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-284.png"
         },
         {
             "id": "TS-345B",
@@ -557,6 +597,16 @@
             "image": "images/ED-770.png"
         },
         {
+            "id": "FP-549BK",
+            "name": "BRENTWOOD 2-Speed Food Processor, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549BK.png"
+        },
+        {
             "id": "FP-549W",
             "name": "BRENTWOOD 2-Speed Food Processor, White",
             "category": "Blenders & Mixers",
@@ -567,24 +617,24 @@
             "image": "images/FP-549W.png"
         },
         {
-            "id": "FP-581",
-            "name": "BRENTWOOD Food Processor",
+            "id": "GA-103S",
+            "name": "Brentwood Powerful Battery-Operated Electric Milk Frother and Drink Mixer with SS Whisk, SS",
             "category": "Blenders & Mixers",
             "parent_category": "Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/FP-581.png"
+            "image": "images/GA-103S.png"
         },
         {
-            "id": "FP-585BK",
-            "name": "BRENTWOOD 8-Cup Food Processor",
+            "id": "HB-31W",
+            "name": "BRENTWOOD 2 SPD HAND Blender - Wht",
             "category": "Blenders & Mixers",
             "parent_category": "Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/FP-585BK.png"
+            "image": "images/HB-31W.png"
         },
         {
             "id": "HB-32BK",
@@ -667,14 +717,24 @@
             "image": "images/HM-48W.png"
         },
         {
-            "id": "J-17BK",
-            "name": "BRENTWOOD Elec. Citrus Squeezer Juicer 40oz",
+            "id": "J-15",
+            "name": "Brentwood 24oz Electric Citrus Juicer, White",
             "category": "Blenders & Mixers",
             "parent_category": "Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/J-17BK.png"
+            "image": "images/J-15.png"
+        },
+        {
+            "id": "J-26BK",
+            "name": "BRENTWOOD Powerful Electric Citrus Juicer",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-26BK.png"
         },
         {
             "id": "J-28BK",
@@ -687,6 +747,26 @@
             "image": "images/J-28BK.png"
         },
         {
+            "id": "JB-191BK",
+            "name": "BRENTWOOD Personal Blender - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-191BK.png"
+        },
+        {
+            "id": "JB-191W",
+            "name": "BRENTWOOD Personal Blender - white",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-191W.png"
+        },
+        {
             "id": "JB-199",
             "name": "BRENTWOOD Multi PRO 20-PC Blender",
             "category": "Blenders & Mixers",
@@ -695,6 +775,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-199.png"
+        },
+        {
+            "id": "JB-220B",
+            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-220B.png"
+        },
+        {
+            "id": "JB-220R",
+            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Red",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-220R.png"
         },
         {
             "id": "JB-220W",
@@ -707,6 +807,26 @@
             "image": "images/JB-220W.png"
         },
         {
+            "id": "JB-920B",
+            "name": "BRENTWOOD 12 Speed Blender Glass Jar - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-920B.png"
+        },
+        {
+            "id": "JB-920R",
+            "name": "BRENTWOOD 12 Speed Blender Glass Jar - Red",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-920R.png"
+        },
+        {
             "id": "JB-920W",
             "name": "BRENTWOOD 12 Speed Blender Glass Jar - White",
             "category": "Blenders & Mixers",
@@ -717,6 +837,16 @@
             "image": "images/JB-920W.png"
         },
         {
+            "id": "JBS-1000BK",
+            "name": "BRENTWOOD Select Professional Smart Blender w/ 1000w Ice Crushing Power, Large 8.5-Cup Plastic Jar, SS Blades, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JBS-1000BK.png"
+        },
+        {
             "id": "JBS-500BK",
             "name": "BRENTWOOD Select 10-Spd Countertop Blender w/ Pulse Button, 5.3-Cup Glass Jar, SS Blades, Black",
             "category": "Blenders & Mixers",
@@ -725,6 +855,56 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JBS-500BK.png"
+        },
+        {
+            "id": "JC-1000",
+            "name": "Brentwood Select 2-Speed 1000w Juice Extractor with 50-Oz Graduated Jar, SS",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JC-1000.png"
+        },
+        {
+            "id": "JC-452B",
+            "name": "BRENTWOOD 2 Speed Juice Extractor, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JC-452B.png"
+        },
+        {
+            "id": "JC-452W",
+            "name": "BRENTWOOD 2 Speed Juice Extractor, White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JC-452W.png"
+        },
+        {
+            "id": "MC-109R",
+            "name": "BRENTWOOD Mini Food Chopper - Red",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MC-109R.png"
+        },
+        {
+            "id": "MC-109W",
+            "name": "BRENTWOOD Mini Food Chopper - White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MC-109W.png"
         },
         {
             "id": "MG-400BK",
@@ -747,6 +927,16 @@
             "image": "images/MG-400W.png"
         },
         {
+            "id": "RJB-100BK",
+            "name": "Brentwood Portable Battery/USB Blender, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RJB-100BK.png"
+        },
+        {
             "id": "RJB-100BL",
             "name": "Brentwood Portable Battery/USB Blender, Blue",
             "category": "Blenders & Mixers",
@@ -755,6 +945,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RJB-100BL.png"
+        },
+        {
+            "id": "RJB-100W",
+            "name": "Brentwood Portable Battery/USB Blender, White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RJB-100W.png"
         },
         {
             "id": "SJ479",
@@ -1277,16 +1477,6 @@
             "image": "images/179.png"
         },
         {
-            "id": "43680PS",
-            "name": "Proctor Silex 12-Cup Coffee Maker, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/43680PS.png"
-        },
-        {
             "id": "80300PS",
             "name": "Proctor Silex Coffee Grinder",
             "category": "Coffee & Tea",
@@ -1357,6 +1547,26 @@
             "image": "images/CHCM12B.png"
         },
         {
+            "id": "CTS-1000",
+            "name": "BRENTWOOD 34oz Vacuum SS Coffee Carafe",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CTS-1000.png"
+        },
+        {
+            "id": "HE-760",
+            "name": "Hercules 1.8L Stainless Steel Kettle",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HE-760.png"
+        },
+        {
             "id": "IM-170S",
             "name": "Better Chef Stainless Steel Cordless Electric Kettle",
             "category": "Coffee & Tea",
@@ -1365,6 +1575,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-170S.png"
+        },
+        {
+            "id": "KT-1610W",
+            "name": "BRENTWOOD 1-liter Cordless Tea Kettle White",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/KT-1610W.png"
+        },
+        {
+            "id": "KT-1617-W",
+            "name": "BRENTWOOD 1.7-liter Electric Tea Kettle White",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/KT-1617-W.png"
         },
         {
             "id": "KT-1618-B",
@@ -1447,16 +1677,6 @@
             "image": "images/SM-KET-1368.png"
         },
         {
-            "id": "SM-KET-1377-B",
-            "name": "Emerald Glass Tea Kettle, Countertop Electric Kettle Water Boiler Heater, 1.8 L, Clear",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-KET-1377-B.png"
-        },
-        {
             "id": "SM-KET-1386-B",
             "name": "Emerald SS Electric Kettle Water Boiler Heater Tea Kettle, 1.8 L, Silver",
             "category": "Coffee & Tea",
@@ -1517,6 +1737,56 @@
             "image": "images/TS-119BK.png"
         },
         {
+            "id": "TS-119R",
+            "name": "BRENTWOOD Moka Pot Espresso 6-servings, Red",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-119R.png"
+        },
+        {
+            "id": "TS-119S",
+            "name": "BRENTWOOD Moka Pot Espresso 6-servings",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-119S.png"
+        },
+        {
+            "id": "TS-212BK",
+            "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "TS-215BK",
+            "name": "BRENTWOOD 10 Cup Coffee Maker - Blk",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-215BK.png"
+        },
+        {
+            "id": "TS-215W",
+            "name": "BRENTWOOD 10 Cup Coffee Maker - Wht",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-215W.png"
+        },
+        {
             "id": "TS-219BK",
             "name": "BRENTWOOD 10-Cup Digital Coffee Maker, Black",
             "category": "Coffee & Tea",
@@ -1535,6 +1805,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-219W.png"
+        },
+        {
+            "id": "TS-222BK",
+            "name": "BRENTWOOD 12 Cup Coffee Maker Programmable",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-222BK.png"
+        },
+        {
+            "id": "TS-241BK",
+            "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "TS-244BK",
+            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WCF1-1003-BWS",
@@ -1655,6 +1955,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MDH-0103JW.png"
+        },
+        {
+            "id": "VPMS05BWT",
+            "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier",
+            "category": "Dehumidifier",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Dehumidifier",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "37210",
@@ -1937,6 +2247,16 @@
             "image": "images/V-2742.png"
         },
         {
+            "id": "V/3193",
+            "name": "UniqueWare 14\" Industrial Floor Fan",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/V-3193.png"
+        },
+        {
             "id": "V/3488",
             "name": "UniqueWare 18\" Stand Fan 3 Speed",
             "category": "Fans",
@@ -2035,16 +2355,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/50TWS597G.png"
-        },
-        {
-            "id": "50TWS597W",
-            "name": "Crush Air True Wireless Earphones, White",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/50TWS597W.png"
         },
         {
             "id": "BLW-HC101",
@@ -2777,16 +3087,6 @@
             "image": "images/HPXGX50.png"
         },
         {
-            "id": "HPXGX85",
-            "name": "Sentry LIGHT UP Gaming Headset with Mic",
-            "category": "Headphones & Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones & Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXGX85.png"
-        },
-        {
             "id": "HPXGXTW1",
             "name": "Sentry True Wireless Game Headphones - Ass. colors",
             "category": "Headphones & Earphones",
@@ -3217,6 +3517,16 @@
             "image": "images/ED-587W.png"
         },
         {
+            "id": "EM131A5C-BS",
+            "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EM131A5C-BS.png"
+        },
+        {
             "id": "IM-297R",
             "name": "Better Chef Waffle Maker, Red",
             "category": "Heating & Cooking",
@@ -3257,6 +3567,16 @@
             "image": "images/IM-409S.png"
         },
         {
+            "id": "RC-5110DS",
+            "name": "BRENTWOOD10-Cups Cooked/5-Cups Uncooked 7-Function Smart Rice Multi-Cooker, SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "SC-130S",
             "name": "BRENTWOOD 3 Qt Slow Cooker with S/S Body",
             "category": "Heating & Cooking",
@@ -3277,6 +3597,26 @@
             "image": "images/SC-135W.png"
         },
         {
+            "id": "SC-140BL",
+            "name": "BRENTWOOD 4.5 Qt Slow Cooker White Body, Blue",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "SK-45",
+            "name": "BRENTWOOD 6\" Non-Stick Electric Skillet with Glass Lid, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "SK-46",
             "name": "Brentwood 8'' Non-Stick Electric Skillet with Glass Lid, Black",
             "category": "Heating & Cooking",
@@ -3285,6 +3625,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SK-46.png"
+        },
+        {
+            "id": "SK-65",
+            "name": "BRENTWOOD 12\" ELECTRIC SKILLET - GLASS LID",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SK-65.png"
         },
         {
             "id": "SK-67BK",
@@ -3447,16 +3797,6 @@
             "image": "images/TS-240B.png"
         },
         {
-            "id": "TS-240W",
-            "name": "BRENTWOOD SANDWICH MAKER - WHITE",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-240W.png"
-        },
-        {
             "id": "TS-242",
             "name": "BRENTWOOD Waffle Maker - White & SS",
             "category": "Heating & Cooking",
@@ -3475,16 +3815,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-245.png"
-        },
-        {
-            "id": "TS-246",
-            "name": "BRENTWOOD PANINI MAKER - Blk",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-246.png"
         },
         {
             "id": "TS-337",
@@ -3537,6 +3867,16 @@
             "image": "images/TS-380S.png"
         },
         {
+            "id": "TS-381",
+            "name": "BRENTWOOD 1200w Single Infrared Electric Countertop Burner with Timer, SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "TS-480S",
             "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
             "category": "Heating & Cooking",
@@ -3547,6 +3887,16 @@
             "image": "images/TS-480S.png"
         },
         {
+            "id": "TS-611SS",
+            "name": "BRENTWOOD PANINI MAKER - SS",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-611SS.png"
+        },
+        {
             "id": "TS-643BK",
             "name": "BRENTWOOD 1200W Electric Smokeless Indoor Grill with Ceramic Non-Stick Surface, Black",
             "category": "Heating & Cooking",
@@ -3555,6 +3905,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-643BK.png"
+        },
+        {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-700S.png"
         },
         {
             "id": "TS-810",
@@ -3947,6 +4307,16 @@
             "image": "images/76133.png"
         },
         {
+            "id": "76134",
+            "name": "Viasonic Elite Steam Iron 300ml. 120V, 1500W",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/76134.png"
+        },
+        {
             "id": "IM-36CR",
             "name": "Impress Cord Reel Iron - NS/SPR/BST",
             "category": "Irons",
@@ -3975,6 +4345,66 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-45.png"
+        },
+        {
+            "id": "MPI-51BK",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51BK.png"
+        },
+        {
+            "id": "MPI-51W",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51W.png"
+        },
+        {
+            "id": "MPI-59BK",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59BK.png"
+        },
+        {
+            "id": "MPI-59R",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59R.png"
+        },
+        {
+            "id": "MPI-59W",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59W.png"
+        },
+        {
+            "id": "MPI-69BKRG",
+            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-69BKRG.png"
         },
         {
             "id": "MPI-70",
@@ -4185,6 +4615,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-1638.png"
+        },
+        {
+            "id": "SM-720-2000",
+            "name": "Emerald LED 20ft Strip Lights",
+            "category": "Lighting",
+            "parent_category": "Electronics",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2000.png"
         },
         {
             "id": "SM-720-2500",
@@ -4457,26 +4897,6 @@
             "image": "images/CBF1-2001-BLK.png"
         },
         {
-            "id": "CBG1-5000-KIT",
-            "name": "Barbasol All in One Men's Travel Grooming Set",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBG1-5000-KIT.png"
-        },
-        {
-            "id": "CBH1-4006-SIG",
-            "name": "Barbasol PRO Ceramic Cordless Trimmer",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4006-SIG.png"
-        },
-        {
             "id": "CBR1-1002-BLY",
             "name": "Barbasol Rechargeable Rotary Shaver",
             "category": "Personal Care",
@@ -4507,16 +4927,6 @@
             "image": "images/CBT1-3007-BLY.png"
         },
         {
-            "id": "CBT1-6002-SLV",
-            "name": "Barbasol T-Blade Trimmer",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-6002-SLV.png"
-        },
-        {
             "id": "CBT1-7001-SIG",
             "name": "Barbasol Vacuum lcd Beard Trimmer, Rechargeable, Adjustable Settings, Blk",
             "category": "Personal Care",
@@ -4525,36 +4935,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBT1-7001-SIG.png"
-        },
-        {
-            "id": "CBT1-8002-BAT",
-            "name": "Barbasol Body Hair Trimmer, Battery Powered with 5pc adjustable Comb",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-8002-BAT.png"
-        },
-        {
-            "id": "CPH1-9001-BKG",
-            "name": "Xtreme Pure Silk Heated Straightening Brush, Giftbox",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CPH1-9001-BKG.png"
-        },
-        {
-            "id": "CPH1-9010-BOX",
-            "name": "Xtreme Pure Silk 1\" Barrel Curling Iron",
-            "category": "Personal Care",
-            "parent_category": "Health and Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CPH1-9010-BOX.png"
         },
         {
             "id": "CPH1-9011-BOX",
@@ -4625,6 +5005,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MG-1-BLK.png"
+        },
+        {
+            "id": "MG-1-BLU",
+            "name": "QFX Mini Massager, Blue",
+            "category": "Personal Care",
+            "parent_category": "Health and Personal Care",
+            "sub_category": "Personal Care",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-BLU.png"
         },
         {
             "id": "MG-1-CHR",
@@ -4775,6 +5165,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ARC-131GD.png"
+        },
+        {
+            "id": "MAP05S1AWT",
+            "name": "Midea 5,000 BTU DOE Smart Portable Air Conditioner, for spaces up to 150 sq. ft.",
+            "category": "Portable AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "S-15051",
+            "name": "Portable AC Box - 15x15x36",
+            "category": "Portable AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "S-4532",
+            "name": "Portable AC Box - 14x14x36",
+            "category": "Portable AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "FPB1200W",
@@ -4935,16 +5355,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ABX-160R.png"
-        },
-        {
-            "id": "ABX-2140R",
-            "name": "Dolphin Dual 12\" PA Speaker with Wireless Microphone",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ABX-2140R.png"
         },
         {
             "id": "ABX-214R",
@@ -5497,16 +5907,6 @@
             "image": "images/HPXSPBT9.png"
         },
         {
-            "id": "KAR-990",
-            "name": "QFX 14.1\" High Definition WIFI Touch Screen Party Speaker System with Wireless Mic",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KAR-990.png"
-        },
-        {
             "id": "KP-500",
             "name": "Dolphin Portable Karaoke Speaker w/ Mic Stand",
             "category": "Speakers",
@@ -5757,16 +6157,6 @@
             "image": "images/PBX-1213.png"
         },
         {
-            "id": "PBX-1501",
-            "name": "QFX 15\" Rechargeable BT Speaker with LED Party Lights",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-1501.png"
-        },
-        {
             "id": "PBX-151",
             "name": "QFX 15\u201d BT Rechargeable Speaker with RGB LED Party Lights + Wired MIC",
             "category": "Speakers",
@@ -5907,16 +6297,6 @@
             "image": "images/PBX-811.png"
         },
         {
-            "id": "PBX-831",
-            "name": "QFX Triple 8\u201d Portable BT Rechargeable Party Speaker + Wired Mic",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-831.png"
-        },
-        {
             "id": "PBX-840",
             "name": "QFX Quad 8\" Portable BT Rechargeable Speaker",
             "category": "Speakers",
@@ -6055,16 +6435,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SLK-10 BLACK.png"
-        },
-        {
-            "id": "SLK-10 CAMO",
-            "name": "Audiobox Portable Lock On BT Speaker, CAMO",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SLK-10 CAMO.png"
         },
         {
             "id": "SP-1217RBT",
@@ -6807,16 +7177,6 @@
             "image": "images/SM-720-8910.png"
         },
         {
-            "id": "SM-720-9362",
-            "name": "Samson Heavy Duty Tilt Wall Mount 32-90\" TV's",
-            "category": "TV Wall Bracket",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-9362.png"
-        },
-        {
             "id": "SM-918-3016",
             "name": "Emerald Fixed TV Wall Mount for 13\"-42\" TVs",
             "category": "TV Wall Bracket",
@@ -6825,16 +7185,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-918-3016.png"
-        },
-        {
-            "id": "SM-918-8105",
-            "name": "Emerald Tilt Wall Mount 13\" to 45\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-918-8105.png"
         },
         {
             "id": "TV1000-RTA",
@@ -6925,6 +7275,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/303DGNX.png"
+        },
+        {
+            "id": "STM-4000BK",
+            "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "TS-391",
+            "name": "BRENTWOOD Single electric Induction Cooktop",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-391.png"
         },
         {
             "id": "BDSV53-BLK",
@@ -7044,7 +7414,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/ETTW08E.png"
         },
         {
             "id": "ETTW10E",
