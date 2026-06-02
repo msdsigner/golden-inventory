@@ -114,7 +114,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/AF-800DBK.png"
         },
         {
             "id": "AFWB7QWG13",
@@ -164,7 +164,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-247BK.png"
         },
         {
             "id": "TS-260B",
@@ -1764,7 +1764,7 @@
             "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-212BK.png"
         },
         {
             "id": "TS-215BK",
@@ -1824,7 +1824,7 @@
             "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-241BK.png"
         },
         {
             "id": "TS-244BK",
@@ -1834,7 +1834,7 @@
             "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-244BK.png"
         },
         {
             "id": "WCF1-1003-BWS",
@@ -1964,7 +1964,7 @@
             "sub_category": "Dehumidifier",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VPMS05BWT.png"
         },
         {
             "id": "37210",
@@ -3574,7 +3574,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/RC-5110DS.png"
         },
         {
             "id": "SC-130S",
@@ -3604,7 +3604,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SC-140BL.png"
         },
         {
             "id": "SK-45",
@@ -3614,7 +3614,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SK-45.png"
         },
         {
             "id": "SK-46",
@@ -3874,7 +3874,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-381.png"
         },
         {
             "id": "TS-480S",
@@ -5174,7 +5174,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAP05S1AWT.png"
         },
         {
             "id": "S-15051",
@@ -7284,7 +7284,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/STM-4000BK.png"
         },
         {
             "id": "TS-391",
