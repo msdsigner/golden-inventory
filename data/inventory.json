@@ -2054,7 +2054,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FAN-106-BLK.png"
         },
         {
             "id": "FAN-106-PNK",
@@ -2064,7 +2064,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FAN-106-PNK.png"
         },
         {
             "id": "FAN-106-WHT",
@@ -2074,7 +2074,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FAN-106-WHT.png"
         },
         {
             "id": "FB-05-WHT",
@@ -3644,7 +3644,7 @@
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SM-SC-900.png"
         },
         {
             "id": "SM-STV-2600",
@@ -4817,6 +4817,16 @@
             "image": "images/BCD6W.png"
         },
         {
+            "id": "303DGNX",
+            "name": "Conair 1875 Watts Mid-Size Dryer, Black",
+            "category": "Personal Care",
+            "parent_category": "Health and Personal Care",
+            "sub_category": "Personal Care",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/303DGNX.png"
+        },
+        {
             "id": "3043",
             "name": "Propert 150Kg Body Analysis Scale",
             "category": "Personal Care",
@@ -5184,7 +5194,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HAP0824TWD - No Accessories.png"
         },
         {
             "id": "MAP05S1AWT",
@@ -7127,26 +7137,6 @@
             "image": "images/SA315.png"
         },
         {
-            "id": "303DGNX",
-            "name": "Conair 1875 Watts Mid-Size Dryer, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/303DGNX.png"
-        },
-        {
-            "id": "STM-4000BK",
-            "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/STM-4000BK.png"
-        },
-        {
             "id": "TS-391",
             "name": "BRENTWOOD Single electric Induction Cooktop",
             "category": "Uncategorized",
@@ -7185,6 +7175,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09163.png"
+        },
+        {
+            "id": "STM-4000BK",
+            "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
+            "category": "Vacuums",
+            "parent_category": "Home & Office",
+            "sub_category": "Vacuums",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/STM-4000BK.png"
         },
         {
             "id": "VC-450-BLU",
@@ -7234,7 +7234,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/AW1823TW3W.png"
         },
         {
             "id": "AWAS05BWF",
@@ -7324,7 +7324,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FFRA051WAE.png"
         },
         {
             "id": "LW1017ERSM1",
@@ -7344,7 +7344,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/LW5024.png"
         },
         {
             "id": "MAW08AV1QWT-C",
@@ -7414,7 +7414,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WAW0525CM1W.png"
         },
         {
             "id": "WC05R25A",
@@ -7424,7 +7424,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WC05R25A.png"
         },
         {
             "id": "WC06R25A",
@@ -7434,7 +7434,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WC06R25A.png"
         },
         {
             "id": "WC08W25A",
@@ -7444,7 +7444,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WC08W25A.png"
         },
         {
             "id": "WCH08R25A",
@@ -7454,7 +7454,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WCH08R25A.png"
         },
         {
             "id": "WCT06W25A",
@@ -7464,7 +7464,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WCT06W25A.png"
         },
         {
             "id": "WCT08W25A",
@@ -7474,7 +7474,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WCT08W25A.png"
         }
     ]
 }
