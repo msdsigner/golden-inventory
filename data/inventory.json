@@ -3867,6 +3867,16 @@
             "image": "images/TS-381.png"
         },
         {
+            "id": "TS-391",
+            "name": "BRENTWOOD Single electric Induction Cooktop",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-391.png"
+        },
+        {
             "id": "TS-480S",
             "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
             "category": "Heating & Cooking",
@@ -7135,16 +7145,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SA315.png"
-        },
-        {
-            "id": "TS-391",
-            "name": "BRENTWOOD Single electric Induction Cooktop",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-391.png"
         },
         {
             "id": "BDSV53-BLK",
