@@ -1,5 +1,5 @@
 {
-    "last_updated": "June 24, 2026",
+    "last_updated": "July 01, 2026",
     "publish_pricing": false,
     "downloads": {
         "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
@@ -107,36 +107,6 @@
             "image": "images/AF-202W.png"
         },
         {
-            "id": "AF-2400SI",
-            "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-2400SI.png"
-        },
-        {
-            "id": "AF-400DBK",
-            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-400DBK.png"
-        },
-        {
-            "id": "AF-800DBK",
-            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-800DBK.png"
-        },
-        {
             "id": "AFWB7QWG13",
             "name": "West Bend 7 Qt Electric Air Fryer Oven",
             "category": "Air Fryer & Toaster",
@@ -155,16 +125,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CHTO40B.png"
-        },
-        {
-            "id": "IM-436S",
-            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-436S.png"
         },
         {
             "id": "KE-OV-B101BK",
@@ -757,36 +717,6 @@
             "image": "images/J-26BK.png"
         },
         {
-            "id": "J-28BK",
-            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-28BK.png"
-        },
-        {
-            "id": "JB-191BK",
-            "name": "BRENTWOOD Personal Blender - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-191BK.png"
-        },
-        {
-            "id": "JB-191W",
-            "name": "BRENTWOOD Personal Blender - white",
-            "category": "Blenders & Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-191W.png"
-        },
-        {
             "id": "JB-199",
             "name": "BRENTWOOD Multi PRO 20-PC Blender",
             "category": "Blenders & Mixers",
@@ -1075,26 +1005,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/J-250BT-SIL.png"
-        },
-        {
-            "id": "J-290BT-BLK",
-            "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Black",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-290BT-BLK.png"
-        },
-        {
-            "id": "J-290BT-SIL",
-            "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Silver",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-290BT-SIL.png"
         },
         {
             "id": "LX-30",
@@ -1435,6 +1345,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/UL-BD142-D.png"
+        },
+        {
+            "id": "176",
+            "name": "Kitchen+Sense 3-Cup Aluminum Espresso Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/176.png"
+        },
+        {
+            "id": "177",
+            "name": "Kitchen+Sense 6-Cup Aluminum Espresso Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/177.png"
         },
         {
             "id": "178",
@@ -3267,6 +3197,16 @@
             "image": "images/TWS624R.png"
         },
         {
+            "id": "TWS624W",
+            "name": "2Boom Vibez True Wireless Earphones - Wht",
+            "category": "Headphones & Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones & Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TWS624W.png"
+        },
+        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -3355,6 +3295,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AR-136.png"
+        },
+        {
+            "id": "B20PXP78-A70B",
+            "name": "GOLDEN 0.7 CF Microwave 700W - Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70B.png"
+        },
+        {
+            "id": "B20PXP78-A70W",
+            "name": "GOLDEN 0.7 CF Microwave 700W - White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70W.png"
         },
         {
             "id": "BC-2958CR",
@@ -3767,6 +3727,16 @@
             "image": "images/TS-242.png"
         },
         {
+            "id": "TS-246",
+            "name": "BRENTWOOD PANINI MAKER - Blk",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-246.png"
+        },
+        {
             "id": "TS-337",
             "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
             "category": "Heating & Cooking",
@@ -3835,16 +3805,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-611SS",
-            "name": "BRENTWOOD PANINI MAKER - SS",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-611SS.png"
         },
         {
             "id": "TS-643BK",
@@ -4077,16 +4037,6 @@
             "image": "images/R-15BLK.png"
         },
         {
-            "id": "R-3",
-            "name": "QFX AM/FM/SW1/SW2 RADIO",
-            "category": "Home Radio",
-            "parent_category": "Audio",
-            "sub_category": "Home Radio",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-3.png"
-        },
-        {
             "id": "R-34",
             "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
             "category": "Home Radio",
@@ -4215,16 +4165,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
-        },
-        {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-45",
@@ -4455,16 +4395,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FW70-1558L.png"
-        },
-        {
-            "id": "GYJ40-88FI",
-            "name": "GOLDEN 8.8 LB/2.65 CF Portable Dryer - White",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Laundry",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/GYJ40-88FI.png"
         },
         {
             "id": "GYJ60-88F1",
@@ -4755,6 +4685,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCD6W.png"
+        },
+        {
+            "id": "303DGNX",
+            "name": "Conair 1875 Watts Mid-Size Dryer",
+            "category": "Personal Care",
+            "parent_category": "Health and Personal Care",
+            "sub_category": "Personal Care",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/303DGNX.png"
         },
         {
             "id": "3043",
@@ -5105,16 +5045,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ARC-101CW.png"
-        },
-        {
-            "id": "ARC-131GD",
-            "name": "Whynter 13,000 BTU (6,345 BTU SACC) Dual Hose Cooling Portable AC, Dehumidifier, & Fan with Activated Carbon Filter, up to 420 sq ft, Grey",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ARC-131GD.png"
         },
         {
             "id": "HAP0824TWD - No Accessories",
@@ -5635,16 +5565,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CLP-10-YEL.png"
-        },
-        {
-            "id": "E-1500",
-            "name": "QFX 2 X15\" PROFESSIONAL PA SPEAKER",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/E-1500.png"
         },
         {
             "id": "E-B5",
@@ -6307,16 +6227,6 @@
             "image": "images/SP-2100RBT.png"
         },
         {
-            "id": "SP-2120RBT",
-            "name": "Dolphin BT Spkr Dual 12\" w/ USB Port, LED & Radio",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-2120RBT.png"
-        },
-        {
             "id": "SP-212RBT",
             "name": "Dolphin Dual 12\" Party Speaker",
             "category": "Speakers",
@@ -6547,6 +6457,16 @@
             "image": "images/WPB220M-BLK.png"
         },
         {
+            "id": "WPBMINI-BLK",
+            "name": "WORRYFREE Party Box Mini 10W Wireless BT Speaker, Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPBMINI-BLK.png"
+        },
+        {
             "id": "WS10-BLU",
             "name": "WORRYFREE Wireless BT Speaker with 2 Microphones for Kids, Blue",
             "category": "Speakers",
@@ -6725,16 +6645,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AZONJN9.png"
-        },
-        {
-            "id": "33712-RF1",
-            "name": "GE Universal Remote Control, 6",
-            "category": "TV Remote",
-            "parent_category": "Communications",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/33712-RF1.png"
         },
         {
             "id": "RCR504BE",
@@ -6937,6 +6847,16 @@
             "image": "images/SM-720-8712.png"
         },
         {
+            "id": "SM-720-8730",
+            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
+            "category": "TV Wall Bracket",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Bracket",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8730.png"
+        },
+        {
             "id": "SM-720-8904C",
             "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
             "category": "TV Wall Bracket",
@@ -7047,16 +6967,6 @@
             "image": "images/SA315.png"
         },
         {
-            "id": "303DGNX",
-            "name": "Conair 1875 Watts Mid-Size Dryer, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/303DGNX.png"
-        },
-        {
             "id": "STM-4000BK",
             "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
             "category": "Uncategorized",
@@ -7145,6 +7055,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VC-459-WHT.png"
+        },
+        {
+            "id": "AW0823CW1W",
+            "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 8000-BTU)",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AW0823CW1W.png"
         },
         {
             "id": "AW1823TW3W",
@@ -7297,26 +7217,6 @@
             "image": "images/MAW08V1QWT.png"
         },
         {
-            "id": "MAW12U1QWT",
-            "name": "Midea 12,000 BTU DOE U-Shaped Smart Window Air Conditioner 550 sq. ft - White",
-            "category": "Window AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW12U1QWT.png"
-        },
-        {
-            "id": "MAW12V1QWT",
-            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, 35% Energy Savings, Quiet, Up to 550 Sq. ft.",
-            "category": "Window AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW12V1QWT.png"
-        },
-        {
             "id": "MAW12V1YWT-S",
             "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, White",
             "category": "Window AC",
@@ -7355,6 +7255,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WC06R25A.png"
+        },
+        {
+            "id": "WC08W25A",
+            "name": "Hisense 8,000 BTU Smart Window Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WC08W25A.png"
+        },
+        {
+            "id": "WCH08R25A",
+            "name": "Hisense Window Air Conditioner 8,000 BTU Heat and Cool",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCH08R25A.png"
         }
     ]
 }
