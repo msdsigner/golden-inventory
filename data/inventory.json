@@ -2,8 +2,8 @@
     "last_updated": "July 03, 2026",
     "publish_pricing": false,
     "downloads": {
-        "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
-        "excel": "https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn"
+        "pdf": "data/Inventory_Latest.pdf",
+        "excel": "data/Inventory_Latest.xlsx"
     },
     "items": [
         {
