@@ -2,8 +2,8 @@
     "last_updated": "July 03, 2026",
     "publish_pricing": false,
     "downloads": {
-        "pdf": "data/Inventory_Latest.pdf",
-        "excel": "data/Inventory_Latest.xlsx"
+        "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
+        "excel": "https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn"
     },
     "items": [
         {
@@ -125,16 +125,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CHTO40B.png"
-        },
-        {
-            "id": "IM-436S",
-            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-436S.png"
         },
         {
             "id": "KE-OV-B101BK",
@@ -585,6 +575,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ED-770.png"
+        },
+        {
+            "id": "FP-549BK",
+            "name": "BRENTWOOD 2-Speed Food Processor, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549BK.png"
         },
         {
             "id": "FP-549W",
@@ -1967,6 +1967,16 @@
             "image": "images/F-1831B.png"
         },
         {
+            "id": "F-20SW",
+            "name": "BRENTWOOD 3-Speed 20\u201d Box Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-20SW.png"
+        },
+        {
             "id": "FAN-106-BLK",
             "name": "Emerald Personal Neck Fan, Black",
             "category": "Fans",
@@ -2145,6 +2155,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/V-2742.png"
+        },
+        {
+            "id": "V/3193",
+            "name": "UniqueWare 14\" Industrial Floor Fan",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/V-3193.png"
         },
         {
             "id": "V/3488",
@@ -3667,6 +3687,16 @@
             "image": "images/TS-15.png"
         },
         {
+            "id": "TS-180S",
+            "name": "BRENTWOOD 8 CUP - 1.5 L Rice Cooker with Steamer, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-180S.png"
+        },
+        {
             "id": "TS-231S",
             "name": "BRENTWOOD 5\" Flip Belgian Waffle Maker",
             "category": "Heating & Cooking",
@@ -3775,16 +3805,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-611SS",
-            "name": "BRENTWOOD PANINI MAKER - SS",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-611SS.png"
         },
         {
             "id": "TS-643BK",
@@ -4145,16 +4165,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
-        },
-        {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-45",
@@ -5057,26 +5067,6 @@
             "image": "images/MAP05S1AWT.png"
         },
         {
-            "id": "S-15051",
-            "name": "Portable AC Box - 15x15x36",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
-            "id": "S-4532",
-            "name": "Portable AC Box - 14x14x36",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "FPB1200W",
             "name": "Fisher 10,000 MAh  Power Bank, White",
             "category": "Power Bank",
@@ -5907,16 +5897,6 @@
             "image": "images/PBX-100.png"
         },
         {
-            "id": "PBX-1020",
-            "name": "QFX 2x10 Portable BT Speaker w/ LED Lights",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-1020.png"
-        },
-        {
             "id": "PBX-1206",
             "name": "QFX 12\" Lighted Party SPEAKER",
             "category": "Speakers",
@@ -5955,16 +5935,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-151.png"
-        },
-        {
-            "id": "PBX-1520",
-            "name": "QFX 15\" Dual BT Rechargeable Party Speaker",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-1520.png"
         },
         {
             "id": "PBX-157SM",
