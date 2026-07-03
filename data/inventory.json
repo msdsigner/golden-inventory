@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 03, 2026",
+    "last_updated": "July 04, 2026",
     "publish_pricing": false,
     "downloads": {
         "pdf": "https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_",
@@ -6580,7 +6580,7 @@
             "id": "ANT111E/RB",
             "name": "RCA Indoor HDTV Antenna",
             "category": "TV Antenna",
-            "parent_category": "Electronics",
+            "parent_category": "Refurbished",
             "sub_category": "TV Antenna",
             "price": "Hidden",
             "available": "Hidden",
@@ -6590,7 +6590,7 @@
             "id": "ANT121E/RB",
             "name": "RCA Indoor FM and HDTV Antenna",
             "category": "TV Antenna",
-            "parent_category": "Electronics",
+            "parent_category": "Refurbished",
             "sub_category": "TV Antenna",
             "price": "Hidden",
             "available": "Hidden",
