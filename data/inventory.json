@@ -497,16 +497,6 @@
             "image": "images/HPXSPBT14.png"
         },
         {
-            "id": "HPXSPBT18",
-            "name": "Sentry BT Clock Speaker",
-            "category": "Alarm Clocks",
-            "parent_category": "Home & Office",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXSPBT18.png"
-        },
-        {
             "id": "RC551",
             "name": "RCA Digital Radio Alarm Clock",
             "category": "Alarm Clocks",
@@ -4117,16 +4107,6 @@
             "image": "images/MS8436193153-3-ROA.png"
         },
         {
-            "id": "NN-SB65NS/ROA",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
-            "category": "Heating & Cooking",
-            "parent_category": "Refurbished",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SB65NS-ROA.png"
-        },
-        {
             "id": "NN-SC64MBC/RBO",
             "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
             "category": "Heating & Cooking",
@@ -4135,16 +4115,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SC64MBC-RBO.png"
-        },
-        {
-            "id": "NN-SG616B/RBO",
-            "name": "Panasonic 1.3 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Heating & Cooking",
-            "parent_category": "Refurbished",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SG616B-RBO.png"
         },
         {
             "id": "NN-SN95HS/ROA",
@@ -4165,16 +4135,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SU64LW-RB.png"
-        },
-        {
-            "id": "NN-SU65LW/RB",
-            "name": "Panasonic Microwave Oven 1.3Cu. Ft. White, RB",
-            "category": "Heating & Cooking",
-            "parent_category": "Refurbished",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SU65LW-RB.png"
         },
         {
             "id": "NNSU64LWC/RBO",
