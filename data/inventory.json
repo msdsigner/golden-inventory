@@ -137,14 +137,94 @@
             "image": "images/R22997-RB.png"
         },
         {
-            "id": "SM-AIR-1899/RBO",
-            "name": "Emerald 25L Air Fryer - Digital - RB",
+            "id": "TS-1101BK",
+            "name": "BRENTWOOD 800-watt K-Cup\u00ae Single Serve Coffee Maker with Reusable Filter Basket",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Refurbished",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/SM-AIR-1899-RBO.png"
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "TS-119R",
+            "name": "BRENTWOOD Moka Pot Espresso 6-servings, Red",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-119R.png"
+        },
+        {
+            "id": "TS-15",
+            "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-15.png"
+        },
+        {
+            "id": "TS-212BK",
+            "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-212BK.png"
+        },
+        {
+            "id": "TS-215BK",
+            "name": "BRENTWOOD 10 Cup Coffee Maker - Blk",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-215BK.png"
+        },
+        {
+            "id": "TS-222BK",
+            "name": "BRENTWOOD 12 Cup Coffee Maker Programmable",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-222BK.png"
+        },
+        {
+            "id": "TS-241BK",
+            "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-241BK.png"
+        },
+        {
+            "id": "TS-244BK",
+            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-244BK.png"
+        },
+        {
+            "id": "TS-247BK",
+            "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-247BK.png"
         },
         {
             "id": "TS-260B",
@@ -197,6 +277,16 @@
             "image": "images/TS-284.png"
         },
         {
+            "id": "TS-337",
+            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-337.png"
+        },
+        {
             "id": "TS-345B",
             "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER BLACK",
             "category": "Air Fryer & Toaster",
@@ -215,6 +305,76 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-345R.png"
+        },
+        {
+            "id": "TS-361BK",
+            "name": "BRENTWOOD Electric Double Burner, Blk",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-361BK.png"
+        },
+        {
+            "id": "TS-361W",
+            "name": "BRENTWOOD Electric Double Burner, Wht",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-361W.png"
+        },
+        {
+            "id": "TS-380S",
+            "name": "BRENTWOOD 10 CUP - 1.8 L RICE COOKER W STEAMER WHI",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-380S.png"
+        },
+        {
+            "id": "TS-381",
+            "name": "BRENTWOOD 1200w Single Infrared Electric Countertop Burner with Timer, SS",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-381.png"
+        },
+        {
+            "id": "TS-480S",
+            "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-480S.png"
+        },
+        {
+            "id": "TS-651",
+            "name": "BRENTWOOD Panini Maker - SS",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-651.png"
+        },
+        {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-700S.png"
         },
         {
             "id": "WTO1-1001-BLK",
@@ -1157,6 +1317,116 @@
             "image": "images/885.png"
         },
         {
+            "id": "CBG1-5000-KIT",
+            "name": "Barbasol All in One Men's Travel Grooming Set",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBG1-5000-KIT.png"
+        },
+        {
+            "id": "CBH1-4002-VTN",
+            "name": "Barbasol 10 Pc PRO Clipper Kit",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBH1-4002-VTN.png"
+        },
+        {
+            "id": "CBH1-4007-VTN",
+            "name": "Barbasol Rechargeable Cordless Hair Clipper, SS Blades",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBH1-4007-VTN.png"
+        },
+        {
+            "id": "CBH1-4008-SIG",
+            "name": "Barbasol Rechargeable LED Display T-Blade Trimmer",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBH1-4008-SIG.png"
+        },
+        {
+            "id": "CBH1-4012-VTN",
+            "name": "Barbasol PRO Clipper Kit with Travel Bag",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBH1-4012-VTN.png"
+        },
+        {
+            "id": "CBR1-1002-BLY",
+            "name": "Barbasol Rechargeable Rotary Shaver",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBR1-1002-BLY.png"
+        },
+        {
+            "id": "CBR1-1003-SIG",
+            "name": "Barbasol Wet Rotary Shaver w/ LCD",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBR1-1003-SIG.png"
+        },
+        {
+            "id": "CBT1-3007-BLY",
+            "name": "Barbasol Battery Powered Electric Ear and Nose Trimmer with SS Blades, Foil Attachment",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-3007-BLY.png"
+        },
+        {
+            "id": "CBT1-6002-SLV",
+            "name": "Barbasol T-Blade Trimmer",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-6002-SLV.png"
+        },
+        {
+            "id": "CBT1-7001-SIG",
+            "name": "Barbasol Vacuum lcd Beard Trimmer, Rechargeable, Adjustable Settings, Blk",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-7001-SIG.png"
+        },
+        {
+            "id": "CBT1-9000-SIG",
+            "name": "Barbasol LCD Head Shaver",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-9000-SIG.png"
+        },
+        {
             "id": "CE-CM249",
             "name": "Continental Coffee Maker, 12-Cup Capacity, Pause & Serve",
             "category": "Coffee & Tea",
@@ -1387,16 +1657,6 @@
             "image": "images/SM-KET-1404.png"
         },
         {
-            "id": "TS-1101BK",
-            "name": "BRENTWOOD 800-watt K-Cup\u00ae Single Serve Coffee Maker with Reusable Filter Basket",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "TS-112B",
             "name": "BRENTWOOD SINGLE CUP COFFEE MAKER w/mug",
             "category": "Coffee & Tea",
@@ -1427,16 +1687,6 @@
             "image": "images/TS-119BK.png"
         },
         {
-            "id": "TS-119R",
-            "name": "BRENTWOOD Moka Pot Espresso 6-servings, Red",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-119R.png"
-        },
-        {
             "id": "TS-119S",
             "name": "BRENTWOOD Moka Pot Espresso 6-servings",
             "category": "Coffee & Tea",
@@ -1445,26 +1695,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-119S.png"
-        },
-        {
-            "id": "TS-212BK",
-            "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-212BK.png"
-        },
-        {
-            "id": "TS-215BK",
-            "name": "BRENTWOOD 10 Cup Coffee Maker - Blk",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-215BK.png"
         },
         {
             "id": "TS-215W",
@@ -1495,36 +1725,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-219W.png"
-        },
-        {
-            "id": "TS-222BK",
-            "name": "BRENTWOOD 12 Cup Coffee Maker Programmable",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-222BK.png"
-        },
-        {
-            "id": "TS-241BK",
-            "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-241BK.png"
-        },
-        {
-            "id": "TS-244BK",
-            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-244BK.png"
         },
         {
             "id": "WCF1-1003-BWS",
@@ -1887,6 +2087,106 @@
             "image": "images/FS45-9L.png"
         },
         {
+            "id": "LSL110",
+            "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LSL110.png"
+        },
+        {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-42BK.png"
+        },
+        {
+            "id": "MPI-45",
+            "name": "BRENTWOOD 1100-Watt Dual Voltage Non-Stick Travel Iron with Steam, Blue",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-45.png"
+        },
+        {
+            "id": "MPI-51BK",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51BK.png"
+        },
+        {
+            "id": "MPI-51W",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51W.png"
+        },
+        {
+            "id": "MPI-59BK",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59BK.png"
+        },
+        {
+            "id": "MPI-59R",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59R.png"
+        },
+        {
+            "id": "MPI-59W",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59W.png"
+        },
+        {
+            "id": "MPI-69BKRG",
+            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-69BKRG.png"
+        },
+        {
+            "id": "MPI-70",
+            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-70.png"
+        },
+        {
             "id": "MSWMT24JR/RBO",
             "name": "Mainstays 36\" Tall 3-Speed Oscillating Tower Fan, Black, RB",
             "category": "Fans",
@@ -2065,6 +2365,96 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WSH3-1002-WHT.png"
+        },
+        {
+            "id": "FP-549BK",
+            "name": "BRENTWOOD 2-Speed Food Processor, Black",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549BK.png"
+        },
+        {
+            "id": "FPB1200W",
+            "name": "Fisher 10,000 MAh  Power Bank, White",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FPB1200W.png"
+        },
+        {
+            "id": "FPB2000W",
+            "name": "Fisher 20000 MAH Power Bank, White",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FPB2000W.png"
+        },
+        {
+            "id": "MG-1-BLK",
+            "name": "QFX Mini Massager, Black",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-BLK.png"
+        },
+        {
+            "id": "MG-1-BLU",
+            "name": "QFX Mini Massager, Blue",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-BLU.png"
+        },
+        {
+            "id": "MG-1-CHR",
+            "name": "QFX Mini Massager, Charcoal",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-CHR.png"
+        },
+        {
+            "id": "MG-1-RED",
+            "name": "QFX Mini Massager, Red",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-RED.png"
+        },
+        {
+            "id": "MG-400BK",
+            "name": "BRENTWOOD Electric Meat Grinder 400W, Black",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-400BK.png"
+        },
+        {
+            "id": "MG-400W",
+            "name": "BRENTWOOD Electric Meat Grinder 400W, White",
+            "category": "Food Preparation",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Preparation",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-400W.png"
         },
         {
             "id": "50HPBT500G",
@@ -3297,6 +3687,66 @@
             "image": "images/ED-302-BUR.png"
         },
         {
+            "id": "ED-587BK",
+            "name": "Hercules Electric Double Burner, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-587BK.png"
+        },
+        {
+            "id": "ED-587W",
+            "name": "Hercules Electric Double Burner, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-587W.png"
+        },
+        {
+            "id": "ED-675G",
+            "name": "Cookinex 1.0LT CITRUS JUICER 40W - Green",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-675G.png"
+        },
+        {
+            "id": "ED-675R",
+            "name": "Cookinex 1.0LT CITRUS JUICER 40W - RED",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-675R.png"
+        },
+        {
+            "id": "ED-676BK",
+            "name": "Cookinex 1.4L Citrus Juicer 40w - Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-676BK.png"
+        },
+        {
+            "id": "ED-676W",
+            "name": "Cookinex 1.4L Citrus Juicer 40w - White",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-676W.png"
+        },
+        {
             "id": "EM131A5C-BS",
             "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
             "category": "Heating & Cooking",
@@ -3667,26 +4117,6 @@
             "image": "images/RCR504BE.png"
         },
         {
-            "id": "SM-513-972",
-            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
-            "category": "Home Entertainment",
-            "parent_category": "Electronics",
-            "sub_category": "Home Entertainment",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-513-972.png"
-        },
-        {
-            "id": "SM-720-8550",
-            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
-            "category": "Home Entertainment",
-            "parent_category": "Electronics",
-            "sub_category": "Home Entertainment",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8550.png"
-        },
-        {
             "id": "SCR-75-BLK",
             "name": "Jensen Cassette Player with AM/FM",
             "category": "Home Radio",
@@ -4055,16 +4485,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBF1-2001-BLK.png"
-        },
-        {
-            "id": "CBH1-4007-VTN",
-            "name": "Barbasol Rechargeable Cordless Hair Clipper, SS Blades",
-            "category": "Personal Care",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4007-VTN.png"
         },
         {
             "id": "NV-09586",
@@ -4507,6 +4927,16 @@
             "image": "images/BTSB370.png"
         },
         {
+            "id": "BTSPK139",
+            "name": "Borne 15\" Woofer+1.5\" Tweeter BT Party Spkr",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BTSPK139.png"
+        },
+        {
             "id": "BTSPK145",
             "name": "Borne 10\"x 2 BT Wireless Speaker",
             "category": "Speakers",
@@ -4705,6 +5135,106 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXSPBTRGB.png"
+        },
+        {
+            "id": "J-15",
+            "name": "Brentwood 24oz Electric Citrus Juicer, White",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-15.png"
+        },
+        {
+            "id": "J-200BT",
+            "name": "QFX Portable BT CD Player & Cassette Rec.",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-200BT.png"
+        },
+        {
+            "id": "J-220BT",
+            "name": "QFX CASSETTE AM/FM/SW RADIO BT BOOMBOX W/USB",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-220BT.png"
+        },
+        {
+            "id": "J-230BT-BLK",
+            "name": "QFX Radio Cassette Recorder - Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-230BT-BLK.png"
+        },
+        {
+            "id": "J-230BT-BLU",
+            "name": "QFX Radio Cassette Recorder - Blue",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-230BT-BLU.png"
+        },
+        {
+            "id": "J-230BT-RED",
+            "name": "QFX Radio Cassette Recorder - Red",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-230BT-RED.png"
+        },
+        {
+            "id": "J-250BT-BLK",
+            "name": "QFX Portable CD Player and Cassette Recorder BT + AM/FM Radio Boombox, Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-250BT-BLK.png"
+        },
+        {
+            "id": "J-250BT-SIL",
+            "name": "QFX Portable CD Player and Cassette Recorder BT + AM/FM Radio Boombox, Silver",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-250BT-SIL.png"
+        },
+        {
+            "id": "J-26BK",
+            "name": "BRENTWOOD Powerful Electric Citrus Juicer",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-26BK.png"
+        },
+        {
+            "id": "J-28BK",
+            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-28BK.png"
         },
         {
             "id": "KP-500",
@@ -4977,6 +5507,16 @@
             "image": "images/PBX-2122.png"
         },
         {
+            "id": "PBX-220W",
+            "name": "QFX 2x10\" Karaoke 14 touch-screen",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-220W.png"
+        },
+        {
             "id": "PBX-264",
             "name": "QFX 2x6.5\" PARTY SPEAKER",
             "category": "Speakers",
@@ -4995,6 +5535,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-288.png"
+        },
+        {
+            "id": "PBX-311BT",
+            "name": "QFX 2x10\" PORTABLE BLUETOOTH SPKR",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-311BT.png"
         },
         {
             "id": "PBX-5190",
@@ -5215,6 +5765,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SP-212RBT.png"
+        },
+        {
+            "id": "SP-2250RBT",
+            "name": "Dolphin Dual 12\" Rechargeable X-Bass Spkr",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SP-2250RBT.png"
         },
         {
             "id": "SP-3210RBT",
@@ -5505,6 +6065,166 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/STM-4000BK.png"
+        },
+        {
+            "id": "SM-513-972",
+            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-513-972.png"
+        },
+        {
+            "id": "SM-720-1610",
+            "name": "Emerald LED 10ft Sttrip Lights",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1610.png"
+        },
+        {
+            "id": "SM-720-1638",
+            "name": "Emerald LED 15ft Strip Lights",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1638.png"
+        },
+        {
+            "id": "SM-720-2000",
+            "name": "Emerald LED 20ft Strip Lights",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2000.png"
+        },
+        {
+            "id": "SM-720-2500",
+            "name": "Emerald LED 25ft Strip Light",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2500.png"
+        },
+        {
+            "id": "SM-720-8550",
+            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8550.png"
+        },
+        {
+            "id": "SM-AIR-1899/RBO",
+            "name": "Emerald 25L Air Fryer - Digital - RB",
+            "category": "TV Accessories",
+            "parent_category": "Refurbished",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-AIR-1899-RBO.png"
+        },
+        {
+            "id": "SM-SC-900",
+            "name": "Emerald 6.3 Quart Programmable Slow Cooker",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-SC-900.png"
+        },
+        {
+            "id": "SM-STV-2600",
+            "name": "Samson Electric Burner, White",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2600.png"
+        },
+        {
+            "id": "SM-STV-2601",
+            "name": "Samson Electric Burner, Black",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2601.png"
+        },
+        {
+            "id": "SM-STV-2605",
+            "name": "Emerald Electric Burner, Hot Plate, White",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2605.png"
+        },
+        {
+            "id": "SM-STV-2606",
+            "name": "Emerald Electric Burner, Black",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2606.png"
+        },
+        {
+            "id": "SM-STV-2680",
+            "name": "Emerald Electric Double  Burner, White",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2680.png"
+        },
+        {
+            "id": "SM-STV-2681",
+            "name": "Samson Electric Double  Burner, Black",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2681.png"
+        },
+        {
+            "id": "SM-STV-2685",
+            "name": "Emerald Electric Double  Burner, Hot Plate, White",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2685.png"
+        },
+        {
+            "id": "SM-STV-2686",
+            "name": "Emerald Blk Double-Counter Top Buffet Burner",
+            "category": "TV Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "TV Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2686.png"
         },
         {
             "id": "RCU300TZ",
@@ -5947,106 +6667,6 @@
             "image": "images/BPC-112.png"
         },
         {
-            "id": "BTSPK139",
-            "name": "Borne 15\" Woofer+1.5\" Tweeter BT Party Spkr",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BTSPK139.png"
-        },
-        {
-            "id": "CBG1-5000-KIT",
-            "name": "Barbasol All in One Men's Travel Grooming Set",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBG1-5000-KIT.png"
-        },
-        {
-            "id": "CBH1-4002-VTN",
-            "name": "Barbasol 10 Pc PRO Clipper Kit",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4002-VTN.png"
-        },
-        {
-            "id": "CBH1-4008-SIG",
-            "name": "Barbasol Rechargeable LED Display T-Blade Trimmer",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4008-SIG.png"
-        },
-        {
-            "id": "CBH1-4012-VTN",
-            "name": "Barbasol PRO Clipper Kit with Travel Bag",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4012-VTN.png"
-        },
-        {
-            "id": "CBR1-1002-BLY",
-            "name": "Barbasol Rechargeable Rotary Shaver",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBR1-1002-BLY.png"
-        },
-        {
-            "id": "CBR1-1003-SIG",
-            "name": "Barbasol Wet Rotary Shaver w/ LCD",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBR1-1003-SIG.png"
-        },
-        {
-            "id": "CBT1-3007-BLY",
-            "name": "Barbasol Battery Powered Electric Ear and Nose Trimmer with SS Blades, Foil Attachment",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-3007-BLY.png"
-        },
-        {
-            "id": "CBT1-6002-SLV",
-            "name": "Barbasol T-Blade Trimmer",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-6002-SLV.png"
-        },
-        {
-            "id": "CBT1-9000-SIG",
-            "name": "Barbasol LCD Head Shaver",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-9000-SIG.png"
-        },
-        {
             "id": "CPH1-9011-BOX",
             "name": "Xtreme Pure Silk Tapered Curling Wand ",
             "category": "Uncategorized",
@@ -6167,66 +6787,6 @@
             "image": "images/DMO01003.png"
         },
         {
-            "id": "ED-587BK",
-            "name": "Hercules Electric Double Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-587BK.png"
-        },
-        {
-            "id": "ED-587W",
-            "name": "Hercules Electric Double Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-587W.png"
-        },
-        {
-            "id": "ED-675G",
-            "name": "Cookinex 1.0LT CITRUS JUICER 40W - Green",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-675G.png"
-        },
-        {
-            "id": "ED-675R",
-            "name": "Cookinex 1.0LT CITRUS JUICER 40W - RED",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-675R.png"
-        },
-        {
-            "id": "ED-676BK",
-            "name": "Cookinex 1.4L Citrus Juicer 40w - Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-676BK.png"
-        },
-        {
-            "id": "ED-676W",
-            "name": "Cookinex 1.4L Citrus Juicer 40w - White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-676W.png"
-        },
-        {
             "id": "EPB-3002",
             "name": "Emerson BT Boombox cass-AM/FM-CD-MP3",
             "category": "Uncategorized",
@@ -6285,36 +6845,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FMT-13.png"
-        },
-        {
-            "id": "FP-549BK",
-            "name": "BRENTWOOD 2-Speed Food Processor, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FP-549BK.png"
-        },
-        {
-            "id": "FPB1200W",
-            "name": "Fisher 10,000 MAh  Power Bank, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FPB1200W.png"
-        },
-        {
-            "id": "FPB2000W",
-            "name": "Fisher 20000 MAH Power Bank, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FPB2000W.png"
         },
         {
             "id": "FRWW4543AS/NB",
@@ -6457,106 +6987,6 @@
             "image": "images/IM-409S.png"
         },
         {
-            "id": "J-15",
-            "name": "Brentwood 24oz Electric Citrus Juicer, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-15.png"
-        },
-        {
-            "id": "J-200BT",
-            "name": "QFX Portable BT CD Player & Cassette Rec.",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-200BT.png"
-        },
-        {
-            "id": "J-220BT",
-            "name": "QFX CASSETTE AM/FM/SW RADIO BT BOOMBOX W/USB",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-220BT.png"
-        },
-        {
-            "id": "J-230BT-BLK",
-            "name": "QFX Radio Cassette Recorder - Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-230BT-BLK.png"
-        },
-        {
-            "id": "J-230BT-BLU",
-            "name": "QFX Radio Cassette Recorder - Blue",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-230BT-BLU.png"
-        },
-        {
-            "id": "J-230BT-RED",
-            "name": "QFX Radio Cassette Recorder - Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-230BT-RED.png"
-        },
-        {
-            "id": "J-250BT-BLK",
-            "name": "QFX Portable CD Player and Cassette Recorder BT + AM/FM Radio Boombox, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-250BT-BLK.png"
-        },
-        {
-            "id": "J-250BT-SIL",
-            "name": "QFX Portable CD Player and Cassette Recorder BT + AM/FM Radio Boombox, Silver",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-250BT-SIL.png"
-        },
-        {
-            "id": "J-26BK",
-            "name": "BRENTWOOD Powerful Electric Citrus Juicer",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-26BK.png"
-        },
-        {
-            "id": "J-28BK",
-            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-28BK.png"
-        },
-        {
             "id": "JC-1000",
             "name": "Brentwood Select 2-Speed 1000w Juice Extractor with 50-Oz Graduated Jar, SS",
             "category": "Uncategorized",
@@ -6585,16 +7015,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JC-452W.png"
-        },
-        {
-            "id": "LSL110",
-            "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LSL110.png"
         },
         {
             "id": "LW1017ERSM1",
@@ -6667,66 +7087,6 @@
             "image": "images/MCX21.png"
         },
         {
-            "id": "MG-1-BLK",
-            "name": "QFX Mini Massager, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-BLK.png"
-        },
-        {
-            "id": "MG-1-BLU",
-            "name": "QFX Mini Massager, Blue",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-BLU.png"
-        },
-        {
-            "id": "MG-1-CHR",
-            "name": "QFX Mini Massager, Charcoal",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-CHR.png"
-        },
-        {
-            "id": "MG-1-RED",
-            "name": "QFX Mini Massager, Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-RED.png"
-        },
-        {
-            "id": "MG-400BK",
-            "name": "BRENTWOOD Electric Meat Grinder 400W, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-400BK.png"
-        },
-        {
-            "id": "MG-400W",
-            "name": "BRENTWOOD Electric Meat Grinder 400W, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-400W.png"
-        },
-        {
             "id": "MHV1-1026-GRN",
             "name": "Monster Cable 6ft LED Light - Green",
             "category": "Uncategorized",
@@ -6745,96 +7105,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MHV1-1026-PUR.png"
-        },
-        {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
-        },
-        {
-            "id": "MPI-45",
-            "name": "BRENTWOOD 1100-Watt Dual Voltage Non-Stick Travel Iron with Steam, Blue",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-45.png"
-        },
-        {
-            "id": "MPI-51BK",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51BK.png"
-        },
-        {
-            "id": "MPI-51W",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51W.png"
-        },
-        {
-            "id": "MPI-59BK",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59R",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59R.png"
-        },
-        {
-            "id": "MPI-59W",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59W.png"
-        },
-        {
-            "id": "MPI-69BKRG",
-            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-69BKRG.png"
-        },
-        {
-            "id": "MPI-70",
-            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-70.png"
         },
         {
             "id": "NAS-3105D",
@@ -6895,26 +7165,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09677.png"
-        },
-        {
-            "id": "PBX-220W",
-            "name": "QFX 2x10\" Karaoke 14 touch-screen",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-220W.png"
-        },
-        {
-            "id": "PBX-311BT",
-            "name": "QFX 2x10\" PORTABLE BLUETOOTH SPKR",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-311BT.png"
         },
         {
             "id": "PR205",
@@ -7287,136 +7537,6 @@
             "image": "images/SK-72BK.png"
         },
         {
-            "id": "SM-720-1610",
-            "name": "Emerald LED 10ft Sttrip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1610.png"
-        },
-        {
-            "id": "SM-720-1638",
-            "name": "Emerald LED 15ft Strip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1638.png"
-        },
-        {
-            "id": "SM-720-2000",
-            "name": "Emerald LED 20ft Strip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2000.png"
-        },
-        {
-            "id": "SM-720-2500",
-            "name": "Emerald LED 25ft Strip Light",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2500.png"
-        },
-        {
-            "id": "SM-SC-900",
-            "name": "Emerald 6.3 Quart Programmable Slow Cooker",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-SC-900.png"
-        },
-        {
-            "id": "SM-STV-2600",
-            "name": "Samson Electric Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2600.png"
-        },
-        {
-            "id": "SM-STV-2601",
-            "name": "Samson Electric Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2601.png"
-        },
-        {
-            "id": "SM-STV-2605",
-            "name": "Emerald Electric Burner, Hot Plate, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2605.png"
-        },
-        {
-            "id": "SM-STV-2606",
-            "name": "Emerald Electric Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2606.png"
-        },
-        {
-            "id": "SM-STV-2680",
-            "name": "Emerald Electric Double  Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2680.png"
-        },
-        {
-            "id": "SM-STV-2681",
-            "name": "Samson Electric Double  Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2681.png"
-        },
-        {
-            "id": "SM-STV-2685",
-            "name": "Emerald Electric Double  Burner, Hot Plate, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2685.png"
-        },
-        {
-            "id": "SM-STV-2686",
-            "name": "Emerald Blk Double-Counter Top Buffet Burner",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2686.png"
-        },
-        {
             "id": "SNB-1100S",
             "name": "Dolphin All-inOne 2.2 CH Soundbar",
             "category": "Uncategorized",
@@ -7425,116 +7545,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SNB-1100S.png"
-        },
-        {
-            "id": "SP-2250RBT",
-            "name": "Dolphin Dual 12\" Rechargeable X-Bass Spkr",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-2250RBT.png"
-        },
-        {
-            "id": "TS-15",
-            "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-15.png"
-        },
-        {
-            "id": "TS-247BK",
-            "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-247BK.png"
-        },
-        {
-            "id": "TS-337",
-            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-337.png"
-        },
-        {
-            "id": "TS-361BK",
-            "name": "BRENTWOOD Electric Double Burner, Blk",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-361BK.png"
-        },
-        {
-            "id": "TS-361W",
-            "name": "BRENTWOOD Electric Double Burner, Wht",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-361W.png"
-        },
-        {
-            "id": "TS-380S",
-            "name": "BRENTWOOD 10 CUP - 1.8 L RICE COOKER W STEAMER WHI",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-380S.png"
-        },
-        {
-            "id": "TS-381",
-            "name": "BRENTWOOD 1200w Single Infrared Electric Countertop Burner with Timer, SS",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-381.png"
-        },
-        {
-            "id": "TS-480S",
-            "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-651",
-            "name": "BRENTWOOD Panini Maker - SS",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-651.png"
-        },
-        {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-700S.png"
         },
         {
             "id": "TSB-2438/ROA",
@@ -7585,16 +7595,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BDSV53-BLK.png"
-        },
-        {
-            "id": "CBT1-7001-SIG",
-            "name": "Barbasol Vacuum lcd Beard Trimmer, Rechargeable, Adjustable Settings, Blk",
-            "category": "Vacuums",
-            "parent_category": "Home & Office",
-            "sub_category": "Vacuums",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-7001-SIG.png"
         },
         {
             "id": "NEU102/RBO",
