@@ -50,7 +50,7 @@
             "id": "AF-202BK",
             "name": "BRENTWOOD 2.0 AIR Fryer, Black",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -60,7 +60,7 @@
             "id": "AF-202W",
             "name": "BRENTWOOD 2.0 AIR Fryer, White",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -80,7 +80,7 @@
             "id": "AF-400DBK",
             "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -100,7 +100,7 @@
             "id": "AFWB7QWG13",
             "name": "West Bend 7 Qt Electric Air Fryer Oven",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -110,17 +110,37 @@
             "id": "CHTO40B",
             "name": "Commercial Chef 4 Slice Toaster Oven, Black",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CHTO40B.png"
         },
         {
+            "id": "CP43279",
+            "name": "Continental 5.0 Liter Deep Fryer & Multi Cooker",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CP43279.png"
+        },
+        {
+            "id": "DF-730S",
+            "name": "BRENTWOOD 1500w 3L / 12-Cup Electric SS Deep Fryer with Removable Basket",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DF-730S.png"
+        },
+        {
             "id": "IM-436S",
             "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -130,7 +150,7 @@
             "id": "KE-OV-B101BK",
             "name": "Kitchen Elite 4 Slice Toaster Oven",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -164,7 +184,7 @@
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-1101BK.png"
         },
         {
             "id": "TS-119R",
@@ -260,7 +280,7 @@
             "id": "TS-260W",
             "name": "BRENTWOOD 2-Slice Toaster, White",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -270,7 +290,7 @@
             "id": "TS-265",
             "name": "BRENTWOOD 4-Slice Toaster, White",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -280,7 +300,7 @@
             "id": "TS-280S",
             "name": "BRENTWOOD 2 Slice Toaster - Black/Stainless Steel",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -290,7 +310,7 @@
             "id": "TS-284",
             "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -310,7 +330,7 @@
             "id": "TS-345B",
             "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER BLACK",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -320,7 +340,7 @@
             "id": "TS-345R",
             "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER RED",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -367,6 +387,16 @@
             "image": "images/TS-381.png"
         },
         {
+            "id": "TS-391",
+            "name": "BRENTWOOD Single electric Induction Cooktop",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-391.png"
+        },
+        {
             "id": "TS-480S",
             "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
             "category": "Air Fryer & Toaster",
@@ -400,7 +430,7 @@
             "id": "WTO1-1001-BLK",
             "name": "AIWA 5 in 1 Functionality Convection Air Fryer Toaster, Black",
             "category": "Air Fryer & Toaster",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Air Fryer & Toaster",
             "price": "Hidden",
             "available": "Hidden",
@@ -477,30 +507,10 @@
             "image": "images/CR640D.png"
         },
         {
-            "id": "HPXSPBT14",
-            "name": "Sentry Speaker w/ Clock",
-            "category": "Alarm Clocks",
-            "parent_category": "Audio",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXSPBT14.png"
-        },
-        {
-            "id": "HPXSPBT18",
-            "name": "Sentry BT Clock Speaker",
-            "category": "Alarm Clocks",
-            "parent_category": "Audio",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXSPBT18.png"
-        },
-        {
             "id": "RC551",
             "name": "RCA Digital Radio Alarm Clock",
             "category": "Alarm Clocks",
-            "parent_category": "Audio",
+            "parent_category": "Home & Office",
             "sub_category": "Alarm Clocks",
             "price": "Hidden",
             "available": "Hidden",
@@ -1087,16 +1097,6 @@
             "image": "images/CV-103.png"
         },
         {
-            "id": "DVD350H",
-            "name": "KODAK DVD Player I HDMI and USB",
-            "category": "CD/DVD Player",
-            "parent_category": "Other",
-            "sub_category": "CD/DVD Player",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DVD350H.png"
-        },
-        {
             "id": "MP-100",
             "name": "Audiobox Multimedia Player w/USB",
             "category": "CD/DVD Player",
@@ -1167,16 +1167,6 @@
             "image": "images/PDT-309DTV.png"
         },
         {
-            "id": "PDT-312DTV",
-            "name": "QFX Portable Rechargeable 2\u201d TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
-            "category": "CD/DVD Player",
-            "parent_category": "Other",
-            "sub_category": "CD/DVD Player",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PDT-312DTV.png"
-        },
-        {
             "id": "SC-25",
             "name": "SuperSonic 2.0 Channel DVD Player",
             "category": "CD/DVD Player",
@@ -1197,34 +1187,24 @@
             "image": "images/VP-109-BLK.png"
         },
         {
-            "id": "VP-110",
-            "name": "QFX Progressive Scan DVD/CD Player with HDMI Output+CD Ripping+FM Radio+RC",
-            "category": "CD/DVD Player",
-            "parent_category": "Audio",
-            "sub_category": "CD/DVD Player",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VP-110.png"
-        },
-        {
-            "id": "AH100R",
-            "name": "RCA 100-Ft Speaker Wire",
-            "category": "Cables",
-            "parent_category": "Audio",
-            "sub_category": "Cables",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AH100R.png"
-        },
-        {
             "id": "DV10R",
             "name": "RCA 6-Ft Digital Audio Cable",
             "category": "Cables",
-            "parent_category": "Other",
+            "parent_category": "Electronics",
             "sub_category": "Cables",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/DV10R.png"
+        },
+        {
+            "id": "DVD350H",
+            "name": "KODAK DVD Player I HDMI and USB",
+            "category": "Cables",
+            "parent_category": "Electronics",
+            "sub_category": "Cables",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DVD350H.png"
         },
         {
             "id": "VH25HHR",
@@ -1255,6 +1235,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VH50HHR.png"
+        },
+        {
+            "id": "VP-110",
+            "name": "QFX Progressive Scan DVD/CD Player with HDMI Output+CD Ripping+FM Radio+RC",
+            "category": "Cables",
+            "parent_category": "Electronics",
+            "sub_category": "Cables",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VP-110.png"
         },
         {
             "id": "CA656",
@@ -1545,6 +1535,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBT1-9000-SIG.png"
+        },
+        {
+            "id": "CCD100W6/ROA",
+            "name": "Commercial Chef Food Dehydrator, 280 Watts, White",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CCD100W6-ROA.png"
         },
         {
             "id": "CE-CM249",
@@ -1847,6 +1847,16 @@
             "image": "images/TS-219W.png"
         },
         {
+            "id": "TS-231S",
+            "name": "BRENTWOOD 5\" Flip Belgian Waffle Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-231S.png"
+        },
+        {
             "id": "WCF1-1003-BWS",
             "name": "AIWA 12-Cup Programmable Coffee Maker",
             "category": "Coffee & Tea",
@@ -1875,16 +1885,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTK1-1001-BLK.png"
-        },
-        {
-            "id": "CCD100W6/ROA",
-            "name": "Commercial Chef Food Dehydrator, 280 Watts, White",
-            "category": "Coffee Maker",
-            "parent_category": "Other",
-            "sub_category": "Coffee Maker",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CCD100W6-ROA.png"
         },
         {
             "id": "BCRK17V",
@@ -1965,6 +1965,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCC20W.png"
+        },
+        {
+            "id": "ARC-101CW",
+            "name": "Whynter 10,000 BTU (5,200 BTU SACC) Cool Size Compact Portable AC, Dehumidifier, & Fan with Activated Carbon Filter up to 300 sq ft",
+            "category": "Dehumidifier",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Dehumidifier",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ARC-101CW.png"
         },
         {
             "id": "BD22MWSA",
@@ -2184,7 +2194,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/F-16SMB.png"
         },
         {
             "id": "F-16SMW",
@@ -2194,7 +2204,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/F-16SMW.png"
         },
         {
             "id": "F-16SPW",
@@ -2224,7 +2234,7 @@
             "sub_category": "Fans",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/F-20CRC.png"
         },
         {
             "id": "F-20SW",
@@ -2605,6 +2615,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WLF4-1001-VAW.png"
+        },
+        {
+            "id": "WPF4-1008-RED",
+            "name": "AIWA Power Bank Fan, Red",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPF4-1008-RED.png"
         },
         {
             "id": "WPF4-1008-WHT",
@@ -3890,7 +3910,7 @@
             "id": "CZ550",
             "name": "Comfort Zone Heater Electric radiant 1500/w",
             "category": "Heaters",
-            "parent_category": "Other",
+            "parent_category": "Air & Climate Control",
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
@@ -3910,7 +3930,7 @@
             "id": "HO-0250H",
             "name": "Pelonis Oil Filled Radiator Heater",
             "category": "Heaters",
-            "parent_category": "Other",
+            "parent_category": "Air & Climate Control",
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
@@ -3950,7 +3970,7 @@
             "id": "RSWW1",
             "name": "RCA Hot Water Heater Shut off System",
             "category": "Heaters",
-            "parent_category": "Other",
+            "parent_category": "Air & Climate Control",
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
@@ -3960,7 +3980,7 @@
             "id": "WHT3001",
             "name": "Westinghouse30\"Digital Ceramic Tower Heater Remote",
             "category": "Heaters",
-            "parent_category": "Other",
+            "parent_category": "Air & Climate Control",
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
@@ -4057,26 +4077,6 @@
             "image": "images/CHPM12R.png"
         },
         {
-            "id": "CP43279",
-            "name": "Continental 5.0 Liter Deep Fryer & Multi Cooker",
-            "category": "Heating & Cooking",
-            "parent_category": "Other",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CP43279.png"
-        },
-        {
-            "id": "DF-730S",
-            "name": "BRENTWOOD 1500w 3L / 12-Cup Electric SS Deep Fryer with Removable Basket",
-            "category": "Heating & Cooking",
-            "parent_category": "Other",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DF-730S.png"
-        },
-        {
             "id": "ED-302",
             "name": "Cookinex Arepa Maker w/ Non-Stick Coating",
             "category": "Heating & Cooking",
@@ -4160,11 +4160,21 @@
             "id": "EM131A5C-BS",
             "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
             "category": "Heating & Cooking",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/EM131A5C-BS.png"
+        },
+        {
+            "id": "GCST11N1WSS/ROA",
+            "name": "GE 1.1 Cu Ft CMO SS CL",
+            "category": "Heating & Cooking",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/GCST11N1WSS-ROA.png"
         },
         {
             "id": "HB8436127995-3/RB",
@@ -4295,16 +4305,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-127.png"
-        },
-        {
-            "id": "TS-231S",
-            "name": "BRENTWOOD 5\" Flip Belgian Waffle Maker",
-            "category": "Heating & Cooking",
-            "parent_category": "Other",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-231S.png"
         },
         {
             "id": "TS-240B",
@@ -4537,6 +4537,56 @@
             "image": "images/AZONJN9.png"
         },
         {
+            "id": "BKS-720-315",
+            "name": "Brookstone Fixed TV Wall Mount 36\"-90\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BKS-720-315.png"
+        },
+        {
+            "id": "BKS-720-369",
+            "name": "Brookstone Fixed TV Wall Mount 36\"-90\", Up to 99 Lbs",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BKS-720-369.png"
+        },
+        {
+            "id": "BKS-720-855",
+            "name": "Brookstone Full-Motion TV Wall Mount 37\"-80\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BKS-720-855.png"
+        },
+        {
+            "id": "BKS-720-891",
+            "name": "Brookstone Full Motion TV Mount for 36-85 Inch TVs",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BKS-720-891.png"
+        },
+        {
+            "id": "PDT-312DTV",
+            "name": "QFX Portable Rechargeable 2\u201d TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PDT-312DTV.png"
+        },
+        {
             "id": "RCR504BE",
             "name": "RCA Universal Remote 4",
             "category": "Home Entertainment",
@@ -4545,6 +4595,226 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RCR504BE.png"
+        },
+        {
+            "id": "RCU300TZ",
+            "name": "RCA Universal Remote 3",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RCU300TZ.png"
+        },
+        {
+            "id": "REM-11",
+            "name": "QFX 4 in 1 Smart Universal Remote Control",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/REM-11.png"
+        },
+        {
+            "id": "REM-6",
+            "name": "QFX 6 IN 1 Universal Remote Control",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/REM-6.png"
+        },
+        {
+            "id": "RM-720-9128",
+            "name": "Rocky Mounts Tilt Wall Mount 26\" to 70\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RM-720-9128.png"
+        },
+        {
+            "id": "RM-918-8108",
+            "name": "Rocky Mounts Full-Motion TV Wall Mount for 13\"-47\" TVs",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RM-918-8108.png"
+        },
+        {
+            "id": "SM-513-904",
+            "name": "Samson Tilt Wall Mount 10.7\" to 42\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-513-904.png"
+        },
+        {
+            "id": "SM-720-3026",
+            "name": "Emerald Fixed Wall Mount 23\" to 65\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-3026.png"
+        },
+        {
+            "id": "SM-720-3063",
+            "name": "Emerald Fixed Wall Mount 32\" to 90\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-3063.png"
+        },
+        {
+            "id": "SM-720-6030",
+            "name": "Emerald Wall Mount TV Stand, Black",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-6030.png"
+        },
+        {
+            "id": "SM-720-8079",
+            "name": "Emerald Full Motion Wall Mount 23\" to 55\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8079.png"
+        },
+        {
+            "id": "SM-720-8318A",
+            "name": "Rocky Mounts Full-Motion TV Wall Mount for 17\"-65\" TVs",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8318A.png"
+        },
+        {
+            "id": "SM-720-8532",
+            "name": "Emerald Full Motion Wall Mount 26-70\" TV's",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8532.png"
+        },
+        {
+            "id": "SM-720-8712",
+            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8712.png"
+        },
+        {
+            "id": "SM-720-8730",
+            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8730.png"
+        },
+        {
+            "id": "SM-720-8904C",
+            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8904C.png"
+        },
+        {
+            "id": "SM-720-8910",
+            "name": "Emerald Ceiling Wall TV Mount 32\" to 70\"",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8910.png"
+        },
+        {
+            "id": "SM-918-3016",
+            "name": "Emerald Fixed TV Wall Mount for 13\"-42\" TVs",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-918-3016.png"
+        },
+        {
+            "id": "SRP4221B/27",
+            "name": "Philips 4-Device Universal RC BT",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SRP4221B-27.png"
+        },
+        {
+            "id": "TKTC6GB",
+            "name": "Terk Rechargeable 6-Device Backlit Universal Remote, Black",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TKTC6GB.png"
+        },
+        {
+            "id": "TV1000-RTA",
+            "name": "Woodpeckers Oval Glass TV Stand",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TV1000-RTA.png"
+        },
+        {
+            "id": "TV3BS-A",
+            "name": "Woodpeckers 3 shelf TV Stand glass",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TV3BS-A.png"
+        },
+        {
+            "id": "TV700",
+            "name": "Woodpeckers 3 shelf TV Stand Mahogany Wood",
+            "category": "Home Entertainment",
+            "parent_category": "Electronics",
+            "sub_category": "Home Entertainment",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TV700.png"
         },
         {
             "id": "SCR-75-BLK",
@@ -4659,8 +4929,8 @@
         {
             "id": "BCED37",
             "name": "Black & Decker 3.7 Cu Ft 6Kg Portable Dryer",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4669,8 +4939,8 @@
         {
             "id": "BFLW27MW",
             "name": "BLACK+DECKER 2.7 Cu. Ft. Front Load Washer",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4679,8 +4949,8 @@
         {
             "id": "BPWH84W",
             "name": "Black+Decker 0.84 Cu. Ft. Portable Washer",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4689,8 +4959,8 @@
         {
             "id": "BPWM16W",
             "name": "Black+Decker 1.6 Cu. Ft. Portable Washer",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4699,8 +4969,8 @@
         {
             "id": "BWDS",
             "name": "Black & Decker Washer & Dryer Stand",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4719,8 +4989,8 @@
         {
             "id": "DRYER LINT",
             "name": "Home Comfort Dryer Lint Filter",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4729,8 +4999,8 @@
         {
             "id": "FW100-1388AS",
             "name": "GOLDEN 22.0 LB/10 Kg Portable Washer - White",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4739,8 +5009,8 @@
         {
             "id": "FW50-518A",
             "name": "GOLDEN 11.0 LB/1.6 Cu Ft Portable Washer - White",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4749,8 +5019,8 @@
         {
             "id": "FW70-1558L",
             "name": "GOLDEN 15.4 LB/1.9 Cu Ft Portable Washer - White",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -4759,8 +5029,8 @@
         {
             "id": "GYJ60-88F1",
             "name": "GOLDEN 13 LB/3.5 CF Portable Dryer - White",
-            "category": "Laundry",
-            "parent_category": "Laundry Appliances",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
             "sub_category": "Laundry",
             "price": "Hidden",
             "available": "Hidden",
@@ -5007,16 +5277,6 @@
             "image": "images/NAM-984-BLK.png"
         },
         {
-            "id": "GCST11N1WSS/ROA",
-            "name": "GE 1.1 Cu Ft CMO SS CL",
-            "category": "Microwave",
-            "parent_category": "Other",
-            "sub_category": "Microwave",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/GCST11N1WSS-ROA.png"
-        },
-        {
             "id": "DMO01001",
             "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
             "category": "Outdoor Cooking",
@@ -5147,16 +5407,6 @@
             "image": "images/HPAMP620.png"
         },
         {
-            "id": "ARC-101CW",
-            "name": "Whynter 10,000 BTU (5,200 BTU SACC) Cool Size Compact Portable AC, Dehumidifier, & Fan with Activated Carbon Filter up to 300 sq ft",
-            "category": "Portable AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ARC-101CW.png"
-        },
-        {
             "id": "HAP0824TWD - No Accessories",
             "name": "Hisense 350 Sq. Ft. Inverter Dual-Hose 8000 BTU Portable Air Conditioner",
             "category": "Portable AC",
@@ -5205,16 +5455,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VAP09R1AWT-ROA.png"
-        },
-        {
-            "id": "WPF4-1008-RED",
-            "name": "AIWA Power Bank Fan, Red",
-            "category": "Power Bank",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Power Bank",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPF4-1008-RED.png"
         },
         {
             "id": "FWPB502K",
@@ -5524,7 +5764,7 @@
             "sub_category": "Slow Cookers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SC-157S.png"
         },
         {
             "id": "FSB250K",
@@ -5575,6 +5815,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ABX-82S.png"
+        },
+        {
+            "id": "AH100R",
+            "name": "RCA 100-Ft Speaker Wire",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AH100R.png"
         },
         {
             "id": "BT-10BK",
@@ -6015,6 +6265,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBTSP3.png"
+        },
+        {
+            "id": "HPXSPBT14",
+            "name": "Sentry Speaker w/ Clock",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXSPBT14.png"
+        },
+        {
+            "id": "HPXSPBT18",
+            "name": "Sentry BT Clock Speaker",
+            "category": "Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXSPBT18.png"
         },
         {
             "id": "HPXSPBT6",
@@ -7187,266 +7457,6 @@
             "image": "images/SM-STV-2686.png"
         },
         {
-            "id": "RCU300TZ",
-            "name": "RCA Universal Remote 3",
-            "category": "TV Remote",
-            "parent_category": "Other",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RCU300TZ.png"
-        },
-        {
-            "id": "REM-11",
-            "name": "QFX 4 in 1 Smart Universal Remote Control",
-            "category": "TV Remote",
-            "parent_category": "Other",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/REM-11.png"
-        },
-        {
-            "id": "REM-6",
-            "name": "QFX 6 IN 1 Universal Remote Control",
-            "category": "TV Remote",
-            "parent_category": "Other",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/REM-6.png"
-        },
-        {
-            "id": "SRP4221B/27",
-            "name": "Philips 4-Device Universal RC BT",
-            "category": "TV Remote",
-            "parent_category": "Other",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SRP4221B-27.png"
-        },
-        {
-            "id": "TKTC6GB",
-            "name": "Terk Rechargeable 6-Device Backlit Universal Remote, Black",
-            "category": "TV Remote",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "TV Remote",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TKTC6GB.png"
-        },
-        {
-            "id": "BKS-720-315",
-            "name": "Brookstone Fixed TV Wall Mount 36\"-90\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BKS-720-315.png"
-        },
-        {
-            "id": "BKS-720-369",
-            "name": "Brookstone Fixed TV Wall Mount 36\"-90\", Up to 99 Lbs",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BKS-720-369.png"
-        },
-        {
-            "id": "BKS-720-855",
-            "name": "Brookstone Full-Motion TV Wall Mount 37\"-80\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BKS-720-855.png"
-        },
-        {
-            "id": "BKS-720-891",
-            "name": "Brookstone Full Motion TV Mount for 36-85 Inch TVs",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BKS-720-891.png"
-        },
-        {
-            "id": "RM-720-9128",
-            "name": "Rocky Mounts Tilt Wall Mount 26\" to 70\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RM-720-9128.png"
-        },
-        {
-            "id": "RM-918-8108",
-            "name": "Rocky Mounts Full-Motion TV Wall Mount for 13\"-47\" TVs",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RM-918-8108.png"
-        },
-        {
-            "id": "SM-513-904",
-            "name": "Samson Tilt Wall Mount 10.7\" to 42\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-513-904.png"
-        },
-        {
-            "id": "SM-720-3026",
-            "name": "Emerald Fixed Wall Mount 23\" to 65\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-3026.png"
-        },
-        {
-            "id": "SM-720-3063",
-            "name": "Emerald Fixed Wall Mount 32\" to 90\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-3063.png"
-        },
-        {
-            "id": "SM-720-6030",
-            "name": "Emerald Wall Mount TV Stand, Black",
-            "category": "TV Wall Bracket",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-6030.png"
-        },
-        {
-            "id": "SM-720-8079",
-            "name": "Emerald Full Motion Wall Mount 23\" to 55\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8079.png"
-        },
-        {
-            "id": "SM-720-8318A",
-            "name": "Rocky Mounts Full-Motion TV Wall Mount for 17\"-65\" TVs",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8318A.png"
-        },
-        {
-            "id": "SM-720-8532",
-            "name": "Emerald Full Motion Wall Mount 26-70\" TV's",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8532.png"
-        },
-        {
-            "id": "SM-720-8712",
-            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8712.png"
-        },
-        {
-            "id": "SM-720-8730",
-            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8730.png"
-        },
-        {
-            "id": "SM-720-8904C",
-            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8904C.png"
-        },
-        {
-            "id": "SM-720-8910",
-            "name": "Emerald Ceiling Wall TV Mount 32\" to 70\"",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8910.png"
-        },
-        {
-            "id": "SM-918-3016",
-            "name": "Emerald Fixed TV Wall Mount for 13\"-42\" TVs",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-918-3016.png"
-        },
-        {
-            "id": "TV1000-RTA",
-            "name": "Woodpeckers Oval Glass TV Stand",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TV1000-RTA.png"
-        },
-        {
-            "id": "TV3BS-A",
-            "name": "Woodpeckers 3 shelf TV Stand glass",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TV3BS-A.png"
-        },
-        {
-            "id": "TV700",
-            "name": "Woodpeckers 3 shelf TV Stand Mahogany Wood",
-            "category": "TV Wall Bracket",
-            "parent_category": "Other",
-            "sub_category": "TV Wall Bracket",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TV700.png"
-        },
-        {
             "id": "SA150",
             "name": "Sylvania 15 Minute Digital Auto Shut Off Timer",
             "category": "Timers",
@@ -7485,16 +7495,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SA315.png"
-        },
-        {
-            "id": "TS-391",
-            "name": "BRENTWOOD Single electric Induction Cooktop",
-            "category": "Toaster",
-            "parent_category": "Other",
-            "sub_category": "Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-391.png"
         },
         {
             "id": "CXT1-3500-HYP",
