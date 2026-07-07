@@ -567,6 +567,16 @@
             "image": "images/CK-CB26GR.png"
         },
         {
+            "id": "NS-BC1ZSS9/NB",
+            "name": "INSIGNIA 165 CAN Built-In Beverage Cooler, SS, RB",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Beverage Centers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NS-BC1ZSS9-NB.png"
+        },
+        {
             "id": "BC115SS9/NB",
             "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
             "category": "Beverage Cooler",
@@ -1885,6 +1895,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCRK17V.png"
+        },
+        {
+            "id": "NS-CF44BK3/NB",
+            "name": "INSIGNIA 4.4 Cu Ft Mini Fridge, Black, RB",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NS-CF44BK3-NB.png"
         },
         {
             "id": "D-09/CA57BN",
@@ -7495,26 +7515,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CXT1-6002-HYP.png"
-        },
-        {
-            "id": "NS-BC1ZSS9/NB",
-            "name": "INSIGNIA 165 CAN Built-In Beverage Cooler, SS, RB",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NS-BC1ZSS9-NB.png"
-        },
-        {
-            "id": "NS-CF44BK3/NB",
-            "name": "INSIGNIA 4.4 Cu Ft Mini Fridge, Black, RB",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NS-CF44BK3-NB.png"
         },
         {
             "id": "BDSV53-BLK",
