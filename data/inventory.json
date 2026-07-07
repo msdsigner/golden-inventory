@@ -47,6 +47,36 @@
             "image": "images/AF-202W.png"
         },
         {
+            "id": "AF-2400SI",
+            "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-2400SI.png"
+        },
+        {
+            "id": "AF-400DBK",
+            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-400DBK.png"
+        },
+        {
+            "id": "AF-800DBK",
+            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-800DBK.png"
+        },
+        {
             "id": "AFWB7QWG13",
             "name": "West Bend 7 Qt Electric Air Fryer Oven",
             "category": "Air Fryer & Toaster",
@@ -477,6 +507,26 @@
             "image": "images/FP-549W.png"
         },
         {
+            "id": "FP-581",
+            "name": "BRENTWOOD Select 12-Cup Food Processor, SS",
+            "category": "Blenders & Mixers",
+            "parent_category": "",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-581.png"
+        },
+        {
+            "id": "FP-585BK",
+            "name": "BRENTWOOD 8-Cup Food Processor",
+            "category": "Blenders & Mixers",
+            "parent_category": "",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-585BK.png"
+        },
+        {
             "id": "GA-103S",
             "name": "Brentwood Powerful Battery-Operated Electric Milk Frother and Drink Mixer with SS Whisk, SS",
             "category": "Blenders & Mixers",
@@ -565,6 +615,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HM-48W.png"
+        },
+        {
+            "id": "JB-191BK",
+            "name": "BRENTWOOD Personal Blender - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-191BK.png"
+        },
+        {
+            "id": "JB-191W",
+            "name": "BRENTWOOD Personal Blender - white",
+            "category": "Blenders & Mixers",
+            "parent_category": "",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-191W.png"
         },
         {
             "id": "JB-199",
@@ -1117,6 +1187,16 @@
             "image": "images/CG-158B.png"
         },
         {
+            "id": "CG-158BL",
+            "name": "BRENTWOOD Kitchen Essential Coffee Grinder - Blue",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CG-158BL.png"
+        },
+        {
             "id": "CG-158W",
             "name": "BRENTWOOD Kitchen Essential Coffee Grinder - White",
             "category": "Coffee & Tea",
@@ -1125,6 +1205,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CG-158W.png"
+        },
+        {
+            "id": "CG-162S",
+            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CG-162S.png"
         },
         {
             "id": "CHCM12B",
@@ -1295,6 +1385,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-KET-1404.png"
+        },
+        {
+            "id": "TS-1101BK",
+            "name": "BRENTWOOD 800-watt K-Cup\u00ae Single Serve Coffee Maker with Reusable Filter Basket",
+            "category": "Coffee & Tea",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "TS-112B",
@@ -1617,6 +1717,26 @@
             "image": "images/BHOC05-ROA.png"
         },
         {
+            "id": "F-16SMB",
+            "name": "BRENTWOOD 3-Speed 16\u201d Oscillating Stand Fan, Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "F-16SMW",
+            "name": "BRENTWOOD 3-Speed 16\u201d Oscillating Stand Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "F-16SPW",
             "name": "BRENTWOOD 16\u201d Oscillating Stand Fan, 3 Quiet Speeds, 5 Blades, White",
             "category": "Fans",
@@ -1625,6 +1745,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/F-16SPW.png"
+        },
+        {
+            "id": "F-1831B",
+            "name": "BRENTWOOD Kool Zone 18\" Industrial 3-in-1 Fan, Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-1831B.png"
+        },
+        {
+            "id": "F-20CRC",
+            "name": "BRENTWOOD 3-Speed 20\u201d High Velocity Floor Fan, Metal Construction",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "F-20SW",
+            "name": "BRENTWOOD 3-Speed 20\u201d Box Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-20SW.png"
         },
         {
             "id": "FAN-106-BLK",
@@ -3117,6 +3267,16 @@
             "image": "images/CP43279.png"
         },
         {
+            "id": "DF-730S",
+            "name": "BRENTWOOD 1500w 3L / 12-Cup Electric SS Deep Fryer with Removable Basket",
+            "category": "Heating & Cooking",
+            "parent_category": "",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DF-730S.png"
+        },
+        {
             "id": "ED-302",
             "name": "Cookinex Arepa Maker w/ Non-Stick Coating",
             "category": "Heating & Cooking",
@@ -3305,6 +3465,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-372.png"
+        },
+        {
+            "id": "TS-611SS",
+            "name": "BRENTWOOD PANINI MAKER - SS",
+            "category": "Heating & Cooking",
+            "parent_category": "",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-611SS.png"
         },
         {
             "id": "TS-643BK",
@@ -6117,6 +6287,16 @@
             "image": "images/FMT-13.png"
         },
         {
+            "id": "FP-549BK",
+            "name": "BRENTWOOD 2-Speed Food Processor, Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549BK.png"
+        },
+        {
             "id": "FPB1200W",
             "name": "Fisher 10,000 MAh  Power Bank, White",
             "category": "Uncategorized",
@@ -6367,6 +6547,16 @@
             "image": "images/J-26BK.png"
         },
         {
+            "id": "J-28BK",
+            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-28BK.png"
+        },
+        {
             "id": "JC-1000",
             "name": "Brentwood Select 2-Speed 1000w Juice Extractor with 50-Oz Graduated Jar, SS",
             "category": "Uncategorized",
@@ -6555,6 +6745,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MHV1-1026-PUR.png"
+        },
+        {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-45",
@@ -7017,6 +7217,16 @@
             "image": "images/SC-140BL.png"
         },
         {
+            "id": "SC-157S",
+            "name": "BRENTWOOD Select 7 Quart Slow Cooker",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "SC-5000VD",
             "name": "SuperSonic Smart WiFi Doorbell Camera",
             "category": "Uncategorized",
@@ -7305,6 +7515,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
+        },
+        {
+            "id": "TS-651",
+            "name": "BRENTWOOD Panini Maker - SS",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-651.png"
         },
         {
             "id": "TS-700S",
