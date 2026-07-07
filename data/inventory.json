@@ -2227,6 +2227,26 @@
             "image": "images/FB-82-WHT.png"
         },
         {
+            "id": "FB-83-BLK",
+            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, Black",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-83-BLK.png"
+        },
+        {
+            "id": "FB-83-WHT",
+            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-83-WHT.png"
+        },
+        {
             "id": "FB-84-WHT",
             "name": "QFX Portable 8\" Rechargeable Adjustable Height Desktop or Stand Fan, White",
             "category": "Fans",
@@ -4437,6 +4457,16 @@
             "image": "images/BT-64-BLK.png"
         },
         {
+            "id": "BT-70",
+            "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
+            "category": "Home Audio",
+            "parent_category": "Audio",
+            "sub_category": "Home Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-70.png"
+        },
+        {
             "id": "BT-8",
             "name": "QFX 8\" Portable BT Speaker w/ Wired Mic",
             "category": "Home Audio",
@@ -5367,26 +5397,6 @@
             "image": "images/BT-2024-SIL.png"
         },
         {
-            "id": "FB-83-BLK",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, Black",
-            "category": "Lighting",
-            "parent_category": "Home & Office",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-83-BLK.png"
-        },
-        {
-            "id": "FB-83-WHT",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, White",
-            "category": "Lighting",
-            "parent_category": "Home & Office",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-83-WHT.png"
-        },
-        {
             "id": "MHV1-1026-GRN",
             "name": "Monster Cable 6ft LED Light - Green",
             "category": "Lighting",
@@ -5825,16 +5835,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPMS05BWT.png"
-        },
-        {
-            "id": "BT-70",
-            "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
-            "category": "Portable Audio",
-            "parent_category": "Audio",
-            "sub_category": "Portable Audio",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-70.png"
         },
         {
             "id": "HP-E160BLK",
