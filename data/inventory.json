@@ -3737,6 +3737,16 @@
             "image": "images/WA65-BLK.png"
         },
         {
+            "id": "WH58-BLK",
+            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
+            "category": "Speakers",
+            "parent_category": "Other",
+            "sub_category": "Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WH58-BLK.png"
+        },
+        {
             "id": "WPB2-BLK",
             "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Black w/(TR1/HS-02)",
             "category": "Speakers",
