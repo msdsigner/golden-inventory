@@ -237,6 +237,16 @@
             "image": "images/BC115SS9-NB.png"
         },
         {
+            "id": "BT-70",
+            "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Beverage Centers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-70.png"
+        },
+        {
             "id": "CK-CB14GRN",
             "name": "Cookinex 14 Can Cooler Bag, Green",
             "category": "Major Appliances",
@@ -1265,6 +1275,146 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCRK17V.png"
+        },
+        {
+            "id": "ED-250/R",
+            "name": "Cookinex Mini Food Chopper - Red",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-250-R.png"
+        },
+        {
+            "id": "HPXBT957B",
+            "name": "Sentry Mini In-Ear Tru Wireless w/case - Blk",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT957B.png"
+        },
+        {
+            "id": "HPXBT957W",
+            "name": "Sentry Mini In-Ear Tru Wireless w/case - Wht",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT957W.png"
+        },
+        {
+            "id": "HPXBT960B",
+            "name": "Sentry Mini True Wireless Earbuds with Charging Case, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT960B.png"
+        },
+        {
+            "id": "HPXBT960W",
+            "name": "Sentry Mini True Wireless Earbuds with Charging Case, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT960W.png"
+        },
+        {
+            "id": "MG-1-BLK",
+            "name": "QFX Mini Massager, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-BLK.png"
+        },
+        {
+            "id": "MG-1-BLU",
+            "name": "QFX Mini Massager, Blue",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-BLU.png"
+        },
+        {
+            "id": "MG-1-CHR",
+            "name": "QFX Mini Massager, Charcoal",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-CHR.png"
+        },
+        {
+            "id": "MG-1-RED",
+            "name": "QFX Mini Massager, Red",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-1-RED.png"
+        },
+        {
+            "id": "NS-CF44BK3/NB",
+            "name": "INSIGNIA 4.4 Cu Ft Mini Fridge, Black, RB",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NS-CF44BK3-NB.png"
+        },
+        {
+            "id": "TS-241BK",
+            "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-241BK.png"
+        },
+        {
+            "id": "WCF1-1007-BLK",
+            "name": "AIWA Compact Coffee Maker",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCF1-1007-BLK.png"
+        },
+        {
+            "id": "WPB220M-BLK",
+            "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPB220M-BLK.png"
+        },
+        {
+            "id": "WPBMINI-BLK",
+            "name": "WORRYFREE Party Box Mini 10W Wireless BT Speaker, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Compact Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPBMINI-BLK.png"
         },
         {
             "id": "HPXKX525",
@@ -2767,6 +2917,16 @@
             "image": "images/BWDS.png"
         },
         {
+            "id": "CASTER KIT",
+            "name": "Home Comfort Caster Kit",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Laundry",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CASTER KIT.png"
+        },
+        {
             "id": "DRYER LINT",
             "name": "Home Comfort Dryer Lint Filter",
             "category": "Major Appliances",
@@ -3387,6 +3547,66 @@
             "image": "images/RX-3.png"
         },
         {
+            "id": "BDT50WTB",
+            "name": "Black & Decker 50 pt. Dehumidifier",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BDT50WTB.png"
+        },
+        {
+            "id": "BFTU107",
+            "name": "BLACK+DECKER Turbo Desk Fan, Electric Port. 7 Inc",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BFTU107.png"
+        },
+        {
+            "id": "CBT1-3007-BLY",
+            "name": "Barbasol Battery Powered Electric Ear and Nose Trimmer with SS Blades, Foil Attachment",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-3007-BLY.png"
+        },
+        {
+            "id": "CG-162S",
+            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CG-162S.png"
+        },
+        {
+            "id": "ED-587BK",
+            "name": "Hercules Electric Double Burner, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-587BK.png"
+        },
+        {
+            "id": "ED-587W",
+            "name": "Hercules Electric Double Burner, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-587W.png"
+        },
+        {
             "id": "ER-7002-BL",
             "name": "Emerson Portable AMFM Radio with Earbuds and Wide Frequency Range of Stations, Blue",
             "category": "Major Appliances",
@@ -3407,6 +3627,26 @@
             "image": "images/ER-7002-RD.png"
         },
         {
+            "id": "J-15",
+            "name": "Brentwood 24oz Electric Citrus Juicer, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-15.png"
+        },
+        {
+            "id": "J-26BK",
+            "name": "BRENTWOOD Powerful Electric Citrus Juicer",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-26BK.png"
+        },
+        {
             "id": "J-28BK",
             "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
             "category": "Major Appliances",
@@ -3417,14 +3657,354 @@
             "image": "images/J-28BK.png"
         },
         {
-            "id": "NS-CF44BK3/NB",
-            "name": "INSIGNIA 4.4 Cu Ft Mini Fridge, Black, RB",
+            "id": "KT-1617-W",
+            "name": "BRENTWOOD 1.7-liter Electric Tea Kettle White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/KT-1617-W.png"
+        },
+        {
+            "id": "MG-400BK",
+            "name": "BRENTWOOD Electric Meat Grinder 400W, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-400BK.png"
+        },
+        {
+            "id": "MG-400W",
+            "name": "BRENTWOOD Electric Meat Grinder 400W, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MG-400W.png"
+        },
+        {
+            "id": "MSH20Q3ABB/RBO",
+            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
+            "category": "Ranges",
+            "parent_category": "Refurbished",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3ABB-RBO.png"
+        },
+        {
+            "id": "SM-STV-2600",
+            "name": "Samson Electric Burner, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2600.png"
+        },
+        {
+            "id": "SM-STV-2601",
+            "name": "Samson Electric Burner, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2601.png"
+        },
+        {
+            "id": "SM-STV-2605",
+            "name": "Emerald Electric Burner, Hot Plate, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2605.png"
+        },
+        {
+            "id": "SM-STV-2606",
+            "name": "Emerald Electric Burner, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2606.png"
+        },
+        {
+            "id": "SM-STV-2680",
+            "name": "Emerald Electric Double  Burner, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2680.png"
+        },
+        {
+            "id": "SM-STV-2681",
+            "name": "Samson Electric Double  Burner, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2681.png"
+        },
+        {
+            "id": "SM-STV-2685",
+            "name": "Emerald Electric Double  Burner, Hot Plate, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2685.png"
+        },
+        {
+            "id": "TS-244BK",
+            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-244BK.png"
+        },
+        {
+            "id": "TS-337",
+            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-337.png"
+        },
+        {
+            "id": "TS-361BK",
+            "name": "BRENTWOOD Electric Double Burner, Blk",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-361BK.png"
+        },
+        {
+            "id": "TS-361W",
+            "name": "BRENTWOOD Electric Double Burner, Wht",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Ranges",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-361W.png"
+        },
+        {
+            "id": "ANT-22",
+            "name": "QFX Adjustable Indoor HDTV Antenna",
             "category": "Major Appliances",
             "parent_category": "Major Appliances",
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/NS-CF44BK3-NB.png"
+            "image": "images/ANT-22.png"
+        },
+        {
+            "id": "ANT-400",
+            "name": "AudioBox Amplified Indoor Antenna",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT-400.png"
+        },
+        {
+            "id": "ANT-7-BLK",
+            "name": "QFX Indoor antenna - Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT-7-BLK.png"
+        },
+        {
+            "id": "ANT111E",
+            "name": "RCA Indoor HDTV Antenna",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT111E.png"
+        },
+        {
+            "id": "ANT111E/RB",
+            "name": "RCA Indoor HDTV Antenna",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT111E-RB.png"
+        },
+        {
+            "id": "ANT121E/RB",
+            "name": "RCA Indoor FM and HDTV Antenna",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT121E-RB.png"
+        },
+        {
+            "id": "ANT310E",
+            "name": "RCA Amplified Indoor Antenna",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT310E.png"
+        },
+        {
+            "id": "ANT751Z",
+            "name": "RCA Outdoor/Attic Antenna",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT751Z.png"
+        },
+        {
+            "id": "BFB09W",
+            "name": "BLACK+DECKER Mini Box Fan - Tabletop Quiet 9 Inch",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BFB09W.png"
+        },
+        {
+            "id": "BHD406W",
+            "name": "BLACK+DECKER Dual Function Desktop Heater & Fan",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BHD406W.png"
+        },
+        {
+            "id": "FB-05-WHT",
+            "name": "QFX Portable Rechargeable Desktop Fan, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-05-WHT.png"
+        },
+        {
+            "id": "FB-82-WHT",
+            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-82-WHT.png"
+        },
+        {
+            "id": "FB-83-BLK",
+            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-83-BLK.png"
+        },
+        {
+            "id": "FB-83-WHT",
+            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-83-WHT.png"
+        },
+        {
+            "id": "FB-84-WHT",
+            "name": "QFX Portable 8\" Rechargeable Adjustable Height Desktop or Stand Fan, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FB-84-WHT.png"
+        },
+        {
+            "id": "LSL110",
+            "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LSL110.png"
+        },
+        {
+            "id": "NN-SC64MBC/RBO",
+            "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NN-SC64MBC-RBO.png"
+        },
+        {
+            "id": "NN-SU64LW/RB",
+            "name": "Panasonic Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte White, RB",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NN-SU64LW-RB.png"
+        },
+        {
+            "id": "NNSU64LWC/RBO",
+            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NNSU64LWC-RBO.png"
+        },
+        {
+            "id": "NNSU65NBC/RBO",
+            "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
+            "category": "Refrigerators",
+            "parent_category": "Refurbished",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NNSU65NBC-RBO.png"
         },
         {
             "id": "RM3306W",
@@ -3445,6 +4025,66 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RM3316B.png"
+        },
+        {
+            "id": "SM-720-1610",
+            "name": "Emerald LED 10ft Sttrip Lights",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1610.png"
+        },
+        {
+            "id": "SM-720-1638",
+            "name": "Emerald LED 15ft Strip Lights",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1638.png"
+        },
+        {
+            "id": "SM-720-2000",
+            "name": "Emerald LED 20ft Strip Lights",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2000.png"
+        },
+        {
+            "id": "SM-720-2500",
+            "name": "Emerald LED 25ft Strip Light",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2500.png"
+        },
+        {
+            "id": "SM-STV-2686",
+            "name": "Emerald Blk Double-Counter Top Buffet Burner",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-STV-2686.png"
+        },
+        {
+            "id": "TS-381",
+            "name": "BRENTWOOD 1200w Single Infrared Electric Countertop Burner with Timer, SS",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-381.png"
         },
         {
             "id": "IM-409S",
@@ -4177,16 +4817,6 @@
             "image": "images/ABX-82S.png"
         },
         {
-            "id": "AF-2400SI",
-            "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-2400SI.png"
-        },
-        {
             "id": "AF-800DBK",
             "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
             "category": "Uncategorized",
@@ -4207,36 +4837,6 @@
             "image": "images/ANT-100.png"
         },
         {
-            "id": "ANT-22",
-            "name": "QFX Adjustable Indoor HDTV Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-22.png"
-        },
-        {
-            "id": "ANT-400",
-            "name": "AudioBox Amplified Indoor Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-400.png"
-        },
-        {
-            "id": "ANT-7-BLK",
-            "name": "QFX Indoor antenna - Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-7-BLK.png"
-        },
-        {
             "id": "ANT1080E",
             "name": "RCA Ultra-Thin HDTV Antenna",
             "category": "Uncategorized",
@@ -4245,36 +4845,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT1080E.png"
-        },
-        {
-            "id": "ANT111E",
-            "name": "RCA Indoor HDTV Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT111E.png"
-        },
-        {
-            "id": "ANT111E/RB",
-            "name": "RCA Indoor HDTV Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT111E-RB.png"
-        },
-        {
-            "id": "ANT121E/RB",
-            "name": "RCA Indoor FM and HDTV Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT121E-RB.png"
         },
         {
             "id": "ANT1560E",
@@ -4295,26 +4865,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT30MILE.png"
-        },
-        {
-            "id": "ANT310E",
-            "name": "RCA Amplified Indoor Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT310E.png"
-        },
-        {
-            "id": "ANT751Z",
-            "name": "RCA Outdoor/Attic Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT751Z.png"
         },
         {
             "id": "AW0823CW1W",
@@ -4435,46 +4985,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BDSV53-BLK.png"
-        },
-        {
-            "id": "BDT50WTB",
-            "name": "Black & Decker 50 pt. Dehumidifier",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BDT50WTB.png"
-        },
-        {
-            "id": "BFB09W",
-            "name": "BLACK+DECKER Mini Box Fan - Tabletop Quiet 9 Inch",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BFB09W.png"
-        },
-        {
-            "id": "BFTU107",
-            "name": "BLACK+DECKER Turbo Desk Fan, Electric Port. 7 Inc",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BFTU107.png"
-        },
-        {
-            "id": "BHD406W",
-            "name": "BLACK+DECKER Dual Function Desktop Heater & Fan",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHD406W.png"
         },
         {
             "id": "BHF136193153/RBO",
@@ -4667,16 +5177,6 @@
             "image": "images/BT-64-BLK.png"
         },
         {
-            "id": "BT-70",
-            "name": "QFX Beverage Dispenser BT Speaker + LED Party Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-70.png"
-        },
-        {
             "id": "BT-8",
             "name": "QFX 8\" Portable BT Speaker w/ Wired Mic",
             "category": "Uncategorized",
@@ -4777,16 +5277,6 @@
             "image": "images/BTWSPK20.png"
         },
         {
-            "id": "CASTER KIT",
-            "name": "Home Comfort Caster Kit",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CASTER KIT.png"
-        },
-        {
             "id": "CBG1-5000-KIT",
             "name": "Barbasol All in One Men's Travel Grooming Set",
             "category": "Uncategorized",
@@ -4857,16 +5347,6 @@
             "image": "images/CBR1-1003-SIG.png"
         },
         {
-            "id": "CBT1-3007-BLY",
-            "name": "Barbasol Battery Powered Electric Ear and Nose Trimmer with SS Blades, Foil Attachment",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-3007-BLY.png"
-        },
-        {
             "id": "CBT1-6002-SLV",
             "name": "Barbasol T-Blade Trimmer",
             "category": "Uncategorized",
@@ -4915,16 +5395,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CG-158BL.png"
-        },
-        {
-            "id": "CG-162S",
-            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CG-162S.png"
         },
         {
             "id": "CLP-10-YEL",
@@ -5007,16 +5477,6 @@
             "image": "images/E-B5.png"
         },
         {
-            "id": "ED-250/R",
-            "name": "Cookinex Mini Food Chopper - Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-250-R.png"
-        },
-        {
             "id": "ED-435/R",
             "name": "Cookinex 5 Speed - Hand Mixer - Red",
             "category": "Uncategorized",
@@ -5025,26 +5485,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ED-435-R.png"
-        },
-        {
-            "id": "ED-587BK",
-            "name": "Hercules Electric Double Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-587BK.png"
-        },
-        {
-            "id": "ED-587W",
-            "name": "Hercules Electric Double Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-587W.png"
         },
         {
             "id": "ED-675G",
@@ -5095,6 +5535,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/EWR05E.png"
+        },
+        {
+            "id": "EWR08E",
+            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR08E.png"
         },
         {
             "id": "F-16SMB",
@@ -5187,16 +5637,6 @@
             "image": "images/FAN-106-WHT.png"
         },
         {
-            "id": "FB-05-WHT",
-            "name": "QFX Portable Rechargeable Desktop Fan, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-05-WHT.png"
-        },
-        {
             "id": "FB-06-BLK",
             "name": "QFX Portable Rechargeable Clip-On Fan, Black",
             "category": "Uncategorized",
@@ -5215,46 +5655,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FB-06-WHT.png"
-        },
-        {
-            "id": "FB-82-WHT",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-82-WHT.png"
-        },
-        {
-            "id": "FB-83-BLK",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-83-BLK.png"
-        },
-        {
-            "id": "FB-83-WHT",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-83-WHT.png"
-        },
-        {
-            "id": "FB-84-WHT",
-            "name": "QFX Portable 8\" Rechargeable Adjustable Height Desktop or Stand Fan, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FB-84-WHT.png"
         },
         {
             "id": "FBHP660K",
@@ -5417,16 +5817,6 @@
             "image": "images/HAP9435B.png"
         },
         {
-            "id": "HB8436127995-3/RB",
-            "name": "Hamilton Beach 1.6 Cu Ft Microwave Oven, RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HB8436127995-3-RB.png"
-        },
-        {
             "id": "HCX9115E/RBO",
             "name": "Delonghi Slim Convector Heater",
             "category": "Uncategorized",
@@ -5485,46 +5875,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBT900B.png"
-        },
-        {
-            "id": "HPXBT957B",
-            "name": "Sentry Mini In-Ear Tru Wireless w/case - Blk",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT957B.png"
-        },
-        {
-            "id": "HPXBT957W",
-            "name": "Sentry Mini In-Ear Tru Wireless w/case - Wht",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT957W.png"
-        },
-        {
-            "id": "HPXBT960B",
-            "name": "Sentry Mini True Wireless Earbuds with Charging Case, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT960B.png"
-        },
-        {
-            "id": "HPXBT960W",
-            "name": "Sentry Mini True Wireless Earbuds with Charging Case, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT960W.png"
         },
         {
             "id": "HPXBT985",
@@ -5647,16 +5997,6 @@
             "image": "images/HPXSPBTRGB.png"
         },
         {
-            "id": "J-15",
-            "name": "Brentwood 24oz Electric Citrus Juicer, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-15.png"
-        },
-        {
             "id": "J-200BT",
             "name": "QFX Portable BT CD Player & Cassette Rec.",
             "category": "Uncategorized",
@@ -5727,16 +6067,6 @@
             "image": "images/J-250BT-SIL.png"
         },
         {
-            "id": "J-26BK",
-            "name": "BRENTWOOD Powerful Electric Citrus Juicer",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-26BK.png"
-        },
-        {
             "id": "KP-500",
             "name": "Dolphin Portable Karaoke Speaker w/ Mic Stand",
             "category": "Uncategorized",
@@ -5755,16 +6085,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/KT-1610W.png"
-        },
-        {
-            "id": "KT-1617-W",
-            "name": "BRENTWOOD 1.7-liter Electric Tea Kettle White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KT-1617-W.png"
         },
         {
             "id": "LCS-150",
@@ -5795,16 +6115,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/LMS-210.png"
-        },
-        {
-            "id": "LSL110",
-            "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LSL110.png"
         },
         {
             "id": "LW5024",
@@ -5895,66 +6205,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MD565-WHT.png"
-        },
-        {
-            "id": "MG-1-BLK",
-            "name": "QFX Mini Massager, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-BLK.png"
-        },
-        {
-            "id": "MG-1-BLU",
-            "name": "QFX Mini Massager, Blue",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-BLU.png"
-        },
-        {
-            "id": "MG-1-CHR",
-            "name": "QFX Mini Massager, Charcoal",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-CHR.png"
-        },
-        {
-            "id": "MG-1-RED",
-            "name": "QFX Mini Massager, Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-1-RED.png"
-        },
-        {
-            "id": "MG-400BK",
-            "name": "BRENTWOOD Electric Meat Grinder 400W, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-400BK.png"
-        },
-        {
-            "id": "MG-400W",
-            "name": "BRENTWOOD Electric Meat Grinder 400W, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MG-400W.png"
         },
         {
             "id": "MPD3114",
@@ -6117,36 +6367,6 @@
             "image": "images/MPX-803.png"
         },
         {
-            "id": "MS33018213889/ROA",
-            "name": "Mainstays XL Toaster Oven, 32L/ 6-Slice 1500W",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MS33018213889-ROA.png"
-        },
-        {
-            "id": "MS8436193153-3/ROA",
-            "name": "Mainstays 1.1 Cu Ft Microwave Oven, Black, RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MS8436193153-3-ROA.png"
-        },
-        {
-            "id": "MSH20Q3ABB/RBO",
-            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3ABB-RBO.png"
-        },
-        {
             "id": "MSH20Q3AWW/RBO",
             "name": "Midea Radiant Quartz Space Heater RB - White",
             "category": "Uncategorized",
@@ -6227,26 +6447,6 @@
             "image": "images/NDS-8502.png"
         },
         {
-            "id": "NEU102/RBO",
-            "name": "Eureka Upright AirSpeed Vacuum Clnr",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NEU102-RBO.png"
-        },
-        {
-            "id": "NEU180",
-            "name": "Eureka PowerSpeed Lightweight Upright Vacuum",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NEU180.png"
-        },
-        {
             "id": "NEU203/RBO",
             "name": "Eureka Power Speed Multi-Surface Vacuum Cleaner",
             "category": "Uncategorized",
@@ -6257,16 +6457,6 @@
             "image": "images/NEU203-RBO.png"
         },
         {
-            "id": "NN-SC64MBC/RBO",
-            "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC64MBC-RBO.png"
-        },
-        {
             "id": "NN-SN95HS/ROA",
             "name": "Panasonic 2.2 cu. ft. 1250-Watt Microwave with Cyclonic Wave Inverter - RB",
             "category": "Uncategorized",
@@ -6275,36 +6465,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SN95HS-ROA.png"
-        },
-        {
-            "id": "NN-SU64LW/RB",
-            "name": "Panasonic Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte White, RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SU64LW-RB.png"
-        },
-        {
-            "id": "NNSU64LWC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU64LWC-RBO.png"
-        },
-        {
-            "id": "NNSU65NBC/RBO",
-            "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU65NBC-RBO.png"
         },
         {
             "id": "NPB-426/BLK",
@@ -6597,16 +6757,6 @@
             "image": "images/PSH20Q3ABB-RBO.png"
         },
         {
-            "id": "R22997/RB",
-            "name": "Hamilton Beach 2 Slice Toaster SS Black, RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R22997-RB.png"
-        },
-        {
             "id": "R53519/RB",
             "name": "Hamilton Beach 700W Glass Blender - RB",
             "category": "Uncategorized",
@@ -6747,66 +6897,6 @@
             "image": "images/SC-2329BT.png"
         },
         {
-            "id": "SM-513-972",
-            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-513-972.png"
-        },
-        {
-            "id": "SM-720-1610",
-            "name": "Emerald LED 10ft Sttrip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1610.png"
-        },
-        {
-            "id": "SM-720-1638",
-            "name": "Emerald LED 15ft Strip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1638.png"
-        },
-        {
-            "id": "SM-720-2000",
-            "name": "Emerald LED 20ft Strip Lights",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2000.png"
-        },
-        {
-            "id": "SM-720-2500",
-            "name": "Emerald LED 25ft Strip Light",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2500.png"
-        },
-        {
-            "id": "SM-720-8550",
-            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8550.png"
-        },
-        {
             "id": "SM-AIR-1899/RBO",
             "name": "Emerald 25L Air Fryer - Digital - RB",
             "category": "Uncategorized",
@@ -6825,86 +6915,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-SC-900.png"
-        },
-        {
-            "id": "SM-STV-2600",
-            "name": "Samson Electric Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2600.png"
-        },
-        {
-            "id": "SM-STV-2601",
-            "name": "Samson Electric Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2601.png"
-        },
-        {
-            "id": "SM-STV-2605",
-            "name": "Emerald Electric Burner, Hot Plate, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2605.png"
-        },
-        {
-            "id": "SM-STV-2606",
-            "name": "Emerald Electric Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2606.png"
-        },
-        {
-            "id": "SM-STV-2680",
-            "name": "Emerald Electric Double  Burner, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2680.png"
-        },
-        {
-            "id": "SM-STV-2681",
-            "name": "Samson Electric Double  Burner, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2681.png"
-        },
-        {
-            "id": "SM-STV-2685",
-            "name": "Emerald Electric Double  Burner, Hot Plate, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2685.png"
-        },
-        {
-            "id": "SM-STV-2686",
-            "name": "Emerald Blk Double-Counter Top Buffet Burner",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2686.png"
         },
         {
             "id": "SP-1270RBT",
@@ -7107,26 +7117,6 @@
             "image": "images/TS-222BK.png"
         },
         {
-            "id": "TS-241BK",
-            "name": "BRENTWOOD Sandwich Maker Grill with Nonstick Plates, Compact & Easy to Store, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-241BK.png"
-        },
-        {
-            "id": "TS-244BK",
-            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-244BK.png"
-        },
-        {
             "id": "TS-247BK",
             "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
             "category": "Uncategorized",
@@ -7137,46 +7127,6 @@
             "image": "images/TS-247BK.png"
         },
         {
-            "id": "TS-260B",
-            "name": "BRENTWOOD 2-Slice Toaster, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-260B.png"
-        },
-        {
-            "id": "TS-337",
-            "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-337.png"
-        },
-        {
-            "id": "TS-361BK",
-            "name": "BRENTWOOD Electric Double Burner, Blk",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-361BK.png"
-        },
-        {
-            "id": "TS-361W",
-            "name": "BRENTWOOD Electric Double Burner, Wht",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-361W.png"
-        },
-        {
             "id": "TS-380S",
             "name": "BRENTWOOD 10 CUP - 1.8 L RICE COOKER W STEAMER WHI",
             "category": "Uncategorized",
@@ -7185,16 +7135,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-380S.png"
-        },
-        {
-            "id": "TS-381",
-            "name": "BRENTWOOD 1200w Single Infrared Electric Countertop Burner with Timer, SS",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-381.png"
         },
         {
             "id": "TS-480S",
@@ -7557,16 +7497,6 @@
             "image": "images/WC08W25A.png"
         },
         {
-            "id": "WCF1-1007-BLK",
-            "name": "AIWA Compact Coffee Maker",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WCF1-1007-BLK.png"
-        },
-        {
             "id": "WCH08R25A",
             "name": "Hisense Window Air Conditioner 8,000 BTU Heat and Cool",
             "category": "Uncategorized",
@@ -7625,26 +7555,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP64-BLU.png"
-        },
-        {
-            "id": "WPB220M-BLK",
-            "name": "WORRYFREE Party 220 Mini Wireless Colorful BT Speaker, Waterproof, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPB220M-BLK.png"
-        },
-        {
-            "id": "WPBMINI-BLK",
-            "name": "WORRYFREE Party Box Mini 10W Wireless BT Speaker, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPBMINI-BLK.png"
         },
         {
             "id": "WPF4-1008-WHT",
@@ -7757,46 +7667,6 @@
             "image": "images/WSI-EM22AST-ROA.png"
         },
         {
-            "id": "WTO1-1020-BLK",
-            "name": "AIWA 2 Slice Toaster Cool TCH, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1020-BLK.png"
-        },
-        {
-            "id": "WTO1-1022-BLK",
-            "name": "AIWA 2 Slice Toaster, Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1022-BLK.png"
-        },
-        {
-            "id": "WTO1-1022-RED",
-            "name": "AIWA 2 Slice Toaster, Red",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1022-RED.png"
-        },
-        {
-            "id": "WTO1-1022-WHT",
-            "name": "AIWA 2 Slice Toaster, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1022-WHT.png"
-        },
-        {
             "id": "XL-2120",
             "name": "Dolphin Dual 12\" Rechargeable Karaoke Speaker with Android Tablet",
             "category": "Uncategorized",
@@ -7825,6 +7695,146 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CCUN28WV-ROA.png"
+        },
+        {
+            "id": "NEU102/RBO",
+            "name": "Eureka Upright AirSpeed Vacuum Clnr",
+            "category": "Upright Freezers",
+            "parent_category": "Refurbished",
+            "sub_category": "Upright Freezers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NEU102-RBO.png"
+        },
+        {
+            "id": "NEU180",
+            "name": "Eureka PowerSpeed Lightweight Upright Vacuum",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Upright Freezers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NEU180.png"
+        },
+        {
+            "id": "AF-2400SI",
+            "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-2400SI.png"
+        },
+        {
+            "id": "HB8436127995-3/RB",
+            "name": "Hamilton Beach 1.6 Cu Ft Microwave Oven, RB",
+            "category": "Wall Ovens",
+            "parent_category": "Refurbished",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HB8436127995-3-RB.png"
+        },
+        {
+            "id": "MS33018213889/ROA",
+            "name": "Mainstays XL Toaster Oven, 32L/ 6-Slice 1500W",
+            "category": "Wall Ovens",
+            "parent_category": "Refurbished",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MS33018213889-ROA.png"
+        },
+        {
+            "id": "MS8436193153-3/ROA",
+            "name": "Mainstays 1.1 Cu Ft Microwave Oven, Black, RB",
+            "category": "Wall Ovens",
+            "parent_category": "Refurbished",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MS8436193153-3-ROA.png"
+        },
+        {
+            "id": "R22997/RB",
+            "name": "Hamilton Beach 2 Slice Toaster SS Black, RB",
+            "category": "Wall Ovens",
+            "parent_category": "Refurbished",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R22997-RB.png"
+        },
+        {
+            "id": "SM-513-972",
+            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-513-972.png"
+        },
+        {
+            "id": "SM-720-8550",
+            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8550.png"
+        },
+        {
+            "id": "TS-260B",
+            "name": "BRENTWOOD 2-Slice Toaster, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-260B.png"
+        },
+        {
+            "id": "WTO1-1020-BLK",
+            "name": "AIWA 2 Slice Toaster Cool TCH, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WTO1-1020-BLK.png"
+        },
+        {
+            "id": "WTO1-1022-BLK",
+            "name": "AIWA 2 Slice Toaster, Black",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WTO1-1022-BLK.png"
+        },
+        {
+            "id": "WTO1-1022-RED",
+            "name": "AIWA 2 Slice Toaster, Red",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WTO1-1022-RED.png"
+        },
+        {
+            "id": "WTO1-1022-WHT",
+            "name": "AIWA 2 Slice Toaster, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Wall Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WTO1-1022-WHT.png"
         },
         {
             "id": "ETTW08E",
