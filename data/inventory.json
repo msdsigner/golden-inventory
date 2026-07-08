@@ -477,6 +477,16 @@
             "image": "images/HPXSPBT14.png"
         },
         {
+            "id": "HPXSPBT18",
+            "name": "Sentry BT Clock Speaker",
+            "category": "Alarm Clocks",
+            "parent_category": "Home & Office",
+            "sub_category": "Alarm Clocks",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXSPBT18.png"
+        },
+        {
             "id": "RC551",
             "name": "RCA Digital Radio Alarm Clock",
             "category": "Alarm Clocks",
@@ -4077,6 +4087,16 @@
             "image": "images/MS8436193153-3-ROA.png"
         },
         {
+            "id": "NN-SB65NS/ROA",
+            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
+            "category": "Heating & Cooking",
+            "parent_category": "Refurbished",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NN-SB65NS-ROA.png"
+        },
+        {
             "id": "NN-SC64MBC/RBO",
             "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
             "category": "Heating & Cooking",
@@ -6144,7 +6164,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NS-AC08PWH1-ROA.png"
         },
         {
             "id": "S-15051",
@@ -6174,7 +6194,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VAP05R1AWT-RB.png"
         },
         {
             "id": "VAP05R1AWT/ROA",
@@ -6184,7 +6204,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VAP05R1AWT-ROA.png"
         },
         {
             "id": "VAP09R1AWT/RB",
@@ -6194,7 +6214,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VAP09R1AWT-RB.png"
         },
         {
             "id": "VAP09R1AWT/ROA",
@@ -6214,7 +6234,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VPFD05YCLW-ROA.png"
         },
         {
             "id": "VPMS05BWT",
