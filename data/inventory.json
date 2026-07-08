@@ -27,6 +27,26 @@
             "image": "images/IP-365.png"
         },
         {
+            "id": "BAB-2438/ROA",
+            "name": "Black & Decker AC Window Bracket",
+            "category": "Air Conditioner Accessories",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Air Conditioner Accessories",
+            "price": "40.00",
+            "available": 3,
+            "image": "images/BAB-2438-ROA.png"
+        },
+        {
+            "id": "TSB-2438/ROA",
+            "name": "Black & Decker AC Window Bracket",
+            "category": "Air Conditioner Accessories",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Air Conditioner Accessories",
+            "price": "40.00",
+            "available": 1,
+            "image": "images/TSB-2438-ROA.png"
+        },
+        {
             "id": "AF-202BK",
             "name": "BRENTWOOD 2.0 AIR Fryer, Black",
             "category": "Air Fryer & Toaster",
@@ -507,6 +527,16 @@
             "image": "images/WAC5-1002-BLK.png"
         },
         {
+            "id": "NPB-426/BLK",
+            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
+            "category": "Audio Players",
+            "parent_category": "Audio",
+            "sub_category": "Audio Players",
+            "price": "100.00",
+            "available": 8,
+            "image": "images/NPB-426-BLK.png"
+        },
+        {
             "id": "NPB-431",
             "name": "NAXA Portable MP3/CD Player with PLL FM",
             "category": "Audio Players",
@@ -515,16 +545,6 @@
             "price": "70.00",
             "available": 30,
             "image": "images/NPB-431.png"
-        },
-        {
-            "id": "BC115SS9/NB",
-            "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Beverage Centers",
-            "price": "70.00",
-            "available": 1,
-            "image": "images/BC115SS9-NB.png"
         },
         {
             "id": "CK-CB14GRN",
@@ -555,6 +575,16 @@
             "price": "70.00",
             "available": 2,
             "image": "images/NS-BC1ZSS9-NB.png"
+        },
+        {
+            "id": "BC115SS9/NB",
+            "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Beverage Cooler",
+            "price": "70.00",
+            "available": 1,
+            "image": "images/BC115SS9-NB.png"
         },
         {
             "id": "58148G",
@@ -655,6 +685,26 @@
             "price": "29.00",
             "available": 3,
             "image": "images/ED-160W.png"
+        },
+        {
+            "id": "ED-250/R",
+            "name": "Cookinex Mini Food Chopper - Red",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "11.00",
+            "available": 3,
+            "image": "images/ED-250-R.png"
+        },
+        {
+            "id": "ED-435/R",
+            "name": "Cookinex 5 Speed - Hand Mixer - Red",
+            "category": "Blenders & Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "11.00",
+            "available": 1,
+            "image": "images/ED-435-R.png"
         },
         {
             "id": "ED-770",
@@ -1077,6 +1127,26 @@
             "image": "images/PCD25.png"
         },
         {
+            "id": "PD-107/BLK",
+            "name": "QFX 0.7\" MULTI MEDIA PLAYER - BLACK",
+            "category": "CD/DVD Player",
+            "parent_category": "Electronics",
+            "sub_category": "CD/DVD Player",
+            "price": "62.00",
+            "available": 32,
+            "image": "images/PD-107-BLK.png"
+        },
+        {
+            "id": "PD-109/BLK",
+            "name": "QFX 0.9\" MULTI MEDIA PLAYER w/Game - Black",
+            "category": "CD/DVD Player",
+            "parent_category": "Electronics",
+            "sub_category": "CD/DVD Player",
+            "price": "70.00",
+            "available": 41,
+            "image": "images/PD-109-BLK.png"
+        },
+        {
             "id": "PDT-307DTV",
             "name": "QFX  Multimedia Player",
             "category": "CD/DVD Player",
@@ -1117,6 +1187,16 @@
             "image": "images/SC-25.png"
         },
         {
+            "id": "VP-109/BLK",
+            "name": "QFX  DIGITAL MULTI MEDIA PLAYER BLACK",
+            "category": "CD/DVD Player",
+            "parent_category": "Electronics",
+            "sub_category": "CD/DVD Player",
+            "price": "27.00",
+            "available": 50,
+            "image": "images/VP-109-BLK.png"
+        },
+        {
             "id": "VP-110",
             "name": "QFX Progressive Scan DVD/CD Player with HDMI Output+CD Ripping+FM Radio+RC",
             "category": "CD/DVD Player",
@@ -1145,26 +1225,6 @@
             "price": "6.00",
             "available": 1,
             "image": "images/DV10R.png"
-        },
-        {
-            "id": "NAM-980/BLK",
-            "name": "NAXA Professional Microphone - Black",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "5.00",
-            "available": 1,
-            "image": "images/NAM-980-BLK.png"
-        },
-        {
-            "id": "NAM-984/BLK",
-            "name": "NAXA Professional Dual Wireless Microphone Kit",
-            "category": "Cables",
-            "parent_category": "Electronics",
-            "sub_category": "Cables",
-            "price": "24.00",
-            "available": 2,
-            "image": "images/NAM-984-BLK.png"
         },
         {
             "id": "VH25HHR",
@@ -1797,14 +1857,14 @@
             "image": "images/WTK1-1001-BLK.png"
         },
         {
-            "id": "BC 40",
-            "name": "A Energy Compact Refrigerator 1.4 CF, White",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Compact Refrigerators",
-            "price": "100.00",
-            "available": 74,
-            "image": "images/BC 40.png"
+            "id": "CCD100W6/ROA",
+            "name": "Commercial Chef Food Dehydrator, 280 Watts, White",
+            "category": "Coffee Maker",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee Maker",
+            "price": "35.00",
+            "available": 4,
+            "image": "images/CCD100W6-ROA.png"
         },
         {
             "id": "BCRK17V",
@@ -1825,6 +1885,16 @@
             "price": "70.00",
             "available": 1,
             "image": "images/NS-CF44BK3-NB.png"
+        },
+        {
+            "id": "D-09/CA57BN",
+            "name": "Mouse Optical Wireless 2.4GHZ Ergo Grips",
+            "category": "Computer Accessories",
+            "parent_category": "Electronics",
+            "sub_category": "Computer Accessories",
+            "price": "6.00",
+            "available": 148,
+            "image": "images/D-09-CA57BN.png"
         },
         {
             "id": "HPXKX525",
@@ -1935,16 +2005,6 @@
             "price": "45.00",
             "available": 13,
             "image": "images/SK-72BK.png"
-        },
-        {
-            "id": "CJR720BLHD",
-            "name": "Core Innovations HD Portable Projector",
-            "category": "Electronics",
-            "parent_category": "Other",
-            "sub_category": "Electronics",
-            "price": "85.00",
-            "available": 1,
-            "image": "images/CJR720BLHD.png"
         },
         {
             "id": "250F400W",
@@ -2680,7 +2740,7 @@
             "id": "R53519/RB",
             "name": "Hamilton Beach 700W Glass Blender - RB",
             "category": "Food Preparation",
-            "parent_category": "Refurbished",
+            "parent_category": "Kitchen Appliances",
             "sub_category": "Food Preparation",
             "price": "40.00",
             "available": 23,
@@ -3747,16 +3807,6 @@
             "image": "images/TWS624W.png"
         },
         {
-            "id": "3043",
-            "name": "Propert 150Kg Body Analysis Scale",
-            "category": "Health & Personal Care",
-            "parent_category": "Other",
-            "sub_category": "Health & Personal Care",
-            "price": "9.00",
-            "available": 180,
-            "image": "images/3043.png"
-        },
-        {
             "id": "BHF136193153/RBO",
             "name": "Pelonis 23\" Tower Heater RB",
             "category": "Heaters",
@@ -3887,16 +3937,6 @@
             "image": "images/BDG-2200.png"
         },
         {
-            "id": "CCD100W6/ROA",
-            "name": "Commercial Chef Food Dehydrator, 280 Watts, White",
-            "category": "Heating & Cooking",
-            "parent_category": "Refurbished",
-            "sub_category": "Heating & Cooking",
-            "price": "35.00",
-            "available": 4,
-            "image": "images/CCD100W6-ROA.png"
-        },
-        {
             "id": "CE23839",
             "name": "Continental Sandwich Maker 2 Slice Non Stick-Black",
             "category": "Heating & Cooking",
@@ -3937,16 +3977,6 @@
             "image": "images/DF-730S.png"
         },
         {
-            "id": "ED-250/R",
-            "name": "Cookinex Mini Food Chopper - Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "11.00",
-            "available": 3,
-            "image": "images/ED-250-R.png"
-        },
-        {
             "id": "ED-302",
             "name": "Cookinex Arepa Maker w/ Non-Stick Coating",
             "category": "Heating & Cooking",
@@ -3965,16 +3995,6 @@
             "price": "20.00",
             "available": 4,
             "image": "images/ED-302-BUR.png"
-        },
-        {
-            "id": "ED-435/R",
-            "name": "Cookinex 5 Speed - Hand Mixer - Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "11.00",
-            "available": 1,
-            "image": "images/ED-435-R.png"
         },
         {
             "id": "ED-587BK",
@@ -4045,16 +4065,6 @@
             "price": "140.00",
             "available": 2,
             "image": "images/EM131A5C-BS.png"
-        },
-        {
-            "id": "GCST11N1WSS/ROA",
-            "name": "GE 1.1 Cu Ft CMO SS CL",
-            "category": "Heating & Cooking",
-            "parent_category": "Refurbished",
-            "sub_category": "Heating & Cooking",
-            "price": "70.00",
-            "available": 2,
-            "image": "images/GCST11N1WSS-ROA.png"
         },
         {
             "id": "HB8436127995-3/RB",
@@ -5777,36 +5787,6 @@
             "image": "images/MHV1-1026-PUR.png"
         },
         {
-            "id": "PD-107/BLK",
-            "name": "QFX 0.7\" MULTI MEDIA PLAYER - BLACK",
-            "category": "Media Players",
-            "parent_category": "Electronics",
-            "sub_category": "Media Players",
-            "price": "62.00",
-            "available": 32,
-            "image": "images/PD-107-BLK.png"
-        },
-        {
-            "id": "PD-109/BLK",
-            "name": "QFX 0.9\" MULTI MEDIA PLAYER w/Game - Black",
-            "category": "Media Players",
-            "parent_category": "Electronics",
-            "sub_category": "Media Players",
-            "price": "70.00",
-            "available": 41,
-            "image": "images/PD-109-BLK.png"
-        },
-        {
-            "id": "VP-109/BLK",
-            "name": "QFX  DIGITAL MULTI MEDIA PLAYER BLACK",
-            "category": "Media Players",
-            "parent_category": "Electronics",
-            "sub_category": "Media Players",
-            "price": "27.00",
-            "available": 50,
-            "image": "images/VP-109-BLK.png"
-        },
-        {
             "id": "M-310",
             "name": "QFX Wireless Dynamic Pro Mic",
             "category": "Microphones",
@@ -5995,6 +5975,36 @@
             "price": "22.00",
             "available": 11,
             "image": "images/MPH-20.png"
+        },
+        {
+            "id": "NAM-980/BLK",
+            "name": "NAXA Professional Microphone - Black",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "5.00",
+            "available": 1,
+            "image": "images/NAM-980-BLK.png"
+        },
+        {
+            "id": "NAM-984/BLK",
+            "name": "NAXA Professional Dual Wireless Microphone Kit",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "24.00",
+            "available": 2,
+            "image": "images/NAM-984-BLK.png"
+        },
+        {
+            "id": "GCST11N1WSS/ROA",
+            "name": "GE 1.1 Cu Ft CMO SS CL",
+            "category": "Microwave",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Microwave",
+            "price": "70.00",
+            "available": 2,
+            "image": "images/GCST11N1WSS-ROA.png"
         },
         {
             "id": "DMO01001",
@@ -6287,16 +6297,6 @@
             "image": "images/LX-30.png"
         },
         {
-            "id": "NPB-426/BLK",
-            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
-            "category": "Portable Audio",
-            "parent_category": "Audio",
-            "sub_category": "Portable Audio",
-            "price": "100.00",
-            "available": 8,
-            "image": "images/NPB-426-BLK.png"
-        },
-        {
             "id": "WPF4-1008-RED",
             "name": "AIWA Power Bank Fan, Red",
             "category": "Power Bank",
@@ -6527,6 +6527,16 @@
             "image": "images/ER-7002-RD.png"
         },
         {
+            "id": "BC 40",
+            "name": "A Energy Compact Refrigerator 1.4 CF, White",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "100.00",
+            "available": 74,
+            "image": "images/BC 40.png"
+        },
+        {
             "id": "RM3306W",
             "name": "AVANTI 3.3 CU FT REFRIGERATOR - White",
             "category": "Major Appliances",
@@ -6555,16 +6565,6 @@
             "price": "4.00",
             "available": 53,
             "image": "images/RCR504BE.png"
-        },
-        {
-            "id": "SRP4221B/27",
-            "name": "Philips 4-Device Universal RC BT",
-            "category": "Remote Controls",
-            "parent_category": "Electronics",
-            "sub_category": "Remote Controls",
-            "price": "5.00",
-            "available": 52,
-            "image": "images/SRP4221B-27.png"
         },
         {
             "id": "IM-409S",
@@ -7227,6 +7227,16 @@
             "image": "images/REM-6.png"
         },
         {
+            "id": "SRP4221B/27",
+            "name": "Philips 4-Device Universal RC BT",
+            "category": "TV Remote",
+            "parent_category": "Electronics",
+            "sub_category": "TV Remote",
+            "price": "5.00",
+            "available": 52,
+            "image": "images/SRP4221B-27.png"
+        },
+        {
             "id": "TKTC6GB",
             "name": "Terk Rechargeable 6-Device Backlit Universal Remote, Black",
             "category": "TV Remote",
@@ -7517,14 +7527,24 @@
             "image": "images/CXT1-6002-HYP.png"
         },
         {
-            "id": "D-09/CA57BN",
-            "name": "Mouse Optical Wireless 2.4GHZ Ergo Grips",
+            "id": "3043",
+            "name": "Propert 150Kg Body Analysis Scale",
             "category": "Uncategorized",
-            "parent_category": "Other",
+            "parent_category": "Health & Personal Care",
             "sub_category": "Uncategorized",
-            "price": "6.00",
-            "available": 148,
-            "image": "images/D-09-CA57BN.png"
+            "price": "9.00",
+            "available": 180,
+            "image": "images/3043.png"
+        },
+        {
+            "id": "CJR720BLHD",
+            "name": "Core Innovations HD Portable Projector",
+            "category": "Uncategorized",
+            "parent_category": "Electronics",
+            "sub_category": "Uncategorized",
+            "price": "85.00",
+            "available": 1,
+            "image": "images/CJR720BLHD.png"
         },
         {
             "id": "CCUK12W/ROA",
@@ -7677,16 +7697,6 @@
             "image": "images/AWCS08WWF.png"
         },
         {
-            "id": "BAB-2438/ROA",
-            "name": "Black & Decker AC Window Bracket",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "40.00",
-            "available": 3,
-            "image": "images/BAB-2438-ROA.png"
-        },
-        {
             "id": "DL12AWCW",
             "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 12000-BTU)",
             "category": "Window AC",
@@ -7817,16 +7827,6 @@
             "image": "images/RAC-WK0612CRRU-ROA.png"
         },
         {
-            "id": "TSB-2438/ROA",
-            "name": "Black & Decker AC Window Bracket",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "40.00",
-            "available": 1,
-            "image": "images/TSB-2438-ROA.png"
-        },
-        {
             "id": "WAW0525CM1W",
             "name": "Hisense 5,000 BTU Window Air Conditioner 150 sq ft. Easy Clean, Easy to Install",
             "category": "Window AC",
@@ -7901,7 +7901,7 @@
             "name": "Frigidaire Wine Cooler, 45 Wine Bottle Capacity, RB",
             "category": "Major Appliances",
             "parent_category": "Major Appliances",
-            "sub_category": "Wine Coolers",
+            "sub_category": "Wine Cooler",
             "price": "70.00",
             "available": 1,
             "image": "images/FRWW4543AS-NB.png"
