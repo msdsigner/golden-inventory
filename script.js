@@ -206,11 +206,20 @@ document.addEventListener('DOMContentLoaded', () => {
         let filtered = inventory.filter(item => {
             let matchCat;
             if (currentParentCategory === 'All Parents') {
+
                 matchCat = true;
+
             } else if (currentCategory === 'All Subcategories') {
-                matchCat = item.parent_category === currentParentCategory;
+
+                matchCat =
+                    item.parent_category === currentParentCategory;
+
             } else {
-                matchCat = item.sub_category === currentCategory;
+
+                matchCat =
+                    item.parent_category === currentParentCategory &&
+                    item.sub_category === currentCategory;
+
             }
 
             const query = currentSearch.toLowerCase();
