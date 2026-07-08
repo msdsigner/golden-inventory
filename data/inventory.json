@@ -4887,16 +4887,6 @@
             "image": "images/P54-BLK.png"
         },
         {
-            "id": "PBX-100",
-            "name": "QFX 2x10 Portable Party Speaker",
-            "category": "Home Audio",
-            "parent_category": "Audio",
-            "sub_category": "Home Audio",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-100.png"
-        },
-        {
             "id": "PBX-1020",
             "name": "QFX 2x10 Portable BT Speaker w/ LED Lights",
             "category": "Home Audio",
@@ -6755,16 +6745,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/EPB-3002.png"
-        },
-        {
-            "id": "FSL-200SIL",
-            "name": "FSL Emergency Flash Light Speaker",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FSL-200SIL.png"
         },
         {
             "id": "M-6500-MKII",
