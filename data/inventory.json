@@ -2197,6 +2197,16 @@
             "image": "images/V-2742.png"
         },
         {
+            "id": "V/3193",
+            "name": "UniqueWare 14\" Industrial Floor Fan",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/V-3193.png"
+        },
+        {
             "id": "V/3488",
             "name": "UniqueWare 18\" Stand Fan 3 Speed",
             "category": "Fans",
@@ -6167,6 +6177,16 @@
             "image": "images/MAP05S1AWT.png"
         },
         {
+            "id": "NS-AC08PWH1/ROA",
+            "name": "INSIGNIA 8,000 BTU PORTABLE AIR CONDITIONER",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "S-15051",
             "name": "Portable AC Box - 15x15x36",
             "category": "Portable AC",
@@ -6205,6 +6225,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPMS05BWT.png"
+        },
+        {
+            "id": "VPMS05BWT/ROA",
+            "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPMS05BWT-ROA.png"
         },
         {
             "id": "BT-1010-BLK",
@@ -7655,26 +7685,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/EWR05E.png"
-        },
-        {
-            "id": "EWR06E",
-            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
-            "category": "Window AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/EWR06E.png"
-        },
-        {
-            "id": "EWR08E",
-            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
-            "category": "Window AC",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/EWR08E.png"
         },
         {
             "id": "FFRA051WAE",
