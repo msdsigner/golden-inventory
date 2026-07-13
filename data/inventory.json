@@ -137,6 +137,16 @@
             "image": "images/R22997-RB.png"
         },
         {
+            "id": "SM-AIR-1899/RBO",
+            "name": "Emerald 25L Air Fryer - Digital - RB",
+            "category": "Air Fryer & Toaster",
+            "parent_category": "Refurbished",
+            "sub_category": "Air Fryer & Toaster",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-AIR-1899-RBO.png"
+        },
+        {
             "id": "TS-1101BK",
             "name": "BRENTWOOD 800-watt K-Cup\u00ae Single Serve Coffee Maker with Reusable Filter Basket",
             "category": "Air Fryer & Toaster",
@@ -6127,6 +6137,46 @@
             "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
+            "id": "SM-720-1610",
+            "name": "Emerald LED 10ft Sttrip Lights",
+            "category": "Lighting",
+            "parent_category": "Home & Office",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1610.png"
+        },
+        {
+            "id": "SM-720-1638",
+            "name": "Emerald LED 15ft Strip Lights",
+            "category": "Lighting",
+            "parent_category": "Home & Office",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-1638.png"
+        },
+        {
+            "id": "SM-720-2000",
+            "name": "Emerald LED 20ft Strip Lights",
+            "category": "Lighting",
+            "parent_category": "Home & Office",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2000.png"
+        },
+        {
+            "id": "SM-720-2500",
+            "name": "Emerald LED 25ft Strip Light",
+            "category": "Lighting",
+            "parent_category": "Home & Office",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-2500.png"
+        },
+        {
             "id": "M-310",
             "name": "QFX Wireless Dynamic Pro Mic",
             "category": "Microphones",
@@ -7077,6 +7127,16 @@
             "image": "images/SC-157S.png"
         },
         {
+            "id": "SM-SC-900",
+            "name": "Emerald 6.3 Quart Programmable Slow Cooker",
+            "category": "Slow Cookers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Slow Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-SC-900.png"
+        },
+        {
             "id": "FSB250K",
             "name": "Fisher 32\" Surround Soundbar",
             "category": "Soundbars",
@@ -7447,86 +7507,6 @@
             "image": "images/AZONJN9.png"
         },
         {
-            "id": "SM-513-972",
-            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-513-972.png"
-        },
-        {
-            "id": "SM-720-1610",
-            "name": "Emerald LED 10ft Sttrip Lights",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1610.png"
-        },
-        {
-            "id": "SM-720-1638",
-            "name": "Emerald LED 15ft Strip Lights",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-1638.png"
-        },
-        {
-            "id": "SM-720-2000",
-            "name": "Emerald LED 20ft Strip Lights",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2000.png"
-        },
-        {
-            "id": "SM-720-2500",
-            "name": "Emerald LED 25ft Strip Light",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2500.png"
-        },
-        {
-            "id": "SM-720-8550",
-            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-8550.png"
-        },
-        {
-            "id": "SM-AIR-1899/RBO",
-            "name": "Emerald 25L Air Fryer - Digital - RB",
-            "category": "TV Accessories",
-            "parent_category": "Refurbished",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-AIR-1899-RBO.png"
-        },
-        {
-            "id": "SM-SC-900",
-            "name": "Emerald 6.3 Quart Programmable Slow Cooker",
-            "category": "TV Accessories",
-            "parent_category": "Electronics",
-            "sub_category": "TV Accessories",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-SC-900.png"
-        },
-        {
             "id": "SM-STV-2600",
             "name": "Samson Electric Burner, White",
             "category": "TV Accessories",
@@ -7605,6 +7585,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-STV-2686.png"
+        },
+        {
+            "id": "SM-513-972",
+            "name": "Emerald Tilt Wall Mount 32\" to 90\"",
+            "category": "TV Mounts",
+            "parent_category": "Electronics",
+            "sub_category": "TV Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-513-972.png"
+        },
+        {
+            "id": "SM-720-8550",
+            "name": "Emerald Full Motion Wall Mount 26\" to 70\" TV's",
+            "category": "TV Mounts",
+            "parent_category": "Electronics",
+            "sub_category": "TV Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8550.png"
         },
         {
             "id": "RCU300TZ",
