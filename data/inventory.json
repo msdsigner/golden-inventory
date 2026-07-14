@@ -313,14 +313,74 @@
             "image": "images/AZONJN9.png"
         },
         {
-            "id": "HB-31W",
-            "name": "BRENTWOOD 2 SPD HAND Blender - Wht",
-            "category": "Blenders",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders",
+            "id": "ER-7002-BL",
+            "name": "Emerson Portable AMFM Radio with Earbuds and Wide Frequency Range of Stations, Blue",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/HB-31W.png"
+            "image": "images/ER-7002-BL.png"
+        },
+        {
+            "id": "ER-7002-RD",
+            "name": "Emerson Portable AMFM Radio with Earbuds and Wide Frequency Range of Stations, Red",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ER-7002-RD.png"
+        },
+        {
+            "id": "R-333BT-BLU",
+            "name": "QFX 3 Band Radio FM/AM w/flashlight",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-333BT-BLU.png"
+        },
+        {
+            "id": "R-333BT-RED",
+            "name": "QFX 3 Band Radio FM/AM w/flashlight",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-333BT-RED.png"
+        },
+        {
+            "id": "R-334BT-BLK",
+            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-334BT-BLK.png"
+        },
+        {
+            "id": "R-34",
+            "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-34.png"
+        },
+        {
+            "id": "RETRO-15",
+            "name": "QFX Solar Rechargeable 3 Band BT Radio with Phone Charge + LED Flashlight",
+            "category": "Audio",
+            "parent_category": "Other",
+            "sub_category": "Audio",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RETRO-15.png"
         },
         {
             "id": "R50190-RBO",
@@ -483,16 +543,6 @@
             "image": "images/ED-770.png"
         },
         {
-            "id": "FP-549W",
-            "name": "BRENTWOOD 2-Speed Food Processor, White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FP-549W.png"
-        },
-        {
             "id": "FP-581",
             "name": "BRENTWOOD Select 12-Cup Food Processor, SS",
             "category": "Blenders & Mixers",
@@ -523,10 +573,20 @@
             "image": "images/GA-103S.png"
         },
         {
+            "id": "HB-31W",
+            "name": "BRENTWOOD 2 SPD HAND Blender - Wht",
+            "category": "Blenders & Mixers",
+            "parent_category": "Other",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HB-31W.png"
+        },
+        {
             "id": "HB-32BK",
             "name": "BRENTWOOD 2 SPD HAND MIXER 200W",
             "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
+            "parent_category": "Other",
             "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
@@ -536,7 +596,7 @@
             "id": "HB-33R",
             "name": "Brentwood 2-Speed 200W Stainless Steel Hand Blender, Red",
             "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
+            "parent_category": "Other",
             "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
@@ -1993,14 +2053,14 @@
             "image": "images/CCD100W6-ROA.png"
         },
         {
-            "id": "303DGNX",
-            "name": "Conair 1875 Watts Mid-Size Dryer",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Dryers",
+            "id": "BCD6W",
+            "name": "Black & Decker Compact Countertop Dishwasher",
+            "category": "Dishwashers",
+            "parent_category": "Other",
+            "sub_category": "Dishwashers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/303DGNX.png"
+            "image": "images/BCD6W.png"
         },
         {
             "id": "RVDR5034N1",
@@ -2873,56 +2933,6 @@
             "image": "images/WPF4-1008-WHT.png"
         },
         {
-            "id": "R-333BT-BLU",
-            "name": "QFX 3 Band Radio FM/AM w/flashlight",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-333BT-BLU.png"
-        },
-        {
-            "id": "R-333BT-RED",
-            "name": "QFX 3 Band Radio FM/AM w/flashlight",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-333BT-RED.png"
-        },
-        {
-            "id": "R-334BT-BLK",
-            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-334BT-BLK.png"
-        },
-        {
-            "id": "R-34",
-            "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-34.png"
-        },
-        {
-            "id": "RETRO-15",
-            "name": "QFX Solar Rechargeable 3 Band BT Radio with Phone Charge + LED Flashlight",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RETRO-15.png"
-        },
-        {
             "id": "CXH1-6000-BLK",
             "name": "Xtreme Hollywood Ultra Slim Flat Iron with Titanium Tourmaline Plates, Black",
             "category": "Flat Irons",
@@ -2941,6 +2951,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FP-549BK.png"
+        },
+        {
+            "id": "FP-549W",
+            "name": "BRENTWOOD 2-Speed Food Processor, White",
+            "category": "Food Processors",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Food Processors",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FP-549W.png"
         },
         {
             "id": "MG-400BK",
@@ -5193,6 +5213,16 @@
             "image": "images/WSC01-BLU.png"
         },
         {
+            "id": "303DGNX",
+            "name": "Conair 1875 Watts Mid-Size Dryer",
+            "category": "Personal Care",
+            "parent_category": "Other",
+            "sub_category": "Personal Care",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/303DGNX.png"
+        },
+        {
             "id": "NV-09677",
             "name": "Prescott & Taylor Epilator, Assorted",
             "category": "Personal Care",
@@ -5583,36 +5613,6 @@
             "image": "images/RX-3.png"
         },
         {
-            "id": "ER-7002-BL",
-            "name": "Emerson Portable AMFM Radio with Earbuds and Wide Frequency Range of Stations, Blue",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Ranges",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ER-7002-BL.png"
-        },
-        {
-            "id": "ER-7002-RD",
-            "name": "Emerson Portable AMFM Radio with Earbuds and Wide Frequency Range of Stations, Red",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Ranges",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ER-7002-RD.png"
-        },
-        {
-            "id": "J-28BK",
-            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Ranges",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-28BK.png"
-        },
-        {
             "id": "SA230",
             "name": "Outdoor 2 Outlet Remote Control System 80 ft Range",
             "category": "Major Appliances",
@@ -5633,16 +5633,6 @@
             "image": "images/BC 40.png"
         },
         {
-            "id": "BC115SS9/NB",
-            "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BC115SS9-NB.png"
-        },
-        {
             "id": "BCRK17V",
             "name": "Black+Decker 1.7 Cu. Ft. Compact Fridge Silver",
             "category": "Major Appliances",
@@ -5651,16 +5641,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCRK17V.png"
-        },
-        {
-            "id": "NS-BC1ZSS9/NB",
-            "name": "INSIGNIA 165 CAN Built-In Beverage Cooler, SS, RB",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NS-BC1ZSS9-NB.png"
         },
         {
             "id": "NS-CF44BK3/NB",
@@ -6001,6 +5981,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-SC-900.png"
+        },
+        {
+            "id": "J-28BK",
+            "name": "BRENTWOOD Powerful 200W Electric Citrus Juicer Orange, Lemon & Lime Squeezer, SS Lever, Black",
+            "category": "Small Kitchen Appliances",
+            "parent_category": "Other",
+            "sub_category": "Small Kitchen Appliances",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-28BK.png"
         },
         {
             "id": "BTSB370",
@@ -8023,16 +8013,6 @@
             "image": "images/VC-459-WHT.png"
         },
         {
-            "id": "BCD6W",
-            "name": "Black & Decker Compact Countertop Dishwasher",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Washers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BCD6W.png"
-        },
-        {
             "id": "ETTW08E",
             "name": "ELEMENT TTW 8,000 Btu AC, White",
             "category": "Window AC",
@@ -8261,6 +8241,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCH08R25A.png"
+        },
+        {
+            "id": "BC115SS9/NB",
+            "name": "INSIGNIA 115 CAN BEVERAGE COOLER, RB",
+            "category": "Wine & Beverage Coolers",
+            "parent_category": "Other",
+            "sub_category": "Wine & Beverage Coolers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BC115SS9-NB.png"
+        },
+        {
+            "id": "NS-BC1ZSS9/NB",
+            "name": "INSIGNIA 165 CAN Built-In Beverage Cooler, SS, RB",
+            "category": "Wine & Beverage Coolers",
+            "parent_category": "Other",
+            "sub_category": "Wine & Beverage Coolers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NS-BC1ZSS9-NB.png"
         },
         {
             "id": "BD60026",
