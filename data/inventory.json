@@ -5263,56 +5263,6 @@
             "image": "images/ARC-101CW.png"
         },
         {
-            "id": "EWR05E",
-            "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/EWR05E.png"
-        },
-        {
-            "id": "EWR06E",
-            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/EWR06E.png"
-        },
-        {
-            "id": "EWR08E",
-            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/EWR08E.png"
-        },
-        {
-            "id": "FFRA051WAE",
-            "name": "Frigidaire 5000 BTU Mechanical Window-Mounted Room Air Conditioner",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FFRA051WAE.png"
-        },
-        {
-            "id": "FFRE1533U10/ROA",
-            "name": "Frigidaire 15.000-BTU Remote Window AC - No Box / No Remote",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FFRE1533U10-ROA.png"
-        },
-        {
             "id": "HAP0824TWD - No Accessories",
             "name": "Hisense 350 Sq. Ft. Inverter Dual-Hose 8000 BTU Portable Air Conditioner",
             "category": "Portable AC",
@@ -5323,26 +5273,6 @@
             "image": "images/HAP0824TWD - No Accessories.png"
         },
         {
-            "id": "LW1017ERSM1",
-            "name": "LG 10,000 BTU Smart Window / Wall Air Conditioner",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LW1017ERSM1.png"
-        },
-        {
-            "id": "LW5024",
-            "name": "LG 5000 BTU Window AC Mechanical",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LW5024.png"
-        },
-        {
             "id": "MAP05S1AWT",
             "name": "Midea 5,000 BTU DOE Smart Portable Air Conditioner, for spaces up to 150 sq. ft.",
             "category": "Portable AC",
@@ -5351,36 +5281,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MAP05S1AWT.png"
-        },
-        {
-            "id": "MAW08AV1QWT-C",
-            "name": "Midea 8,000 BTU DOE U-Shaped Smart Window Air Conditioner, for spaces up to 350 sq. ft., ",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW08AV1QWT-C.png"
-        },
-        {
-            "id": "MAW08S1VWT-A",
-            "name": "Midea 8,000 BTU Window AC, Smart Inverter, Cools Up To 350 Sq Ft, Remote, Wi-Fi and Alexa, White",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW08S1VWT-A.png"
-        },
-        {
-            "id": "MAW12V1YWT-S",
-            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, White",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW12V1YWT-S.png"
         },
         {
             "id": "NS-AC08PWH1/ROA",
@@ -5401,16 +5301,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PX0811CWRU-ROA.png"
-        },
-        {
-            "id": "RAC-WK0612CRRU/ROA",
-            "name": "Toshiba 6,000 BTU 115-Volt Window Air Conditioner for 250 Sq. Ft. Rooms with Remote",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RAC-WK0612CRRU-ROA.png"
         },
         {
             "id": "S-15051",
@@ -5471,56 +5361,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPMS05BWT.png"
-        },
-        {
-            "id": "WAW0525CM1W",
-            "name": "Hisense 5,000 BTU Window Air Conditioner 150 sq ft. Easy Clean, Easy to Install",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WAW0525CM1W.png"
-        },
-        {
-            "id": "WC05R25A",
-            "name": "Hisense 5,000 BTU Window Air Conditioner",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WC05R25A.png"
-        },
-        {
-            "id": "WC06R25A",
-            "name": "Hisense 6,000 BTU Window Air Conditioner",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WC06R25A.png"
-        },
-        {
-            "id": "WC08W25A",
-            "name": "Hisense 8,000 BTU Smart Window Air Conditioner",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WC08W25A.png"
-        },
-        {
-            "id": "WCH08R25A",
-            "name": "Hisense Window Air Conditioner 8,000 BTU Heat and Cool",
-            "category": "Portable AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WCH08R25A.png"
         },
         {
             "id": "PBX-100",
@@ -8201,6 +8041,166 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ETTW10E.png"
+        },
+        {
+            "id": "EWR05E",
+            "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR05E.png"
+        },
+        {
+            "id": "EWR06E",
+            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR06E.png"
+        },
+        {
+            "id": "EWR08E",
+            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR08E.png"
+        },
+        {
+            "id": "FFRA051WAE",
+            "name": "Frigidaire 5000 BTU Mechanical Window-Mounted Room Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FFRA051WAE.png"
+        },
+        {
+            "id": "FFRE1533U10/ROA",
+            "name": "Frigidaire 15.000-BTU Remote Window AC - No Box / No Remote",
+            "category": "Window AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/FFRE1533U10-ROA.png"
+        },
+        {
+            "id": "LW1017ERSM1",
+            "name": "LG 10,000 BTU Smart Window / Wall Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LW1017ERSM1.png"
+        },
+        {
+            "id": "LW5024",
+            "name": "LG 5000 BTU Window AC Mechanical",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LW5024.png"
+        },
+        {
+            "id": "MAW08AV1QWT-C",
+            "name": "Midea 8,000 BTU DOE U-Shaped Smart Window Air Conditioner, for spaces up to 350 sq. ft., ",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAW08AV1QWT-C.png"
+        },
+        {
+            "id": "MAW08S1VWT-A",
+            "name": "Midea 8,000 BTU Window AC, Smart Inverter, Cools Up To 350 Sq Ft, Remote, Wi-Fi and Alexa, White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAW08S1VWT-A.png"
+        },
+        {
+            "id": "MAW12V1YWT-S",
+            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAW12V1YWT-S.png"
+        },
+        {
+            "id": "RAC-WK0612CRRU/ROA",
+            "name": "Toshiba 6,000 BTU 115-Volt Window Air Conditioner for 250 Sq. Ft. Rooms with Remote",
+            "category": "Window AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RAC-WK0612CRRU-ROA.png"
+        },
+        {
+            "id": "WAW0525CM1W",
+            "name": "Hisense 5,000 BTU Window Air Conditioner 150 sq ft. Easy Clean, Easy to Install",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WAW0525CM1W.png"
+        },
+        {
+            "id": "WC05R25A",
+            "name": "Hisense 5,000 BTU Window Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WC05R25A.png"
+        },
+        {
+            "id": "WC06R25A",
+            "name": "Hisense 6,000 BTU Window Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WC06R25A.png"
+        },
+        {
+            "id": "WC08W25A",
+            "name": "Hisense 8,000 BTU Smart Window Air Conditioner",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WC08W25A.png"
+        },
+        {
+            "id": "WCH08R25A",
+            "name": "Hisense Window Air Conditioner 8,000 BTU Heat and Cool",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCH08R25A.png"
         },
         {
             "id": "BC115SS9/NB",
