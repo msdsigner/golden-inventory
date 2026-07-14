@@ -25,9 +25,9 @@
         {
             "id": "AF-202BK",
             "name": "BRENTWOOD 2.0 AIR Fryer, Black",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-202BK.png"
@@ -35,132 +35,12 @@
         {
             "id": "AF-202W",
             "name": "BRENTWOOD 2.0 AIR Fryer, White",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-202W.png"
-        },
-        {
-            "id": "AF-400DBK",
-            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-400DBK.png"
-        },
-        {
-            "id": "AFWB7QWG13",
-            "name": "West Bend 7 Qt Electric Air Fryer Oven",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AFWB7QWG13.png"
-        },
-        {
-            "id": "CHTO40B",
-            "name": "Commercial Chef 4 Slice Toaster Oven, Black",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CHTO40B.png"
-        },
-        {
-            "id": "IM-436S",
-            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-436S.png"
-        },
-        {
-            "id": "KE-OV-B101BK",
-            "name": "Kitchen Elite 4 Slice Toaster Oven",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KE-OV-B101BK.png"
-        },
-        {
-            "id": "TS-260W",
-            "name": "BRENTWOOD 2-Slice Toaster, White",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-260W.png"
-        },
-        {
-            "id": "TS-265",
-            "name": "BRENTWOOD 4-Slice Toaster, White",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-265.png"
-        },
-        {
-            "id": "TS-280S",
-            "name": "BRENTWOOD 2 Slice Toaster - Black/Stainless Steel",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-280S.png"
-        },
-        {
-            "id": "TS-284",
-            "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-284.png"
-        },
-        {
-            "id": "TS-345B",
-            "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER BLACK",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-345B.png"
-        },
-        {
-            "id": "TS-345R",
-            "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER RED",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-345R.png"
-        },
-        {
-            "id": "WTO1-1001-BLK",
-            "name": "AIWA 5 in 1 Functionality Convection Air Fryer Toaster, Black",
-            "category": "Air Fryer & Toaster",
-            "parent_category": "Other",
-            "sub_category": "Air Fryer & Toaster",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1001-BLK.png"
         },
         {
             "id": "AF-2400SI",
@@ -173,6 +53,16 @@
             "image": "images/AF-2400SI.png"
         },
         {
+            "id": "AF-400DBK",
+            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-400DBK.png"
+        },
+        {
             "id": "AF-800DBK",
             "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
             "category": "Air Fryers",
@@ -183,6 +73,26 @@
             "image": "images/AF-800DBK.png"
         },
         {
+            "id": "AFWB7QWG13",
+            "name": "West Bend 7 Qt Electric Air Fryer Oven",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AFWB7QWG13.png"
+        },
+        {
+            "id": "IM-436S",
+            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-436S.png"
+        },
+        {
             "id": "SM-AIR-1899/RBO",
             "name": "Emerald 25L Air Fryer - Digital - RB",
             "category": "Air Fryers",
@@ -191,6 +101,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-AIR-1899-RBO.png"
+        },
+        {
+            "id": "WTO1-1001-BLK",
+            "name": "AIWA 5 in 1 Functionality Convection Air Fryer Toaster, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WTO1-1001-BLK.png"
         },
         {
             "id": "CR-35",
@@ -271,46 +191,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WAC5-1002-BLK.png"
-        },
-        {
-            "id": "NPB-426/BLK",
-            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
-            "category": "Audio Players",
-            "parent_category": "Other",
-            "sub_category": "Audio Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NPB-426-BLK.png"
-        },
-        {
-            "id": "NPB-431",
-            "name": "NAXA Portable MP3/CD Player with PLL FM",
-            "category": "Audio Players",
-            "parent_category": "Other",
-            "sub_category": "Audio Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NPB-431.png"
-        },
-        {
-            "id": "CK-CB14GRN",
-            "name": "Cookinex 14 Can Cooler Bag, Green",
-            "category": "Beverage Centers",
-            "parent_category": "Other",
-            "sub_category": "Beverage Centers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CK-CB14GRN.png"
-        },
-        {
-            "id": "CK-CB26GR",
-            "name": "Cookinex 26 Can Cooler Bag, Grey",
-            "category": "Beverage Centers",
-            "parent_category": "Other",
-            "sub_category": "Beverage Centers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CK-CB26GR.png"
         },
         {
             "id": "NS-BC1ZSS9/NB",
@@ -891,6 +771,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/F-20SW.png"
+        },
+        {
+            "id": "NPB-426/BLK",
+            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
+            "category": "CD Players",
+            "parent_category": "Home Audio",
+            "sub_category": "CD Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NPB-426-BLK.png"
+        },
+        {
+            "id": "NPB-431",
+            "name": "NAXA Portable MP3/CD Player with PLL FM",
+            "category": "CD Players",
+            "parent_category": "Home Audio",
+            "sub_category": "CD Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NPB-431.png"
         },
         {
             "id": "CD-60R",
@@ -1661,6 +1561,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCC20W.png"
+        },
+        {
+            "id": "CK-CB14GRN",
+            "name": "Cookinex 14 Can Cooler Bag, Green",
+            "category": "Coolers",
+            "parent_category": "Kitchen & Office",
+            "sub_category": "Coolers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CK-CB14GRN.png"
+        },
+        {
+            "id": "CK-CB26GR",
+            "name": "Cookinex 26 Can Cooler Bag, Grey",
+            "category": "Coolers",
+            "parent_category": "Kitchen & Office",
+            "sub_category": "Coolers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CK-CB26GR.png"
         },
         {
             "id": "CPH1-9010-BOX",
@@ -4053,30 +3973,10 @@
             "image": "images/WSC01-BLU.png"
         },
         {
-            "id": "CBF1-2001-BLK",
-            "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
-            "category": "Personal Care",
-            "parent_category": "Other",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBF1-2001-BLK.png"
-        },
-        {
-            "id": "NV-09586",
-            "name": "PRESCOTT & TAYLOR Professional Rechargeable Hair Trimmer",
-            "category": "Personal Care",
-            "parent_category": "Other",
-            "sub_category": "Personal Care",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NV-09586.png"
-        },
-        {
             "id": "NV-09677",
             "name": "Prescott & Taylor Epilator, Assorted",
             "category": "Personal Care",
-            "parent_category": "Other",
+            "parent_category": "Personal Care",
             "sub_category": "Personal Care",
             "price": "Hidden",
             "available": "Hidden",
@@ -4086,21 +3986,11 @@
             "id": "VRD928982395",
             "name": "Cosmo Callus Remover, Black",
             "category": "Personal Care",
-            "parent_category": "Other",
+            "parent_category": "Personal Care",
             "sub_category": "Personal Care",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VRD928982395.png"
-        },
-        {
-            "id": "ADP-101",
-            "name": "Audiobox Universal AC/DC Power Adapter",
-            "category": "Phone Charger",
-            "parent_category": "Other",
-            "sub_category": "Phone Charger",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ADP-101.png"
         },
         {
             "id": "HPAMP750",
@@ -4263,14 +4153,14 @@
             "image": "images/VPMS05BWT.png"
         },
         {
-            "id": "WPF4-1008-RED",
-            "name": "AIWA Power Bank Fan, Red",
-            "category": "Power Bank",
-            "parent_category": "Other",
-            "sub_category": "Power Bank",
+            "id": "ADP-101",
+            "name": "Audiobox Universal AC/DC Power Adapter",
+            "category": "Power Adapters",
+            "parent_category": "Home & Office",
+            "sub_category": "Power Adapters",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/WPF4-1008-RED.png"
+            "image": "images/ADP-101.png"
         },
         {
             "id": "FWPB502K",
@@ -4331,6 +4221,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPUR1011-WHT-ST.png"
+        },
+        {
+            "id": "WPF4-1008-RED",
+            "name": "AIWA Power Bank Fan, Red",
+            "category": "Power Banks",
+            "parent_category": "Home & Office",
+            "sub_category": "Power Banks",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPF4-1008-RED.png"
         },
         {
             "id": "1945",
@@ -4591,6 +4491,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SC-5000VD.png"
+        },
+        {
+            "id": "CBF1-2001-BLK",
+            "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
+            "category": "Shavers",
+            "parent_category": "Personal Care",
+            "sub_category": "Shavers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBF1-2001-BLK.png"
         },
         {
             "id": "CBR1-1002-BLY",
@@ -5283,6 +5193,46 @@
             "image": "images/TS-391.png"
         },
         {
+            "id": "CHTO40B",
+            "name": "Commercial Chef 4 Slice Toaster Oven, Black",
+            "category": "Toaster Ovens",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toaster Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CHTO40B.png"
+        },
+        {
+            "id": "KE-OV-B101BK",
+            "name": "Kitchen Elite 4 Slice Toaster Oven",
+            "category": "Toaster Ovens",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toaster Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/KE-OV-B101BK.png"
+        },
+        {
+            "id": "TS-345B",
+            "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER BLACK",
+            "category": "Toaster Ovens",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toaster Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-345B.png"
+        },
+        {
+            "id": "TS-345R",
+            "name": "BRENTWOOD 9 L TOASTER OVEN & BROILER RED",
+            "category": "Toaster Ovens",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toaster Ovens",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-345R.png"
+        },
+        {
             "id": "MS33018213889/ROA",
             "name": "Mainstays XL Toaster Oven, 32L/ 6-Slice 1500W",
             "category": "Toasters",
@@ -5311,6 +5261,46 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-260B.png"
+        },
+        {
+            "id": "TS-260W",
+            "name": "BRENTWOOD 2-Slice Toaster, White",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-260W.png"
+        },
+        {
+            "id": "TS-265",
+            "name": "BRENTWOOD 4-Slice Toaster, White",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-265.png"
+        },
+        {
+            "id": "TS-280S",
+            "name": "BRENTWOOD 2 Slice Toaster - Black/Stainless Steel",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-280S.png"
+        },
+        {
+            "id": "TS-284",
+            "name": "BRENTWOOD 4 Slice Toaster - Black/SS",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-284.png"
         },
         {
             "id": "WTO1-1020-BLK",
@@ -5481,6 +5471,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CXT1-6002-HYP.png"
+        },
+        {
+            "id": "NV-09586",
+            "name": "PRESCOTT & TAYLOR Professional Rechargeable Hair Trimmer",
+            "category": "Trimmers",
+            "parent_category": "Personal Care",
+            "sub_category": "Trimmers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NV-09586.png"
         },
         {
             "id": "250F400W",
