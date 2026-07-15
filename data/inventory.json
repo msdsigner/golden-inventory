@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 15, 2026",
+    "last_updated": "July 16, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -533,6 +533,16 @@
             "image": "images/HB-38W.png"
         },
         {
+            "id": "HM-44",
+            "name": "BRENTWOOD 5 SPD HAND MIXER 150W",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HM-44.png"
+        },
+        {
             "id": "HM-48B",
             "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Black",
             "category": "Blenders & Mixers",
@@ -821,16 +831,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NAS-3082.png"
-        },
-        {
-            "id": "WA65-BLK",
-            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WA65-BLK.png"
         },
         {
             "id": "WA65-GRY",
@@ -1501,6 +1501,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/KT-1780.png"
+        },
+        {
+            "id": "KT-1900R",
+            "name": "BRENTWOOD 1.7-liter Glass Electric Tea Kettle - RE",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/KT-1900R.png"
         },
         {
             "id": "KT-1962BK",
@@ -3313,16 +3323,6 @@
             "image": "images/HPXHO425.png"
         },
         {
-            "id": "HPXHOKIDB",
-            "name": "Sentry Kids Headphones - Blk",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXHOKIDB.png"
-        },
-        {
             "id": "HPXHOKIDP",
             "name": "Sentry Kids Headphones - Pink",
             "category": "Headphones",
@@ -3771,6 +3771,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-244BK.png"
+        },
+        {
+            "id": "TS-246",
+            "name": "BRENTWOOD PANINI MAKER - Blk",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-246.png"
         },
         {
             "id": "TS-247BK",
@@ -4623,6 +4633,16 @@
             "image": "images/NAM-984-BLK.png"
         },
         {
+            "id": "B20PXP78-A70B",
+            "name": "GOLDEN 0.7 CF Microwave 700W - Black",
+            "category": "Microwaves",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70B.png"
+        },
+        {
             "id": "B20PXP78-A70W",
             "name": "GOLDEN 0.7 CF Microwave 700W - White",
             "category": "Microwaves",
@@ -5321,6 +5341,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPMS05BWT.png"
+        },
+        {
+            "id": "VPFD05YCLW/ROA",
+            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPFD05YCLW-ROA.png"
         },
         {
             "id": "PBX-100",
@@ -6061,16 +6091,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/A6CLUB-BLK.png"
-        },
-        {
-            "id": "A6CLUB-BLU",
-            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Blue",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/A6CLUB-BLU.png"
         },
         {
             "id": "ABX-1550S",
@@ -7083,16 +7103,6 @@
             "image": "images/WH58-GRN.png"
         },
         {
-            "id": "WH61-BLK",
-            "name": "WORRYFREE Portable BT Speaker With Handle - Black",
-            "category": "Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WH61-BLK.png"
-        },
-        {
             "id": "WH61-BLU",
             "name": "WORRYFREE Portable BT Speaker With Handle - Blue",
             "category": "Speakers",
@@ -7811,6 +7821,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09586.png"
+        },
+        {
+            "id": "ANT1560E",
+            "name": "RCA AMPLIFIED DIGITAL ANTENNA",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT1560E.png"
+        },
+        {
+            "id": "ANT310E",
+            "name": "RCA Amplified Indoor Antenna",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT310E.png"
         },
         {
             "id": "CCUK12W/ROA",
