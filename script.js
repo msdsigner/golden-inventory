@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Meta updates
             updateDate.textContent = data.last_updated || "Live";
 
-            const preferredExcel = 'https://docs.google.com/spreadsheets/d/1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn/export?format=xlsx&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn';
+            const preferredExcel = 'https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn';
             const preferredPdf = 'https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_';
 
             dlExcelBtn.href = preferredExcel;
