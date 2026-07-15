@@ -68,34 +68,22 @@ document.addEventListener('DOMContentLoaded', () => {
             originalInventoryOrder = [...data.items];
             
             // Meta updates
-            const downloads = data.downloads || {};
             updateDate.textContent = data.last_updated || "Live";
 
             const preferredExcel = 'https://docs.google.com/spreadsheets/d/1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn/edit?usp=drive_link&ouid=118147644510227044995&rtpof=true&sd=true';
             const preferredPdf = 'https://drive.google.com/file/d/1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_/view?usp=drive_link';
-            const latestExcel = preferredExcel || downloads.excel || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.xlsx';
-            const latestPdf = preferredPdf || downloads.pdf || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.pdf';
 
-            if (latestExcel) {
-                dlExcelBtn.href = latestExcel;
-                dlExcelBtn.target = '_blank';
-                dlExcelBtn.rel = 'noopener noreferrer';
-                dlExcelBtn.removeAttribute('download');
-                dlExcelBtn.style.display = 'inline-block';
-            } else {
-                dlExcelBtn.removeAttribute('href');
-                dlExcelBtn.style.display = 'none';
-            }
-            if (latestPdf) {
-                dlPdfBtn.href = latestPdf;
-                dlPdfBtn.target = '_blank';
-                dlPdfBtn.rel = 'noopener noreferrer';
-                dlPdfBtn.removeAttribute('download');
-                dlPdfBtn.style.display = 'inline-block';
-            } else {
-                dlPdfBtn.removeAttribute('href');
-                dlPdfBtn.style.display = 'none';
-            }
+            dlExcelBtn.href = preferredExcel;
+            dlExcelBtn.target = '_blank';
+            dlExcelBtn.rel = 'noopener noreferrer';
+            dlExcelBtn.setAttribute('download', 'golden-inventory.xlsx');
+            dlExcelBtn.style.display = 'inline-block';
+
+            dlPdfBtn.href = preferredPdf;
+            dlPdfBtn.target = '_blank';
+            dlPdfBtn.rel = 'noopener noreferrer';
+            dlPdfBtn.setAttribute('download', 'golden-inventory.pdf');
+            dlPdfBtn.style.display = 'inline-block';
             
             if (!window.publishPricing) {
                 // Hide sort options related to price and qty
