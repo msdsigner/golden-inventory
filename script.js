@@ -66,9 +66,22 @@ document.addEventListener('DOMContentLoaded', () => {
             originalInventoryOrder = [...data.items];
             
             // Meta updates
+            const downloads = data.downloads || {};
             updateDate.textContent = data.last_updated || "Live";
-            if(data.downloads.excel) { dlExcelBtn.href = data.downloads.excel; } else { dlExcelBtn.style.display = 'none'; }
-            if(data.downloads.pdf) { dlPdfBtn.href = data.downloads.pdf; } else { dlPdfBtn.style.display = 'none'; }
+            if (downloads.excel) {
+                dlExcelBtn.href = downloads.excel;
+                dlExcelBtn.style.display = 'inline-block';
+            } else {
+                dlExcelBtn.removeAttribute('href');
+                dlExcelBtn.style.display = 'none';
+            }
+            if (downloads.pdf) {
+                dlPdfBtn.href = downloads.pdf;
+                dlPdfBtn.style.display = 'inline-block';
+            } else {
+                dlPdfBtn.removeAttribute('href');
+                dlPdfBtn.style.display = 'none';
+            }
             
             if (!window.publishPricing) {
                 // Hide sort options related to price and qty
