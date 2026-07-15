@@ -70,15 +70,19 @@ document.addEventListener('DOMContentLoaded', () => {
             // Meta updates
             const downloads = data.downloads || {};
             updateDate.textContent = data.last_updated || "Live";
-            if (downloads.excel) {
-                dlExcelBtn.href = downloads.excel;
+
+            const latestExcel = downloads.excel || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.xlsx';
+            const latestPdf = downloads.pdf || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.pdf';
+
+            if (latestExcel) {
+                dlExcelBtn.href = latestExcel;
                 dlExcelBtn.style.display = 'inline-block';
             } else {
                 dlExcelBtn.removeAttribute('href');
                 dlExcelBtn.style.display = 'none';
             }
-            if (downloads.pdf) {
-                dlPdfBtn.href = downloads.pdf;
+            if (latestPdf) {
+                dlPdfBtn.href = latestPdf;
                 dlPdfBtn.style.display = 'inline-block';
             } else {
                 dlPdfBtn.removeAttribute('href');
