@@ -533,16 +533,6 @@
             "image": "images/HB-38W.png"
         },
         {
-            "id": "HM-44",
-            "name": "BRENTWOOD 5 SPD HAND MIXER 150W",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HM-44.png"
-        },
-        {
             "id": "HM-48B",
             "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Black",
             "category": "Blenders & Mixers",
@@ -1511,16 +1501,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/KT-1780.png"
-        },
-        {
-            "id": "KT-1900R",
-            "name": "BRENTWOOD 1.7-liter Glass Electric Tea Kettle - RE",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KT-1900R.png"
         },
         {
             "id": "KT-1962BK",
@@ -3793,16 +3773,6 @@
             "image": "images/TS-244BK.png"
         },
         {
-            "id": "TS-246",
-            "name": "BRENTWOOD PANINI MAKER - Blk",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-246.png"
-        },
-        {
             "id": "TS-247BK",
             "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
             "category": "Heating & Cooking",
@@ -4001,16 +3971,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59R",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59R.png"
         },
         {
             "id": "MPI-59W",
