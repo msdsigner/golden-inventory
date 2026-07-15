@@ -70,18 +70,18 @@ document.addEventListener('DOMContentLoaded', () => {
             // Meta updates
             updateDate.textContent = data.last_updated || "Live";
 
-            const preferredExcel = 'https://docs.google.com/spreadsheets/d/1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn/edit?usp=drive_link&ouid=118147644510227044995&rtpof=true&sd=true';
-            const preferredPdf = 'https://drive.google.com/file/d/1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_/view?usp=drive_link';
+            const preferredExcel = 'https://docs.google.com/spreadsheets/d/1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn/export?format=xlsx&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn';
+            const preferredPdf = 'https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_';
 
             dlExcelBtn.href = preferredExcel;
-            dlExcelBtn.target = '_blank';
-            dlExcelBtn.rel = 'noopener noreferrer';
+            dlExcelBtn.removeAttribute('target');
+            dlExcelBtn.removeAttribute('rel');
             dlExcelBtn.setAttribute('download', 'golden-inventory.xlsx');
             dlExcelBtn.style.display = 'inline-block';
 
             dlPdfBtn.href = preferredPdf;
-            dlPdfBtn.target = '_blank';
-            dlPdfBtn.rel = 'noopener noreferrer';
+            dlPdfBtn.removeAttribute('target');
+            dlPdfBtn.removeAttribute('rel');
             dlPdfBtn.setAttribute('download', 'golden-inventory.pdf');
             dlPdfBtn.style.display = 'inline-block';
             
