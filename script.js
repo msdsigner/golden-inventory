@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const catGrid = document.getElementById('categoryGrid');
     const totalCount = document.getElementById('totalCount');
     const emptyState = document.getElementById('emptyState');
+    const resetFiltersBtn = document.getElementById('resetFiltersBtn');
+    const emptyStateResetBtn = document.getElementById('emptyStateResetBtn');
     
     const updateDate = document.getElementById('updateDate');
     const dlExcelBtn = document.getElementById('dlExcel');
@@ -113,6 +115,24 @@ document.addEventListener('DOMContentLoaded', () => {
         currentSort = e.target.value;
         renderGrid();
     });
+
+    function resetFilters() {
+        currentSort = 'default';
+        currentCategory = 'All Categories';
+        currentParentCategory = 'All Parents';
+        currentSearch = '';
+        searchInput.value = '';
+        sortSelect.value = 'default';
+        if (catDropdown) catDropdown.value = 'All Categories';
+        document.querySelectorAll('.btn-parent-cat').forEach(b => b.classList.remove('active-parent'));
+        document.querySelectorAll('.btn-cat').forEach(b => b.classList.remove('active'));
+        const allBtn = document.querySelector('.btn-parent-cat');
+        if (allBtn) allBtn.classList.add('active-parent');
+        renderGrid();
+    }
+
+    resetFiltersBtn?.addEventListener('click', resetFilters);
+    emptyStateResetBtn?.addEventListener('click', resetFilters);
 
     function buildFilters() {
         catDropdown.innerHTML = '<option value="All Categories">All Categories</option>';

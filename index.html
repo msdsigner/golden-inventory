@@ -68,7 +68,10 @@
                 </div>
             </div>
             
-            <p id="totalCount" class="total-count">Loading items...</p>
+            <div class="sidebar-actions">
+                <button id="resetFiltersBtn" class="reset-filters-btn">Reset Filters</button>
+                <p id="totalCount" class="total-count">Loading items...</p>
+            </div>
         </aside>
 
         <!-- Main Content -->
@@ -80,7 +83,9 @@
             
             <!-- Empty State -->
             <div id="emptyState" class="empty-state hidden">
-                <p>No products found matching your criteria.</p>
+                <h3>No matching products</h3>
+                <p>Try a different keyword, category, or reset the filters to browse the full catalog.</p>
+                <button id="emptyStateResetBtn" class="empty-state-btn">Show all products</button>
             </div>
         </main>
     </div>
