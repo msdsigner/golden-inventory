@@ -71,11 +71,16 @@ document.addEventListener('DOMContentLoaded', () => {
             const downloads = data.downloads || {};
             updateDate.textContent = data.last_updated || "Live";
 
-            const latestExcel = downloads.excel || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.xlsx';
-            const latestPdf = downloads.pdf || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.pdf';
+            const preferredExcel = 'https://docs.google.com/spreadsheets/d/1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn/edit?usp=drive_link&ouid=118147644510227044995&rtpof=true&sd=true';
+            const preferredPdf = 'https://drive.google.com/file/d/1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_/view?usp=drive_link';
+            const latestExcel = preferredExcel || downloads.excel || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.xlsx';
+            const latestPdf = preferredPdf || downloads.pdf || './output/Golden Inventory - Jul 15 2026 - 1-34 AM.pdf';
 
             if (latestExcel) {
                 dlExcelBtn.href = latestExcel;
+                dlExcelBtn.target = '_blank';
+                dlExcelBtn.rel = 'noopener noreferrer';
+                dlExcelBtn.removeAttribute('download');
                 dlExcelBtn.style.display = 'inline-block';
             } else {
                 dlExcelBtn.removeAttribute('href');
@@ -83,6 +88,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             if (latestPdf) {
                 dlPdfBtn.href = latestPdf;
+                dlPdfBtn.target = '_blank';
+                dlPdfBtn.rel = 'noopener noreferrer';
+                dlPdfBtn.removeAttribute('download');
                 dlPdfBtn.style.display = 'inline-block';
             } else {
                 dlPdfBtn.removeAttribute('href');
