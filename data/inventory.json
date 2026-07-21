@@ -86,7 +86,7 @@
             "id": "FT50931AMZ",
             "name": "Kalorik 6 Qt Touchscreen Air Fryer",
             "category": "Air Fryers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Air Fryers",
             "price": "Hidden",
             "available": "Hidden",
@@ -283,6 +283,16 @@
             "image": "images/ANT121E-RB.png"
         },
         {
+            "id": "ANT1560E",
+            "name": "RCA AMPLIFIED DIGITAL ANTENNA",
+            "category": "Antennas",
+            "parent_category": "Electronics",
+            "sub_category": "Antennas",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT1560E.png"
+        },
+        {
             "id": "ANT30MILE",
             "name": "Slim Digital HDTV 30 Mile TV Antenna",
             "category": "Antennas",
@@ -291,6 +301,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT30MILE.png"
+        },
+        {
+            "id": "ANT310E",
+            "name": "RCA Amplified Indoor Antenna",
+            "category": "Antennas",
+            "parent_category": "Electronics",
+            "sub_category": "Antennas",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT310E.png"
         },
         {
             "id": "ANT751Z",
@@ -5990,7 +6010,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC678CC-RBO.png"
         },
         {
             "id": "NN-SC67NS/RBO",
@@ -6000,7 +6020,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC67NS-RBO.png"
         },
         {
             "id": "NN-SN68QB/RB",
@@ -6010,7 +6030,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SN68QB-RB.png"
         },
         {
             "id": "NN-SN68QB/RBO",
@@ -6050,7 +6070,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSC64MW-RB.png"
         },
         {
             "id": "NNSC64MWC/RBO",
@@ -6060,7 +6080,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSC64MWC-RBO.png"
         },
         {
             "id": "NNSU64LB/RB",
@@ -6070,7 +6090,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSU64LB-RB.png"
         },
         {
             "id": "NNSU64LBC/RBO",
@@ -6080,7 +6100,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -7781,26 +7801,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-WHT.png"
-        },
-        {
-            "id": "ANT1560E",
-            "name": "RCA AMPLIFIED DIGITAL ANTENNA",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT1560E.png"
-        },
-        {
-            "id": "ANT310E",
-            "name": "RCA Amplified Indoor Antenna",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT310E.png"
         },
         {
             "id": "CCUK12W/ROA",
