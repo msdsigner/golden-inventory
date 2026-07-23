@@ -6,9 +6,9 @@
     --border: #e2e8f0;
     --primary: #ebecf0; /* White to pop */
     --primary-hover: #1e40af;
-    --accent: #d4af37; /* Golden trim */
+    --accent: #ffd64f; /* Golden trim */
     --text-main: #0f172a;
-    --text-sub: #64748b;
+    --text-sub: #317de7;
     --radius: 8px;
     --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     --font: 'Inter', system-ui, sans-serif;

@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 22, 2026",
+    "last_updated": "July 23, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -221,16 +221,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT-22.png"
-        },
-        {
-            "id": "ANT-400",
-            "name": "AudioBox Amplified Indoor Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-400.png"
         },
         {
             "id": "ANT-7-BLK",
@@ -2833,6 +2823,16 @@
             "image": "images/WTK1-1001-BLK.png"
         },
         {
+            "id": "WCF1-1009-BLK",
+            "name": "AIWA Single Serve Coffee Maker, Black",
+            "category": "Coffee Makers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Coffee Makers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "D-09/CA57BN",
             "name": "Mouse Optical Wireless 2.4GHZ Ergo Grips",
             "category": "Computing",
@@ -4061,16 +4061,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBT1-9000-SIG.png"
-        },
-        {
-            "id": "CXE1-2001-HYP",
-            "name": "Xtreme Cutting Edge Rechargeable Foil Shaver",
-            "category": "Grooming",
-            "parent_category": "Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXE1-2001-HYP.png"
         },
         {
             "id": "CXT1-3500-HYP",
@@ -5783,6 +5773,16 @@
             "image": "images/MC101-BLK.png"
         },
         {
+            "id": "MC101-BLU",
+            "name": "Emerald Wireless Karaoke Microphone - Blu",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MC101-BLU.png"
+        },
+        {
             "id": "MC101-PNK",
             "name": "Emerald Wireless Karaoke Microphone - Pink",
             "category": "Microphones",
@@ -6691,6 +6691,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPFD05YCLW-ROA.png"
+        },
+        {
+            "id": "VPMS05BWT/ROA",
+            "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier, RB",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPMS05BWT-ROA.png"
         },
         {
             "id": "FWPB502K",
@@ -7801,6 +7811,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-WHT.png"
+        },
+        {
+            "id": "ANTD4E",
+            "name": "RCA Amplified HDTC Antenna Multi-Directional",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "RCR414BHE1",
+            "name": "RCA 4-Device Universal Remote",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "WGR1-1011-WHT",
+            "name": "AIWA Sandwich Maker - Press & Slice, White",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "CCUK12W/ROA",
