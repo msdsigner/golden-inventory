@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 23, 2026",
+    "last_updated": "July 29, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -193,16 +193,6 @@
             "image": "images/WAC5-1002-BLK.png"
         },
         {
-            "id": "ANT-100",
-            "name": "AudioBox Digital TV & HD Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-100.png"
-        },
-        {
             "id": "ANT-101",
             "name": "QFX Indoor 90\u00b0 Rotating Antenna",
             "category": "Antennas",
@@ -293,16 +283,6 @@
             "image": "images/ANT30MILE.png"
         },
         {
-            "id": "ANT310E",
-            "name": "RCA Amplified Indoor Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT310E.png"
-        },
-        {
             "id": "ANT751Z",
             "name": "RCA Outdoor/Attic Antenna",
             "category": "Antennas",
@@ -311,6 +291,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT751Z.png"
+        },
+        {
+            "id": "ANTD4E",
+            "name": "RCA Amplified HDTC Antenna Multi-Directional",
+            "category": "Antennas",
+            "parent_category": "Electronics",
+            "sub_category": "Antennas",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANTD4E.png"
         },
         {
             "id": "AZONJN9",
@@ -461,16 +451,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HM-44.png"
-        },
-        {
-            "id": "HM-48B",
-            "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HM-48B.png"
         },
         {
             "id": "HM-48R",
@@ -983,16 +963,6 @@
             "image": "images/BT-2024-SIL.png"
         },
         {
-            "id": "BT-2026",
-            "name": "QFX Soccer Ball BT Speaker with LED Party Lights + Hands Free Calling",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-2026.png"
-        },
-        {
             "id": "BT-23",
             "name": "QFX 2 x 3\" Bluetooth Speaker",
             "category": "Bluetooth Speakers",
@@ -1171,6 +1141,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/E-B5.png"
+        },
+        {
+            "id": "E-B8",
+            "name": "QFX Pro High Power 8\" BT Speaker w/ Lights+Mic",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/E-B8.png"
         },
         {
             "id": "FBX2202K",
@@ -2573,16 +2553,6 @@
             "image": "images/KT-1780.png"
         },
         {
-            "id": "KT-1900R",
-            "name": "BRENTWOOD 1.7-liter Glass Electric Tea Kettle - RE",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KT-1900R.png"
-        },
-        {
             "id": "KT-1962BK",
             "name": "BRENTWOOD 1.9Qt Glass Kettle with Tea Infuser - Black",
             "category": "Coffee & Tea",
@@ -2830,7 +2800,7 @@
             "sub_category": "Coffee Makers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WCF1-1009-BLK.png"
         },
         {
             "id": "D-09/CA57BN",
@@ -3013,16 +2983,6 @@
             "image": "images/BLWBT980W.png"
         },
         {
-            "id": "BLWBT993",
-            "name": "Sentry Earbuds True Wireless Hook with Charge Case, Gray",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLWBT993.png"
-        },
-        {
             "id": "BTH655-W",
             "name": "Acellories TWS with Touch Screen - White",
             "category": "Earphones",
@@ -3111,16 +3071,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HP-E110.png"
-        },
-        {
-            "id": "HP-E120-BLK",
-            "name": "QFX BT 5.4 Rechargeable TWS Earbuds with Touchscreen Display + USB Charging Case, Black",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HP-E120-BLK.png"
         },
         {
             "id": "HP-E120-WHT",
@@ -4213,16 +4163,6 @@
             "image": "images/BTH825-B.png"
         },
         {
-            "id": "BTHP40",
-            "name": "Borne MAX Wireless BT Headphones",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BTHP40.png"
-        },
-        {
             "id": "FBHP546K",
             "name": "Fisher Boom Max PRO Wireless HP - BLK",
             "category": "Headphones",
@@ -4291,16 +4231,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HP-10-BLU.png"
-        },
-        {
-            "id": "HP-10-SIL",
-            "name": "QFX Rechargeable BT Open-Air Stereo Headphones + FM Radio, Silver",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HP-10-SIL.png"
         },
         {
             "id": "HP-20-BLK",
@@ -5213,6 +5143,16 @@
             "image": "images/TS-821.png"
         },
         {
+            "id": "WGR1-1011-WHT",
+            "name": "AIWA Sandwich Maker - Press & Slice, White",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WGR1-1011-WHT.png"
+        },
+        {
             "id": "14210R",
             "name": "Hamilton Beach ASO Cord Reel Iron",
             "category": "Irons",
@@ -5273,16 +5213,6 @@
             "image": "images/MPI-51BK.png"
         },
         {
-            "id": "MPI-51W",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51W.png"
-        },
-        {
             "id": "MPI-59BK",
             "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
             "category": "Irons",
@@ -5291,16 +5221,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59W",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59W.png"
         },
         {
             "id": "MPI-69BKRG",
@@ -5783,16 +5703,6 @@
             "image": "images/MC101-BLU.png"
         },
         {
-            "id": "MC101-PNK",
-            "name": "Emerald Wireless Karaoke Microphone - Pink",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MC101-PNK.png"
-        },
-        {
             "id": "MC101-RSG",
             "name": "Emerald Wireless Karaoke Microphone - Rose Gold",
             "category": "Microphones",
@@ -6103,16 +6013,6 @@
             "image": "images/NNSU64LBC-RBO.png"
         },
         {
-            "id": "NNSU64LWC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU64LWC-RBO.png"
-        },
-        {
             "id": "NNSU65NBC/RBO",
             "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
             "category": "Microwaves",
@@ -6221,16 +6121,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-10BL.png"
-        },
-        {
-            "id": "BT-10R",
-            "name": "QFX Portable Rechargeable BT Bazooka Party Speaker, Red",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-10R.png"
         },
         {
             "id": "BT-30",
@@ -7003,16 +6893,6 @@
             "image": "images/NS-CF44BK3-NB.png"
         },
         {
-            "id": "RM3306W",
-            "name": "AVANTI 3.3 CU FT REFRIGERATOR - White",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RM3306W.png"
-        },
-        {
             "id": "RM3316B",
             "name": "AVANTI 3.3 CU FT REFRIGERATOR - Black",
             "category": "Major Appliances",
@@ -7021,6 +6901,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RM3316B.png"
+        },
+        {
+            "id": "RCR414BHE1",
+            "name": "RCA 4-Device Universal Remote",
+            "category": "Remotes",
+            "parent_category": "Electronics",
+            "sub_category": "Remotes",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RCR414BHE1.png"
         },
         {
             "id": "RCR504BE",
@@ -7161,16 +7051,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-700S.png"
         },
         {
             "id": "3043",
@@ -7813,36 +7693,6 @@
             "image": "images/WTO1-1022-WHT.png"
         },
         {
-            "id": "ANTD4E",
-            "name": "RCA Amplified HDTC Antenna Multi-Directional",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
-            "id": "RCR414BHE1",
-            "name": "RCA 4-Device Universal Remote",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
-            "id": "WGR1-1011-WHT",
-            "name": "AIWA Sandwich Maker - Press & Slice, White",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "CCUK12W/ROA",
             "name": "Commercial Cool 1.2 cf ft Upright Freezer White RB",
             "category": "Upright Freezers",
@@ -7891,6 +7741,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NEU180.png"
+        },
+        {
+            "id": "NEU203/RBO",
+            "name": "Eureka Power Speed Multi-Surface Vacuum Cleaner",
+            "category": "Vacuums",
+            "parent_category": "Refurbished",
+            "sub_category": "Vacuums",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NEU203-RBO.png"
         },
         {
             "id": "NV-09163",
