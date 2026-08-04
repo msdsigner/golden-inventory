@@ -1,5 +1,5 @@
 {
-    "last_updated": "July 29, 2026",
+    "last_updated": "August 05, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -51,16 +51,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-2400SI.png"
-        },
-        {
-            "id": "AF-400DBK",
-            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-400DBK.png"
         },
         {
             "id": "AF-800DBK",
@@ -1463,16 +1453,6 @@
             "image": "images/PBX-220W.png"
         },
         {
-            "id": "PBX-288",
-            "name": "QFX Dual 8\u201d Portable Rechargeable BT Speaker with LED Party Lights",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-288.png"
-        },
-        {
             "id": "PBX-311BT",
             "name": "QFX 2x10\" PORTABLE BLUETOOTH SPKR",
             "category": "Bluetooth Speakers",
@@ -1721,16 +1701,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WA65-BLK.png"
-        },
-        {
-            "id": "WA65-GRY",
-            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Gray",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WA65-GRY.png"
         },
         {
             "id": "WH58-BLK",
@@ -5023,16 +4993,6 @@
             "image": "images/TS-246.png"
         },
         {
-            "id": "TS-247BK",
-            "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-247BK.png"
-        },
-        {
             "id": "TS-337",
             "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
             "category": "Heating & Cooking",
@@ -5101,16 +5061,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-611SS.png"
-        },
-        {
-            "id": "TS-643BK",
-            "name": "BRENTWOOD 1200W Electric Smokeless Indoor Grill with Ceramic Non-Stick Surface, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-643BK.png"
         },
         {
             "id": "TS-651",
@@ -5211,26 +5161,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-51BK.png"
-        },
-        {
-            "id": "MPI-59BK",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-69BKRG",
-            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-69BKRG.png"
         },
         {
             "id": "MPI-70",
@@ -5363,14 +5293,14 @@
             "image": "images/MS81-020-100-52.png"
         },
         {
-            "id": "TS-1002",
-            "name": "Brentwood Knife and Tool Sharpener - Blk",
-            "category": "Knife Sharpeners",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Knife Sharpeners",
+            "id": "LS-15",
+            "name": "QFX 15 Foot Multi-Color Sound Activated LED Light Strip",
+            "category": "LED Lighting",
+            "parent_category": "Electronics",
+            "sub_category": "LED Lighting",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/TS-1002.png"
+            "image": "images/LS-15.png"
         },
         {
             "id": "BCED37",
@@ -5521,16 +5451,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-2000.png"
-        },
-        {
-            "id": "SM-720-2500",
-            "name": "Emerald LED 25ft Strip Light",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-2500.png"
         },
         {
             "id": "SM-720-3000",
@@ -5993,16 +5913,6 @@
             "image": "images/NNSC64MWC-RBO.png"
         },
         {
-            "id": "NNSU64LB/RB",
-            "name": "Panasonic Mid-Size 1.3 Cu Ft genius Microwave Oven, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU64LB-RB.png"
-        },
-        {
             "id": "NNSU64LBC/RBO",
             "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
             "category": "Microwaves",
@@ -6373,16 +6283,6 @@
             "image": "images/SPX-2115R.png"
         },
         {
-            "id": "TMS-101-BLK",
-            "name": "QFX Dual 3\u201d Portable BT Rechargeable Party Speaker with Translucent Motion Party Lights, Black",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TMS-101-BLK.png"
-        },
-        {
             "id": "WSC01-BLK",
             "name": "WORRYFREE 60W Portable BT Party Speaker with RGB Lights, Waterproof with One Microphone, Black",
             "category": "Party Speakers",
@@ -6451,16 +6351,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CS5129-2.png"
-        },
-        {
-            "id": "HPAMP610",
-            "name": "Sentry Suction Cup Phone Holder",
-            "category": "Phones",
-            "parent_category": "Electronics",
-            "sub_category": "Phones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPAMP610.png"
         },
         {
             "id": "ARC-101CW",
@@ -6571,6 +6461,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VPMS05BWT.png"
+        },
+        {
+            "id": "PX0611CWRU/ROA",
+            "name": "Toshiba 6,000 BTU 115-VOLT Smart Portable AC, White, RB",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "VPFD05YCLW/ROA",
@@ -7013,16 +6913,6 @@
             "image": "images/IM-409S.png"
         },
         {
-            "id": "RC-5110DS",
-            "name": "BRENTWOOD10-Cups Cooked/5-Cups Uncooked 7-Function Smart Rice Multi-Cooker, SS",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RC-5110DS.png"
-        },
-        {
             "id": "TS-15",
             "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
             "category": "Rice Cookers",
@@ -7044,13 +6934,23 @@
         },
         {
             "id": "TS-480S",
-            "name": "BRENTWOOD 15 CUP - 2.5 L RICE COOKER W STEAMER WHI",
+            "name": "BRENTWOOD 15 CUP - 2.5 L Rics Cooker w/ Steamer, White",
             "category": "Rice Cookers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
+        },
+        {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Rice Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-700S.png"
         },
         {
             "id": "3043",
@@ -7863,26 +7763,6 @@
             "image": "images/DL12AWCW.png"
         },
         {
-            "id": "ETTW08E",
-            "name": "ELEMENT TTW 8,000 Btu AC, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ETTW08E.png"
-        },
-        {
-            "id": "ETTW10E",
-            "name": "ELEMENT TTW 10,000 Btu AC, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ETTW10E.png"
-        },
-        {
             "id": "EWR05E",
             "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
             "category": "Window AC",
@@ -8031,6 +7911,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCH08R25A.png"
+        },
+        {
+            "id": "VWCS05CWT/ROA",
+            "name": "Vissani 5000 BTU 3in1 Climate Control Window AC with Remote, RB",
+            "category": "Window Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Window Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "BC115SS9/NB",
