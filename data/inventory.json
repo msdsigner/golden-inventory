@@ -1693,16 +1693,6 @@
             "image": "images/TMS-801-RED.png"
         },
         {
-            "id": "WA65-BLK",
-            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WA65-BLK.png"
-        },
-        {
             "id": "WH58-BLK",
             "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -6470,7 +6460,7 @@
             "sub_category": "Portable Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PX0611CWRU-ROA.png"
         },
         {
             "id": "VPFD05YCLW/ROA",
@@ -7763,6 +7753,26 @@
             "image": "images/DL12AWCW.png"
         },
         {
+            "id": "ETTW08E",
+            "name": "ELEMENT TTW 8,000 Btu AC, White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ETTW08E.png"
+        },
+        {
+            "id": "ETTW10E",
+            "name": "ELEMENT TTW 10,000 Btu AC, White",
+            "category": "Window AC",
+            "parent_category": "Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ETTW10E.png"
+        },
+        {
             "id": "EWR05E",
             "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
             "category": "Window AC",
@@ -7920,7 +7930,7 @@
             "sub_category": "Window Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/VWCS05CWT-ROA.png"
         },
         {
             "id": "BC115SS9/NB",
