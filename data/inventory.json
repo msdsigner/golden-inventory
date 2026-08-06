@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 05, 2026",
+    "last_updated": "August 06, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -221,16 +221,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT1080E.png"
-        },
-        {
-            "id": "ANT111E",
-            "name": "RCA Indoor HDTV Antenna",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT111E.png"
         },
         {
             "id": "ANT111E/RB",
@@ -831,16 +821,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-112-BLU.png"
-        },
-        {
-            "id": "BT-112-RED",
-            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Red",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-112-RED.png"
         },
         {
             "id": "BT-16-BLK",
@@ -1693,6 +1673,16 @@
             "image": "images/TMS-801-RED.png"
         },
         {
+            "id": "WA65-BLK",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WA65-BLK.png"
+        },
+        {
             "id": "WH58-BLK",
             "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1751,26 +1741,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP63-BLK.png"
-        },
-        {
-            "id": "WP64-BLU",
-            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Blue",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WP64-BLU.png"
-        },
-        {
-            "id": "WP64-GRY",
-            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WP64-GRY.png"
         },
         {
             "id": "WPB2-BLK",
@@ -2383,16 +2353,6 @@
             "image": "images/CE-CM249.png"
         },
         {
-            "id": "CE-CM389",
-            "name": "Continental Programmable Coffee Maker 12-Cup Capacity",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CE-CM389.png"
-        },
-        {
             "id": "CG-158B",
             "name": "BRENTWOOD Kitchen Essential Coffee Grinder - Black",
             "category": "Coffee & Tea",
@@ -2881,6 +2841,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BDT50WTB.png"
+        },
+        {
+            "id": "DH5023KP",
+            "name": "Hisense 50 Pint 3-Speed Dehumidifier 300 sq. ft Slide-out Bucket with Easy-carry Handle",
+            "category": "Dehumidifiers",
+            "parent_category": "Climate Control",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DH5023KP.png"
         },
         {
             "id": "MAD22S1WWT",
@@ -4523,16 +4493,6 @@
             "image": "images/HPXHO425.png"
         },
         {
-            "id": "HPXHOKIDP",
-            "name": "Sentry Kids Headphones - Pink",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXHOKIDP.png"
-        },
-        {
             "id": "HPXHS861",
             "name": "Sentry Platinum Stereo Headphone, In-Line Mic",
             "category": "Headphones",
@@ -5483,16 +5443,6 @@
             "image": "images/JL10003WL-KO.png"
         },
         {
-            "id": "JL10003WL-WU",
-            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Massage Chairs",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JL10003WL-WU.png"
-        },
-        {
             "id": "JL10003WL-YB",
             "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
             "category": "Major Appliances",
@@ -5741,16 +5691,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NAM-984-BLK.png"
-        },
-        {
-            "id": "B20PXP78-A70B",
-            "name": "GOLDEN 0.7 CF Microwave 700W - Black",
-            "category": "Microwaves",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/B20PXP78-A70B.png"
         },
         {
             "id": "B20PXP78-A70W",
