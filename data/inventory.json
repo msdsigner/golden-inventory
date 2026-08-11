@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 06, 2026",
+    "last_updated": "August 11, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -21,26 +21,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TSB-2438-ROA.png"
-        },
-        {
-            "id": "AF-202BK",
-            "name": "BRENTWOOD 2.0 AIR Fryer, Black",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-202BK.png"
-        },
-        {
-            "id": "AF-202W",
-            "name": "BRENTWOOD 2.0 AIR Fryer, White",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-202W.png"
         },
         {
             "id": "AF-2400SI",
@@ -1163,16 +1143,6 @@
             "image": "images/HPXSPBT6.png"
         },
         {
-            "id": "HPXSPBT8",
-            "name": "Sentry BT Adventure Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXSPBT8.png"
-        },
-        {
             "id": "HPXSPBT9",
             "name": "Sentry PRO Harmonics Speaker",
             "category": "Bluetooth Speakers",
@@ -1741,6 +1711,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP63-BLK.png"
+        },
+        {
+            "id": "WP64-GRY",
+            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WP64-GRY.png"
         },
         {
             "id": "WPB2-BLK",
@@ -2583,16 +2563,6 @@
             "image": "images/TS-112B.png"
         },
         {
-            "id": "TS-113BK",
-            "name": "Brentwood Portable Single Serve Coffee Maker with 14-oz Travel Mug, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-113BK.png"
-        },
-        {
             "id": "TS-119BK",
             "name": "BRENTWOOD Moka Pot Espresso 6-servings",
             "category": "Coffee & Tea",
@@ -2633,16 +2603,6 @@
             "image": "images/TS-212BK.png"
         },
         {
-            "id": "TS-215BK",
-            "name": "BRENTWOOD 10 Cup Coffee Maker - Blk",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-215BK.png"
-        },
-        {
             "id": "TS-215W",
             "name": "BRENTWOOD 10 Cup Coffee Maker - Wht",
             "category": "Coffee & Tea",
@@ -2671,16 +2631,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-219W.png"
-        },
-        {
-            "id": "TS-222BK",
-            "name": "BRENTWOOD 12 Cup Coffee Maker Programmable",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-222BK.png"
         },
         {
             "id": "WCF1-1003-BWS",
@@ -5113,16 +5063,6 @@
             "image": "images/MPI-51BK.png"
         },
         {
-            "id": "MPI-70",
-            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-70.png"
-        },
-        {
             "id": "ED-675G",
             "name": "Cookinex 1.0LT CITRUS JUICER 40W - Green",
             "category": "Juicers",
@@ -5443,6 +5383,16 @@
             "image": "images/JL10003WL-KO.png"
         },
         {
+            "id": "JL10003WL-WU",
+            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Massage Chairs",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JL10003WL-WU.png"
+        },
+        {
             "id": "JL10003WL-YB",
             "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
             "category": "Major Appliances",
@@ -5693,6 +5643,16 @@
             "image": "images/NAM-984-BLK.png"
         },
         {
+            "id": "B20PXP78-A70B",
+            "name": "GOLDEN 0.7 CF Microwave 700W - Black",
+            "category": "Microwaves",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70B.png"
+        },
+        {
             "id": "B20PXP78-A70W",
             "name": "GOLDEN 0.7 CF Microwave 700W - White",
             "category": "Microwaves",
@@ -5751,16 +5711,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SB65NS-ROA.png"
-        },
-        {
-            "id": "NN-SC64MBC/RBO",
-            "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC64MBC-RBO.png"
         },
         {
             "id": "NN-SC678CC/RBO",
@@ -7523,6 +7473,16 @@
             "image": "images/WTO1-1022-WHT.png"
         },
         {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "CCUK12W/ROA",
             "name": "Commercial Cool 1.2 cf ft Upright Freezer White RB",
             "category": "Upright Freezers",
@@ -7871,6 +7831,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VWCS05CWT-ROA.png"
+        },
+        {
+            "id": "VWCS06BWT/ROA",
+            "name": "Vissani 6,000 BTU 115-Volt Window AC with Remote, White, RB",
+            "category": "Window Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Window Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "BC115SS9/NB",
