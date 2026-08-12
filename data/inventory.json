@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 11, 2026",
+    "last_updated": "August 12, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -4553,6 +4553,16 @@
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NT15-20A-G.png"
+        },
+        {
             "id": "PSH08F1ABB/RBO",
             "name": "Pelonis 1500W 3-Spd Fan Forced Heater, RB, Black",
             "category": "Heaters",
@@ -5371,16 +5381,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-7500.png"
-        },
-        {
-            "id": "JL10003WL-KO",
-            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Massage Chairs",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JL10003WL-KO.png"
         },
         {
             "id": "JL10003WL-WU",
@@ -7473,14 +7473,14 @@
             "image": "images/WTO1-1022-WHT.png"
         },
         {
-            "id": "NT15-20A/G",
-            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "id": "LSL115",
+            "name": "Acellories 15 FT Sound Activated LED Lighting Strip",
             "category": "Uncategorized",
             "parent_category": "Other",
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/NT15-20A-G.png"
+            "image": "images/LSL115.png"
         },
         {
             "id": "CCUK12W/ROA",
@@ -7661,16 +7661,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ETTW08E.png"
-        },
-        {
-            "id": "ETTW10E",
-            "name": "ELEMENT TTW 10,000 Btu AC, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ETTW10E.png"
         },
         {
             "id": "EWR05E",
