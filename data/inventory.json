@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 14, 2026",
+    "last_updated": "August 19, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -23,6 +23,16 @@
             "image": "images/TSB-2438-ROA.png"
         },
         {
+            "id": "AF-202W",
+            "name": "BRENTWOOD 2.0 AIR Fryer, White",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-202W.png"
+        },
+        {
             "id": "AF-2400SI",
             "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
             "category": "Air Fryers",
@@ -31,16 +41,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-2400SI.png"
-        },
-        {
-            "id": "AF-800DBK",
-            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-800DBK.png"
         },
         {
             "id": "AFWB7QWG13",
@@ -273,16 +273,6 @@
             "image": "images/AZONJN9.png"
         },
         {
-            "id": "ED-155/R",
-            "name": "Cookinex Blender Plastic Bright Red",
-            "category": "Blenders",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-155-R.png"
-        },
-        {
             "id": "JB-191BL",
             "name": "BRENTWOOD Personal Blender - Blue",
             "category": "Blenders",
@@ -471,16 +461,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-191W.png"
-        },
-        {
-            "id": "JB-199",
-            "name": "BRENTWOOD Multi PRO 20-PC Blender",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-199.png"
         },
         {
             "id": "JB-220B",
@@ -681,16 +661,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/XJ14409.png"
-        },
-        {
-            "id": "A6CLUB-BLK",
-            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/A6CLUB-BLK.png"
         },
         {
             "id": "ABX-1550S",
@@ -1973,16 +1943,6 @@
             "image": "images/CD-60R.png"
         },
         {
-            "id": "NPB-426/BLK",
-            "name": "NAXA Portable CD Player with AM/FM Stereo Radio Cassette Player with Detachable Speakers",
-            "category": "CD Players",
-            "parent_category": "Electronics",
-            "sub_category": "CD Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NPB-426-BLK.png"
-        },
-        {
             "id": "NPB-431",
             "name": "NAXA Portable MP3/CD Player with PLL FM",
             "category": "CD Players",
@@ -2193,16 +2153,6 @@
             "image": "images/NA-3032.png"
         },
         {
-            "id": "ADP-101",
-            "name": "Audiobox Universal AC/DC Power Adapter",
-            "category": "Chargers",
-            "parent_category": "Electronics",
-            "sub_category": "Chargers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ADP-101.png"
-        },
-        {
             "id": "HPAMP750",
             "name": "Sentry 3 in 1 Triple Travel & Home Charger",
             "category": "Chargers",
@@ -2211,16 +2161,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPAMP750.png"
-        },
-        {
-            "id": "BD100",
-            "name": "Golden 3.5 cu ft Chest Freezer White DOE",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Chest Freezers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BD100.png"
         },
         {
             "id": "BD146",
@@ -2643,16 +2583,6 @@
             "image": "images/WCF1-1007-BLK.png"
         },
         {
-            "id": "WTK1-1001-BLK",
-            "name": "AIWA Electric Kettle 8.4 Cups, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTK1-1001-BLK.png"
-        },
-        {
             "id": "CH99671",
             "name": "Homestyle Essentials 12 Cups coffee maker",
             "category": "Coffee Makers",
@@ -2671,16 +2601,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CTSA-3500.png"
-        },
-        {
-            "id": "ED-251/BLK",
-            "name": "Cookinex 4 Cup Coffee Maker - Black",
-            "category": "Coffee Makers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee Makers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ED-251-BLK.png"
         },
         {
             "id": "TS-213W",
@@ -2833,16 +2753,6 @@
             "image": "images/BDT50WTB.png"
         },
         {
-            "id": "DH5023KP",
-            "name": "Hisense 50 Pint 3-Speed Dehumidifier 300 sq. ft Slide-out Bucket with Easy-carry Handle",
-            "category": "Dehumidifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DH5023KP.png"
-        },
-        {
             "id": "MAD22S1WWT",
             "name": "Midea 22 pt. SmartDry Dehumidifiers, Covers up to 1,500 sq. ft.",
             "category": "Dehumidifiers",
@@ -2861,16 +2771,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CCD100W6-ROA.png"
-        },
-        {
-            "id": "BCD6W",
-            "name": "Black & Decker Compact Countertop Dishwasher",
-            "category": "Dishwashers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Dishwashers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BCD6W.png"
         },
         {
             "id": "BCED26",
@@ -3300,7 +3200,7 @@
             "sub_category": "Electric Burners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/KE-170.png"
         },
         {
             "id": "250F400W",
@@ -4293,16 +4193,6 @@
             "image": "images/HPXBT105.png"
         },
         {
-            "id": "HPXBT180",
-            "name": "Sentry BT Headphone - Blk",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT180.png"
-        },
-        {
             "id": "HPXBT301/BLWBT301",
             "name": "Sentry Bluetooth Black Diamond Black/Gold",
             "category": "Headphones",
@@ -5133,16 +5023,6 @@
             "image": "images/IM-36CR.png"
         },
         {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
-        },
-        {
             "id": "MPI-51BK",
             "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
             "category": "Irons",
@@ -5783,6 +5663,16 @@
             "image": "images/NN-SB65NS-ROA.png"
         },
         {
+            "id": "NN-SC64MBC/RBO",
+            "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NN-SC64MBC-RBO.png"
+        },
+        {
             "id": "NN-SC678CC/RBO",
             "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
             "category": "Microwaves",
@@ -6040,7 +5930,7 @@
             "sub_category": "Party Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FBX492K.png"
         },
         {
             "id": "KAR-990",
@@ -6181,16 +6071,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-61089.png"
-        },
-        {
-            "id": "PBX-710700BTL",
-            "name": "QFX Portable Bluetooth Party Speaker - Black",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-710700BTL.png"
         },
         {
             "id": "PBX-831",
@@ -6453,16 +6333,6 @@
             "image": "images/VAP09R1AWT-RB.png"
         },
         {
-            "id": "VAP09R1AWT/ROA",
-            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms, RB",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VAP09R1AWT-ROA.png"
-        },
-        {
             "id": "VPMS05BWT",
             "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier",
             "category": "Portable AC",
@@ -6483,14 +6353,24 @@
             "image": "images/PX0611CWRU-ROA.png"
         },
         {
-            "id": "VPFD05YCLW/ROA",
-            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
+            "id": "PX0612CWRU/ROA",
+            "name": "Toshiba 6,000 (DOE) BTU Portable Air Conditioner Cools 250 Sq. Ft., RB",
             "category": "Portable Air Conditioners",
             "parent_category": "Refurbished",
             "sub_category": "Portable Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/VPFD05YCLW-ROA.png"
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "PX0812CWRU/ROA",
+            "name": "Toshiba 8,000 (DOE) BTU Portable Air Conditioner, Cools 350 sq. ft., RB",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "VPMS05BWT/ROA",
@@ -6593,16 +6473,6 @@
             "image": "images/1949.png"
         },
         {
-            "id": "BPC-110",
-            "name": "BRENTWOOD 6.8 L PRESSURE COOKER ALUMINUM",
-            "category": "Pressure Cookers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Pressure Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "BPC-112",
             "name": "BRENTWOOD 9.0L Pressure Cooker Aluminum",
             "category": "Pressure Cookers",
@@ -6611,16 +6481,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BPC-112.png"
-        },
-        {
-            "id": "CH11167",
-            "name": "Chef Valley Aluminum 5L Press. Cooker",
-            "category": "Pressure Cookers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Pressure Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CH11167.png"
         },
         {
             "id": "CJR720BLHD",
@@ -6820,7 +6680,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CCRRD45HR-ROA.png"
         },
         {
             "id": "CCRRD45HW/ROA",
@@ -6830,7 +6690,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CCRRD45HW-ROA.png"
         },
         {
             "id": "FGFR334/NB",
@@ -6840,7 +6700,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FGFR334-NB.png"
         },
         {
             "id": "NS-CF44BK3/NB",
@@ -6980,7 +6840,7 @@
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/KF-6600.png"
         },
         {
             "id": "RC-3/W",
@@ -6991,16 +6851,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RC-3-W.png"
-        },
-        {
-            "id": "RC-5/W",
-            "name": "Cookinex 5 Cups Rice Cooker - White",
-            "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "TS-15",
@@ -7031,16 +6881,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-600S",
-            "name": "BRENTWOOD 5 CUP - 1 L RICE COOKER W STEAMER WHITE",
-            "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-600S.png"
         },
         {
             "id": "TS-700S",
@@ -7160,7 +7000,7 @@
             "sub_category": "Slow Cookers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SC-3Q.png"
         },
         {
             "id": "SM-SC-900",
@@ -7623,6 +7463,16 @@
             "image": "images/TS-260B.png"
         },
         {
+            "id": "TS-260W",
+            "name": "BRENTWOOD 2-Slice Toaster, White",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-260W.png"
+        },
+        {
             "id": "TS-265",
             "name": "BRENTWOOD 4-Slice Toaster, White",
             "category": "Toasters",
@@ -7720,7 +7570,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/40527.png"
         },
         {
             "id": "ABX-265R/RB",
@@ -7730,7 +7580,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/ABX-265R-RB.png"
         },
         {
             "id": "ANT-4",
@@ -7753,16 +7603,6 @@
             "image": "images/BAPT01.png"
         },
         {
-            "id": "BC-2555CRY",
-            "name": "Betty Crocker Mini Fondue Melting Pot Warmer&Choco",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BC-2555CRY.png"
-        },
-        {
             "id": "BCF5201R",
             "name": "Black & Decker 52\" Inch Ceiling Fan W/Light+Remote",
             "category": "Uncategorized",
@@ -7770,7 +7610,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BCF5201R.png"
         },
         {
             "id": "BT-24-BLK",
@@ -7800,7 +7640,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BUHW50.png"
         },
         {
             "id": "BX604R",
@@ -7830,17 +7670,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
-            "id": "CHIG14MB",
-            "name": "COMMERCIAL CHEF 9-In-1 Contact Grill",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CH-M230-BRN.png"
         },
         {
             "id": "CHPG12R",
@@ -7860,7 +7690,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CHQP12R.png"
         },
         {
             "id": "CZ319WTWM",
@@ -7960,7 +7790,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/FTW400W.png"
         },
         {
             "id": "GF-P1124-1222",
@@ -8020,7 +7850,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPBT290WHT.png"
         },
         {
             "id": "HPBT700-BLU",
@@ -8030,7 +7860,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPBT700-BLU.png"
         },
         {
             "id": "HPM250-R",
@@ -8040,7 +7870,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPM250-R.png"
         },
         {
             "id": "HPM250B",
@@ -8103,16 +7933,6 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
-            "id": "IQ-7265DJBT-GRY",
-            "name": "IQsound 2 x 6.5\" Speaker w/TWT - Gray",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IQ-7265DJBT-GRY.png"
-        },
-        {
             "id": "KE-111",
             "name": "Hercules Portable Gas Stove - Black",
             "category": "Uncategorized",
@@ -8123,16 +7943,6 @@
             "image": "images/KE-111.png"
         },
         {
-            "id": "KE-180/BLK",
-            "name": "Cookinex Super Heavy Duty Gls Top Gas Stove - BLK",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "LSL115",
             "name": "Acellories 15 FT Sound Activated LED Lighting Strip",
             "category": "Uncategorized",
@@ -8141,6 +7951,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/LSL115.png"
+        },
+        {
+            "id": "MAD20S1QWT/ROA",
+            "name": "Midea Cube 20 Pint Dehumidifier for Basement, up to 1,500 Sq. Ft. dehumidifier with drain hose, RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "MHV1-1026-RED",
@@ -8160,7 +7980,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MPD1089B-BLK.png"
         },
         {
             "id": "NA-3029",
@@ -8170,7 +7990,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NA-3029.png"
         },
         {
             "id": "NDS-8006D",
@@ -8250,7 +8070,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PRCD650A-SLV.png"
         },
         {
             "id": "QUB9003",
@@ -8260,7 +8080,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/QUB9003.png"
         },
         {
             "id": "R-73",
@@ -8280,7 +8100,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/RCRN06GBE.png"
         },
         {
             "id": "REM-10",
@@ -8301,16 +8121,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/REM-20.png"
-        },
-        {
-            "id": "RXC-25BT-BLK",
-            "name": "Audiobox Cass. Rec. and Radio - Black",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RXC-25BT-BLK.png"
         },
         {
             "id": "SA205",
@@ -8370,7 +8180,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/SPKA04WHB2.png"
         },
         {
             "id": "SRP9232D/27",
@@ -8420,7 +8230,7 @@
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WWFB3.png"
         },
         {
             "id": "CCUK12W/ROA",
@@ -8543,16 +8353,6 @@
             "image": "images/VC-459-WHT.png"
         },
         {
-            "id": "BCW27MW",
-            "name": "Black & Decker 2.7 Cu Ft 6Kg Washer & Dryer Combo",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Washers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "BPWM09W",
             "name": "Black+Decker 0.9 Cu. Ft. Portable Washer",
             "category": "Major Appliances",
@@ -8591,36 +8391,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AWAS05BWF.png"
-        },
-        {
-            "id": "AWCS08WWF",
-            "name": "GE 8,000 BTU Electronic Window Air Conditioner",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AWCS08WWF.png"
-        },
-        {
-            "id": "DL12AWCW",
-            "name": "Hisense Medium Room Window Air Conditioner with Remote (115-Volt, 12000-BTU)",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DL12AWCW.png"
-        },
-        {
-            "id": "ETTW08E",
-            "name": "ELEMENT TTW 8,000 Btu AC, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ETTW08E.png"
         },
         {
             "id": "EWR05E",
@@ -8693,36 +8463,6 @@
             "image": "images/LW5024.png"
         },
         {
-            "id": "MAW08S1VWT-A",
-            "name": "Midea 8,000 BTU Window AC, Smart Inverter, Cools Up To 350 Sq Ft, Remote, Wi-Fi and Alexa, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW08S1VWT-A.png"
-        },
-        {
-            "id": "MAW12V1YWT-S",
-            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, White",
-            "category": "Window AC",
-            "parent_category": "Climate Control",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAW12V1YWT-S.png"
-        },
-        {
-            "id": "RAC-WK0612CRRU/ROA",
-            "name": "Toshiba 6,000 BTU 115-Volt Window Air Conditioner for 250 Sq. Ft. Rooms with Remote",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RAC-WK0612CRRU-ROA.png"
-        },
-        {
             "id": "WAW0525CM1W",
             "name": "Hisense 5,000 BTU Window Air Conditioner 150 sq ft. Easy Clean, Easy to Install",
             "category": "Window AC",
@@ -8773,14 +8513,14 @@
             "image": "images/WCH08R25A.png"
         },
         {
-            "id": "VWCS05CWT/ROA",
-            "name": "Vissani 5000 BTU 3in1 Climate Control Window AC with Remote, RB",
+            "id": "LW5016/ROA",
+            "name": "LG 5000 Btu Window AC",
             "category": "Window Air Conditioners",
             "parent_category": "Refurbished",
             "sub_category": "Window Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/VWCS05CWT-ROA.png"
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "BC115SS9/NB",
