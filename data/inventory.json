@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 19, 2026",
+    "last_updated": "August 26, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -41,6 +41,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-2400SI.png"
+        },
+        {
+            "id": "AF-800DBK",
+            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-800DBK.png"
         },
         {
             "id": "AFWB7QWG13",
@@ -271,6 +281,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AZONJN9.png"
+        },
+        {
+            "id": "CE-BL229",
+            "name": "Continental 8 Speed Blender 48oz Plastic Jar - Black",
+            "category": "Blenders",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Blenders",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-BL229.png"
         },
         {
             "id": "JB-191BL",
@@ -661,6 +681,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/XJ14409.png"
+        },
+        {
+            "id": "A6CLUB-BLK",
+            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/A6CLUB-BLK.png"
+        },
+        {
+            "id": "A6CLUB-BLU",
+            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Blue",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/A6CLUB-BLU.png"
         },
         {
             "id": "ABX-1550S",
@@ -1543,16 +1583,6 @@
             "image": "images/SP-2100RBT.png"
         },
         {
-            "id": "SP-2120RBT",
-            "name": "Dolphin BT Spkr Dual 12\" w/ USB Port, LED & Radio",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-2120RBT.png"
-        },
-        {
             "id": "SP-2250RBT",
             "name": "Dolphin Dual 12\" Rechargeable X-Bass Spkr",
             "category": "Bluetooth Speakers",
@@ -2153,6 +2183,16 @@
             "image": "images/NA-3032.png"
         },
         {
+            "id": "ADP-101",
+            "name": "Audiobox Universal AC/DC Power Adapter",
+            "category": "Chargers",
+            "parent_category": "Electronics",
+            "sub_category": "Chargers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ADP-101.png"
+        },
+        {
             "id": "HPAMP750",
             "name": "Sentry 3 in 1 Triple Travel & Home Charger",
             "category": "Chargers",
@@ -2171,16 +2211,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BD146.png"
-        },
-        {
-            "id": "UL-BD142-D",
-            "name": "GOLDEN 5.0 Cu.Ft. Chest Freezer W/Chest White",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Chest Freezers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/UL-BD142-D.png"
         },
         {
             "id": "176",
@@ -2261,6 +2291,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE-CM249.png"
+        },
+        {
+            "id": "CE-CM389",
+            "name": "Continental Programmable Coffee Maker 12-Cup Capacity",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-CM389.png"
         },
         {
             "id": "CG-158B",
@@ -3493,16 +3533,6 @@
             "image": "images/V-2271.png"
         },
         {
-            "id": "V/2273",
-            "name": "UniqueWare 12\" Desk Fan 3 Speed",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/V-2273.png"
-        },
-        {
             "id": "V/2274",
             "name": "UniqueWare 16\" Desk Fan 3 Speed",
             "category": "Fans",
@@ -3521,16 +3551,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/V-2500.png"
-        },
-        {
-            "id": "V/3193",
-            "name": "UniqueWare 14\" Industrial Floor Fan",
-            "category": "Fans",
-            "parent_category": "Climate Control",
-            "sub_category": "Fans",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/V-3193.png"
         },
         {
             "id": "V/3488",
@@ -4193,6 +4213,16 @@
             "image": "images/HPXBT105.png"
         },
         {
+            "id": "HPXBT180",
+            "name": "Sentry BT Headphone - Blk",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBT180.png"
+        },
+        {
             "id": "HPXBT301/BLWBT301",
             "name": "Sentry Bluetooth Black Diamond Black/Gold",
             "category": "Headphones",
@@ -4411,6 +4441,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXHO425.png"
+        },
+        {
+            "id": "HPXHOKIDB",
+            "name": "Sentry Kids Headphones - Blk",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXHOKIDB.png"
         },
         {
             "id": "HPXHS861",
@@ -4993,26 +5033,6 @@
             "image": "images/14210R.png"
         },
         {
-            "id": "76133",
-            "name": "Viasonic Executive Steam Iron 350ml. 1600W",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/76133.png"
-        },
-        {
-            "id": "76134",
-            "name": "Viasonic Elite Steam Iron 300ml. 120V, 1500W",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/76134.png"
-        },
-        {
             "id": "IM-36CR",
             "name": "Impress Cord Reel Iron - NS/SPR/BST",
             "category": "Irons",
@@ -5021,6 +5041,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
+        },
+        {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-51BK",
@@ -5341,6 +5371,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-7500.png"
+        },
+        {
+            "id": "JL10003WL-KO",
+            "name": "Costway Zero Gravity Shiatsu Massage Chair - Refurbished Open Box (Wrapped)",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Massage Chairs",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JL10003WL-KO.png"
         },
         {
             "id": "JL10003WL-WU",
@@ -5673,6 +5713,16 @@
             "image": "images/NN-SC64MBC-RBO.png"
         },
         {
+            "id": "NN-SC678C/RBO",
+            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RBO",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "NN-SC678CC/RBO",
             "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
             "category": "Microwaves",
@@ -5681,6 +5731,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SC678CC-RBO.png"
+        },
+        {
+            "id": "NN-SC678S/RB",
+            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "NN-SC67NS/RBO",
@@ -5733,6 +5793,16 @@
             "image": "images/NN-SU64LW-RB.png"
         },
         {
+            "id": "NN-SU65QB/RBO",
+            "name": "Panasonic Microwave 1.3 cuft 1200W Inverter, RB, Black",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "NNSC64MW/RB",
             "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
             "category": "Microwaves",
@@ -5763,6 +5833,16 @@
             "image": "images/NNSU64LBC-RBO.png"
         },
         {
+            "id": "NNSU64LWC/RBO",
+            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NNSU64LWC-RBO.png"
+        },
+        {
             "id": "NNSU65NBC/RBO",
             "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
             "category": "Microwaves",
@@ -5773,6 +5853,16 @@
             "image": "images/NNSU65NBC-RBO.png"
         },
         {
+            "id": "NNSU65NWC/RBO",
+            "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "WSI-EM22AST/ROA",
             "name": "Toshiba 2.2 cu. ft. Microwave, 1200 W Stainless St",
             "category": "Microwaves",
@@ -5781,6 +5871,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WSI-EM22AST-ROA.png"
+        },
+        {
+            "id": "CE-MX119",
+            "name": "Continental 5-Speed Electric Hand Mixer",
+            "category": "Mixers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-MX119.png"
         },
         {
             "id": "ED-435/B",
@@ -6333,6 +6433,16 @@
             "image": "images/VAP09R1AWT-RB.png"
         },
         {
+            "id": "VAP09R1AWT/ROA",
+            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VAP09R1AWT-ROA.png"
+        },
+        {
             "id": "VPMS05BWT",
             "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier",
             "category": "Portable AC",
@@ -6360,7 +6470,7 @@
             "sub_category": "Portable Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PX0612CWRU-ROA.png"
         },
         {
             "id": "PX0812CWRU/ROA",
@@ -6370,7 +6480,27 @@
             "sub_category": "Portable Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PX0812CWRU-ROA.png"
+        },
+        {
+            "id": "RAC-PD1213CWRU/ROA",
+            "name": "Toshiba 12K BTU (8,000 BTU DOE) Portable AC - Refurbished",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RAC-PD1213CWRU-ROA.png"
+        },
+        {
+            "id": "VPFD05YCLW/ROA",
+            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
+            "category": "Portable Air Conditioners",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable Air Conditioners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPFD05YCLW-ROA.png"
         },
         {
             "id": "VPMS05BWT/ROA",
@@ -6821,6 +6951,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TKTC6GB.png"
+        },
+        {
+            "id": "CE23201",
+            "name": "Continental 6 Cup Rice Cooker - White",
+            "category": "Rice Cookers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE23201.png"
+        },
+        {
+            "id": "CE23219",
+            "name": "Continental 12 Cup Rice Cooker - Black",
+            "category": "Rice Cookers",
+            "parent_category": "Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE23219.png"
         },
         {
             "id": "IM-409S",
@@ -7663,6 +7813,36 @@
             "image": "images/CCD100W6.png"
         },
         {
+            "id": "CE-CG839",
+            "name": "Continental Contact Grill, Non-Stick, Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-CG839.png"
+        },
+        {
+            "id": "CE-CO109",
+            "name": "Continental Can Opener Stainless Blade - Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-CO109.png"
+        },
+        {
+            "id": "CE-IR941",
+            "name": "Continental Non-Stick Steam/Dry Spray Iron - Blue",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-IR941.png"
+        },
+        {
             "id": "CH-M230-BRN",
             "name": "YAT Camel BT Speaker - Brown",
             "category": "Uncategorized",
@@ -7893,6 +8073,16 @@
             "image": "images/HPM250K.png"
         },
         {
+            "id": "HPNPRMN1",
+            "name": "Sentry Mini Projector with Speaker and Remote",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPNPRMN1.png"
+        },
+        {
             "id": "HPXBT200",
             "name": "Sentry BT Headphone - Ass. colors",
             "category": "Uncategorized",
@@ -7913,6 +8103,26 @@
             "image": "images/HPXBT825.png"
         },
         {
+            "id": "HPXBTA335",
+            "name": "Sentry Smart Buds ANC Earbuds + Case with OLED Touch Screen",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBTA335.png"
+        },
+        {
+            "id": "HPXBTO350",
+            "name": "Sentry Open Over-the- Ear Headphone",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBTO350.png"
+        },
+        {
             "id": "HPXHMUNI",
             "name": "Sentry Unicorn Headphones",
             "category": "Uncategorized",
@@ -7921,6 +8131,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXHMUNI.png"
+        },
+        {
+            "id": "HPXHS261",
+            "name": "Sentry Rugged Headphone with Volume Control & Mic",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXHS261.png"
         },
         {
             "id": "IQ-460G-BLU",
@@ -7955,6 +8175,46 @@
         {
             "id": "MAD20S1QWT/ROA",
             "name": "Midea Cube 20 Pint Dehumidifier for Basement, up to 1,500 Sq. Ft. dehumidifier with drain hose, RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD20S1QWT-ROA.png"
+        },
+        {
+            "id": "MAD35S1QWT/ROA",
+            "name": "Midea Cube 35 Pint Dehumidifier for Rooms at home, up to 3,500 Sq.Ft. dehumidifier with drain hose, RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD35S1QWT-ROA.png"
+        },
+        {
+            "id": "MAD50PS1AQGR/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., Black, RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD50PS1AQGR-ROA.png"
+        },
+        {
+            "id": "MAD50PS1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD50PS1QWT-ROA.png"
+        },
+        {
+            "id": "MAD50S1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
             "category": "Uncategorized",
             "parent_category": "Refurbished",
             "sub_category": "Uncategorized",
@@ -8211,6 +8471,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VLGLGT60.png"
+        },
+        {
+            "id": "WPB2-GRY",
+            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Gray w/(TR1/HS-02)",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPB2-GRY.png"
         },
         {
             "id": "WWFB2",
@@ -8520,7 +8790,7 @@
             "sub_category": "Window Air Conditioners",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/LW5016-ROA.png"
         },
         {
             "id": "BC115SS9/NB",
