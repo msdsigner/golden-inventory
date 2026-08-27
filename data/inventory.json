@@ -783,6 +783,16 @@
             "image": "images/ABX-214R.png"
         },
         {
+            "id": "ABX-265R/RB",
+            "name": "Audiobox  Dual 6.5\" Portable Speaker",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Refurbished",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ABX-265R-RB.png"
+        },
+        {
             "id": "ABX-82S",
             "name": "Audiobox 8\" PA Speaker",
             "category": "Bluetooth Speakers",
@@ -2963,6 +2973,16 @@
             "image": "images/SK-72BK.png"
         },
         {
+            "id": "DRC69707/RB",
+            "name": "RCA 7-inch Dual Screen Mobile DVD System",
+            "category": "DVD Players",
+            "parent_category": "Refurbished",
+            "sub_category": "DVD Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DRC69707-RB.png"
+        },
+        {
             "id": "DVD350H",
             "name": "KODAK DVD Player I HDMI and USB",
             "category": "DVD Players",
@@ -3023,6 +3043,16 @@
             "image": "images/BDT50WTB.png"
         },
         {
+            "id": "MAD20S1QWT/ROA",
+            "name": "Midea Cube 20 Pint Dehumidifier for Basement, up to 1,500 Sq. Ft. dehumidifier with drain hose, RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD20S1QWT-ROA.png"
+        },
+        {
             "id": "MAD22S1WWT",
             "name": "Midea 22 pt. SmartDry Dehumidifiers, Covers up to 1,500 sq. ft.",
             "category": "Dehumidifiers",
@@ -3031,6 +3061,46 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MAD22S1WWT.png"
+        },
+        {
+            "id": "MAD35S1QWT/ROA",
+            "name": "Midea Cube 35 Pint Dehumidifier for Rooms at home, up to 3,500 Sq.Ft. dehumidifier with drain hose, RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD35S1QWT-ROA.png"
+        },
+        {
+            "id": "MAD50PS1AQGR/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., Black, RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD50PS1AQGR-ROA.png"
+        },
+        {
+            "id": "MAD50PS1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MAD50PS1QWT-ROA.png"
+        },
+        {
+            "id": "MAD50S1QWT/ROA",
+            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "CCD100W6",
@@ -8381,76 +8451,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-WHT.png"
-        },
-        {
-            "id": "ABX-265R/RB",
-            "name": "Audiobox  Dual 6.5\" Portable Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Refurbished",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ABX-265R-RB.png"
-        },
-        {
-            "id": "DRC69707/RB",
-            "name": "RCA 7-inch Dual Screen Mobile DVD System",
-            "category": "DVD Players",
-            "parent_category": "Refurbished",
-            "sub_category": "DVD Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DRC69707-RB.png"
-        },
-        {
-            "id": "MAD20S1QWT/ROA",
-            "name": "Midea Cube 20 Pint Dehumidifier for Basement, up to 1,500 Sq. Ft. dehumidifier with drain hose, RB",
-            "category": "Dehumidifiers",
-            "parent_category": "Refurbished",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAD20S1QWT-ROA.png"
-        },
-        {
-            "id": "MAD35S1QWT/ROA",
-            "name": "Midea Cube 35 Pint Dehumidifier for Rooms at home, up to 3,500 Sq.Ft. dehumidifier with drain hose, RB",
-            "category": "Dehumidifiers",
-            "parent_category": "Refurbished",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAD35S1QWT-ROA.png"
-        },
-        {
-            "id": "MAD50PS1AQGR/ROA",
-            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., Black, RB",
-            "category": "Dehumidifiers",
-            "parent_category": "Refurbished",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAD50PS1AQGR-ROA.png"
-        },
-        {
-            "id": "MAD50PS1QWT/ROA",
-            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
-            "category": "Dehumidifiers",
-            "parent_category": "Refurbished",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MAD50PS1QWT-ROA.png"
-        },
-        {
-            "id": "MAD50S1QWT/ROA",
-            "name": "Midea 50 pt. Cube Dehumidifier with Built-in Pump for spaces up to 4,500 sq. ft., RB",
-            "category": "Dehumidifiers",
-            "parent_category": "Refurbished",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "CCUK12W/ROA",
