@@ -1,0 +1,11 @@
+# Never publish local credentials or runtime state
+credentials.json
+config_odoo.json
+github_config.json
+token.pickle
+*.py[cod]
+__pycache__/
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
