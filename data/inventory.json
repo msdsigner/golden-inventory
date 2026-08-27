@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 26, 2026",
+    "last_updated": "August 28, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -1101,16 +1101,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/E-B5.png"
-        },
-        {
-            "id": "E-B8",
-            "name": "QFX Pro High Power 8\" BT Speaker w/ Lights+Mic",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/E-B8.png"
         },
         {
             "id": "FBX2202K",
@@ -4323,16 +4313,6 @@
             "image": "images/HPXBTDINO.png"
         },
         {
-            "id": "HPXBTO200",
-            "name": "Sentry Open Over The Ear Cuff, Black",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBTO200.png"
-        },
-        {
             "id": "HPXBTSP3",
             "name": "Sentry BT Headphone with RGB Speaker Combo Pack",
             "category": "Headphones",
@@ -5720,7 +5700,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC678C-RBO.png"
         },
         {
             "id": "NN-SC678CC/RBO",
@@ -5740,7 +5720,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SC678S-RB.png"
         },
         {
             "id": "NN-SC67NS/RBO",
@@ -5800,7 +5780,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NN-SU65QB-RBO.png"
         },
         {
             "id": "NNSC64MW/RB",
@@ -5860,7 +5840,7 @@
             "sub_category": "Microwaves",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NNSU65NWC-RBO.png"
         },
         {
             "id": "WSI-EM22AST/ROA",
@@ -6931,16 +6911,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SRP2024R-27.png"
-        },
-        {
-            "id": "SRP4221B/27",
-            "name": "Philips 4-Device Universal RC BT",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SRP4221B-27.png"
         },
         {
             "id": "TKTC6GB",
