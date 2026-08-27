@@ -174,7 +174,7 @@
         },
         {
             "id": "ANT-101",
-            "name": "QFX Indoor 90\u00b0 Rotating Antenna",
+            "name": "QFX Indoor 90° Rotating Antenna",
             "category": "Antennas",
             "parent_category": "Electronics",
             "sub_category": "Antennas",
@@ -285,9 +285,9 @@
         {
             "id": "CE-BL229",
             "name": "Continental 8 Speed Blender 48oz Plastic Jar - Black",
-            "category": "Blenders",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE-BL229.png"
@@ -295,9 +295,9 @@
         {
             "id": "JB-191BL",
             "name": "BRENTWOOD Personal Blender - Blue",
-            "category": "Blenders",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Blenders",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-191BL.png"
@@ -854,7 +854,7 @@
         },
         {
             "id": "BT-1934-GRN",
-            "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Green",
+            "name": "QFX Retro Car Dual 2” BT Speaker with Bass Radiator and LED Lights, Green",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -924,7 +924,7 @@
         },
         {
             "id": "BT-2024-BLK",
-            "name": "QFX Retro Truck Dual 2\u201d BT Speaker with Bass Radiator and On-The-Go LED Lights, Black",
+            "name": "QFX Retro Truck Dual 2” BT Speaker with Bass Radiator and On-The-Go LED Lights, Black",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -934,7 +934,7 @@
         },
         {
             "id": "BT-2024-SIL",
-            "name": "QFX Retro Truck Dual 2\u201d BT Speaker with Bass Radiator and On-The-Go LED Lights, Silver",
+            "name": "QFX Retro Truck Dual 2” BT Speaker with Bass Radiator and On-The-Go LED Lights, Silver",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1244,7 +1244,7 @@
         },
         {
             "id": "MPX-8",
-            "name": "QFX 8\u201d BT Rechargeable Speaker with LED Party Lights",
+            "name": "QFX 8” BT Rechargeable Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1344,7 +1344,7 @@
         },
         {
             "id": "PBX-151",
-            "name": "QFX 15\u201d BT Rechargeable Speaker with RGB LED Party Lights + Wired MIC",
+            "name": "QFX 15” BT Rechargeable Speaker with RGB LED Party Lights + Wired MIC",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1364,7 +1364,7 @@
         },
         {
             "id": "PBX-2010",
-            "name": "QFX Dual 10\u201d Rechargeable BT Speaker with Transparent LED Party Lights",
+            "name": "QFX Dual 10” Rechargeable BT Speaker with Transparent LED Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1374,7 +1374,7 @@
         },
         {
             "id": "PBX-2015",
-            "name": "QFX Dual 15\u201d Rechargeable BT Speaker with Multi-Color Party Lights",
+            "name": "QFX Dual 15” Rechargeable BT Speaker with Multi-Color Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1384,7 +1384,7 @@
         },
         {
             "id": "PBX-2122",
-            "name": "QFX Dual 12\u201d BT Rechargeable Speaker with LED Party Lights",
+            "name": "QFX Dual 12” BT Rechargeable Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1414,7 +1414,7 @@
         },
         {
             "id": "PBX-5190",
-            "name": "QFX 18\u201d Portable Rechargeable BT PA Speaker with LED Party Lights",
+            "name": "QFX 18” Portable Rechargeable BT PA Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -1514,7 +1514,7 @@
         },
         {
             "id": "SBX1036K",
-            "name": "Fisher Dynamic PRO Dual 10\u201d LED Flame Light",
+            "name": "Fisher Dynamic PRO Dual 10” LED Flame Light",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
@@ -2504,7 +2504,7 @@
         },
         {
             "id": "TS-1101BK",
-            "name": "BRENTWOOD 800-watt K-Cup\u00ae Single Serve Coffee Maker with Reusable Filter Basket",
+            "name": "BRENTWOOD 800-watt K-Cup® Single Serve Coffee Maker with Reusable Filter Basket",
             "category": "Coffee & Tea",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Coffee & Tea",
@@ -2615,9 +2615,9 @@
         {
             "id": "CH99671",
             "name": "Homestyle Essentials 12 Cups coffee maker",
-            "category": "Coffee Makers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee Makers",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CH99671.png"
@@ -2625,9 +2625,9 @@
         {
             "id": "CTSA-3500",
             "name": "BRENTWOOD3.5L S/S Vacuum drink dispenser",
-            "category": "Coffee Makers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee Makers",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CTSA-3500.png"
@@ -2635,9 +2635,9 @@
         {
             "id": "TS-213W",
             "name": "BRENTWOOD 4 Cup Coffee Maker, White",
-            "category": "Coffee Makers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee Makers",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-213W.png"
@@ -2645,9 +2645,9 @@
         {
             "id": "WCF1-1009-BLK",
             "name": "AIWA Single Serve Coffee Maker, Black",
-            "category": "Coffee Makers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Coffee Makers",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCF1-1009-BLK.png"
@@ -2734,7 +2734,7 @@
         },
         {
             "id": "PDT-312DTV",
-            "name": "QFX Portable Rechargeable 2\u201d TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
+            "name": "QFX Portable Rechargeable 2” TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
             "category": "DVD Players",
             "parent_category": "Electronics",
             "sub_category": "DVD Players",
@@ -3225,9 +3225,9 @@
         {
             "id": "KE-170",
             "name": "Cookinex 2 Burner Gas Stove - Heavy",
-            "category": "Electric Burners",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Electric Burners",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/KE-170.png"
@@ -3294,7 +3294,7 @@
         },
         {
             "id": "F-16SMB",
-            "name": "BRENTWOOD 3-Speed 16\u201d Oscillating Stand Fan, Black",
+            "name": "BRENTWOOD 3-Speed 16” Oscillating Stand Fan, Black",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3304,7 +3304,7 @@
         },
         {
             "id": "F-16SMW",
-            "name": "BRENTWOOD 3-Speed 16\u201d Oscillating Stand Fan, White",
+            "name": "BRENTWOOD 3-Speed 16” Oscillating Stand Fan, White",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3314,7 +3314,7 @@
         },
         {
             "id": "F-16SPW",
-            "name": "BRENTWOOD 16\u201d Oscillating Stand Fan, 3 Quiet Speeds, 5 Blades, White",
+            "name": "BRENTWOOD 16” Oscillating Stand Fan, 3 Quiet Speeds, 5 Blades, White",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3334,7 +3334,7 @@
         },
         {
             "id": "F-20CRC",
-            "name": "BRENTWOOD 3-Speed 20\u201d High Velocity Floor Fan, Metal Construction",
+            "name": "BRENTWOOD 3-Speed 20” High Velocity Floor Fan, Metal Construction",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3344,7 +3344,7 @@
         },
         {
             "id": "F-20SW",
-            "name": "BRENTWOOD 3-Speed 20\u201d Box Fan, White",
+            "name": "BRENTWOOD 3-Speed 20” Box Fan, White",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3414,7 +3414,7 @@
         },
         {
             "id": "FB-82-WHT",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan, White",
+            "name": "QFX Portable Rechargeable 8” Desktop Fan, White",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3424,7 +3424,7 @@
         },
         {
             "id": "FB-83-BLK",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, Black",
+            "name": "QFX Portable Rechargeable 8” Desktop Fan with Built-in LED Lights, Black",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3434,7 +3434,7 @@
         },
         {
             "id": "FB-83-WHT",
-            "name": "QFX Portable Rechargeable 8\u201d Desktop Fan with Built-in LED Lights, White",
+            "name": "QFX Portable Rechargeable 8” Desktop Fan with Built-in LED Lights, White",
             "category": "Fans",
             "parent_category": "Climate Control",
             "sub_category": "Fans",
@@ -3585,9 +3585,9 @@
         {
             "id": "R-333BT-BLK",
             "name": "QFX 3 Band Radio FM/AM w/flashlight",
-            "category": "Flashlights",
-            "parent_category": "Home",
-            "sub_category": "Flashlights",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/R-333BT-BLK.png"
@@ -5835,9 +5835,9 @@
         {
             "id": "CE-MX119",
             "name": "Continental 5-Speed Electric Hand Mixer",
-            "category": "Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Mixers",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE-MX119.png"
@@ -5845,9 +5845,9 @@
         {
             "id": "ED-435/B",
             "name": "Cookinex 5 Speed - Hand Mixer - Black",
-            "category": "Mixers",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Mixers",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ED-435-B.png"
@@ -5944,7 +5944,7 @@
         },
         {
             "id": "BT-30",
-            "name": "QFX Dual 3\u201d Portable Rechargeable BT Party Speaker with LED Party Lights",
+            "name": "QFX Dual 3” Portable Rechargeable BT Party Speaker with LED Party Lights",
             "category": "Party Speakers",
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
@@ -6034,7 +6034,7 @@
         },
         {
             "id": "MPX-24",
-            "name": "QFX Dual 4\u201d Portable BT Rechargeable Party Speaker with LED Party Lights",
+            "name": "QFX Dual 4” Portable BT Rechargeable Party Speaker with LED Party Lights",
             "category": "Party Speakers",
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
@@ -6134,7 +6134,7 @@
         },
         {
             "id": "PBX-831",
-            "name": "QFX Triple 8\u201d Portable BT Rechargeable Party Speaker + Wired Mic",
+            "name": "QFX Triple 8” Portable BT Rechargeable Party Speaker + Wired Mic",
             "category": "Party Speakers",
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
@@ -6184,7 +6184,7 @@
         },
         {
             "id": "SP-2080RBT",
-            "name": "Dolphin Dual 8\u201d High Power Party Speaker with  Wireless Microphone",
+            "name": "Dolphin Dual 8” High Power Party Speaker with  Wireless Microphone",
             "category": "Party Speakers",
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
@@ -6214,7 +6214,7 @@
         },
         {
             "id": "SP-885RBT",
-            "name": "Dolphin Rechargeable 8\u201d Party Speaker with Tilt Function",
+            "name": "Dolphin Rechargeable 8” Party Speaker with Tilt Function",
             "category": "Party Speakers",
             "parent_category": "Audio",
             "sub_category": "Party Speakers",
@@ -6906,7 +6906,7 @@
             "id": "CE23201",
             "name": "Continental 6 Cup Rice Cooker - White",
             "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
@@ -6916,7 +6916,7 @@
             "id": "CE23219",
             "name": "Continental 12 Cup Rice Cooker - Black",
             "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
@@ -6936,7 +6936,7 @@
             "id": "KF-6600",
             "name": "Kung fu 1.8L Rice Cooker - SS",
             "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
@@ -6946,7 +6946,7 @@
             "id": "RC-3/W",
             "name": "Cookinex 3 Cups Rice Cooker - White",
             "category": "Rice Cookers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Rice Cookers",
             "price": "Hidden",
             "available": "Hidden",
@@ -7096,7 +7096,7 @@
             "id": "SC-3Q",
             "name": "Cookinex 3 QT Round Slow Cooker",
             "category": "Slow Cookers",
-            "parent_category": "Kitchen Appliances",
+            "parent_category": "Small Kitchen Appliances",
             "sub_category": "Slow Cookers",
             "price": "Hidden",
             "available": "Hidden",
@@ -7605,9 +7605,9 @@
         {
             "id": "WTO1-1002-RED",
             "name": "AIWA 4-Slice Toaster Oven/Broiler 750W - Red",
-            "category": "Toasters",
-            "parent_category": "Kitchen Appliances",
-            "sub_category": "Toasters",
+            "category": "Toaster Ovens",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toaster Ovens",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1002-RED.png"
@@ -7684,7 +7684,7 @@
         },
         {
             "id": "ANT-4",
-            "name": "QFX Indoor 90\u00b0 Rotating Antenna",
+            "name": "QFX Indoor 90° Rotating Antenna",
             "category": "Uncategorized",
             "parent_category": "Other",
             "sub_category": "Uncategorized",
@@ -8614,7 +8614,7 @@
         },
         {
             "id": "EWR05E",
-            "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
+            "name": "Element 5,000 BTU Window Air Conditioner – White",
             "category": "Window AC",
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
@@ -8624,7 +8624,7 @@
         },
         {
             "id": "EWR06E",
-            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
+            "name": "Element 6,000 BTU Window Air Conditioner – White",
             "category": "Window AC",
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
@@ -8634,7 +8634,7 @@
         },
         {
             "id": "EWR08E",
-            "name": "Element 8,000 BTU Window Air Conditioner \u2013 White",
+            "name": "Element 8,000 BTU Window Air Conditioner – White",
             "category": "Window AC",
             "parent_category": "Climate Control",
             "sub_category": "Window AC",
