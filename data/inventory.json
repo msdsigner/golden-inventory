@@ -5773,26 +5773,6 @@
             "image": "images/NN-SU64LW-RB.png"
         },
         {
-            "id": "NN-SU65QB/RBO",
-            "name": "Panasonic Microwave 1.3 cuft 1200W Inverter, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SU65QB-RBO.png"
-        },
-        {
-            "id": "NNSC64MW/RB",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSC64MW-RB.png"
-        },
-        {
             "id": "NNSC64MWC/RBO",
             "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
             "category": "Microwaves",
