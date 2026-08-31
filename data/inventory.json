@@ -1,5 +1,5 @@
 {
-    "last_updated": "August 28, 2026",
+    "last_updated": "September 01, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -1231,16 +1231,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FBX396K.png"
-        },
-        {
-            "id": "FBX396R",
-            "name": "Fisher  MAX Sound Wireless Boombox - Red",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FBX396R.png"
         },
         {
             "id": "FBX643K",
@@ -2563,16 +2553,6 @@
             "image": "images/CG-158W.png"
         },
         {
-            "id": "CG-162S",
-            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CG-162S.png"
-        },
-        {
             "id": "CH99671",
             "name": "Homestyle Essentials 12 Cups coffee maker",
             "category": "Coffee & Tea",
@@ -3100,7 +3080,7 @@
             "sub_category": "Dehumidifiers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MAD50S1QWT-ROA.png"
         },
         {
             "id": "CCD100W6",
@@ -6623,16 +6603,6 @@
             "image": "images/FBX1529ACSM.png"
         },
         {
-            "id": "FBX492K",
-            "name": "Fisher Dual 4\" Flame Party Speaker - Black",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FBX492K.png"
-        },
-        {
             "id": "GHP400B",
             "name": "2BOOM Battle Crate 3in1 Combo Gaming - Blue",
             "category": "Party Speakers",
@@ -7510,7 +7480,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/ERT74MES.png"
         },
         {
             "id": "FGFR334/NB",
@@ -7571,16 +7541,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RCR504BE.png"
-        },
-        {
-            "id": "RCRN06GBE",
-            "name": "RCA 6-Device Universal Remote Control",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RCRN06GBE.png"
         },
         {
             "id": "RCU300TZ",
