@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 01, 2026",
+    "last_updated": "September 02, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -23,16 +23,6 @@
             "image": "images/TSB-2438-ROA.png"
         },
         {
-            "id": "AF-202W",
-            "name": "BRENTWOOD 2.0 AIR Fryer, White",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-202W.png"
-        },
-        {
             "id": "AF-2400SI",
             "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
             "category": "Air Fryers",
@@ -41,16 +31,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-2400SI.png"
-        },
-        {
-            "id": "AF-800DBK",
-            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-800DBK.png"
         },
         {
             "id": "AFWB7QWG13",
@@ -1743,16 +1723,6 @@
             "image": "images/SP-2100RBT.png"
         },
         {
-            "id": "SP-2250RBT",
-            "name": "Dolphin Dual 12\" Rechargeable X-Bass Spkr",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-2250RBT.png"
-        },
-        {
             "id": "SP-3115RBT",
             "name": "Dolphin High Power 15\" Portable Speaker",
             "category": "Bluetooth Speakers",
@@ -2601,16 +2571,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HE-760.png"
-        },
-        {
-            "id": "IM-170S",
-            "name": "Better Chef Stainless Steel Cordless Electric Kettle",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-170S.png"
         },
         {
             "id": "KT-1610W",
@@ -4173,16 +4133,6 @@
             "image": "images/CBH1-4006-SIG.png"
         },
         {
-            "id": "CBH1-4007-VTN",
-            "name": "Barbasol Rechargeable Cordless Hair Clipper, SS Blades",
-            "category": "Grooming",
-            "parent_category": "Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4007-VTN.png"
-        },
-        {
             "id": "CBH1-4008-SIG",
             "name": "Barbasol Rechargeable LED Display T-Blade Trimmer",
             "category": "Grooming",
@@ -5603,26 +5553,6 @@
             "image": "images/IM-36CR.png"
         },
         {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
-        },
-        {
-            "id": "MPI-51BK",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51BK.png"
-        },
-        {
             "id": "ED-675G",
             "name": "Cookinex 1.0LT CITRUS JUICER 40W - Green",
             "category": "Juicers",
@@ -6993,6 +6923,26 @@
             "image": "images/NS-AC08PWH1-ROA.png"
         },
         {
+            "id": "PX0611CWRU/ROA",
+            "name": "Toshiba 6,000 BTU 115-VOLT Smart Portable AC, White, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PX0611CWRU-ROA.png"
+        },
+        {
+            "id": "PX0612CWRU/ROA",
+            "name": "Toshiba 6,000 (DOE) BTU Portable Air Conditioner Cools 250 Sq. Ft., RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PX0612CWRU-ROA.png"
+        },
+        {
             "id": "PX0811CWRU/ROA",
             "name": "Toshiba 8,000/12,000 BTU 115-VOLT Smart Portable AC, White, RB",
             "category": "Portable AC",
@@ -7001,6 +6951,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PX0811CWRU-ROA.png"
+        },
+        {
+            "id": "PX0812CWRU/ROA",
+            "name": "Toshiba 8,000 (DOE) BTU Portable Air Conditioner, Cools 350 sq. ft., RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PX0812CWRU-ROA.png"
+        },
+        {
+            "id": "RAC-PD1213CWRU/ROA",
+            "name": "Toshiba 12K BTU (8,000 BTU DOE) Portable AC - Refurbished",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RAC-PD1213CWRU-ROA.png"
         },
         {
             "id": "S-15051",
@@ -7053,6 +7023,16 @@
             "image": "images/VAP09R1AWT-ROA.png"
         },
         {
+            "id": "VPFD05YCLW/ROA",
+            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPFD05YCLW-ROA.png"
+        },
+        {
             "id": "VPMS05BWT",
             "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier",
             "category": "Portable AC",
@@ -7063,59 +7043,9 @@
             "image": "images/VPMS05BWT.png"
         },
         {
-            "id": "PX0611CWRU/ROA",
-            "name": "Toshiba 6,000 BTU 115-VOLT Smart Portable AC, White, RB",
-            "category": "Portable Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PX0611CWRU-ROA.png"
-        },
-        {
-            "id": "PX0612CWRU/ROA",
-            "name": "Toshiba 6,000 (DOE) BTU Portable Air Conditioner Cools 250 Sq. Ft., RB",
-            "category": "Portable Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PX0612CWRU-ROA.png"
-        },
-        {
-            "id": "PX0812CWRU/ROA",
-            "name": "Toshiba 8,000 (DOE) BTU Portable Air Conditioner, Cools 350 sq. ft., RB",
-            "category": "Portable Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PX0812CWRU-ROA.png"
-        },
-        {
-            "id": "RAC-PD1213CWRU/ROA",
-            "name": "Toshiba 12K BTU (8,000 BTU DOE) Portable AC - Refurbished",
-            "category": "Portable Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RAC-PD1213CWRU-ROA.png"
-        },
-        {
-            "id": "VPFD05YCLW/ROA",
-            "name": "Vissani 5,000 BTU 115V Portable AC for 150 Sq Ft Rooms - White, RB",
-            "category": "Portable Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VPFD05YCLW-ROA.png"
-        },
-        {
             "id": "VPMS05BWT/ROA",
             "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier, RB",
-            "category": "Portable Air Conditioners",
+            "category": "Portable AC",
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
             "price": "Hidden",
@@ -7723,16 +7653,6 @@
             "image": "images/TS-480S.png"
         },
         {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-700S.png"
-        },
-        {
             "id": "3043",
             "name": "Propert 150Kg Body Analysis Scale",
             "category": "Scales",
@@ -8323,16 +8243,6 @@
             "image": "images/TS-260B.png"
         },
         {
-            "id": "TS-260W",
-            "name": "BRENTWOOD 2-Slice Toaster, White",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-260W.png"
-        },
-        {
             "id": "TS-265",
             "name": "BRENTWOOD 4-Slice Toaster, White",
             "category": "Toasters",
@@ -8633,6 +8543,16 @@
             "image": "images/LW1017ERSM1.png"
         },
         {
+            "id": "LW5016/ROA",
+            "name": "LG 5000 Btu Window AC",
+            "category": "Window AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LW5016-ROA.png"
+        },
+        {
             "id": "LW5024",
             "name": "LG 5000 BTU Window AC Mechanical",
             "category": "Window AC",
@@ -8691,16 +8611,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCH08R25A.png"
-        },
-        {
-            "id": "LW5016/ROA",
-            "name": "LG 5000 Btu Window AC",
-            "category": "Window Air Conditioners",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LW5016-ROA.png"
         },
         {
             "id": "BC115SS9/NB",
