@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 02, 2026",
+    "last_updated": "September 04, 2026",
     "publish_pricing": false,
     "items": [
         {
@@ -23,6 +23,16 @@
             "image": "images/TSB-2438-ROA.png"
         },
         {
+            "id": "AF-202BKC",
+            "name": "BRENTWOOD 2.0 AIR Fryer, Copper",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "AF-2400SI",
             "name": "Brentwood 24-Qt Convection Air Fryer Toaster Oven, Silver",
             "category": "Air Fryers",
@@ -33,6 +43,26 @@
             "image": "images/AF-2400SI.png"
         },
         {
+            "id": "AF-400DBK",
+            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-400DBK.png"
+        },
+        {
+            "id": "AF-800DBK",
+            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-800DBK.png"
+        },
+        {
             "id": "AFWB7QWG13",
             "name": "West Bend 7 Qt Electric Air Fryer Oven",
             "category": "Air Fryers",
@@ -41,6 +71,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AFWB7QWG13.png"
+        },
+        {
+            "id": "DF-715BK",
+            "name": "BRENTWOOD 1.6QT Electric Deep Fryer with 6.4 Cup Oil Capacity, SS Pot with Temperature Control, Black",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "FT50931AMZ",
@@ -463,6 +503,16 @@
             "image": "images/HM-44.png"
         },
         {
+            "id": "HM-48B",
+            "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HM-48B.png"
+        },
+        {
             "id": "HM-48R",
             "name": "BRENTWOOD 5 SPD HAND MIXER 150W - Red",
             "category": "Blenders & Mixers",
@@ -873,6 +923,16 @@
             "image": "images/BT-112-BLU.png"
         },
         {
+            "id": "BT-112-RED",
+            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Red",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-112-RED.png"
+        },
+        {
             "id": "BT-16-BLK",
             "name": "QFX IPX4 Splashproof Rechargeable BT Speaker with LED Party Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1161,6 +1221,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CLP-10-YEL.png"
+        },
+        {
+            "id": "E-1500",
+            "name": "QFX 2 X15\" PROFESSIONAL PA SPEAKER",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/E-1500.png"
         },
         {
             "id": "E-B5",
@@ -1541,6 +1611,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-220W.png"
+        },
+        {
+            "id": "PBX-288",
+            "name": "QFX Dual 8\u201d Portable Rechargeable BT Speaker with LED Party Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-288.png"
         },
         {
             "id": "PBX-311BT",
@@ -2523,6 +2603,16 @@
             "image": "images/CG-158W.png"
         },
         {
+            "id": "CG-162S",
+            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CG-162S.png"
+        },
+        {
             "id": "CH99671",
             "name": "Homestyle Essentials 12 Cups coffee maker",
             "category": "Coffee & Tea",
@@ -2713,6 +2803,16 @@
             "image": "images/TS-1101BK.png"
         },
         {
+            "id": "TS-111BK",
+            "name": "BRENTWOOD Single Cup Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-111BK.png"
+        },
+        {
             "id": "TS-112B",
             "name": "BRENTWOOD SINGLE CUP COFFEE MAKER w/mug",
             "category": "Coffee & Tea",
@@ -2721,6 +2821,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-112B.png"
+        },
+        {
+            "id": "TS-113BK",
+            "name": "Brentwood Portable Single Serve Coffee Maker with 14-oz Travel Mug, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-113BK.png"
         },
         {
             "id": "TS-119BK",
@@ -2763,6 +2873,16 @@
             "image": "images/TS-212BK.png"
         },
         {
+            "id": "TS-213BK",
+            "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-213BK.png"
+        },
+        {
             "id": "TS-213W",
             "name": "BRENTWOOD 4 Cup Coffee Maker, White",
             "category": "Coffee & Tea",
@@ -2771,6 +2891,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-213W.png"
+        },
+        {
+            "id": "TS-215BK",
+            "name": "BRENTWOOD 10 Cup Coffee Maker - Blk",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-215BK.png"
         },
         {
             "id": "TS-215W",
@@ -2801,6 +2931,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-219W.png"
+        },
+        {
+            "id": "TS-222BK",
+            "name": "BRENTWOOD 12 Cup Coffee Maker Programmable",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-222BK.png"
         },
         {
             "id": "WCF1-1003-BWS",
@@ -4133,16 +4273,6 @@
             "image": "images/CBH1-4006-SIG.png"
         },
         {
-            "id": "CBH1-4008-SIG",
-            "name": "Barbasol Rechargeable LED Display T-Blade Trimmer",
-            "category": "Grooming",
-            "parent_category": "Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4008-SIG.png"
-        },
-        {
             "id": "CBH1-4012-VTN",
             "name": "Barbasol PRO Clipper Kit with Travel Bag",
             "category": "Grooming",
@@ -4943,16 +5073,6 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
-            "id": "BHF136193153/RBO",
-            "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHF136193153-RBO.png"
-        },
-        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -5081,26 +5201,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
-        },
-        {
-            "id": "WSH0702ABB/RBO",
-            "name": "Mainstay 1500W Oil Filled Heater RB - Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WSH0702ABB-RBO.png"
-        },
-        {
-            "id": "WSH0702AWW/RBO",
-            "name": "Mainstay 1500W Oil Filled Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WSH0702AWW-RBO.png"
         },
         {
             "id": "WSH3-1002-WHT",
@@ -5403,6 +5503,16 @@
             "image": "images/TS-246.png"
         },
         {
+            "id": "TS-247BK",
+            "name": "BRENTWOOD Non-Stick Panini Press Grill and Sandwich Maker, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-247BK.png"
+        },
+        {
             "id": "TS-337",
             "name": "BRENTWOOD 1000w Electric Hotplate, Silver/Chrome",
             "category": "Heating & Cooking",
@@ -5471,6 +5581,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-611SS.png"
+        },
+        {
+            "id": "TS-643BK",
+            "name": "BRENTWOOD 1200W Electric Smokeless Indoor Grill with Ceramic Non-Stick Surface, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-643BK.png"
         },
         {
             "id": "TS-651",
@@ -5551,6 +5671,86 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
+        },
+        {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-42BK.png"
+        },
+        {
+            "id": "MPI-51BK",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51BK.png"
+        },
+        {
+            "id": "MPI-51W",
+            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-51W.png"
+        },
+        {
+            "id": "MPI-59BK",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59BK.png"
+        },
+        {
+            "id": "MPI-59R",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59R.png"
+        },
+        {
+            "id": "MPI-59W",
+            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-59W.png"
+        },
+        {
+            "id": "MPI-69BKRG",
+            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-69BKRG.png"
+        },
+        {
+            "id": "MPI-70",
+            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-70.png"
         },
         {
             "id": "ED-675G",
@@ -5691,6 +5891,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE-CO109.png"
+        },
+        {
+            "id": "TS-1002",
+            "name": "Brentwood Knife and Tool Sharpener - Blk",
+            "category": "Knife Sharpeners",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Knife Sharpeners",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-1002.png"
         },
         {
             "id": "LS-15",
@@ -6493,6 +6703,16 @@
             "image": "images/BT-10BL.png"
         },
         {
+            "id": "BT-10R",
+            "name": "QFX Portable Rechargeable BT Bazooka Party Speaker, Red",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-10R.png"
+        },
+        {
             "id": "BT-30",
             "name": "QFX Dual 3\u201d Portable Rechargeable BT Party Speaker with LED Party Lights",
             "category": "Party Speakers",
@@ -6603,6 +6823,16 @@
             "image": "images/MPD1089B-BLK.png"
         },
         {
+            "id": "MPX-12",
+            "name": "QFX 12\" Portable BT Rechargeable Party Speaker w/ Translucent Motion Party Lights",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPX-12.png"
+        },
+        {
             "id": "MPX-24",
             "name": "QFX Dual 4\u201d Portable BT Rechargeable Party Speaker with LED Party Lights",
             "category": "Party Speakers",
@@ -6611,6 +6841,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPX-24.png"
+        },
+        {
+            "id": "MPX-65",
+            "name": "QFX 6.5\u201d Portable BT Rechargeable Party Speaker with Translucent Motion Party Lights",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPX-65.png"
         },
         {
             "id": "NDS-8502",
@@ -6721,6 +6961,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-BF12.png"
+        },
+        {
+            "id": "SBX-213W",
+            "name": "QFX Dual 12\u201d BT Party Speaker + 15.4\u201d WIFI Touchscreen + Wireless Mic",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "SP-1217RBT",
@@ -7193,6 +7443,16 @@
             "image": "images/ER-7002-RD.png"
         },
         {
+            "id": "MPX-8080",
+            "name": "QFX Dual 8\u201d Rechargeable BT Speaker with LED Party Lights",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "NA-3029",
             "name": "NAXA MP3/WMA FM w/ LCD screen",
             "category": "Radios",
@@ -7221,6 +7481,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/R-24.png"
+        },
+        {
+            "id": "R-3",
+            "name": "QFX AM/FM/SW1/SW2 RADIO",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-3.png"
         },
         {
             "id": "R-333BT-BLK",
@@ -7493,16 +7763,6 @@
             "image": "images/REM-10.png"
         },
         {
-            "id": "REM-11",
-            "name": "QFX 4 in 1 Smart Universal Remote Control",
-            "category": "Remotes",
-            "parent_category": "Electronics",
-            "sub_category": "Remotes",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/REM-11.png"
-        },
-        {
             "id": "REM-13-BLK",
             "name": "QFX 4-in-1 Smart Universal Remote Control, Black",
             "category": "Remotes",
@@ -7623,6 +7883,16 @@
             "image": "images/RC-3-W.png"
         },
         {
+            "id": "RC-5110DS",
+            "name": "BRENTWOOD10-Cups Cooked/5-Cups Uncooked 7-Function Smart Rice Multi-Cooker, SS",
+            "category": "Rice Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RC-5110DS.png"
+        },
+        {
             "id": "TS-15",
             "name": "Brentwood 8-Cup Uncooked/16-Cup cooked Rice Cooker, SS",
             "category": "Rice Cookers",
@@ -7651,6 +7921,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
+        },
+        {
+            "id": "TS-700S",
+            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
+            "category": "Rice Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Rice Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-700S.png"
         },
         {
             "id": "3043",
@@ -8243,6 +8523,16 @@
             "image": "images/TS-260B.png"
         },
         {
+            "id": "TS-260W",
+            "name": "BRENTWOOD 2-Slice Toaster, White",
+            "category": "Toasters",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Toasters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-260W.png"
+        },
+        {
             "id": "TS-265",
             "name": "BRENTWOOD 4-Slice Toaster, White",
             "category": "Toasters",
@@ -8321,6 +8611,86 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-WHT.png"
+        },
+        {
+            "id": "BT-210",
+            "name": "QFX Portable Rechargeable BT Speaker with Multi-Color Party Lights",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "BT-63-BLK",
+            "name": "QFX 6.5\" BT Portable Speaker w/ LED, Blk",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-63-BLK.png"
+        },
+        {
+            "id": "BT-9",
+            "name": "QFX Portable Rechargeable BT Speaker w/ Circle LED Lights",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-9.png"
+        },
+        {
+            "id": "E-B9",
+            "name": "QFX Professional High-Power 8\u201d BT Speaker with Party Lights + Wireless Mic",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MC-102BK",
+            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, Black",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MC-102W",
+            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, White",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "TMS-1560",
+            "name": "QFX Rechargeable BT Portable Speaker + Translucent Motion Party Lights",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TMS-1560.png"
+        },
+        {
+            "id": "TS-127",
+            "name": "BRENTWOOD SS Electric Tortilla Maker",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-127.png"
         },
         {
             "id": "CCUK12W/ROA",
