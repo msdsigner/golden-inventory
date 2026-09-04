@@ -5073,6 +5073,16 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
+            "id": "BHF136193153/RBO",
+            "name": "Pelonis 23\" Tower Heater RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BHF136193153-RBO.png"
+        },
+        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -5201,6 +5211,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
+        },
+        {
+            "id": "WSH0702ABB/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702ABB-RBO.png"
+        },
+        {
+            "id": "WSH0702AWW/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702AWW-RBO.png"
         },
         {
             "id": "WSH3-1002-WHT",
@@ -6473,16 +6503,6 @@
             "image": "images/NN-SC64MBC-RBO.png"
         },
         {
-            "id": "NN-SC678C/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RBO",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC678C-RBO.png"
-        },
-        {
             "id": "NN-SC678CC/RBO",
             "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
             "category": "Microwaves",
@@ -6491,16 +6511,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SC678CC-RBO.png"
-        },
-        {
-            "id": "NN-SC678S/RB",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC678S-RB.png"
         },
         {
             "id": "NN-SC67NS/RBO",
@@ -8613,6 +8623,26 @@
             "image": "images/WTO1-1022-WHT.png"
         },
         {
+            "id": "889",
+            "name": "Kitchen Sense 7Pcs S.S. Cookware Set",
+            "category": "Uncategorized",
+            "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "BHF136193153ERB/RBO",
+            "name": "Pelonis 23\" Tower Heater RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "BT-210",
             "name": "QFX Portable Rechargeable BT Speaker with Multi-Color Party Lights",
             "category": "Uncategorized",
@@ -8667,6 +8697,16 @@
             "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, White",
             "category": "Uncategorized",
             "parent_category": "Other",
+            "sub_category": "Uncategorized",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "MSHC23R6/RBO",
+            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
+            "category": "Uncategorized",
+            "parent_category": "Refurbished",
             "sub_category": "Uncategorized",
             "price": "Hidden",
             "available": "Hidden",
