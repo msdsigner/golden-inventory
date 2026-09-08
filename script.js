@@ -68,7 +68,18 @@ document.addEventListener('DOMContentLoaded', () => {
             originalInventoryOrder = [...data.items];
             
             // Meta updates
-            updateDate.textContent = data.last_updated || "Live";
+            const easternStamp = new Date().toLocaleString('en-US', {
+                timeZone: 'America/New_York',
+                month: 'long',
+                day: '2-digit',
+                year: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: true,
+                timeZoneName: 'short'
+            });
+            updateDate.textContent = data.last_updated || easternStamp;
 
             const preferredExcel = 'https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn';
             const preferredPdf = 'https://drive.google.com/uc?export=download&id=1xYxWaDx53xBlnyrAteGpgG1bOjYdN1S_';
