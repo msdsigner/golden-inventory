@@ -71,14 +71,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const easternStamp = new Date().toLocaleString('en-US', {
                 timeZone: 'America/New_York',
                 month: 'long',
-                day: '2-digit',
+                day: 'numeric',
                 year: 'numeric',
                 hour: 'numeric',
                 minute: '2-digit',
-                second: '2-digit',
                 hour12: true,
                 timeZoneName: 'short'
-            });
+            }).replace(' ET', ' EST');
             updateDate.textContent = data.last_updated || easternStamp;
 
             const preferredExcel = 'https://drive.google.com/uc?export=download&id=1EEexhaQJfdD7efrzky-kxUTnRzOwbOAn';
