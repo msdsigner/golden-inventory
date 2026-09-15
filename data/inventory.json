@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 15, 2026 - 6:38 PM EST",
+    "last_updated": "September 15, 2026 - 6:59 PM EST",
     "publish_pricing": true,
     "items": [
         {
@@ -1270,7 +1270,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "10.00",
             "available": 100,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BTSPK184.png"
         },
         {
             "id": "BTSPK30B",
@@ -3380,7 +3380,7 @@
             "sub_category": "Dryers",
             "price": "30.00",
             "available": 267,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CSX1-4000-KYO.png"
         },
         {
             "id": "HCD001",
@@ -8140,7 +8140,7 @@
             "sub_category": "Shavers",
             "price": "7.50",
             "available": 114,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CXE1-1006-WM1.png"
         },
         {
             "id": "CXE1-1008-WM1",
@@ -8150,7 +8150,7 @@
             "sub_category": "Shavers",
             "price": "7.50",
             "available": 348,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CXE1-1008-WM1.png"
         },
         {
             "id": "PSS1003M-BK",
@@ -8830,7 +8830,7 @@
             "sub_category": "Trimmers",
             "price": "5.50",
             "available": 382,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CXT1-3500-WM1.png"
         },
         {
             "id": "BHF136193153ERB/RBO",
@@ -8860,7 +8860,7 @@
             "sub_category": "Uncategorized",
             "price": "20.00",
             "available": 196,
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CBK1-6001-TIN.png"
         },
         {
             "id": "MSHC23R6/RBO",
