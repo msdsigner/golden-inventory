@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 15, 2026 - 7:08 PM EST",
+    "last_updated": "September 16, 2026 - 4:28 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3103,16 +3103,6 @@
             "image": "images/WCF1-1003-BWS.png"
         },
         {
-            "id": "WCF1-1007-BLK",
-            "name": "AIWA Compact Coffee Maker",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WCF1-1007-BLK.png"
-        },
-        {
             "id": "WCF1-1009-BLK",
             "name": "AIWA Single Serve Coffee Maker, Black",
             "category": "Coffee & Tea",
@@ -4941,16 +4931,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBTA1000BK.png"
-        },
-        {
-            "id": "HPXBTA1000WH",
-            "name": "Sentry BT Pro Sq Headset, White w/ Gold",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBTA1000WH.png"
         },
         {
             "id": "HPXBTAND",
@@ -6913,16 +6893,6 @@
             "image": "images/BT-30.png"
         },
         {
-            "id": "E-B9",
-            "name": "QFX Professional High-Power 8\u201d BT Speaker with Party Lights + Wireless Mic",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/E-B9.png"
-        },
-        {
             "id": "FBX1529ACSM",
             "name": "Fisher 15\" Bass Blaster Party Speaker",
             "category": "Party Speakers",
@@ -7344,7 +7314,7 @@
         },
         {
             "id": "PX0611CWRU/ROA",
-            "name": "Toshiba 6,000 BTU 115-VOLT Smart Portable AC, White, RB",
+            "name": "Toshiba 6,000 BTU (10,000 BTU ASHRAE) 115-VOLT Smart Portable AC, White, RB",
             "category": "Portable AC",
             "parent_category": "Refurbished",
             "sub_category": "Portable AC",
@@ -7361,16 +7331,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PX0612CWRU-ROA.png"
-        },
-        {
-            "id": "PX0811CWRU/ROA",
-            "name": "Toshiba 8,000/12,000 BTU 115-VOLT Smart Portable AC, White, RB",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PX0811CWRU-ROA.png"
         },
         {
             "id": "PX0812CWRU/ROA",
