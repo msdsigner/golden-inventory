@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 16, 2026 - 4:28 PM EST",
+    "last_updated": "September 17, 2026 - 12:47 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3333,6 +3333,16 @@
             "image": "images/MAD50S1QWT-ROA.png"
         },
         {
+            "id": "VPMS05BWT/ROA",
+            "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier, RB",
+            "category": "Dehumidifiers",
+            "parent_category": "Refurbished",
+            "sub_category": "Dehumidifiers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VPMS05BWT-ROA.png"
+        },
+        {
             "id": "CCD100W6",
             "name": "Commercial Chef Food Dehydrator, 280 Watts, White",
             "category": "Dehydrators",
@@ -4443,6 +4453,16 @@
             "image": "images/CBG1-5000-KIT.png"
         },
         {
+            "id": "CBH1-4002-SLV",
+            "name": "Barbasol PRO Hair Clipper Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBH1-4002-SLV.png"
+        },
+        {
             "id": "CBH1-4002-VTN",
             "name": "Barbasol 10 Pc PRO Clipper Kit",
             "category": "Grooming",
@@ -4491,6 +4511,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBH1-4012-VTN.png"
+        },
+        {
+            "id": "CBK1-6001-TIN",
+            "name": "Barbasol Rechargeable Pro Clipper, Electroplated Body",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBK1-6001-TIN.png"
         },
         {
             "id": "CBR1-1002-BLY",
@@ -4553,6 +4583,26 @@
             "image": "images/CBT1-9000-SIG.png"
         },
         {
+            "id": "CXE1-1006-WM1",
+            "name": "Cutting Edge Dual Rotary Travel Shaver",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CXE1-1006-WM1.png"
+        },
+        {
+            "id": "CXE1-1008-WM1",
+            "name": "Cutting Edge Battery Operated Travel Foil Shaver",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CXE1-1008-WM1.png"
+        },
+        {
             "id": "CXT1-3500-HYP",
             "name": "Xtreme Cutting Edge Bump-Free & Hypoallergenic Battery Powered T-Blade Trimmer for Smooth, Irritation-Free Skin",
             "category": "Grooming",
@@ -4561,6 +4611,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CXT1-3500-HYP.png"
+        },
+        {
+            "id": "CXT1-3500-WM1",
+            "name": "Cutting Edge 4 Piece Touch Up Trimmer, Gold Chrome",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CXT1-3500-WM1.png"
         },
         {
             "id": "CXT1-4007-CMB",
@@ -5283,6 +5343,16 @@
             "image": "images/BHF136193153-RBO.png"
         },
         {
+            "id": "BHF136193153ERB/RBO",
+            "name": "Pelonis 23\" Tower Heater RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BHF136193153ERB-RBO.png"
+        },
+        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -5351,6 +5421,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSH20Q3AWW-RBO.png"
+        },
+        {
+            "id": "MSHC23R6/RBO",
+            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSHC23R6-RBO.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -7423,16 +7503,6 @@
             "image": "images/VPMS05BWT.png"
         },
         {
-            "id": "VPMS05BWT/ROA",
-            "name": "Vissani 5000 BTU115V Portable Air Conditioner/Dehumidifier, RB",
-            "category": "Portable AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Portable AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VPMS05BWT-ROA.png"
-        },
-        {
             "id": "FPB1225K",
             "name": "Fisher 10,000 MAH Power Bank with Built-in Cables, Black",
             "category": "Power Banks",
@@ -8091,26 +8161,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/3043.png"
-        },
-        {
-            "id": "CXE1-1006-WM1",
-            "name": "Cutting Edge Dual Rotary Travel Shaver",
-            "category": "Shavers",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Shavers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXE1-1006-WM1.png"
-        },
-        {
-            "id": "CXE1-1008-WM1",
-            "name": "Cutting Edge Battery Operated Travel Foil Shaver",
-            "category": "Shavers",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Shavers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXE1-1008-WM1.png"
         },
         {
             "id": "PSS1003M-BK",
@@ -8781,56 +8831,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-WHT.png"
-        },
-        {
-            "id": "CXT1-3500-WM1",
-            "name": "Cutting Edge 4 Piece Touch Up Trimmer, Gold Chrome",
-            "category": "Trimmers",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Trimmers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXT1-3500-WM1.png"
-        },
-        {
-            "id": "BHF136193153ERB/RBO",
-            "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHF136193153ERB-RBO.png"
-        },
-        {
-            "id": "CBH1-4002-SLV",
-            "name": "Barbasol PRO Hair Clipper Kit",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4002-SLV.png"
-        },
-        {
-            "id": "CBK1-6001-TIN",
-            "name": "Barbasol Rechargeable Pro Clipper, Electroplated Body",
-            "category": "Uncategorized",
-            "parent_category": "Other",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBK1-6001-TIN.png"
-        },
-        {
-            "id": "MSHC23R6/RBO",
-            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
-            "category": "Uncategorized",
-            "parent_category": "Refurbished",
-            "sub_category": "Uncategorized",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSHC23R6-RBO.png"
         },
         {
             "id": "CCUK12W/ROA",
