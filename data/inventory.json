@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 17, 2026 - 12:47 PM EST",
+    "last_updated": "September 17, 2026 - 2:11 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -161,16 +161,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CR1860D.png"
-        },
-        {
-            "id": "CR640D",
-            "name": "Borne DIGITAL AM/FM CLOCK RADIO",
-            "category": "Alarm Clocks",
-            "parent_category": "Home & Office",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CR640D.png"
         },
         {
             "id": "HPXSPBT14",
@@ -2293,16 +2283,6 @@
             "image": "images/J-290BT-SIL.png"
         },
         {
-            "id": "PRCD667",
-            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PRCD667.png"
-        },
-        {
             "id": "PRCD685B",
             "name": "Borne Portable CD Boombox w/ AM/FM Radio",
             "category": "Boombox",
@@ -3101,6 +3081,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WCF1-1003-BWS.png"
+        },
+        {
+            "id": "WCF1-1007-BLK",
+            "name": "AIWA Compact Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCF1-1007-BLK.png"
         },
         {
             "id": "WCF1-1009-BLK",
@@ -4993,6 +4983,16 @@
             "image": "images/HPXBTA1000BK.png"
         },
         {
+            "id": "HPXBTA1000WH",
+            "name": "Sentry BT Pro Sq Headset, White w/ Gold",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBTA1000WH.png"
+        },
+        {
             "id": "HPXBTAND",
             "name": "Sentry BT Headset w/Noise Canceling",
             "category": "Headphones",
@@ -5431,6 +5431,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSHC23R6-RBO.png"
+        },
+        {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NT15-20A-G.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -6973,6 +6983,16 @@
             "image": "images/BT-30.png"
         },
         {
+            "id": "E-B9",
+            "name": "QFX Professional High-Power 8\u201d BT Speaker with Party Lights + Wireless Mic",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/E-B9.png"
+        },
+        {
             "id": "FBX1529ACSM",
             "name": "Fisher 15\" Bass Blaster Party Speaker",
             "category": "Party Speakers",
@@ -7440,7 +7460,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/S-15051.png"
         },
         {
             "id": "S-4532",
@@ -7450,7 +7470,7 @@
             "sub_category": "Portable AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/S-4532.png"
         },
         {
             "id": "VAP05R1AWT/RB",
@@ -7541,16 +7561,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FWPB502W.png"
-        },
-        {
-            "id": "FWPB515W",
-            "name": "Fisher 5,000 mAh Wireless Power Bank, White",
-            "category": "Power Banks",
-            "parent_category": "Electronics",
-            "sub_category": "Power Banks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FWPB515W.png"
         },
         {
             "id": "PTB-1010",
