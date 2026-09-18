@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 17, 2026 - 2:11 PM EST",
+    "last_updated": "September 18, 2026 - 2:11 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -543,16 +543,6 @@
             "image": "images/JB-191BK.png"
         },
         {
-            "id": "JB-191BL",
-            "name": "BRENTWOOD Personal Blender - Blue",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-191BL.png"
-        },
-        {
             "id": "JB-191W",
             "name": "BRENTWOOD Personal Blender - white",
             "category": "Blenders & Mixers",
@@ -843,16 +833,6 @@
             "image": "images/BLWBT301.png"
         },
         {
-            "id": "BT-1010-BLK",
-            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-1010-BLK.png"
-        },
-        {
             "id": "BT-111-BLK",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1121,16 +1101,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-35.png"
-        },
-        {
-            "id": "BT-402-Blk",
-            "name": "QFX Portable Rechargeable Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-402-Blk.png"
         },
         {
             "id": "BT-63-BLK",
@@ -5403,16 +5373,6 @@
             "image": "images/HO-0250H.png"
         },
         {
-            "id": "MSH20Q3ABB/RBO",
-            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3ABB-RBO.png"
-        },
-        {
             "id": "MSH20Q3AWW/RBO",
             "name": "Midea Radiant Quartz Space Heater RB - White",
             "category": "Heaters",
@@ -5431,16 +5391,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSHC23R6-RBO.png"
-        },
-        {
-            "id": "NT15-20A/G",
-            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
-            "category": "Heaters",
-            "parent_category": "Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NT15-20A-G.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -7223,16 +7173,6 @@
             "image": "images/SP-1217RBT.png"
         },
         {
-            "id": "SP-1270RBT",
-            "name": "Dolphin Dual 12\" Premium Party Speaker",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-1270RBT.png"
-        },
-        {
             "id": "SP-18RBT",
             "name": "Dolphin Rechargeable 18\" Party Speaker",
             "category": "Party Speakers",
@@ -7791,16 +7731,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/R-58-BLU.png"
-        },
-        {
-            "id": "R-58-IVY",
-            "name": "QFX Portable Solar Rechargeable 3-Band Radio with BT + Music Player, Ivory",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-58-IVY.png"
         },
         {
             "id": "RCD5",
