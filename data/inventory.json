@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 18, 2026 - 2:11 PM EST",
+    "last_updated": "September 22, 2026 - 12:02 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -833,14 +833,14 @@
             "image": "images/BLWBT301.png"
         },
         {
-            "id": "BT-111-BLK",
-            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
+            "id": "BT-1010-BLK",
+            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/BT-111-BLK.png"
+            "image": "images/BT-1010-BLK.png"
         },
         {
             "id": "BT-111-BLU",
@@ -1101,6 +1101,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-35.png"
+        },
+        {
+            "id": "BT-402-Blk",
+            "name": "QFX Portable Rechargeable Speaker",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-402-Blk.png"
         },
         {
             "id": "BT-63-BLK",
@@ -1371,16 +1381,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FBX2202K.png"
-        },
-        {
-            "id": "FBX232K",
-            "name": "Fisher  CRUZE SOUND Portable Wireless Spkr - Blk",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FBX232K.png"
         },
         {
             "id": "FBX396B",
@@ -5303,26 +5303,6 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
-            "id": "BHF136193153/RBO",
-            "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHF136193153-RBO.png"
-        },
-        {
-            "id": "BHF136193153ERB/RBO",
-            "name": "Pelonis 23\" Tower Heater RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHF136193153ERB-RBO.png"
-        },
-        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -6793,16 +6773,6 @@
             "image": "images/NNSU64LWC-RBO.png"
         },
         {
-            "id": "NNSU65NBC/RBO",
-            "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU65NBC-RBO.png"
-        },
-        {
             "id": "NNSU65NWC/RBO",
             "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
             "category": "Microwaves",
@@ -7283,16 +7253,6 @@
             "image": "images/VRD928982395.png"
         },
         {
-            "id": "CS5119",
-            "name": "VTech DECT 6.0 Cordless Phone W/Call Wait",
-            "category": "Phones",
-            "parent_category": "Electronics",
-            "sub_category": "Phones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CS5119.png"
-        },
-        {
             "id": "CS5129",
             "name": "VTech DECT 6.0 Cordless Phone",
             "category": "Phones",
@@ -7301,16 +7261,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CS5129.png"
-        },
-        {
-            "id": "CS5129-2",
-            "name": "VTech 2 Handset Cordless Phone System with Caller ID/Call Waiting",
-            "category": "Phones",
-            "parent_category": "Electronics",
-            "sub_category": "Phones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CS5129-2.png"
         },
         {
             "id": "ARC-101CW",
@@ -7694,7 +7644,7 @@
         },
         {
             "id": "R-334BT-BLK",
-            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight",
+            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight, Black",
             "category": "Radios",
             "parent_category": "Audio",
             "sub_category": "Radios",
