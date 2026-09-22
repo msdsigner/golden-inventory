@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 22, 2026 - 12:02 PM EST",
+    "last_updated": "September 22, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -841,6 +841,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1010-BLK.png"
+        },
+        {
+            "id": "BT-111-BLK",
+            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-111-BLK.png"
         },
         {
             "id": "BT-111-BLU",
