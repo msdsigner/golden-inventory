@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 22, 2026 - 2:14 PM EST",
+    "last_updated": "September 23, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -833,16 +833,6 @@
             "image": "images/BLWBT301.png"
         },
         {
-            "id": "BT-1010-BLK",
-            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-1010-BLK.png"
-        },
-        {
             "id": "BT-111-BLK",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
             "category": "Bluetooth Speakers",
@@ -853,16 +843,6 @@
             "image": "images/BT-111-BLK.png"
         },
         {
-            "id": "BT-111-BLU",
-            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Blue",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-111-BLU.png"
-        },
-        {
             "id": "BT-111-RED",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Red",
             "category": "Bluetooth Speakers",
@@ -871,26 +851,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-111-RED.png"
-        },
-        {
-            "id": "BT-112-BLK",
-            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-112-BLK.png"
-        },
-        {
-            "id": "BT-112-RED",
-            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Red",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-112-RED.png"
         },
         {
             "id": "BT-16-BLK",
@@ -1593,16 +1553,6 @@
             "image": "images/MPX-802.png"
         },
         {
-            "id": "MPX-803",
-            "name": "QFX 8\" Rechargeable BT Speaker with LED Party Lights",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPX-803.png"
-        },
-        {
             "id": "MPX-8080",
             "name": "QFX Dual 8\u201d Rechargeable BT Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
@@ -1951,16 +1901,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SP-1700RBT.png"
-        },
-        {
-            "id": "SP-2100RBT",
-            "name": "Dolphin BT Spkr Dual 10\" w/ USB Port, LED & Radio",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-2100RBT.png"
         },
         {
             "id": "SP-3115RBT",
@@ -3221,16 +3161,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VP-110.png"
-        },
-        {
-            "id": "BD22MWSA",
-            "name": "Black & Decker 20 pt. Dehumidifier",
-            "category": "Dehumidifiers",
-            "parent_category": "Climate Control",
-            "sub_category": "Dehumidifiers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BD22MWSA.png"
         },
         {
             "id": "BDT50WTB",
@@ -5313,6 +5243,16 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
+            "id": "BHF136193153/RBO",
+            "name": "Pelonis 23\" Tower Heater RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BHF136193153-RBO.png"
+        },
+        {
             "id": "BHOC05",
             "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
             "category": "Heaters",
@@ -5381,6 +5321,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSHC23R6-RBO.png"
+        },
+        {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NT15-20A-G.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -6623,16 +6573,6 @@
             "image": "images/NAM-984-BLK.png"
         },
         {
-            "id": "B20PXP78-A70W",
-            "name": "GOLDEN 0.7 CF Microwave 700W - White",
-            "category": "Microwaves",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/B20PXP78-A70W.png"
-        },
-        {
             "id": "EM131A5C-BS",
             "name": "TOSHIBA 1100W Countertop Microwave Ovens 1.2 Cu Ft, Smart Humidity Sensor 12 Auto Menus Mute Function ECO Mode Easy Clean Interior, Black",
             "category": "Microwaves",
@@ -6651,16 +6591,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/GCST11N1WSS-ROA.png"
-        },
-        {
-            "id": "HB8436127995-3/RB",
-            "name": "Hamilton Beach 1.6 Cu Ft Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HB8436127995-3-RB.png"
         },
         {
             "id": "MS8436193153-3/ROA",
@@ -6723,16 +6653,6 @@
             "image": "images/NN-SN68QB-RB.png"
         },
         {
-            "id": "NN-SN68QB/RBO",
-            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SN68QB-RBO.png"
-        },
-        {
             "id": "NN-SN95HS/ROA",
             "name": "Panasonic 2.2 cu. ft. 1250-Watt Microwave with Cyclonic Wave Inverter - RB",
             "category": "Microwaves",
@@ -6781,6 +6701,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSU64LWC-RBO.png"
+        },
+        {
+            "id": "NNSU65NBC/RBO",
+            "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NNSU65NBC-RBO.png"
         },
         {
             "id": "NNSU65NWC/RBO",
@@ -8961,6 +8891,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/LW5024.png"
+        },
+        {
+            "id": "LW8024IVSM",
+            "name": "LG 8,500 BTU, 115V High Efficiency Dual Inverter Window AC with Wi-Fi & LCD Remote",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WAW0525CM1W",
