@@ -1,5 +1,5 @@
 {
-    "last_updated": "September 23, 2026 - 2:14 PM EST",
+    "last_updated": "September 24, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -833,6 +833,16 @@
             "image": "images/BLWBT301.png"
         },
         {
+            "id": "BT-1010-BLK",
+            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-1010-BLK.png"
+        },
+        {
             "id": "BT-111-BLK",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1441,16 +1451,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXSPBTRGB.png"
-        },
-        {
-            "id": "KAR-990",
-            "name": "QFX 14.1\" High Definition WIFI Touch Screen Party Speaker System with Wireless Mic",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KAR-990.png"
         },
         {
             "id": "KP-500",
@@ -4293,6 +4293,16 @@
             "image": "images/TS-127.png"
         },
         {
+            "id": "WGR1-1011-BLK",
+            "name": "AIWA Sandwich Maker - Press & Slice, Black",
+            "category": "Grills",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Grills",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "CE-CG839",
             "name": "Continental Contact Grill, Non-Stick, Black",
             "category": "Grills & Makers",
@@ -4311,16 +4321,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CHPG12R.png"
-        },
-        {
-            "id": "CHQP12R",
-            "name": "Commercial Chef 12 Inch Pizza Maker",
-            "category": "Grills & Makers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Grills & Makers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CHQP12R.png"
         },
         {
             "id": "TS-120",
@@ -5303,16 +5303,6 @@
             "image": "images/HO-0250H.png"
         },
         {
-            "id": "MSH20Q3AWW/RBO",
-            "name": "Midea Radiant Quartz Space Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3AWW-RBO.png"
-        },
-        {
             "id": "MSHC23R6/RBO",
             "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
             "category": "Heaters",
@@ -5571,16 +5561,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-STV-2605.png"
-        },
-        {
-            "id": "SM-STV-2606",
-            "name": "Emerald Electric Burner, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-STV-2606.png"
         },
         {
             "id": "SM-STV-2680",
@@ -6841,16 +6821,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-30.png"
-        },
-        {
-            "id": "E-B9",
-            "name": "QFX Professional High-Power 8\u201d BT Speaker with Party Lights + Wireless Mic",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/E-B9.png"
         },
         {
             "id": "FBX1529ACSM",
