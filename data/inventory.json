@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 2, 2026 - 9:43 AM EST",
+    "last_updated": "October 2, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2983,16 +2983,6 @@
             "image": "images/SM-KET-1368.png"
         },
         {
-            "id": "SM-KET-1377-B",
-            "name": "Emerald Glass Tea Kettle, Countertop Electric Kettle Water Boiler Heater, 1.8 L, Clear",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-KET-1377-B.png"
-        },
-        {
             "id": "SM-KET-1386",
             "name": "Emerald 1.8L Electric Kettle Rapid Boil Technology, Silver",
             "category": "Coffee & Tea",
@@ -3061,16 +3051,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-112B.png"
-        },
-        {
-            "id": "TS-113BK",
-            "name": "Brentwood Portable Single Serve Coffee Maker with 14-oz Travel Mug, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-113BK.png"
         },
         {
             "id": "TS-119BK",
@@ -4611,16 +4591,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBH1-4002-SLV.png"
-        },
-        {
-            "id": "CBH1-4002-VTN",
-            "name": "Barbasol 10 Pc PRO Clipper Kit",
-            "category": "Grooming",
-            "parent_category": "Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4002-VTN.png"
         },
         {
             "id": "CBH1-4006-SIG",
