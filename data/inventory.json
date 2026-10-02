@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 1, 2026 - 2:31 PM EST",
+    "last_updated": "October 2, 2026 - 9:43 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1540,7 +1540,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPNGLSP16.png"
         },
         {
             "id": "HPXSPBT6",
@@ -4800,7 +4800,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HC244NGB.png"
         },
         {
             "id": "LPG1R",
@@ -4810,7 +4810,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/LPG1R.png"
         },
         {
             "id": "NV-09586",
@@ -5160,7 +5160,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBT957C.png"
         },
         {
             "id": "HPXBTA010",
@@ -5260,7 +5260,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTWHEELS.png"
         },
         {
             "id": "HPXBTX100",
@@ -5270,7 +5270,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXBTX100.png"
         },
         {
             "id": "HPXDLX100BK",
