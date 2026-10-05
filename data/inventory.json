@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 2, 2026 - 2:14 PM EST",
+    "last_updated": "October 5, 2026 - 12:40 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -6303,16 +6303,6 @@
             "image": "images/JC-1000.png"
         },
         {
-            "id": "JC-452B",
-            "name": "BRENTWOOD 2 Speed Juice Extractor, Black",
-            "category": "Juicers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Juicers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JC-452B.png"
-        },
-        {
             "id": "JC-452W",
             "name": "BRENTWOOD 2 Speed Juice Extractor, White",
             "category": "Juicers",
@@ -6923,6 +6913,16 @@
             "image": "images/MS8436193153-3-ROA.png"
         },
         {
+            "id": "MT09V1B",
+            "name": "Avanti 0.9 CF Microwave Oven - Blk",
+            "category": "Microwaves",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MT09V1B.png"
+        },
+        {
             "id": "NN-SB65NS/ROA",
             "name": "Panasonic Microwave Oven 1.3Cu.Ft. SS RB",
             "category": "Microwaves",
@@ -6931,16 +6931,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SB65NS-ROA.png"
-        },
-        {
-            "id": "NN-SC64MBC/RBO",
-            "name": "Panasonic 1.3 CF Countertop Microwave with Inverter Technology, Black, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC64MBC-RBO.png"
         },
         {
             "id": "NN-SC678CC/RBO",
