@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 5, 2026 - 12:40 PM EST",
+    "last_updated": "October 5, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -11,6 +11,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BAB-2438-ROA.png"
+        },
+        {
+            "id": "BKS-720-909",
+            "name": "Brookstone Tilt TV Mount for 36-70 Inch TVs",
+            "category": "Accessories",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Accessories",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "TSB-2438/ROA",
@@ -31,16 +41,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-202BKC.png"
-        },
-        {
-            "id": "AF-202W",
-            "name": "BRENTWOOD 2.0 AIR Fryer, White",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-202W.png"
         },
         {
             "id": "AF-2400SI",
@@ -2983,6 +2983,16 @@
             "image": "images/SM-KET-1368.png"
         },
         {
+            "id": "SM-KET-1377-B",
+            "name": "Emerald Glass Tea Kettle, Countertop Electric Kettle Water Boiler Heater, 1.8 L, Clear",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-KET-1377-B.png"
+        },
+        {
             "id": "SM-KET-1386",
             "name": "Emerald 1.8L Electric Kettle Rapid Boil Technology, Silver",
             "category": "Coffee & Tea",
@@ -5260,7 +5270,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXGX1000.png"
         },
         {
             "id": "HPXGX175",
@@ -5340,7 +5350,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HPXHO419.png"
         },
         {
             "id": "HPXHO425",
@@ -5541,6 +5551,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IQ-460G-BLU.png"
+        },
+        {
+            "id": "5165",
+            "name": "Lasko 23\" Ceramic Oscillating Space Heater",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "BHF136193153/RBO",
@@ -6153,26 +6173,6 @@
             "image": "images/MPI-42BK.png"
         },
         {
-            "id": "MPI-51BK",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51BK.png"
-        },
-        {
-            "id": "MPI-51W",
-            "name": "BRENTWOOD Non-Stick Steam Iron w/ 8ft Cord",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-51W.png"
-        },
-        {
             "id": "MPI-59BK",
             "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
             "category": "Irons",
@@ -6181,16 +6181,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59R",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Red",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59R.png"
         },
         {
             "id": "MPI-59W",
@@ -6941,16 +6931,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SC678CC-RBO.png"
-        },
-        {
-            "id": "NN-SC67NS/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu. Ft. Blk/Silver - RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC67NS-RBO.png"
         },
         {
             "id": "NN-SN68QB/RB",
@@ -8583,6 +8563,16 @@
             "image": "images/37210.png"
         },
         {
+            "id": "SM-720-9129",
+            "name": "Emerald Tilt Wall Mount 24\" to 70\"",
+            "category": "TV Mounts",
+            "parent_category": "Electronics",
+            "sub_category": "TV Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-9129.png"
+        },
+        {
             "id": "SM-720-6030",
             "name": "Emerald Wall Mount TV Stand, Black",
             "category": "TV Stands",
@@ -8950,7 +8940,7 @@
             "sub_category": "Toasters",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/CE-TT011.png"
         },
         {
             "id": "CE-TT019",
@@ -9041,16 +9031,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WTO1-1022-BLK.png"
-        },
-        {
-            "id": "WTO1-1022-RED",
-            "name": "AIWA 2 Slice Toaster, Red",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WTO1-1022-RED.png"
         },
         {
             "id": "WTO1-1022-WHT",
