@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 5, 2026 - 2:14 PM EST",
+    "last_updated": "October 6, 2026 - 12:51 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -20,7 +20,7 @@
             "sub_category": "Accessories",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BKS-720-909.png"
         },
         {
             "id": "TSB-2438/ROA",
@@ -353,16 +353,6 @@
             "image": "images/AZONJN9.png"
         },
         {
-            "id": "58148G",
-            "name": "Hamilton Beach 700W Glass Jar Blender",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/58148G.png"
-        },
-        {
             "id": "62683G",
             "name": "Hamilton Beach 250watt Hand Mixer with Storage",
             "category": "Blenders & Mixers",
@@ -421,16 +411,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BLSTJJ-GPB-000.png"
-        },
-        {
-            "id": "BLSTMEGG0",
-            "name": "Oster Classic 8-Speed Glass Jar Blender",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLSTMEGG0.png"
         },
         {
             "id": "BLSTTS-GTO-000",
@@ -621,16 +601,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-191W.png"
-        },
-        {
-            "id": "JB-220B",
-            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-220B.png"
         },
         {
             "id": "JB-220R",
@@ -881,16 +851,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ABX-214R.png"
-        },
-        {
-            "id": "ABX-265R/RB",
-            "name": "Audiobox  Dual 6.5\" Portable Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Refurbished",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ABX-265R-RB.png"
         },
         {
             "id": "ABX-810R",
@@ -2193,16 +2153,6 @@
             "image": "images/WP63-BLK.png"
         },
         {
-            "id": "WP64-GRY",
-            "name": "WORRYFREE 40W Wireless Portable BT Speaker with RGB Lights, Gray",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WP64-GRY.png"
-        },
-        {
             "id": "WPB2-BLK",
             "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Black w/(TR1/HS-02)",
             "category": "Bluetooth Speakers",
@@ -2993,16 +2943,6 @@
             "image": "images/SM-KET-1377-B.png"
         },
         {
-            "id": "SM-KET-1386",
-            "name": "Emerald 1.8L Electric Kettle Rapid Boil Technology, Silver",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-KET-1386.png"
-        },
-        {
             "id": "SM-KET-1386-B",
             "name": "Emerald SS Electric Kettle Water Boiler Heater Tea Kettle, 1.8 L, Silver",
             "category": "Coffee & Tea",
@@ -3283,16 +3223,6 @@
             "image": "images/BDK400B.png"
         },
         {
-            "id": "BPS-309C",
-            "name": "BRENTWOOD 9-pcs Non-Stick Cookware, Copper",
-            "category": "Cookware",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Cookware",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BPS-309C.png"
-        },
-        {
             "id": "SK-72BK",
             "name": "BRENTWOOD Electric Non-Stick 6-Qt Shabu-Shabu Pot with Divider, Black",
             "category": "Cookware",
@@ -3501,26 +3431,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/50TWS597G.png"
-        },
-        {
-            "id": "BLWBT980B",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, Black",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLWBT980B.png"
-        },
-        {
-            "id": "BLWBT980W",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, White",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLWBT980W.png"
         },
         {
             "id": "BLWBT993",
@@ -4873,16 +4783,6 @@
             "image": "images/RVDR5034N1.png"
         },
         {
-            "id": "50HPBT500G",
-            "name": "Fisher MIXX PRO Wireless Headphones, Gold",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/50HPBT500G.png"
-        },
-        {
             "id": "50HPBT500S",
             "name": "Fisher MIXX PRO Wireless Headphones, Silver",
             "category": "Headphones",
@@ -5560,7 +5460,7 @@
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/5165.png"
         },
         {
             "id": "BHF136193153/RBO",
@@ -5641,6 +5541,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HP-1000.png"
+        },
+        {
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -6051,16 +5961,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-643BK.png"
-        },
-        {
-            "id": "TS-651",
-            "name": "BRENTWOOD Panini Maker - SS",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-651.png"
         },
         {
             "id": "TS-810",
@@ -6941,16 +6841,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NN-SN68QB-RB.png"
-        },
-        {
-            "id": "NN-SN95HS/ROA",
-            "name": "Panasonic 2.2 cu. ft. 1250-Watt Microwave with Cyclonic Wave Inverter - RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SN95HS-ROA.png"
         },
         {
             "id": "NN-SU64LW/RB",
