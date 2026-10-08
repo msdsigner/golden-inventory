@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 7, 2026 - 2:15 PM EST",
+    "last_updated": "October 8, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -41,6 +41,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/AF-202BKC.png"
+        },
+        {
+            "id": "AF-202W",
+            "name": "BRENTWOOD 2.0 AIR Fryer, White",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AF-202W.png"
         },
         {
             "id": "AF-2400SI",
@@ -261,16 +271,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ANT-4.png"
-        },
-        {
-            "id": "ANT-7-BLK",
-            "name": "QFX Indoor antenna - Black",
-            "category": "Antennas",
-            "parent_category": "Electronics",
-            "sub_category": "Antennas",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ANT-7-BLK.png"
         },
         {
             "id": "ANT1080E",
@@ -893,6 +893,26 @@
             "image": "images/BT-1010-BLK.png"
         },
         {
+            "id": "BT-1010-BLU",
+            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Blue",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-1010-BLU.png"
+        },
+        {
+            "id": "BT-1010-RED",
+            "name": "QFX 2\" Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Red",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-1010-RED.png"
+        },
+        {
             "id": "BT-111-BLK",
             "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
             "category": "Bluetooth Speakers",
@@ -911,6 +931,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-111-RED.png"
+        },
+        {
+            "id": "BT-112-BLK",
+            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-112-BLK.png"
+        },
+        {
+            "id": "BT-112-BLU",
+            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Blue",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-112-BLU.png"
+        },
+        {
+            "id": "BT-112-RED",
+            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Red",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-112-RED.png"
         },
         {
             "id": "BT-16-BLK",
@@ -963,6 +1013,16 @@
             "image": "images/BT-17-RED.png"
         },
         {
+            "id": "BT-1934-BLK",
+            "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-1934-BLK.png"
+        },
+        {
             "id": "BT-1934-GRN",
             "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Green",
             "category": "Bluetooth Speakers",
@@ -971,6 +1031,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1934-GRN.png"
+        },
+        {
+            "id": "BT-1934-IVY",
+            "name": "QFX Retro Car Dual 2\u201d BT Speaker with Bass Radiator and LED Lights, Ivory",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-1934-IVY.png"
         },
         {
             "id": "BT-1953-BLK",
@@ -1063,6 +1133,16 @@
             "image": "images/BT-210.png"
         },
         {
+            "id": "BT-220",
+            "name": "QFX Classic Tire-Inspired BT Speaker with LED Party Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-220.png"
+        },
+        {
             "id": "BT-23",
             "name": "QFX 2 x 3\" Bluetooth Speaker",
             "category": "Bluetooth Speakers",
@@ -1141,6 +1221,36 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-402-Blk.png"
+        },
+        {
+            "id": "BT-47-BLU",
+            "name": "QFX SS 40 Oz. Insulated Tumbler + BT Speaker with Multi-Color LED Lights, Blue",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "BT-6-BLK",
+            "name": "QFX Portable Rechargeable BT Speaker w/ Multi-Color LED - Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "BT-620",
+            "name": "QFX 2 x 6.5\" BT Portable SPEAKER",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-620.png"
         },
         {
             "id": "BT-63-BLK",
@@ -1643,6 +1753,36 @@
             "image": "images/MPX-1505.png"
         },
         {
+            "id": "MPX-8",
+            "name": "QFX 8\u201d BT Rechargeable Speaker with LED Party Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPX-8.png"
+        },
+        {
+            "id": "MPX-802",
+            "name": "QFX 8\" BT Rechargeable Speaker w/ LED",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPX-802.png"
+        },
+        {
+            "id": "MPX-803",
+            "name": "QFX 8\" Rechargeable BT Speaker with LED Party Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPX-803.png"
+        },
+        {
             "id": "MPX-8080",
             "name": "QFX Dual 8\u201d Rechargeable BT Speaker with LED Party Lights",
             "category": "Bluetooth Speakers",
@@ -1713,6 +1853,16 @@
             "image": "images/PBX-1001.png"
         },
         {
+            "id": "PBX-1020",
+            "name": "QFX 2x10 Portable BT Speaker w/ LED Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-1020.png"
+        },
+        {
             "id": "PBX-14-COS",
             "name": "QFX 4\" Bazooka BT Speaker - Cosmic",
             "category": "Bluetooth Speakers",
@@ -1731,6 +1881,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-1501.png"
+        },
+        {
+            "id": "PBX-1503SM",
+            "name": "QFX 15\" Rechargeable BT Party Speaker with Stand, Mic and Remote",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "PBX-151",
@@ -1823,6 +1983,16 @@
             "image": "images/PBX-5190.png"
         },
         {
+            "id": "PBX-616SM",
+            "name": "QFX 15\" BT Speaker with Stand & MIC",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "PBX-68",
             "name": "QFX 8\" BT Speaker",
             "category": "Bluetooth Speakers",
@@ -1831,6 +2001,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/PBX-68.png"
+        },
+        {
+            "id": "PBX-68SM",
+            "name": "QFX 8\" BT Speaker w/ Stand & Mic",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-68SM.png"
         },
         {
             "id": "PBX-806",
@@ -4503,6 +4683,76 @@
             "image": "images/TS-120.png"
         },
         {
+            "id": "79424-200",
+            "name": "WAHL Color Code with 17-Pc Easy-To-Use Color-Coded Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "79449",
+            "name": "WAHL Sure Cut 16-Pc Easy to Use Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "9243-4501",
+            "name": "Wahl HomeCut Combo 23-Pc Complete Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "9243-6901",
+            "name": "Wahl Sport Cut 20-Pc Complete Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "9314-300",
+            "name": "Wahl Quick Cut 10-Pc Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/9314-300.png"
+        },
+        {
+            "id": "9670-1301",
+            "name": "Wahl Groom Pro Head & Total Body Grooming Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "9916-817",
+            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "CBF1-2001-BLK",
             "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
             "category": "Grooming",
@@ -4823,6 +5073,16 @@
             "image": "images/BLW-HC101.png"
         },
         {
+            "id": "BLWBT900",
+            "name": "Sentry BT Deluxe on The Neck Headphone - Blk/Gry",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLWBT900.png"
+        },
+        {
             "id": "BTH825-B",
             "name": "Acellories Serious Sound Premium Wireless Headphone",
             "category": "Headphones",
@@ -4943,6 +5203,26 @@
             "image": "images/HP-E160SIL.png"
         },
         {
+            "id": "HP-E180-BLK",
+            "name": "QFX BT Rechargeable TWS Open Ear-Ring Headphones with USB Charging Case, Black",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "HP-E180-WHT",
+            "name": "QFX BT Rechargeable TWS Open Ear-Ring Headphones with USB Charging Case, White",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "HP-E60-BLK",
             "name": "QFX Sweatproof BT 5.3 Rechargeable TWS Over-The-Ear Open-Ear Headphones with Charging Case, Black",
             "category": "Headphones",
@@ -5021,16 +5301,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBT301-BLWBT301.png"
-        },
-        {
-            "id": "HPXBT900B",
-            "name": "Sentry BT Deluxe On-The-Neck Headphone Blk/Gry",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXBT900B.png"
         },
         {
             "id": "HPXBT910",
@@ -5473,16 +5743,6 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
-            "id": "5165",
-            "name": "Lasko 23\" Ceramic Oscillating Space Heater",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/5165.png"
-        },
-        {
             "id": "BHF136193153/RBO",
             "name": "Pelonis 23\" Tower Heater RB",
             "category": "Heaters",
@@ -5871,16 +6131,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-241BK.png"
-        },
-        {
-            "id": "TS-244BK",
-            "name": "BRENTWOOD Electric Non-Stick 2-Slice Belgian Waffle Maker, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-244BK.png"
         },
         {
             "id": "TS-246",
@@ -6563,6 +6813,26 @@
             "image": "images/MG-1-RED.png"
         },
         {
+            "id": "M-106-BLK",
+            "name": "QFX Cardioid Dynamic Microphone + 10Ft Microphone Cable, Black",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "M-106-SIL",
+            "name": "QFX Cardioid Dynamic Microphone + 10Ft Microphone Cable, Silver",
+            "category": "Microphones",
+            "parent_category": "Audio",
+            "sub_category": "Microphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "M-310",
             "name": "QFX Wireless Dynamic Pro Mic",
             "category": "Microphones",
@@ -7053,6 +7323,16 @@
             "image": "images/BT-30.png"
         },
         {
+            "id": "E-B9",
+            "name": "QFX Professional High-Power 8\u201d BT Speaker with Party Lights + Wireless Mic",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/E-B9.png"
+        },
+        {
             "id": "FBX1529ACSM",
             "name": "Fisher 15\" Bass Blaster Party Speaker",
             "category": "Party Speakers",
@@ -7151,6 +7431,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPX-24.png"
+        },
+        {
+            "id": "MPX-420",
+            "name": "QFX Dual 4\" Portable BT Rechargeable Party Speaker with LED Party Lights",
+            "category": "Party Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Party Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "MPX-65",
@@ -7783,6 +8073,26 @@
             "image": "images/NA-3029.png"
         },
         {
+            "id": "R-15BLK",
+            "name": "QFX Portable Rechargeable BT FM Radio + Digital Music Player and LED Light, Black",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-15BLK.png"
+        },
+        {
+            "id": "R-16",
+            "name": "QFX Portable Rechargeable BT AM/FM Radio + USB/TF Music Player, Black",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "R-24",
             "name": "QFX AM/FM/SW Radio",
             "category": "Radios",
@@ -7843,6 +8153,26 @@
             "image": "images/R-334BT-BLK.png"
         },
         {
+            "id": "R-334BT-BLU",
+            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight, Blue",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "R-334BT-RED",
+            "name": "QFX Solar Rechargeable AM/FM/SW BT Radio + Flashlight + Floodlight, Red",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "R-34",
             "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
             "category": "Radios",
@@ -7851,16 +8181,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/R-34.png"
-        },
-        {
-            "id": "R-42BT",
-            "name": "QFX AM/FM/SW Radio w/USB w/ Light",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-42BT.png"
         },
         {
             "id": "R-58-BLU",
@@ -8063,6 +8383,16 @@
             "image": "images/REM-10.png"
         },
         {
+            "id": "REM-11",
+            "name": "QFX 4 in 1 Smart Universal Remote Control",
+            "category": "Remotes",
+            "parent_category": "Electronics",
+            "sub_category": "Remotes",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/REM-11.png"
+        },
+        {
             "id": "REM-13-BLK",
             "name": "QFX 4-in-1 Smart Universal Remote Control, Black",
             "category": "Remotes",
@@ -8251,6 +8581,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/3043.png"
+        },
+        {
+            "id": "NV-06797",
+            "name": "FineLife Smart Weight Scale with Wireless Connection",
+            "category": "Scales",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Scales",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "PSS1003M-BK",
@@ -9021,6 +9361,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NEU203-RBO.png"
+        },
+        {
+            "id": "NV-08601",
+            "name": "RYDZ Auto Vacuum Cleaner",
+            "category": "Vacuums",
+            "parent_category": "Home & Laundry",
+            "sub_category": "Vacuums",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NV-08601.png"
         },
         {
             "id": "NV-09163",
