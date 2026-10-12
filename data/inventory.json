@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 12, 2026 - 12:06 PM EST",
+    "last_updated": "October 12, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1561,16 +1561,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FBX643K.png"
-        },
-        {
-            "id": "FBX647K",
-            "name": "Fisher Dual 6.5 LED Stellar Speaker",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/FBX647K.png"
         },
         {
             "id": "FBX816SM",
@@ -3571,16 +3561,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BCED26.png"
-        },
-        {
-            "id": "CSX1-4000-KYO",
-            "name": "SAVAGE Kyoto Hair Dryer, Cherry Blossom",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Dryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CSX1-4000-KYO.png"
         },
         {
             "id": "HCD001",
