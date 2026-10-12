@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 12, 2026 - 2:15 PM EST",
+    "last_updated": "October 12, 2026 - 4:22 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1230,7 +1230,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-47-BLU.png"
         },
         {
             "id": "BT-6-BLK",
@@ -1240,7 +1240,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/BT-6-BLK.png"
         },
         {
             "id": "BT-620",
@@ -1870,7 +1870,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PBX-1503SM.png"
         },
         {
             "id": "PBX-151",
@@ -1970,7 +1970,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PBX-616SM.png"
         },
         {
             "id": "PBX-68",
@@ -4650,7 +4650,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/79424-200.png"
         },
         {
             "id": "79449",
@@ -4660,7 +4660,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/79449.png"
         },
         {
             "id": "9243-4501",
@@ -4670,7 +4670,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9243-4501.png"
         },
         {
             "id": "9243-6901",
@@ -4680,7 +4680,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9243-6901.png"
         },
         {
             "id": "9314-300",
@@ -4700,7 +4700,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9670-1301.png"
         },
         {
             "id": "9916-817",
@@ -4710,7 +4710,7 @@
             "sub_category": "Grooming",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/9916-817.png"
         },
         {
             "id": "CBF1-2001-BLK",
@@ -5170,7 +5170,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HP-E180-BLK.png"
         },
         {
             "id": "HP-E180-WHT",
@@ -5180,7 +5180,7 @@
             "sub_category": "Headphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HP-E180-WHT.png"
         },
         {
             "id": "HP-E60-BLK",
@@ -6780,7 +6780,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/M-106-BLK.png"
         },
         {
             "id": "M-106-SIL",
@@ -6790,7 +6790,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/M-106-SIL.png"
         },
         {
             "id": "M-310",
@@ -7400,7 +7400,7 @@
             "sub_category": "Party Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/MPX-420.png"
         },
         {
             "id": "MPX-65",
@@ -8050,7 +8050,7 @@
             "sub_category": "Radios",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-16.png"
         },
         {
             "id": "R-24",
@@ -8120,7 +8120,7 @@
             "sub_category": "Radios",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-334BT-BLU.png"
         },
         {
             "id": "R-334BT-RED",
@@ -8130,7 +8130,7 @@
             "sub_category": "Radios",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/R-334BT-RED.png"
         },
         {
             "id": "R-34",
@@ -8550,7 +8550,7 @@
             "sub_category": "Scales",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/NV-06797.png"
         },
         {
             "id": "PSS1003M-BK",
@@ -9520,7 +9520,7 @@
             "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/RMW12SQW-B-X.png"
         },
         {
             "id": "WAW0525CM1W",
