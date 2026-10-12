@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 9, 2026 - 2:14 PM EST",
+    "last_updated": "October 12, 2026 - 12:06 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -594,7 +594,7 @@
         },
         {
             "id": "JB-191W",
-            "name": "BRENTWOOD Personal Blender - white",
+            "name": "BRENTWOOD Personal Blender - White",
             "category": "Blenders & Mixers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Blenders & Mixers",
@@ -1251,16 +1251,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-620.png"
-        },
-        {
-            "id": "BT-63-BLK",
-            "name": "QFX 6.5\" BT Portable Speaker w/ LED, Blk",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-63-BLK.png"
         },
         {
             "id": "BT-64-BLK",
@@ -3133,16 +3123,6 @@
             "image": "images/SM-KET-1377-B.png"
         },
         {
-            "id": "SM-KET-1386-B",
-            "name": "Emerald SS Electric Kettle Water Boiler Heater Tea Kettle, 1.8 L, Silver",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-KET-1386-B.png"
-        },
-        {
             "id": "SM-KET-1395",
             "name": "Emerald Electric Kettle, Countertop Water Boiler Kettle Teapot with Cord Storage, 1.8L",
             "category": "Coffee & Tea",
@@ -3623,26 +3603,6 @@
             "image": "images/50TWS597G.png"
         },
         {
-            "id": "BLWBT980B",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, Black",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLWBT980B.png"
-        },
-        {
-            "id": "BLWBT980W",
-            "name": "Sentry Earbuds True Wireless DOT with Charging Case, White",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLWBT980W.png"
-        },
-        {
             "id": "BLWBT993",
             "name": "Sentry Earbuds True Wireless Hook with Charge Case, Gray",
             "category": "Earphones",
@@ -4091,6 +4051,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CZMC24.png"
+        },
+        {
+            "id": "F-116-WHT",
+            "name": "QFX 16\u201d 3-Speed Adjustable Height Oscillating Stand Fan, White",
+            "category": "Fans",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Fans",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/F-116-WHT.png"
         },
         {
             "id": "F-16SMB",
@@ -4714,7 +4684,7 @@
         },
         {
             "id": "9243-4501",
-            "name": "Wahl HomeCut Combo 23-Pc Complete Haircutting Kit",
+            "name": "WAHL HomeCut Combo 23-Pc Complete Haircutting Kit",
             "category": "Grooming",
             "parent_category": "Health & Personal Care",
             "sub_category": "Grooming",
@@ -4724,7 +4694,7 @@
         },
         {
             "id": "9243-6901",
-            "name": "Wahl Sport Cut 20-Pc Complete Haircutting Kit",
+            "name": "WAHL Sport Cut 20-Pc Complete Haircutting Kit",
             "category": "Grooming",
             "parent_category": "Health & Personal Care",
             "sub_category": "Grooming",
@@ -9561,6 +9531,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/LW8024IVSM.png"
+        },
+        {
+            "id": "RMW12SQW-B/X",
+            "name": "Midea 12,000 BTU Smart Inverter U-Shaped Window Air Conditioner, 35% Energy Savings, Extreme Quiet",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "WAW0525CM1W",
