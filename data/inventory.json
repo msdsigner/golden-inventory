@@ -1,37 +1,7 @@
 {
-    "last_updated": "October 13, 2026 - 1:13 PM EST",
+    "last_updated": "October 13, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
-        {
-            "id": "BAB-2438/ROA",
-            "name": "Black & Decker AC Window Bracket",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BAB-2438-ROA.png"
-        },
-        {
-            "id": "BKS-720-909",
-            "name": "Brookstone Tilt TV Mount for 36-70 Inch TVs",
-            "category": "TV Wall Mounts",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Mounts",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BKS-720-909.png"
-        },
-        {
-            "id": "TSB-2438/ROA",
-            "name": "Black & Decker AC Window Bracket",
-            "category": "Window AC",
-            "parent_category": "Refurbished",
-            "sub_category": "Window AC",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TSB-2438-ROA.png"
-        },
         {
             "id": "AF-202BKC",
             "name": "BRENTWOOD 2.0 AIR Fryer, Copper",
@@ -63,36 +33,6 @@
             "image": "images/AF-2400SI.png"
         },
         {
-            "id": "AF-400DBK",
-            "name": "Brentwood 4-Quart Electric Digital Air Fryer with Timer & Temp. Control, Black",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-400DBK.png"
-        },
-        {
-            "id": "AF-800DBK",
-            "name": "BRENTWOOD XL 8-Quart Digital Air Fryer with Clear View Window, Touch Display, 8 Presets, 60 Minute Timer & Temp. Control",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AF-800DBK.png"
-        },
-        {
-            "id": "AFWB7QWG13",
-            "name": "West Bend 7 Qt Electric Air Fryer Oven",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/AFWB7QWG13.png"
-        },
-        {
             "id": "DF-701",
             "name": "BRENTWOOD 1.0 Liter Deep Fryer; Stainless Steel",
             "category": "Air Fryers",
@@ -121,16 +61,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FT50931AMZ.png"
-        },
-        {
-            "id": "IM-436S",
-            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
-            "category": "Air Fryers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Air Fryers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-436S.png"
         },
         {
             "id": "SM-AIR-1899/RBO",
@@ -911,16 +841,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1010-RED.png"
-        },
-        {
-            "id": "BT-111-BLK",
-            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-111-BLK.png"
         },
         {
             "id": "BT-111-RED",
@@ -2523,16 +2443,6 @@
             "image": "images/J-290BT-SIL.png"
         },
         {
-            "id": "PRCD685B",
-            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PRCD685B.png"
-        },
-        {
             "id": "PRCDT588",
             "name": "Kodak BT CD Cass. Boombox Radio & Aux-in",
             "category": "Boombox",
@@ -2761,6 +2671,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SC-5000VD.png"
+        },
+        {
+            "id": "CE-CO109",
+            "name": "Continental Can Opener Stainless Blade - Black",
+            "category": "Can Openers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Can Openers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-CO109.png"
         },
         {
             "id": "J-30B",
@@ -3001,6 +2921,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CTSA-3500.png"
+        },
+        {
+            "id": "GF-P1549-1042-RBO",
+            "name": "GForce Ele. Kettle Travel Set - RB",
+            "category": "Coffee & Tea",
+            "parent_category": "Refurbished",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/GF-P1549-1042-RBO.png"
         },
         {
             "id": "HE-760",
@@ -3391,56 +3321,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SK-72BK.png"
-        },
-        {
-            "id": "DRC69707/RB",
-            "name": "RCA 7-inch Dual Screen Mobile DVD System",
-            "category": "Multimedia Players",
-            "parent_category": "Refurbished",
-            "sub_category": "Multimedia Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DRC69707-RB.png"
-        },
-        {
-            "id": "DVD350H",
-            "name": "KODAK DVD Player I HDMI and USB",
-            "category": "Multimedia Players",
-            "parent_category": "Electronics",
-            "sub_category": "Multimedia Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DVD350H.png"
-        },
-        {
-            "id": "PDT-312DTV",
-            "name": "QFX Portable Rechargeable 2\u201d TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
-            "category": "Multimedia Players",
-            "parent_category": "Electronics",
-            "sub_category": "Multimedia Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PDT-312DTV.png"
-        },
-        {
-            "id": "SC-25",
-            "name": "SuperSonic 2.0 Channel DVD Player",
-            "category": "Multimedia Players",
-            "parent_category": "Electronics",
-            "sub_category": "Multimedia Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SC-25.png"
-        },
-        {
-            "id": "VP-110",
-            "name": "QFX Progressive Scan DVD/CD Player with HDMI Output+CD Ripping+FM Radio+RC",
-            "category": "Multimedia Players",
-            "parent_category": "Electronics",
-            "sub_category": "Multimedia Players",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VP-110.png"
         },
         {
             "id": "BD22MWSA",
@@ -4533,116 +4413,6 @@
             "image": "images/MG-400W.png"
         },
         {
-            "id": "25440PSC",
-            "name": "Proctor Silex Panini Press and Grill",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/25440PSC.png"
-        },
-        {
-            "id": "DMO01001",
-            "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DMO01001.png"
-        },
-        {
-            "id": "DMO01003",
-            "name": "Marc's On The Grill - Folding Charcoal Grill, Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/DMO01003.png"
-        },
-        {
-            "id": "IM-285W",
-            "name": "Better Chef Sandwich Grill - White",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-285W.png"
-        },
-        {
-            "id": "IM-286B",
-            "name": "Better Chef Sandwich Grill - Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-286B.png"
-        },
-        {
-            "id": "TS-127",
-            "name": "BRENTWOOD SS Electric Tortilla Maker",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-127.png"
-        },
-        {
-            "id": "WGR1-1011-BLK",
-            "name": "AIWA Sandwich Maker - Press & Slice, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WGR1-1011-BLK.png"
-        },
-        {
-            "id": "CE-CG839",
-            "name": "Continental Contact Grill, Non-Stick, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CE-CG839.png"
-        },
-        {
-            "id": "CHPG12R",
-            "name": "Commercial Chef Pizza Maker and Indoor Grill",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CHPG12R.png"
-        },
-        {
-            "id": "IM-297R",
-            "name": "Better Chef Waffle Maker, Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-297R.png"
-        },
-        {
-            "id": "TS-120",
-            "name": "BRENTWOOD Quesadilla Maker, Red",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-120.png"
-        },
-        {
             "id": "79424-200",
             "name": "WAHL Color Code with 17-Pc Easy-To-Use Color-Coded Haircutting Kit",
             "category": "Grooming",
@@ -4941,6 +4711,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09586.png"
+        },
+        {
+            "id": "NV-09677",
+            "name": "Prescott & Taylor Epilator, Assorted",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NV-09677.png"
+        },
+        {
+            "id": "VRD928982395",
+            "name": "Cosmo Callus Remover, Black",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VRD928982395.png"
         },
         {
             "id": "303DGNX",
@@ -5853,6 +5643,16 @@
             "image": "images/WSH3-1002-WHT.png"
         },
         {
+            "id": "25440PSC",
+            "name": "Proctor Silex Panini Press and Grill",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/25440PSC.png"
+        },
+        {
             "id": "BC-2958CR",
             "name": "Betty Crocker Pizza Maker - Red",
             "category": "Heating & Cooking",
@@ -5873,6 +5673,16 @@
             "image": "images/BDG-2200.png"
         },
         {
+            "id": "CE-CG839",
+            "name": "Continental Contact Grill, Non-Stick, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CE-CG839.png"
+        },
+        {
             "id": "CE23839",
             "name": "Continental Sandwich Maker 2 Slice Non Stick-Black",
             "category": "Heating & Cooking",
@@ -5881,6 +5691,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE23839.png"
+        },
+        {
+            "id": "CHPG12R",
+            "name": "Commercial Chef Pizza Maker and Indoor Grill",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CHPG12R.png"
         },
         {
             "id": "CHPM12R",
@@ -5911,6 +5731,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/DF-730S.png"
+        },
+        {
+            "id": "DMO01001",
+            "name": "Marc's On The Grill - Folding Charcoal Grill, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DMO01001.png"
+        },
+        {
+            "id": "DMO01003",
+            "name": "Marc's On The Grill - Folding Charcoal Grill, Red",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DMO01003.png"
         },
         {
             "id": "ED-302",
@@ -5963,6 +5803,36 @@
             "image": "images/HP-3013BK.png"
         },
         {
+            "id": "IM-285W",
+            "name": "Better Chef Sandwich Grill - White",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-285W.png"
+        },
+        {
+            "id": "IM-286B",
+            "name": "Better Chef Sandwich Grill - Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-286B.png"
+        },
+        {
+            "id": "IM-297R",
+            "name": "Better Chef Waffle Maker, Red",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-297R.png"
+        },
+        {
             "id": "IM-306DB",
             "name": "Better Chef Double Burner - Wht",
             "category": "Heating & Cooking",
@@ -5981,6 +5851,46 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/KE-111.png"
+        },
+        {
+            "id": "SK-45",
+            "name": "BRENTWOOD 6\" Non-Stick Electric Skillet with Glass Lid, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SK-45.png"
+        },
+        {
+            "id": "SK-46",
+            "name": "Brentwood 8'' Non-Stick Electric Skillet with Glass Lid, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SK-46.png"
+        },
+        {
+            "id": "SK-65",
+            "name": "BRENTWOOD 12\" ELECTRIC SKILLET - GLASS LID",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SK-65.png"
+        },
+        {
+            "id": "SK-67BK",
+            "name": "BRENTWOOD 12\" ROUND ELECTRIC SKILLET - GLASS",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SK-67BK.png"
         },
         {
             "id": "SM-STV-2600",
@@ -6053,6 +5963,16 @@
             "image": "images/SM-STV-2686.png"
         },
         {
+            "id": "TS-120",
+            "name": "BRENTWOOD Quesadilla Maker, Red",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TS-120.png"
+        },
+        {
             "id": "TS-124R",
             "name": "Brentwood 12\" Non-Stick Pizza Maker and Grill with Timer, Red",
             "category": "Heating & Cooking",
@@ -6063,14 +5983,14 @@
             "image": "images/TS-124R.png"
         },
         {
-            "id": "TS-231S",
-            "name": "BRENTWOOD 5\" Flip Belgian Waffle Maker",
+            "id": "TS-127",
+            "name": "BRENTWOOD SS Electric Tortilla Maker",
             "category": "Heating & Cooking",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Heating & Cooking",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/TS-231S.png"
+            "image": "images/TS-127.png"
         },
         {
             "id": "TS-240B",
@@ -6211,6 +6131,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-821.png"
+        },
+        {
+            "id": "WGR1-1011-BLK",
+            "name": "AIWA Sandwich Maker - Press & Slice, Black",
+            "category": "Heating & Cooking",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Heating & Cooking",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WGR1-1011-BLK.png"
         },
         {
             "id": "WGR1-1011-WHT",
@@ -6453,16 +6383,6 @@
             "image": "images/SPKA04WHB2.png"
         },
         {
-            "id": "GF-P1549-1042-RBO",
-            "name": "GForce Ele. Kettle Travel Set - RB",
-            "category": "Coffee & Tea",
-            "parent_category": "Refurbished",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/GF-P1549-1042-RBO.png"
-        },
-        {
             "id": "MS81-020-100-52",
             "name": "Mainstays Digital Kitchen Scale Silver",
             "category": "Kitchen Scales",
@@ -6473,16 +6393,6 @@
             "image": "images/MS81-020-100-52.png"
         },
         {
-            "id": "CE-CO109",
-            "name": "Continental Can Opener Stainless Blade - Black",
-            "category": "Can Openers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Can Openers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CE-CO109.png"
-        },
-        {
             "id": "TS-1002",
             "name": "Brentwood Knife and Tool Sharpener - Blk",
             "category": "Knife Sharpeners",
@@ -6491,36 +6401,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-1002.png"
-        },
-        {
-            "id": "LS-15",
-            "name": "QFX 15 Foot Multi-Color Sound Activated LED Light Strip",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LS-15.png"
-        },
-        {
-            "id": "LSL115",
-            "name": "Acellories 15 FT Sound Activated LED Lighting Strip",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/LSL115.png"
-        },
-        {
-            "id": "MHV1-1026-RED",
-            "name": "Monster Cable 6ft LED Light - Red",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MHV1-1026-RED.png"
         },
         {
             "id": "BCED37",
@@ -6633,6 +6513,16 @@
             "image": "images/GYJ60-88F1.png"
         },
         {
+            "id": "LS-15",
+            "name": "QFX 15 Foot Multi-Color Sound Activated LED Light Strip",
+            "category": "Lighting",
+            "parent_category": "Electronics",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LS-15.png"
+        },
+        {
             "id": "LSL110",
             "name": "Acellories 10 FT Sound Activated LED Lighting Strip",
             "category": "Lighting",
@@ -6641,6 +6531,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/LSL110.png"
+        },
+        {
+            "id": "LSL115",
+            "name": "Acellories 15 FT Sound Activated LED Lighting Strip",
+            "category": "Lighting",
+            "parent_category": "Electronics",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/LSL115.png"
+        },
+        {
+            "id": "MHV1-1026-RED",
+            "name": "Monster Cable 6ft LED Light - Red",
+            "category": "Lighting",
+            "parent_category": "Electronics",
+            "sub_category": "Lighting",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MHV1-1026-RED.png"
         },
         {
             "id": "SC-1610SR",
@@ -6953,16 +6863,6 @@
             "image": "images/MCX21.png"
         },
         {
-            "id": "MCX30",
-            "name": "Dolphin Wired Professional Dynamic Microphone",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MCX30.png"
-        },
-        {
             "id": "MPH-20",
             "name": "Audiobox PRO Wireless Microphone x 2",
             "category": "Microphones",
@@ -7173,6 +7073,26 @@
             "image": "images/WSI-EM22AST-ROA.png"
         },
         {
+            "id": "DRC69707/RB",
+            "name": "RCA 7-inch Dual Screen Mobile DVD System",
+            "category": "Multimedia Players",
+            "parent_category": "Refurbished",
+            "sub_category": "Multimedia Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DRC69707-RB.png"
+        },
+        {
+            "id": "DVD350H",
+            "name": "KODAK DVD Player I HDMI and USB",
+            "category": "Multimedia Players",
+            "parent_category": "Electronics",
+            "sub_category": "Multimedia Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/DVD350H.png"
+        },
+        {
             "id": "MP-100",
             "name": "Audiobox Multimedia Player w/USB",
             "category": "Multimedia Players",
@@ -7233,6 +7153,26 @@
             "image": "images/PDT-309DTV.png"
         },
         {
+            "id": "PDT-312DTV",
+            "name": "QFX Portable Rechargeable 2\u201d TFT DVD/CD Player, TV & Media Player with Digital Indoor Antenna",
+            "category": "Multimedia Players",
+            "parent_category": "Electronics",
+            "sub_category": "Multimedia Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PDT-312DTV.png"
+        },
+        {
+            "id": "SC-25",
+            "name": "SuperSonic 2.0 Channel DVD Player",
+            "category": "Multimedia Players",
+            "parent_category": "Electronics",
+            "sub_category": "Multimedia Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SC-25.png"
+        },
+        {
             "id": "VP-109/BLK",
             "name": "QFX  DIGITAL MULTI MEDIA PLAYER BLACK",
             "category": "Multimedia Players",
@@ -7241,6 +7181,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VP-109-BLK.png"
+        },
+        {
+            "id": "VP-110",
+            "name": "QFX Progressive Scan DVD/CD Player with HDMI Output+CD Ripping+FM Radio+RC",
+            "category": "Multimedia Players",
+            "parent_category": "Electronics",
+            "sub_category": "Multimedia Players",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/VP-110.png"
         },
         {
             "id": "BT-10BK",
@@ -7641,26 +7591,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WSC01-BLU.png"
-        },
-        {
-            "id": "NV-09677",
-            "name": "Prescott & Taylor Epilator, Assorted",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NV-09677.png"
-        },
-        {
-            "id": "VRD928982395",
-            "name": "Cosmo Callus Remover, Black",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/VRD928982395.png"
         },
         {
             "id": "CS5119",
@@ -8563,46 +8493,6 @@
             "image": "images/PSS1003M-BK.png"
         },
         {
-            "id": "SK-45",
-            "name": "BRENTWOOD 6\" Non-Stick Electric Skillet with Glass Lid, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SK-45.png"
-        },
-        {
-            "id": "SK-46",
-            "name": "Brentwood 8'' Non-Stick Electric Skillet with Glass Lid, Black",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SK-46.png"
-        },
-        {
-            "id": "SK-65",
-            "name": "BRENTWOOD 12\" ELECTRIC SKILLET - GLASS LID",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SK-65.png"
-        },
-        {
-            "id": "SK-67BK",
-            "name": "BRENTWOOD 12\" ROUND ELECTRIC SKILLET - GLASS",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SK-67BK.png"
-        },
-        {
             "id": "KF-6810",
             "name": "Kung Fu 8.45 Qt / 8.0L Slow Cooker, SS",
             "category": "Slow Cookers",
@@ -8641,16 +8531,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SC-140BL.png"
-        },
-        {
-            "id": "SC-140S",
-            "name": "BRENTWOOD 4.5 Qt Slow Cooker White Body",
-            "category": "Slow Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Slow Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SC-140S.png"
         },
         {
             "id": "SC-157S",
@@ -8783,16 +8663,6 @@
             "image": "images/37210.png"
         },
         {
-            "id": "SM-720-9129",
-            "name": "Emerald Tilt Wall Mount 24\" to 70\"",
-            "category": "TV Wall Mounts",
-            "parent_category": "Home & Office",
-            "sub_category": "TV Wall Mounts",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-9129.png"
-        },
-        {
             "id": "SM-720-6030",
             "name": "Emerald Wall Mount TV Stand, Black",
             "category": "TV Stands",
@@ -8871,6 +8741,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BKS-720-891.png"
+        },
+        {
+            "id": "BKS-720-909",
+            "name": "Brookstone Tilt TV Mount for 36-70 Inch TVs",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BKS-720-909.png"
         },
         {
             "id": "GF-P1124-1222",
@@ -9021,6 +8901,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-8910.png"
+        },
+        {
+            "id": "SM-720-9129",
+            "name": "Emerald Tilt Wall Mount 24\" to 70\"",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-9129.png"
         },
         {
             "id": "SM-918-3016",
@@ -9433,6 +9323,16 @@
             "image": "images/AWAS05BWF.png"
         },
         {
+            "id": "BAB-2438/ROA",
+            "name": "Black & Decker AC Window Bracket",
+            "category": "Window AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BAB-2438-ROA.png"
+        },
+        {
             "id": "EWR05E",
             "name": "Element 5,000 BTU Window Air Conditioner \u2013 White",
             "category": "Window AC",
@@ -9521,6 +9421,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RMW12SQW-B-X.png"
+        },
+        {
+            "id": "TSB-2438/ROA",
+            "name": "Black & Decker AC Window Bracket",
+            "category": "Window AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/TSB-2438-ROA.png"
         },
         {
             "id": "WAW0525CM1W",
