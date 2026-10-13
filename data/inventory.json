@@ -1,13 +1,13 @@
 {
-    "last_updated": "October 13, 2026 - 12:57 PM EST",
+    "last_updated": "October 13, 2026 - 1:13 PM EST",
     "publish_pricing": false,
     "items": [
         {
             "id": "BAB-2438/ROA",
             "name": "Black & Decker AC Window Bracket",
-            "category": "Accessories",
+            "category": "Window AC",
             "parent_category": "Refurbished",
-            "sub_category": "Accessories",
+            "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BAB-2438-ROA.png"
@@ -15,9 +15,9 @@
         {
             "id": "BKS-720-909",
             "name": "Brookstone Tilt TV Mount for 36-70 Inch TVs",
-            "category": "Accessories",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Accessories",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BKS-720-909.png"
@@ -25,9 +25,9 @@
         {
             "id": "TSB-2438/ROA",
             "name": "Black & Decker AC Window Bracket",
-            "category": "Accessories",
+            "category": "Window AC",
             "parent_category": "Refurbished",
-            "sub_category": "Accessories",
+            "sub_category": "Window AC",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TSB-2438-ROA.png"
@@ -8785,9 +8785,9 @@
         {
             "id": "SM-720-9129",
             "name": "Emerald Tilt Wall Mount 24\" to 70\"",
-            "category": "Accessories",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Accessories",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-9129.png"
