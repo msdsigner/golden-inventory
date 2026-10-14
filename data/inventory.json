@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 13, 2026 - 2:14 PM EST",
+    "last_updated": "October 14, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1913,16 +1913,6 @@
             "image": "images/PBX-68SM.png"
         },
         {
-            "id": "PBX-806",
-            "name": "QFX Portable Rechargeable 8\" BT Speaker with Transparent Motion Party Lights + MIC",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-806.png"
-        },
-        {
             "id": "PBX-840",
             "name": "QFX Quad 8\" Portable BT Rechargeable Speaker",
             "category": "Bluetooth Speakers",
@@ -3261,16 +3251,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXKX550.png"
-        },
-        {
-            "id": "HPXKX700",
-            "name": "Sentry Wireless Keyboard and Mouse",
-            "category": "Computing",
-            "parent_category": "Electronics",
-            "sub_category": "Computing",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXKX700.png"
         },
         {
             "id": "QUB9003",
@@ -5493,6 +5473,16 @@
             "image": "images/IQ-460G-BLU.png"
         },
         {
+            "id": "5165",
+            "name": "Lasko 23\" Ceramic Oscillating Space Heater",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/5165.png"
+        },
+        {
             "id": "BHF136193153/RBO",
             "name": "Pelonis 23\" Tower Heater RB",
             "category": "Heaters",
@@ -5583,6 +5573,16 @@
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
+            "id": "MSHC23R6/RBO",
+            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSHC23R6-RBO.png"
+        },
+        {
             "id": "PSH08F1ABB/RBO",
             "name": "Pelonis 1500W 3-Spd Fan Forced Heater, RB, Black",
             "category": "Heaters",
@@ -5631,6 +5631,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
+        },
+        {
+            "id": "WSH0702ABB/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702ABB-RBO.png"
         },
         {
             "id": "WSH3-1002-WHT",
