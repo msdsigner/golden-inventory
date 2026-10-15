@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 14, 2026 - 2:14 PM EST",
+    "last_updated": "October 15, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -341,6 +341,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BLSTJJ-GPB-000.png"
+        },
+        {
+            "id": "BLSTMEGG0",
+            "name": "Oster Classic 8-Speed Glass Jar Blender",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLSTMEGG0.png"
         },
         {
             "id": "BLSTTS-GTO-000",
@@ -4873,16 +4883,6 @@
             "image": "images/FGHP245B.png"
         },
         {
-            "id": "H-256BT-RED",
-            "name": "QFX BT Stereo Headphones - Red",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/H-256BT-RED.png"
-        },
-        {
             "id": "HP-10-BLU",
             "name": "QFX Rechargeable BT Open-Air Stereo Headphones + FM Radio, Blue",
             "category": "Headphones",
@@ -5573,16 +5573,6 @@
             "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
-            "id": "MSHC23R6/RBO",
-            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSHC23R6-RBO.png"
-        },
-        {
             "id": "PSH08F1ABB/RBO",
             "name": "Pelonis 1500W 3-Spd Fan Forced Heater, RB, Black",
             "category": "Heaters",
@@ -5631,16 +5621,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
-        },
-        {
-            "id": "WSH0702ABB/RBO",
-            "name": "Mainstay 1500W Oil Filled Heater RB - Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WSH0702ABB-RBO.png"
         },
         {
             "id": "WSH3-1002-WHT",
@@ -6203,16 +6183,6 @@
             "image": "images/76134.png"
         },
         {
-            "id": "CE-IR941",
-            "name": "Continental Non-Stick Steam/Dry Spray Iron - Blue",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CE-IR941.png"
-        },
-        {
             "id": "IM-22B",
             "name": "Impress Mid-Size Iron w/ Spray/Burst/Non-Stick",
             "category": "Irons",
@@ -6231,16 +6201,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
-        },
-        {
-            "id": "MPI-42BK",
-            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-59BK",
