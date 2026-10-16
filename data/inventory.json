@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 15, 2026 - 2:15 PM EST",
+    "last_updated": "October 16, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -33,6 +33,16 @@
             "image": "images/AF-2400SI.png"
         },
         {
+            "id": "AFWB7QWG13",
+            "name": "West Bend 7 Qt Electric Air Fryer Oven",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/AFWB7QWG13.png"
+        },
+        {
             "id": "DF-701",
             "name": "BRENTWOOD 1.0 Liter Deep Fryer; Stainless Steel",
             "category": "Air Fryers",
@@ -61,6 +71,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FT50931AMZ.png"
+        },
+        {
+            "id": "IM-436S",
+            "name": "Better Chef SS 5.0 L Digital Display Air Fryer",
+            "category": "Air Fryers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Air Fryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/IM-436S.png"
         },
         {
             "id": "SM-AIR-1899/RBO",
@@ -851,6 +871,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1010-RED.png"
+        },
+        {
+            "id": "BT-111-BLK",
+            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-111-BLK.png"
         },
         {
             "id": "BT-111-RED",
@@ -2963,16 +2993,6 @@
             "image": "images/KT-1610W.png"
         },
         {
-            "id": "KT-1617-W",
-            "name": "BRENTWOOD 1.7-liter Electric Tea Kettle White",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/KT-1617-W.png"
-        },
-        {
             "id": "KT-1618-B",
             "name": "BRENTWOOD 1.7-liter Electric Tea Kettle Blk",
             "category": "Coffee & Tea",
@@ -4881,6 +4901,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/FGHP245B.png"
+        },
+        {
+            "id": "H-256BT-RED",
+            "name": "QFX BT Stereo Headphones - Red",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/H-256BT-RED.png"
         },
         {
             "id": "HP-10-BLU",
