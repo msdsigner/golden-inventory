@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 16, 2026 - 2:15 PM EST",
+    "last_updated": "October 19, 2026 - 11:04 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -151,16 +151,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXSPBT18.png"
-        },
-        {
-            "id": "RC551",
-            "name": "RCA Digital Radio Alarm Clock",
-            "category": "Alarm Clocks",
-            "parent_category": "Home & Office",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RC551.png"
         },
         {
             "id": "WAC5-1002-BLK",
@@ -611,16 +601,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-920W.png"
-        },
-        {
-            "id": "JBS-1000BK",
-            "name": "BRENTWOOD Select Professional Smart Blender w/ 1000w Ice Crushing Power, Large 8.5-Cup Plastic Jar, SS Blades, Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JBS-1000BK.png"
         },
         {
             "id": "JBS-500BK",
@@ -2853,16 +2833,6 @@
             "image": "images/885.png"
         },
         {
-            "id": "CE-CM249",
-            "name": "Continental Coffee Maker, 12-Cup Capacity, Pause & Serve",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CE-CM249.png"
-        },
-        {
             "id": "CE-CM389",
             "name": "Continental Programmable Coffee Maker 12-Cup Capacity",
             "category": "Coffee & Tea",
@@ -4361,16 +4331,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HB-38W.png"
-        },
-        {
-            "id": "MC-102BK",
-            "name": "BRENTWOOD 1.5 Cup Mini Food Chopper with SS Blades, Black",
-            "category": "Food Processors",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Food Processors",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MC-102BK.png"
         },
         {
             "id": "MC-102W",
@@ -8184,7 +8144,7 @@
         },
         {
             "id": "ERT74MES",
-            "name": "Element 21.3 in. 7.4 cu. ft. Compact Top Freezer Refrigerator, Stainless Steel",
+            "name": "Element 21.3 in. 7.5 cu. ft. Compact Top Freezer Refrigerator, Stainless Steel",
             "category": "Major Appliances",
             "parent_category": "Major Appliances",
             "sub_category": "Refrigerators",
