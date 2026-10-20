@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 19, 2026 - 2:14 PM EST",
+    "last_updated": "October 20, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -121,16 +121,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CR-35.png"
-        },
-        {
-            "id": "CR1860D",
-            "name": "Borne Digital AM/FM Clock Radio w/ AUX-in",
-            "category": "Alarm Clocks",
-            "parent_category": "Home & Office",
-            "sub_category": "Alarm Clocks",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CR1860D.png"
         },
         {
             "id": "HPXSPBT14",
@@ -293,6 +283,16 @@
             "image": "images/AZONJN9.png"
         },
         {
+            "id": "58148G",
+            "name": "Hamilton Beach 700W Glass Jar Blender",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/58148G.png"
+        },
+        {
             "id": "62683G",
             "name": "Hamilton Beach 250watt Hand Mixer with Storage",
             "category": "Blenders & Mixers",
@@ -331,16 +331,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BLSTBCG-G8B.png"
-        },
-        {
-            "id": "BLSTBKP-BRO-000",
-            "name": "Oster 700-watt Plastic Jar Blender, Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BLSTBKP-BRO-000.png"
         },
         {
             "id": "BLSTJJ-GPB-000",
@@ -551,6 +541,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/JB-191W.png"
+        },
+        {
+            "id": "JB-220B",
+            "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/JB-220B.png"
         },
         {
             "id": "JB-220R",
@@ -3293,6 +3293,16 @@
             "image": "images/BDK400B.png"
         },
         {
+            "id": "BPS-309C",
+            "name": "BRENTWOOD 9-pcs Non-Stick Cookware, Copper",
+            "category": "Cookware",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Cookware",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BPS-309C.png"
+        },
+        {
             "id": "SK-72BK",
             "name": "BRENTWOOD Electric Non-Stick 6-Qt Shabu-Shabu Pot with Divider, Black",
             "category": "Cookware",
@@ -4773,6 +4783,16 @@
             "image": "images/RVDR5034N1.png"
         },
         {
+            "id": "50HPBT500G",
+            "name": "Fisher MIXX PRO Wireless Headphones, Gold",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/50HPBT500G.png"
+        },
+        {
             "id": "50HPBT500S",
             "name": "Fisher MIXX PRO Wireless Headphones, Silver",
             "category": "Headphones",
@@ -5513,16 +5533,6 @@
             "image": "images/CZ550.png"
         },
         {
-            "id": "H-3013",
-            "name": "Optimus Portable Utility Heater with Thermostat",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/H-3013.png"
-        },
-        {
             "id": "HCX9115E/RBO",
             "name": "Delonghi Slim Convector Heater",
             "category": "Heaters",
@@ -5541,26 +5551,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HO-0250H.png"
-        },
-        {
-            "id": "HP-1000",
-            "name": "Airbro Oscillating Radiant Heater",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HP-1000.png"
-        },
-        {
-            "id": "MSH20Q3AWW/RBO",
-            "name": "Midea Radiant Quartz Space Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -5611,6 +5601,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
+        },
+        {
+            "id": "WSH0702AWW/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702AWW-RBO.png"
         },
         {
             "id": "WSH3-1002-WHT",
@@ -7001,16 +7001,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSU64LWC-RBO.png"
-        },
-        {
-            "id": "NNSU65NBC/RBO",
-            "name": "Panasonic Countertop Microwave with Genius Sensor 1.3 Cu.Ft., RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU65NBC-RBO.png"
         },
         {
             "id": "NNSU65NWC/RBO",
