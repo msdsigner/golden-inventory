@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 20, 2026 - 2:15 PM EST",
+    "last_updated": "October 20, 2026 - 5:13 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2451,6 +2451,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/J-290BT-SIL.png"
+        },
+        {
+            "id": "PRCD685B",
+            "name": "Borne Portable CD Boombox w/ AM/FM Radio",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PRCD685B.png"
         },
         {
             "id": "PRCDT588",
@@ -5603,16 +5613,6 @@
             "image": "images/WHT3001.png"
         },
         {
-            "id": "WSH0702AWW/RBO",
-            "name": "Mainstay 1500W Oil Filled Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WSH0702AWW-RBO.png"
-        },
-        {
             "id": "WSH3-1002-WHT",
             "name": "AIWA Oscillating Small Heater",
             "category": "Heaters",
@@ -6221,16 +6221,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-69BKRG.png"
-        },
-        {
-            "id": "MPI-70",
-            "name": "BRENTWOOD Classic Non-Stick Steam/Dry Iron -Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-70.png"
         },
         {
             "id": "ED-675G",
