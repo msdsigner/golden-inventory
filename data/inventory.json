@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 20, 2026 - 5:13 PM EST",
+    "last_updated": "October 21, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1723,16 +1723,6 @@
             "image": "images/NAS-3082.png"
         },
         {
-            "id": "NAS-3105D",
-            "name": "NAXA Dual BT True Wireless Sync Speakers Combo",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NAS-3105D.png"
-        },
-        {
             "id": "NDS-8006D",
             "name": "NAXA Dual 8\" BT True Wireless w/Disco Lt",
             "category": "Bluetooth Speakers",
@@ -2201,16 +2191,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WH58-BLK.png"
-        },
-        {
-            "id": "WH58-GRN",
-            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Green",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WH58-GRN.png"
         },
         {
             "id": "WH61-BLU",
@@ -5201,16 +5181,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXDLX100BK.png"
-        },
-        {
-            "id": "HPXGX1000",
-            "name": "Sentry Wireless Gaming Headset",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXGX1000.png"
         },
         {
             "id": "HPXGX175",
