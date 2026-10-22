@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 21, 2026 - 2:15 PM EST",
+    "last_updated": "October 22, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -5533,6 +5533,16 @@
             "image": "images/HO-0250H.png"
         },
         {
+            "id": "NT15-20A/G",
+            "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NT15-20A-G.png"
+        },
+        {
             "id": "PSH08F1ABB/RBO",
             "name": "Pelonis 1500W 3-Spd Fan Forced Heater, RB, Black",
             "category": "Heaters",
@@ -6161,6 +6171,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/IM-36CR.png"
+        },
+        {
+            "id": "MPI-42BK",
+            "name": "BRENTWOOD Portable Handheld Garment Iron Steamer",
+            "category": "Irons",
+            "parent_category": "Home & Office",
+            "sub_category": "Irons",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MPI-42BK.png"
         },
         {
             "id": "MPI-59BK",
