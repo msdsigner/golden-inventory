@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 23, 2026 - 2:15 PM EST",
+    "last_updated": "October 26, 2026 - 12:04 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3433,6 +3433,16 @@
             "image": "images/BCED26.png"
         },
         {
+            "id": "CSX1-4000-KYO",
+            "name": "SAVAGE Kyoto Hair Dryer, Cherry Blossom",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Dryers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CSX1-4000-KYO.png"
+        },
+        {
             "id": "HCD001",
             "name": "Home Comfort 8.8 Lbs. Portable Dryer",
             "category": "Major Appliances",
@@ -3451,6 +3461,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/50TWS597G.png"
+        },
+        {
+            "id": "BLWBT980B",
+            "name": "Sentry Earbuds True Wireless DOT with Charging Case, Black",
+            "category": "Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLWBT980B.png"
+        },
+        {
+            "id": "BLWBT980W",
+            "name": "Sentry Earbuds True Wireless DOT with Charging Case, White",
+            "category": "Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLWBT980W.png"
         },
         {
             "id": "BLWBT993",
@@ -4101,16 +4131,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSWMT24JR-RBO.png"
-        },
-        {
-            "id": "MSWMT24MB/RBO",
-            "name": "Mainstays Modern 3-Speed Oscillating Tower Fan, 28\" Tall, Black, RB",
-            "category": "Fans",
-            "parent_category": "Refurbished",
-            "sub_category": "Fans",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSWMT24MB-RBO.png"
         },
         {
             "id": "MSWMT24MW/RBO",
@@ -5503,46 +5523,6 @@
             "image": "images/BHF136193153-RBO.png"
         },
         {
-            "id": "BHOC05",
-            "name": "BLACK+DECKER Ceiling Patio Space Heater 1500W",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHOC05.png"
-        },
-        {
-            "id": "BHOC05/ROA",
-            "name": "Black+Decker Ceiling Patio Space Heater 1500W",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BHOC05-ROA.png"
-        },
-        {
-            "id": "CZ550",
-            "name": "Comfort Zone Heater Electric radiant 1500/w",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CZ550.png"
-        },
-        {
-            "id": "HCX9115E/RBO",
-            "name": "Delonghi Slim Convector Heater",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HCX9115E-RBO.png"
-        },
-        {
             "id": "HO-0250H",
             "name": "Pelonis Oil Filled Radiator Heater",
             "category": "Heaters",
@@ -5553,6 +5533,26 @@
             "image": "images/HO-0250H.png"
         },
         {
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3AWW-RBO.png"
+        },
+        {
+            "id": "MSHC23R6/RBO",
+            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSHC23R6-RBO.png"
+        },
+        {
             "id": "NT15-20A/G",
             "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
             "category": "Heaters",
@@ -5561,6 +5561,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NT15-20A-G.png"
+        },
+        {
+            "id": "PHT23D7ABB/RBO",
+            "name": "Pelonis 23 in. 1500-Watt Digital Tower Ceramic Heater, RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -5583,16 +5593,6 @@
             "image": "images/PSH08F1AWW-RBO.png"
         },
         {
-            "id": "PSH20Q3ABB/RBO",
-            "name": "Pelonis Quartz Heater 1500W RB, Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PSH20Q3ABB-RBO.png"
-        },
-        {
             "id": "RSWW1",
             "name": "RCA Hot Water Heater Shut off System",
             "category": "Heaters",
@@ -5611,16 +5611,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
-        },
-        {
-            "id": "WSH3-1002-WHT",
-            "name": "AIWA Oscillating Small Heater",
-            "category": "Heaters",
-            "parent_category": "Air & Climate Control",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WSH3-1002-WHT.png"
         },
         {
             "id": "25440PSC",
