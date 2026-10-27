@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 26, 2026 - 12:04 PM EST",
+    "last_updated": "October 27, 2026 - 2:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -533,16 +533,6 @@
             "image": "images/JB-191BK.png"
         },
         {
-            "id": "JB-191W",
-            "name": "BRENTWOOD Personal Blender - White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/JB-191W.png"
-        },
-        {
             "id": "JB-220B",
             "name": "BRENTWOOD 12 Speed Blender Plastic Jar - Black",
             "category": "Blenders & Mixers",
@@ -741,16 +731,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/A6CLUB-BLK.png"
-        },
-        {
-            "id": "A6CLUB-BLU",
-            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Blue",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/A6CLUB-BLU.png"
         },
         {
             "id": "ABX-1220R",
@@ -991,16 +971,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1953-BLK.png"
-        },
-        {
-            "id": "BT-1956-BLK",
-            "name": "QFX Bluetooth 1956 Pickup Truck Replica Speaker, 3-inch Speakers, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-1956-BLK.png"
         },
         {
             "id": "BT-1956-BLU",
@@ -1531,6 +1501,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPNGLSP16.png"
+        },
+        {
+            "id": "HPNKARLU",
+            "name": "Sentry Karaoke RGB Mini Speaker & Mic",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "HPXSPBT6",
@@ -2183,14 +2163,14 @@
             "image": "images/WA65-GRY.png"
         },
         {
-            "id": "WH58-BLK",
-            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
+            "id": "WH58-GRN",
+            "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Green",
             "category": "Bluetooth Speakers",
             "parent_category": "Audio",
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/WH58-BLK.png"
+            "image": "images/WH58-GRN.png"
         },
         {
             "id": "WH61-BLU",
@@ -2241,16 +2221,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WPB2-BLK.png"
-        },
-        {
-            "id": "WPB2-BLU",
-            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Dark Blue w/(TR1/HS-02)",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPB2-BLU.png"
         },
         {
             "id": "WPBMINI-BLK",
@@ -2861,16 +2831,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CG-158BL.png"
-        },
-        {
-            "id": "CG-158W",
-            "name": "BRENTWOOD Kitchen Essential Coffee Grinder - White",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CG-158W.png"
         },
         {
             "id": "CG-162S",
@@ -4683,16 +4643,6 @@
             "image": "images/CXT1-4007-CMB.png"
         },
         {
-            "id": "CXT1-6002-HYP",
-            "name": "Xtreme Cutting Edge Rechargeable Hypoallergenic T-Blade Zero Gapped Trimmer",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CXT1-6002-HYP.png"
-        },
-        {
             "id": "HC244NGB",
             "name": "CONAIR Custom Cut Haircutting Kit 18 Pc",
             "category": "Grooming",
@@ -4803,16 +4753,6 @@
             "image": "images/CXH1-6000-BLK.png"
         },
         {
-            "id": "RVDR5034N1",
-            "name": "Revlon 1875-Watt Hair Dryer",
-            "category": "Hair Styling",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Hair Styling",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/RVDR5034N1.png"
-        },
-        {
             "id": "50HPBT500G",
             "name": "Fisher MIXX PRO Wireless Headphones, Gold",
             "category": "Headphones",
@@ -4851,6 +4791,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BLWBT900.png"
+        },
+        {
+            "id": "BT751",
+            "name": "Sentry Talk BUDS True Wireless Buds, Black",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "BT752",
+            "name": "Sentry Talk BUDS True Wireless Buds, White",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "BTH825-B",
@@ -4951,16 +4911,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HP-E160BLK.png"
-        },
-        {
-            "id": "HP-E160GRN",
-            "name": "QFX Rechargeable BT Headphones with SD Music Player + FM Radio, Green",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HP-E160GRN.png"
         },
         {
             "id": "HP-E160SIL",
@@ -5073,6 +5023,36 @@
             "image": "images/HPXBT301-BLWBT301.png"
         },
         {
+            "id": "HPXBT701",
+            "name": "Sentry BT Deep BASS Wireless Headphones",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "HPXBT702",
+            "name": "Sentry BT Deep BASS Wireless Headphones",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "HPXBT705",
+            "name": "Sentry BT Deep BASS Wireless Headphones",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "HPXBT910",
             "name": "Sentry Deluxe On-The-Neck Wireless Headphones with Microphone",
             "category": "Headphones",
@@ -5121,6 +5101,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBTA1000BK.png"
+        },
+        {
+            "id": "HPXBTA1000CBK",
+            "name": "Sentry BT Headset with Active Noise Cancellation and Case, Black",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "HPXBTA1000WH",
@@ -5221,6 +5211,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXDLX100BK.png"
+        },
+        {
+            "id": "HPXGX1000",
+            "name": "Sentry Wireless Gaming Headset",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXGX1000.png"
         },
         {
             "id": "HPXGX175",
@@ -5533,26 +5533,6 @@
             "image": "images/HO-0250H.png"
         },
         {
-            "id": "MSH20Q3AWW/RBO",
-            "name": "Midea Radiant Quartz Space Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3AWW-RBO.png"
-        },
-        {
-            "id": "MSHC23R6/RBO",
-            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSHC23R6-RBO.png"
-        },
-        {
             "id": "NT15-20A/G",
             "name": "Aikoper Space Heater, 1500W Electric Heater Indoor Portable with Thermostat",
             "category": "Heaters",
@@ -5851,16 +5831,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SK-65.png"
-        },
-        {
-            "id": "SK-67BK",
-            "name": "BRENTWOOD 12\" ROUND ELECTRIC SKILLET - GLASS",
-            "category": "Heating & Cooking",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Heating & Cooking",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SK-67BK.png"
         },
         {
             "id": "SM-STV-2600",
@@ -6201,36 +6171,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-42BK.png"
-        },
-        {
-            "id": "MPI-59BK",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59BK.png"
-        },
-        {
-            "id": "MPI-59W",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, White",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59W.png"
-        },
-        {
-            "id": "MPI-69BKRG",
-            "name": "Brentwood Non-Stick Steam Iron with Temp. Dial, Spray, & Self-Cleaning Functions, Black Rose Gold",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-69BKRG.png"
         },
         {
             "id": "ED-675G",
@@ -7273,16 +7213,6 @@
             "image": "images/MPX-12.png"
         },
         {
-            "id": "MPX-24",
-            "name": "QFX Dual 4\u201d Portable BT Rechargeable Party Speaker with LED Party Lights",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPX-24.png"
-        },
-        {
             "id": "MPX-420",
             "name": "QFX Dual 4\" Portable BT Rechargeable Party Speaker with LED Party Lights",
             "category": "Party Speakers",
@@ -7311,16 +7241,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NDS-8502.png"
-        },
-        {
-            "id": "PBX-1203",
-            "name": "QFX 12\" Lighted Party SPEAKER",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PBX-1203.png"
         },
         {
             "id": "PBX-1206",
@@ -7893,16 +7813,6 @@
             "image": "images/ER-7002-RD.png"
         },
         {
-            "id": "NA-3029",
-            "name": "NAXA MP3/WMA FM w/ LCD screen",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NA-3029.png"
-        },
-        {
             "id": "R-15BLK",
             "name": "QFX Portable Rechargeable BT FM Radio + Digital Music Player and LED Light, Black",
             "category": "Radios",
@@ -8391,16 +8301,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-480S.png"
-        },
-        {
-            "id": "TS-700S",
-            "name": "BRENTWOOD 4 CUP - 0.8L Rice Cooker w/ Steamer, White",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-700S.png"
         },
         {
             "id": "3043",
@@ -9023,16 +8923,6 @@
             "image": "images/TS-260W.png"
         },
         {
-            "id": "TS-265",
-            "name": "BRENTWOOD 4-Slice Toaster, White",
-            "category": "Toasters",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Toasters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-265.png"
-        },
-        {
             "id": "TS-280S",
             "name": "BRENTWOOD 2 Slice Toaster - Black/Stainless Steel",
             "category": "Toasters",
@@ -9121,16 +9011,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BDSV53-BLK.png"
-        },
-        {
-            "id": "NEU102/RBO",
-            "name": "Eureka Upright AirSpeed Vacuum Clnr",
-            "category": "Vacuums",
-            "parent_category": "Refurbished",
-            "sub_category": "Vacuums",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NEU102-RBO.png"
         },
         {
             "id": "NEU180",
