@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 28, 2026 - 2:09 PM EST",
+    "last_updated": "October 28, 2026 - 3:05 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -570,7 +570,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/A6CLUB-CMO.png"
         },
         {
             "id": "A6CLUB-GRY",
@@ -580,7 +580,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/A6CLUB-GRY.png"
         },
         {
             "id": "ABX-1220R",
@@ -1760,7 +1760,7 @@
             "sub_category": "Bluetooth Speakers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WH59-BLK.png"
         },
         {
             "id": "WH61-BLU",
@@ -5360,7 +5360,7 @@
             "sub_category": "Microphones",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/WPB500-BLK.png"
         },
         {
             "id": "CC-MW7000-BK",
