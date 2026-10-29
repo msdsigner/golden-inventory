@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 28, 2026 - 3:05 PM EST",
+    "last_updated": "October 29, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -1733,16 +1733,6 @@
             "image": "images/TMS-801-RED.png"
         },
         {
-            "id": "WA65-BLK",
-            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WA65-BLK.png"
-        },
-        {
             "id": "WH58-BLK",
             "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1791,16 +1781,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP63-BLK.png"
-        },
-        {
-            "id": "WPB2-BLK",
-            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Black w/(TR1/HS-02)",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/WPB2-BLK.png"
         },
         {
             "id": "WPB220M-BLK",
@@ -4403,14 +4383,14 @@
             "image": "images/5165.png"
         },
         {
-            "id": "HO-0250H",
-            "name": "Pelonis Oil Filled Radiator Heater",
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
             "category": "Heaters",
-            "parent_category": "Air & Climate Control",
+            "parent_category": "Refurbished",
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/HO-0250H.png"
+            "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
             "id": "NT15-20A/G",
@@ -4421,16 +4401,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NT15-20A-G.png"
-        },
-        {
-            "id": "PHT23D7ABB/RBO",
-            "name": "Pelonis 23 in. 1500-Watt Digital Tower Ceramic Heater, RB - Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/PHT23D7ABB-RBO.png"
         },
         {
             "id": "PSH08F1ABB/RBO",
@@ -6291,6 +6261,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/ERT74MES.png"
+        },
+        {
+            "id": "HRC033AWE",
+            "name": "Hisense 3.3 Cu. Ft. Compact Refrigerator",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
+            "id": "HRT031AVE",
+            "name": "Hisense 3.1 Cu. Ft. Double Door Compact Refrigerator",
+            "category": "Major Appliances",
+            "parent_category": "Major Appliances",
+            "sub_category": "Refrigerators",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "32934",
