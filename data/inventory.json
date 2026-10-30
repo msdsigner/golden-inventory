@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 29, 2026 - 2:14 PM EST",
+    "last_updated": "October 30, 2026 - 2:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -241,6 +241,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BLSTBCG-G8B.png"
+        },
+        {
+            "id": "BLSTBKP-BRO-000",
+            "name": "Oster 700-watt Plastic Jar Blender, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLSTBKP-BRO-000.png"
         },
         {
             "id": "BLSTJJ-GPB-000",
@@ -1733,6 +1743,16 @@
             "image": "images/TMS-801-RED.png"
         },
         {
+            "id": "WA65-BLK",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WA65-BLK.png"
+        },
+        {
             "id": "WH58-BLK",
             "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1781,6 +1801,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP63-BLK.png"
+        },
+        {
+            "id": "WPB2-BLU",
+            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Dark Blue w/(TR1/HS-02)",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPB2-BLU.png"
         },
         {
             "id": "WPB220M-BLK",
@@ -3513,16 +3543,6 @@
             "image": "images/9670-1301.png"
         },
         {
-            "id": "9916-817",
-            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/9916-817.png"
-        },
-        {
             "id": "CBF1-2001-BLK",
             "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
             "category": "Grooming",
@@ -4383,6 +4403,16 @@
             "image": "images/5165.png"
         },
         {
+            "id": "HO-0250H",
+            "name": "Pelonis Oil Filled Radiator Heater",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HO-0250H.png"
+        },
+        {
             "id": "MSH20Q3AWW/RBO",
             "name": "Midea Radiant Quartz Space Heater RB - White",
             "category": "Heaters",
@@ -4391,6 +4421,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSH20Q3AWW-RBO.png"
+        },
+        {
+            "id": "MSHC23R6/RBO",
+            "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSHC23R6-RBO.png"
         },
         {
             "id": "NT15-20A/G",
@@ -4423,6 +4463,26 @@
             "image": "images/PSH08F1AWW-RBO.png"
         },
         {
+            "id": "PSH20Q3ABB/RBO",
+            "name": "Pelonis Quartz Heater 1500W RB, Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PSH20Q3ABB-RBO.png"
+        },
+        {
+            "id": "PSH20Q3AWW/RBO",
+            "name": "Pelonis Quartz Heater 1500W RB",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+        },
+        {
             "id": "RSWW1",
             "name": "RCA Hot Water Heater Shut off System",
             "category": "Heaters",
@@ -4441,6 +4501,26 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WHT3001.png"
+        },
+        {
+            "id": "WSH0702ABB/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702ABB-RBO.png"
+        },
+        {
+            "id": "WSH0702AWW/RBO",
+            "name": "Mainstay 1500W Oil Filled Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WSH0702AWW-RBO.png"
         },
         {
             "id": "25440PSC",
@@ -5391,6 +5471,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSC64MWC-RBO.png"
+        },
+        {
+            "id": "NNSU64LBC/RBO",
+            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
+            "category": "Microwaves",
+            "parent_category": "Refurbished",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
