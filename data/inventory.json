@@ -1,5 +1,5 @@
 {
-    "last_updated": "October 30, 2026 - 2:14 PM EST",
+    "last_updated": "November 2, 2026 - 11:02 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -571,16 +571,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/A6CLUB-BLU.png"
-        },
-        {
-            "id": "A6CLUB-CMO",
-            "name": "WORRYFREE 200W Wireless Party BT Speaker with One Microphone, Camouflage",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/A6CLUB-CMO.png"
         },
         {
             "id": "A6CLUB-GRY",
@@ -4480,7 +4470,7 @@
             "sub_category": "Heaters",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/PSH20Q3AWW-RBO.png"
         },
         {
             "id": "RSWW1",
@@ -6360,7 +6350,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HRC033AWE.png"
         },
         {
             "id": "HRT031AVE",
@@ -6370,7 +6360,7 @@
             "sub_category": "Refrigerators",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/HRT031AVE.png"
         },
         {
             "id": "32934",
