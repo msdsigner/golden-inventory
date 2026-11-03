@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 2, 2026 - 11:02 AM EST",
+    "last_updated": "November 3, 2026 - 1:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3533,6 +3533,16 @@
             "image": "images/9670-1301.png"
         },
         {
+            "id": "9916-817",
+            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/9916-817.png"
+        },
+        {
             "id": "CBF1-2001-BLK",
             "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
             "category": "Grooming",
@@ -4401,6 +4411,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HO-0250H.png"
+        },
+        {
+            "id": "MSH20Q3ABB/RBO",
+            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3ABB-RBO.png"
         },
         {
             "id": "MSH20Q3AWW/RBO",
@@ -5403,6 +5423,26 @@
             "image": "images/WPB500-BLK.png"
         },
         {
+            "id": "B20PXP78-A70B",
+            "name": "GOLDEN 0.7 CF Microwave 700W - Black",
+            "category": "Microwaves",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70B.png"
+        },
+        {
+            "id": "B20PXP78-A70W",
+            "name": "GOLDEN 0.7 CF Microwave 700W - White",
+            "category": "Microwaves",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Microwaves",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/B20PXP78-A70W.png"
+        },
+        {
             "id": "CC-MW7000-BK",
             "name": "Complete Cuisine 0.7 Cu. Ft. Digital Programmable Microwave, Black",
             "category": "Microwaves",
@@ -5461,16 +5501,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSC64MWC-RBO.png"
-        },
-        {
-            "id": "NNSU64LBC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -6471,16 +6501,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE23219.png"
-        },
-        {
-            "id": "IM-409S",
-            "name": "Better Chef 10/20-Cup Rice Cooker with Steamer",
-            "category": "Rice Cookers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Rice Cookers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/IM-409S.png"
         },
         {
             "id": "IM-4110CR",
