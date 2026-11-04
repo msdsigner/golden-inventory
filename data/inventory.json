@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 3, 2026 - 7:01 PM EST",
+    "last_updated": "November 4, 2026 - 1:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2863,16 +2863,6 @@
             "image": "images/BTH661-B.png"
         },
         {
-            "id": "BTH661-BL",
-            "name": "Acellories Clear TWS with LED Display - Blue",
-            "category": "Earphones",
-            "parent_category": "Audio",
-            "sub_category": "Earphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BTH661-BL.png"
-        },
-        {
             "id": "BTH661-W",
             "name": "Acellories Clear TWS with LED Display - White",
             "category": "Earphones",
@@ -4543,26 +4533,6 @@
             "image": "images/HO-0250H.png"
         },
         {
-            "id": "MSH20Q3ABB/RBO",
-            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3ABB-RBO.png"
-        },
-        {
-            "id": "MSH20Q3AWW/RBO",
-            "name": "Midea Radiant Quartz Space Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3AWW-RBO.png"
-        },
-        {
             "id": "MSHC23R6/RBO",
             "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
             "category": "Heaters",
@@ -5401,16 +5371,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-5000.png"
-        },
-        {
-            "id": "SM-720-7500",
-            "name": "Emerald LED 75ft Strip Lights",
-            "category": "Lighting",
-            "parent_category": "Electronics",
-            "sub_category": "Lighting",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-720-7500.png"
         },
         {
             "id": "JL10003WL-WU",
