@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 3, 2026 - 3:07 PM EST",
+    "last_updated": "November 3, 2026 - 7:01 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -40,7 +40,7 @@
             "sub_category": "Air Fryers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/AF-454BK.png"
         },
         {
             "id": "AF-800DBK",
@@ -4523,6 +4523,16 @@
             "image": "images/5165.png"
         },
         {
+            "id": "H-3013",
+            "name": "Optimus Portable Utility Heater with Thermostat",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/H-3013.png"
+        },
+        {
             "id": "HO-0250H",
             "name": "Pelonis Oil Filled Radiator Heater",
             "category": "Heaters",
@@ -5140,7 +5150,7 @@
             "sub_category": "Irons",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/TS-1045BK.png"
         },
         {
             "id": "ED-675G",
