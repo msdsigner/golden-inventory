@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 4, 2026 - 1:15 PM EST",
+    "last_updated": "November 5, 2026 - 1:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2863,6 +2863,16 @@
             "image": "images/BTH661-B.png"
         },
         {
+            "id": "BTH661-BL",
+            "name": "Acellories Clear TWS with LED Display - Blue",
+            "category": "Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BTH661-BL.png"
+        },
+        {
             "id": "BTH661-W",
             "name": "Acellories Clear TWS with LED Display - White",
             "category": "Earphones",
@@ -4533,6 +4543,26 @@
             "image": "images/HO-0250H.png"
         },
         {
+            "id": "MSH20Q3ABB/RBO",
+            "name": "Midea 1500W Electric Quartz Radiant Heater RB - Black",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3ABB-RBO.png"
+        },
+        {
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3AWW-RBO.png"
+        },
+        {
             "id": "MSHC23R6/RBO",
             "name": "Midea 23\" Tower Dual-Flex Heater w/ Remote, 1911232 RB",
             "category": "Heaters",
@@ -5653,16 +5683,6 @@
             "image": "images/NN-SC678CC-RBO.png"
         },
         {
-            "id": "NN-SN68QB/RB",
-            "name": "Panasonic 1.2 cu.ft. Countertop Microwave Oven, RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SN68QB-RB.png"
-        },
-        {
             "id": "NN-SU64LW/RB",
             "name": "Panasonic Countertop Microwave Genius Sensor Cooking, 1.3-cu.ft., Matte White, RB",
             "category": "Microwaves",
@@ -5673,16 +5693,6 @@
             "image": "images/NN-SU64LW-RB.png"
         },
         {
-            "id": "NNSC64MWC/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSC64MWC-RBO.png"
-        },
-        {
             "id": "NNSU64LWC/RBO",
             "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, White",
             "category": "Microwaves",
@@ -5691,16 +5701,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSU64LWC-RBO.png"
-        },
-        {
-            "id": "NNSU65NWC/RBO",
-            "name": "Panasonic Countertop Microwave, 20-inch Exterior Width, 1.3 cu. ft. Capacity, 1100W, RB, White",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU65NWC-RBO.png"
         },
         {
             "id": "DRC69707/RB",
@@ -7441,6 +7441,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/EWR05E.png"
+        },
+        {
+            "id": "EWR06E",
+            "name": "Element 6,000 BTU Window Air Conditioner \u2013 White",
+            "category": "Window AC",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Window AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/EWR06E.png"
         },
         {
             "id": "EWR08E",
