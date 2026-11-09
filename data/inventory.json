@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 9, 2026 - 11:04 AM EST",
+    "last_updated": "November 9, 2026 - 1:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -6553,16 +6553,6 @@
             "image": "images/HRC033AWE.png"
         },
         {
-            "id": "HRT031AVE",
-            "name": "Hisense 3.1 Cu. Ft. Double Door Compact Refrigerator",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HRT031AVE.png"
-        },
-        {
             "id": "32934",
             "name": "GE PRO Universal Remote 4",
             "category": "Remotes",
@@ -6911,6 +6901,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/37210.png"
+        },
+        {
+            "id": "GG-16103MS",
+            "name": "GoGreen Power 6-Outlet Mini Surge Protector",
+            "category": "Surge Protectors",
+            "parent_category": "Electronics",
+            "sub_category": "Surge Protectors",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "SM-720-6030",
