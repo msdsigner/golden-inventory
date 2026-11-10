@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 9, 2026 - 1:14 PM EST",
+    "last_updated": "November 10, 2026 - 12:34 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2563,16 +2563,6 @@
             "image": "images/TS-119S.png"
         },
         {
-            "id": "TS-212BK",
-            "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/TS-212BK.png"
-        },
-        {
             "id": "TS-213BK",
             "name": "BRENTWOOD 4 Cup Coffee Maker, Black",
             "category": "Coffee & Tea",
@@ -3553,16 +3543,6 @@
             "image": "images/MC-102W.png"
         },
         {
-            "id": "MC-109R",
-            "name": "BRENTWOOD Mini Food Chopper - Red",
-            "category": "Food Processors",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Food Processors",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MC-109R.png"
-        },
-        {
             "id": "MC-109W",
             "name": "BRENTWOOD Mini Food Chopper - White",
             "category": "Food Processors",
@@ -3591,16 +3571,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MG-400W.png"
-        },
-        {
-            "id": "79424-200",
-            "name": "WAHL Color Code with 17-Pc Easy-To-Use Color-Coded Haircutting Kit",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/79424-200.png"
         },
         {
             "id": "79449",
@@ -3651,6 +3621,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/9670-1301.png"
+        },
+        {
+            "id": "9916-817",
+            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/9916-817.png"
         },
         {
             "id": "CBF1-2001-BLK",
@@ -3713,16 +3693,6 @@
             "image": "images/CBH1-4008-SIG.png"
         },
         {
-            "id": "CBH1-4012-VTN",
-            "name": "Barbasol PRO Clipper Kit with Travel Bag",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBH1-4012-VTN.png"
-        },
-        {
             "id": "CBK1-6001-TIN",
             "name": "Barbasol Rechargeable Pro Clipper, Electroplated Body",
             "category": "Grooming",
@@ -3761,16 +3731,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CBT1-3007-BLY.png"
-        },
-        {
-            "id": "CBT1-6002-SLV",
-            "name": "Barbasol T-Blade Trimmer",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CBT1-6002-SLV.png"
         },
         {
             "id": "CBT1-7001-SIG",
@@ -3881,16 +3841,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/VRD928982395.png"
-        },
-        {
-            "id": "303DGNX",
-            "name": "Conair 1875 Watts Mid-Size Dryer",
-            "category": "Hair Styling",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Hair Styling",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/303DGNX.png"
         },
         {
             "id": "CPH1-9010-BOX",
@@ -6123,6 +6073,16 @@
             "image": "images/CS5129-2.png"
         },
         {
+            "id": "BPP10HWTB/RB",
+            "name": "Black & Decker 14.0k Portable AC - H/C Refurbished",
+            "category": "Portable AC",
+            "parent_category": "Refurbished",
+            "sub_category": "Portable AC",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BPP10HWTB-RB.png"
+        },
+        {
             "id": "HAP0824TWD - No Accessories",
             "name": "Hisense 350 Sq. Ft. Inverter Dual-Hose 8000 BTU Portable Air Conditioner",
             "category": "Portable AC",
@@ -6910,7 +6870,7 @@
             "sub_category": "Surge Protectors",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
+            "image": "images/GG-16103MS.png"
         },
         {
             "id": "SM-720-6030",
