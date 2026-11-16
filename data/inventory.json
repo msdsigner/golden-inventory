@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 16, 2026 - 11:06 AM EST",
+    "last_updated": "November 16, 2026 - 1:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3903,16 +3903,6 @@
             "image": "images/BLWBT900.png"
         },
         {
-            "id": "BT751",
-            "name": "Sentry Talk BUDS True Wireless Buds, Black",
-            "category": "Headphones",
-            "parent_category": "Audio",
-            "sub_category": "Headphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT751.png"
-        },
-        {
             "id": "BT752",
             "name": "Sentry Talk BUDS True Wireless Buds, White",
             "category": "Headphones",
@@ -4141,6 +4131,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXBT705.png"
+        },
+        {
+            "id": "HPXBT751",
+            "name": "Sentry Talk BUDS True Wireless Buds, Black",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
         },
         {
             "id": "HPXBT910",
