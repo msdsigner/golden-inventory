@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 12, 2026 - 1:14 PM EST",
+    "last_updated": "November 16, 2026 - 11:06 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -523,16 +523,6 @@
             "image": "images/JBS-500BK.png"
         },
         {
-            "id": "R50190-RBO",
-            "name": "Hamilton Beach 10spd Plastic Blender - RB",
-            "category": "Blenders & Mixers",
-            "parent_category": "Refurbished",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R50190-RBO.png"
-        },
-        {
             "id": "R56202-RBO",
             "name": "Hamilton Beach Electronic Touchpad Glass Jar Blender - RB",
             "category": "Blenders & Mixers",
@@ -751,16 +741,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1010-RED.png"
-        },
-        {
-            "id": "BT-111-RED",
-            "name": "QFX Portable BT Rechargeable Speaker with Multi-Color LED Party Lights, Red",
-            "category": "Bluetooth Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Bluetooth Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/BT-111-RED.png"
         },
         {
             "id": "BT-112-BLK",
@@ -1983,16 +1963,6 @@
             "image": "images/EPB-3002.png"
         },
         {
-            "id": "J-200BT",
-            "name": "QFX Portable BT CD Player & Cassette Rec.",
-            "category": "Boombox",
-            "parent_category": "Audio",
-            "sub_category": "Boombox",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/J-200BT.png"
-        },
-        {
             "id": "J-230BT-BLK",
             "name": "QFX Radio Cassette Recorder - Black",
             "category": "Boombox",
@@ -2291,6 +2261,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/176.png"
+        },
+        {
+            "id": "177",
+            "name": "Kitchen+Sense 6-Cup Aluminum Espresso Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/177.png"
         },
         {
             "id": "178",
@@ -3581,16 +3561,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MG-400W.png"
-        },
-        {
-            "id": "79449",
-            "name": "WAHL Sure Cut 16-Pc Easy to Use Haircutting Kit",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/79449.png"
         },
         {
             "id": "9243-4501",
@@ -5613,16 +5583,6 @@
             "image": "images/NN-SC64MBC-RBO.png"
         },
         {
-            "id": "NN-SC678CC/RBO",
-            "name": "Panasonic MW Oven 1.3CF SS w/ Child Lock RBO",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NN-SC678CC-RBO.png"
-        },
-        {
             "id": "NN-SU65QB/RB",
             "name": "Panasonic Microwave 1.3 cuft 1200W Inverter, RB, Black",
             "category": "Microwaves",
@@ -6063,16 +6023,6 @@
             "image": "images/SP-1217RBT.png"
         },
         {
-            "id": "SP-1270RBT",
-            "name": "Dolphin Dual 12\" Premium Party Speaker",
-            "category": "Party Speakers",
-            "parent_category": "Audio",
-            "sub_category": "Party Speakers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SP-1270RBT.png"
-        },
-        {
             "id": "SP-18RBT",
             "name": "Dolphin Rechargeable 18\" Party Speaker",
             "category": "Party Speakers",
@@ -6383,14 +6333,24 @@
             "image": "images/VPUR1011-WHT-ST.png"
         },
         {
-            "id": "1945",
-            "name": "Kitchen+Sense 5.5L Alu Pressure Cooker w/o Steamer",
+            "id": "1947",
+            "name": "Kitchen+Sense 7L Alu Pressure Cooker w/o Steamer",
             "category": "Pressure Cookers",
             "parent_category": "Small Kitchen Appliances",
             "sub_category": "Pressure Cookers",
             "price": "Hidden",
             "available": "Hidden",
-            "image": "images/1945.png"
+            "image": "images/1947.png"
+        },
+        {
+            "id": "1949",
+            "name": "Kitchen+Sense 9L Alu Pressure Cooker w/o Steamer",
+            "category": "Pressure Cookers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Pressure Cookers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/1949.png"
         },
         {
             "id": "HPNPRMN1",
@@ -7391,16 +7351,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09163.png"
-        },
-        {
-            "id": "STM-4000BK",
-            "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
-            "category": "Vacuums",
-            "parent_category": "Home & Office",
-            "sub_category": "Vacuums",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/STM-4000BK.png"
         },
         {
             "id": "VC-450-BLU",
