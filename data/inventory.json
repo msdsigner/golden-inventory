@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 16, 2026 - 1:14 PM EST",
+    "last_updated": "November 17, 2026 - 11:22 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -241,16 +241,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/62683G.png"
-        },
-        {
-            "id": "6706-000",
-            "name": "Oster 10-Speed Plastic Jar Blender, 450-Watt, Black",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/6706-000.png"
         },
         {
             "id": "BL1400DG-RFP",
@@ -551,16 +541,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/RJB-100W.png"
-        },
-        {
-            "id": "SM-1152",
-            "name": "BRENTWOOD 5 Speed Stand Mixer with SS/Bowl - White",
-            "category": "Blenders & Mixers",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Blenders & Mixers",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/SM-1152.png"
         },
         {
             "id": "SM-1153",
@@ -2363,16 +2343,6 @@
             "image": "images/CG-158W.png"
         },
         {
-            "id": "CG-162S",
-            "name": "BRENTWOOD 75-Gram Electric Wet & Dry Coffee Bean, Herb, & Spice Grinder, Black",
-            "category": "Coffee & Tea",
-            "parent_category": "Small Kitchen Appliances",
-            "sub_category": "Coffee & Tea",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/CG-162S.png"
-        },
-        {
             "id": "CTS-1000",
             "name": "BRENTWOOD 34oz Vacuum SS Coffee Carafe",
             "category": "Coffee & Tea",
@@ -3561,6 +3531,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MG-400W.png"
+        },
+        {
+            "id": "79449",
+            "name": "WAHL Sure Cut 16-Pc Easy to Use Haircutting Kit",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/79449.png"
         },
         {
             "id": "9243-4501",
@@ -5333,16 +5313,6 @@
             "image": "images/MG-1-RED.png"
         },
         {
-            "id": "M-106-BLK",
-            "name": "QFX Cardioid Dynamic Microphone + 10Ft Microphone Cable, Black",
-            "category": "Microphones",
-            "parent_category": "Audio",
-            "sub_category": "Microphones",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/M-106-BLK.png"
-        },
-        {
             "id": "M-106-SIL",
             "name": "QFX Cardioid Dynamic Microphone + 10Ft Microphone Cable, Silver",
             "category": "Microphones",
@@ -5633,16 +5603,6 @@
             "image": "images/NNSC64MW-RB.png"
         },
         {
-            "id": "NNSC64MW/RBO",
-            "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "https://via.placeholder.com/150/f0f0f0/888888?text=No+Image"
-        },
-        {
             "id": "NNSC64MWC/RBO",
             "name": "Panasonic Microwave Oven 1.3Cu.Ft. Wht RB",
             "category": "Microwaves",
@@ -5661,16 +5621,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NNSU64LB-RB.png"
-        },
-        {
-            "id": "NNSU64LBC/RBO",
-            "name": "Panasonic Countertop Microwave Oven, 1.3 Cu Ft 1100W, RB, Black",
-            "category": "Microwaves",
-            "parent_category": "Refurbished",
-            "sub_category": "Microwaves",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/NNSU64LBC-RBO.png"
         },
         {
             "id": "NNSU64LWC/RBO",
@@ -6533,16 +6483,6 @@
             "image": "images/BC 40.png"
         },
         {
-            "id": "ERT74MES",
-            "name": "Element 21.3 in. 7.5 cu. ft. Compact Top Freezer Refrigerator, Stainless Steel",
-            "category": "Major Appliances",
-            "parent_category": "Major Appliances",
-            "sub_category": "Refrigerators",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/ERT74MES.png"
-        },
-        {
             "id": "HRC033AWE",
             "name": "Hisense 3.3 Cu. Ft. Compact Refrigerator",
             "category": "Major Appliances",
@@ -7351,6 +7291,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/NV-09163.png"
+        },
+        {
+            "id": "STM-4000BK",
+            "name": "BRENTWOOD 1100w Steam Mop Hard Floor Steamer Tile and Wood Cleaner, Black",
+            "category": "Vacuums",
+            "parent_category": "Home & Office",
+            "sub_category": "Vacuums",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/STM-4000BK.png"
         },
         {
             "id": "VC-450-BLU",
