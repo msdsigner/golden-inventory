@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 23, 2026 - 1:14 PM EST",
+    "last_updated": "November 24, 2026 - 9:42 AM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -2563,16 +2563,6 @@
             "image": "images/HPXKX550.png"
         },
         {
-            "id": "HPXKX700",
-            "name": "Sentry Wireless Keyboard and Mouse",
-            "category": "Computing",
-            "parent_category": "Electronics",
-            "sub_category": "Computing",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/HPXKX700.png"
-        },
-        {
             "id": "QUB9003",
             "name": "QUB Wireless Mouse",
             "category": "Computing",
@@ -3451,16 +3441,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/9243-4501.png"
-        },
-        {
-            "id": "9243-6901",
-            "name": "WAHL Sport Cut 20-Pc Complete Haircutting Kit",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/9243-6901.png"
         },
         {
             "id": "9314-300",
