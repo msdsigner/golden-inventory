@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 24, 2026 - 1:14 PM EST",
+    "last_updated": "November 25, 2026 - 1:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -163,6 +163,16 @@
             "image": "images/ANT121E-RB.png"
         },
         {
+            "id": "ANT1560E",
+            "name": "RCA AMPLIFIED DIGITAL ANTENNA",
+            "category": "Antennas",
+            "parent_category": "Electronics",
+            "sub_category": "Antennas",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ANT1560E.png"
+        },
+        {
             "id": "ANT751Z",
             "name": "RCA Outdoor/Attic Antenna",
             "category": "Antennas",
@@ -223,6 +233,16 @@
             "image": "images/BLSTBCG-G8B.png"
         },
         {
+            "id": "BLSTBKP-BRO-000",
+            "name": "Oster 700-watt Plastic Jar Blender, Black",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BLSTBKP-BRO-000.png"
+        },
+        {
             "id": "BLSTJJ-GPB-000",
             "name": "Oster 800W Glass Blender with Extra To-Go Cup",
             "category": "Blenders & Mixers",
@@ -261,6 +281,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CE-MX119.png"
+        },
+        {
+            "id": "ED-160W",
+            "name": "COOKINEX 12 Speed Glass Blender - White",
+            "category": "Blenders & Mixers",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Blenders & Mixers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/ED-160W.png"
         },
         {
             "id": "ED-435/B",
@@ -671,6 +701,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/BT-1010-RED.png"
+        },
+        {
+            "id": "BT-112-BLK",
+            "name": "QFX Portable BT Rechargeable Speaker + Multi-Color LED Party Lights, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/BT-112-BLK.png"
         },
         {
             "id": "BT-112-BLU",
@@ -1163,6 +1203,16 @@
             "image": "images/E-B5.png"
         },
         {
+            "id": "E-B8",
+            "name": "QFX Pro High Power 8\" BT Speaker w/ Lights+Mic",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/E-B8.png"
+        },
+        {
             "id": "FBX2202K",
             "name": "Fisher Dual 12\" Woofer LED Speaker",
             "category": "Bluetooth Speakers",
@@ -1503,6 +1553,16 @@
             "image": "images/PBX-68SM.png"
         },
         {
+            "id": "PBX-811",
+            "name": "QFX 8\u201d Portable Rechargeable BT Speaker with LED Party Lights",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/PBX-811.png"
+        },
+        {
             "id": "RC-1932-BLK",
             "name": "QFX Retro Remote-Control Car + BT Speaker, Black",
             "category": "Bluetooth Speakers",
@@ -1713,6 +1773,16 @@
             "image": "images/TMS-801-RED.png"
         },
         {
+            "id": "WA65-BLK",
+            "name": "WORRYFREE 300W Portable Bluetooth Speaker with Handle, one Microphone, Black",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WA65-BLK.png"
+        },
+        {
             "id": "WH58-BLK",
             "name": "WORRYFREE 65W Wireless BT Speaker with RGB Lights, Black",
             "category": "Bluetooth Speakers",
@@ -1761,6 +1831,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/WP63-BLK.png"
+        },
+        {
+            "id": "WPB2-BLU",
+            "name": "WORRYFREE Party Box Wireless BT Speaker with two Microphones and Tripod, Dark Blue w/(TR1/HS-02)",
+            "category": "Bluetooth Speakers",
+            "parent_category": "Audio",
+            "sub_category": "Bluetooth Speakers",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WPB2-BLU.png"
         },
         {
             "id": "WPB220M-BLK",
@@ -1921,6 +2001,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/J-290BT-BLK.png"
+        },
+        {
+            "id": "J-290BT-SIL",
+            "name": "QFX Portable CD Player and Cassette Recorder + BT Boombox, Silver",
+            "category": "Boombox",
+            "parent_category": "Audio",
+            "sub_category": "Boombox",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/J-290BT-SIL.png"
         },
         {
             "id": "PRCD667",
@@ -2511,6 +2601,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/TS-222BK.png"
+        },
+        {
+            "id": "WCF1-1003-BWS",
+            "name": "AIWA 12-Cup Programmable Coffee Maker",
+            "category": "Coffee & Tea",
+            "parent_category": "Small Kitchen Appliances",
+            "sub_category": "Coffee & Tea",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/WCF1-1003-BWS.png"
         },
         {
             "id": "WCF1-1007-BLK",
@@ -3463,16 +3563,6 @@
             "image": "images/9670-1301.png"
         },
         {
-            "id": "9916-817",
-            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
-            "category": "Grooming",
-            "parent_category": "Health & Personal Care",
-            "sub_category": "Grooming",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/9916-817.png"
-        },
-        {
             "id": "CBF1-2001-BLK",
             "name": "Barbasol Rechargeable Foil Shaver, Pop-up Trimmer, Giftbox",
             "category": "Grooming",
@@ -4281,6 +4371,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/H-3013.png"
+        },
+        {
+            "id": "HO-0250H",
+            "name": "Pelonis Oil Filled Radiator Heater",
+            "category": "Heaters",
+            "parent_category": "Air & Climate Control",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HO-0250H.png"
         },
         {
             "id": "MSH20Q3ABB/RBO",
@@ -6243,16 +6343,6 @@
             "image": "images/R-334BT-RED.png"
         },
         {
-            "id": "R-34",
-            "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
-            "category": "Radios",
-            "parent_category": "Audio",
-            "sub_category": "Radios",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/R-34.png"
-        },
-        {
             "id": "RCD5",
             "name": "RCA digital Clock Radio",
             "category": "Radios",
@@ -6653,16 +6743,6 @@
             "image": "images/STA-10.png"
         },
         {
-            "id": "37210",
-            "name": "GE 6 Outlet Surge Protector, 840 Joules 4' Cord, White",
-            "category": "Surge Protectors",
-            "parent_category": "Electronics",
-            "sub_category": "Surge Protectors",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/37210.png"
-        },
-        {
             "id": "GG-16103MS",
             "name": "GoGreen Power 6-Outlet Mini Surge Protector",
             "category": "Surge Protectors",
@@ -6871,6 +6951,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/SM-720-8730.png"
+        },
+        {
+            "id": "SM-720-8904C",
+            "name": "Emerald Full Motion Wall Mount 32\" to 85\"",
+            "category": "TV Wall Mounts",
+            "parent_category": "Home & Office",
+            "sub_category": "TV Wall Mounts",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/SM-720-8904C.png"
         },
         {
             "id": "SM-720-8910",
