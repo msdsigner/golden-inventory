@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 25, 2026 - 1:15 PM EST",
+    "last_updated": "November 26, 2026 - 1:15 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -3033,6 +3033,16 @@
             "image": "images/HPXHD200-WHT.png"
         },
         {
+            "id": "HPXIC116",
+            "name": "Sentry USB-C Earbud with Mic, Black",
+            "category": "Earphones",
+            "parent_category": "Audio",
+            "sub_category": "Earphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXIC116.png"
+        },
+        {
             "id": "HPXIC150Z",
             "name": "Sentry USB-C Earbud with Microphone and Zip Case",
             "category": "Earphones",
@@ -3561,6 +3571,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/9670-1301.png"
+        },
+        {
+            "id": "9916-817",
+            "name": "Wahl Beard with Self-Sharpening Carbon Steel Blades",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/9916-817.png"
         },
         {
             "id": "CBF1-2001-BLK",
@@ -4143,6 +4163,16 @@
             "image": "images/HPXBTA1000WH.png"
         },
         {
+            "id": "HPXBTAND",
+            "name": "Sentry BT Headset w/Noise Canceling",
+            "category": "Headphones",
+            "parent_category": "Audio",
+            "sub_category": "Headphones",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/HPXBTAND.png"
+        },
+        {
             "id": "HPXBTANDWH",
             "name": "Sentry BT Headset w/Noise Canceling White",
             "category": "Headphones",
@@ -4391,16 +4421,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSH20Q3ABB-RBO.png"
-        },
-        {
-            "id": "MSH20Q3AWW/RBO",
-            "name": "Midea Radiant Quartz Space Heater RB - White",
-            "category": "Heaters",
-            "parent_category": "Refurbished",
-            "sub_category": "Heaters",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
             "id": "MSHC23R6/RBO",
@@ -4921,16 +4941,6 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MPI-51BK.png"
-        },
-        {
-            "id": "MPI-59BK",
-            "name": "BRENTWOOD Non-Stick Steam/Dry, Iron w/ retractable cord, Black",
-            "category": "Irons",
-            "parent_category": "Home & Office",
-            "sub_category": "Irons",
-            "price": "Hidden",
-            "available": "Hidden",
-            "image": "images/MPI-59BK.png"
         },
         {
             "id": "MPI-59W",
@@ -6741,6 +6751,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/STA-10.png"
+        },
+        {
+            "id": "37210",
+            "name": "GE 6 Outlet Surge Protector, 840 Joules 4' Cord, White",
+            "category": "Surge Protectors",
+            "parent_category": "Electronics",
+            "sub_category": "Surge Protectors",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/37210.png"
         },
         {
             "id": "GG-16103MS",
