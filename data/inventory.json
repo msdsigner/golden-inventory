@@ -1,5 +1,5 @@
 {
-    "last_updated": "November 26, 2026 - 1:15 PM EST",
+    "last_updated": "November 27, 2026 - 1:14 PM EST",
     "publish_pricing": false,
     "items": [
         {
@@ -101,6 +101,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/HPXSPBT14.png"
+        },
+        {
+            "id": "RC551",
+            "name": "RCA Digital Radio Alarm Clock",
+            "category": "Alarm Clocks",
+            "parent_category": "Home & Office",
+            "sub_category": "Alarm Clocks",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/RC551.png"
         },
         {
             "id": "WAC5-1002-BLK",
@@ -3673,6 +3683,16 @@
             "image": "images/CBT1-3007-BLY.png"
         },
         {
+            "id": "CBT1-6002-SLV",
+            "name": "Barbasol T-Blade Trimmer",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CBT1-6002-SLV.png"
+        },
+        {
             "id": "CBT1-7001-SIG",
             "name": "Barbasol Vacuum lcd Beard Trimmer, Rechargeable, Adjustable Settings, Blk",
             "category": "Grooming",
@@ -3731,6 +3751,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/CXT1-3500-WM1.png"
+        },
+        {
+            "id": "CXT1-6002-HYP",
+            "name": "Xtreme Cutting Edge Rechargeable Hypoallergenic T-Blade Zero Gapped Trimmer",
+            "category": "Grooming",
+            "parent_category": "Health & Personal Care",
+            "sub_category": "Grooming",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/CXT1-6002-HYP.png"
         },
         {
             "id": "HC244NGB",
@@ -4421,6 +4451,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/MSH20Q3ABB-RBO.png"
+        },
+        {
+            "id": "MSH20Q3AWW/RBO",
+            "name": "Midea Radiant Quartz Space Heater RB - White",
+            "category": "Heaters",
+            "parent_category": "Refurbished",
+            "sub_category": "Heaters",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/MSH20Q3AWW-RBO.png"
         },
         {
             "id": "MSHC23R6/RBO",
@@ -6283,6 +6323,16 @@
             "image": "images/R-16.png"
         },
         {
+            "id": "R-24",
+            "name": "QFX AM/FM/SW Radio",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-24.png"
+        },
+        {
             "id": "R-3",
             "name": "QFX AM/FM/SW1/SW2 RADIO",
             "category": "Radios",
@@ -6351,6 +6401,16 @@
             "price": "Hidden",
             "available": "Hidden",
             "image": "images/R-334BT-RED.png"
+        },
+        {
+            "id": "R-34",
+            "name": "QFX Rechargeable Pocket Size AM/FM Radio with LED Flashlight + Earphone",
+            "category": "Radios",
+            "parent_category": "Audio",
+            "sub_category": "Radios",
+            "price": "Hidden",
+            "available": "Hidden",
+            "image": "images/R-34.png"
         },
         {
             "id": "RCD5",
